@@ -1,2 +1,2 @@
 # jecrcwebsite
-JECRC Foundation website for NBA
+JECRC Foundation website for NBA Criteria
