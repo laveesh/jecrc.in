@@ -1,2 +1,161 @@
 body {
-  background: blue; }
+  background: white !important;
+}
+
+/* Header */
+
+.collegeHeader {
+  min-height: 10.5vh;
+  text-align: center;
+}
+
+.collegeHeader #jecrcLogo {
+  height: 10vh;
+  width: auto;
+  float: left;
+  padding: 5px;
+}
+
+.collegeHeader #collegeName {
+  color: white;
+  font-size: 5vmin;
+  padding-top: 10px;
+}
+
+nav {
+  border-top: solid 1px white;
+}
+
+.nav-link {
+  color: white !important;
+  font-size: 20px;
+}
+
+#icon {
+  position: absolute !important;
+  z-index: 1 !important;
+  bottom: 30px !important;
+  right: 30px;
+  display: none;
+  height: 50px;
+  width: 50px;
+  color: white;
+  background-color: #062259 !important;
+  border-radius: 5px;
+}
+
+@media screen and (max-width: 768px) {
+  #icon {
+    display: block;
+  }
+  nav {
+    border: none;
+  }
+}
+
+/* --------------------------------- */
+
+/* Side Nav */
+
+.sidebar {
+  font-size: 20px;
+  padding: 20px;
+  box-shadow: 5px 5px 5px grey;
+}
+
+.sidebar a {
+  color: white !important;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+a.dropdown-item {
+  color: black !important;
+}
+
+#sideNavHeader {
+  display: none;
+}
+
+nav.sidebar, .main {
+  -webkit-transition: margin 200ms ease-out;
+  -moz-transition: margin 200ms ease-out;
+  -o-transition: margin 200ms ease-out;
+  transition: margin 200ms ease-out;
+}
+
+/*small/medium side display*/
+
+@media (min-width: 768px) {
+  /*Allow main to be next to Nav*/
+  .main {
+    position: absolute;
+    width: calc(100% - 40px);
+    /*keeps 100% minus nav size*/
+    margin-left: 40px;
+    float: right;
+  }
+  /*lets nav bar to be showed on mouseover*/
+  nav.sidebar:hover+.main {
+    margin-left: 200px;
+  }
+  /*Center Icons*/
+  nav.sidebar a {
+    padding-right: 13px;
+  }
+  nav.sidebar .navbar-collapse, nav.sidebar .container-fluid {
+    /*allows nav box to use 100% width*/
+    padding: 0 0px 0 0px;
+  }
+  /* Move nav to full on mouse over*/
+  nav.sidebar:hover {
+    margin-left: 0px;
+  }
+  /*for hiden things when navbar hidden*/
+  .forAnimate {
+    opacity: 0;
+  }
+}
+
+/* .....NavBar: Fully showing nav bar..... */
+
+@media (min-width: 1330px) {
+  /*Allow main to be next to Nav*/
+  .main {
+    width: calc(100% - 200px);
+    /*keeps 100% minus nav size*/
+    margin-left: 200px;
+  }
+  /*Show all nav*/
+  nav.sidebar {
+    margin-left: 0px;
+    float: left;
+  }
+  /*Show hidden items on nav*/
+  nav.sidebar .forAnimate {
+    opacity: 1;
+  }
+}
+
+nav:hover .forAnimate {
+  opacity: 1;
+}
+
+section {
+  padding-left: 15px;
+}
+
+@media screen and (max-width: 576px) {
+  #sideNavHeader {
+    display: block;
+  }
+  #sideNavIcon {
+    border: solid 2px white;
+    border-radius: 5px;
+    color: white;
+    background-color: #062259;
+    margin-bottom: 10px;
+  }
+}
+
+/* ---------------------------- */

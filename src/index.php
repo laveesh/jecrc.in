@@ -10,8 +10,9 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-  <h1>Bootstrap 4 Starter Pack</h1>
-  <p>Version 4.0.0-beta</p>
+  <?php include '../modules/header.php'; ?>
+
+  This is the image carousel
 
   <script src="js/jquery.min.js"></script>
   <script src="js/popper.min.js"></script>
