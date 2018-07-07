@@ -6,7 +6,7 @@ JECRC Foundation website for NBA Criteria
 
 ## Installation
 
-Just clone the repository folder to the required directory(htdocs), start your php server.
+Just clone the repository to the required directory(htdocs) and start your php server.
 
 The site starts running on:
 
