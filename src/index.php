@@ -15,6 +15,8 @@
 
   This is the image carousel
 
+  <?php include '../modules/sidenav.php'; ?>
+
   <script src="js/jquery.min.js"></script>
   <script src="js/popper.min.js"></script>
   <script src="js/bootstrap.min.js"></script>
