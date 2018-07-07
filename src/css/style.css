@@ -28,7 +28,9 @@ nav {
 
 .nav-link {
   color: white !important;
-  font-size: 20px;
+  font-size: 1vmax;
+  /* border-right: solid 1px white; */
+  padding-right: 1vw !important;
 }
 
 #icon {
@@ -44,12 +46,20 @@ nav {
   border-radius: 5px;
 }
 
-@media screen and (max-width: 768px) {
+.dropdown-item:hover {
+  background-color: #575956 !important;
+  color: white !important;
+}
+
+@media screen and (max-width: 992px) {
   #icon {
     display: block;
   }
   nav {
     border: none;
+  }
+  .nav-link {
+    font-size: 20px !important;
   }
 }
 
@@ -59,7 +69,7 @@ nav {
 
 .sidebar {
   font-size: 20px;
-  padding: 20px;
+  /* padding: 20px; */
   box-shadow: 5px 5px 5px grey;
 }
 
@@ -82,6 +92,14 @@ nav.sidebar, .main {
   -moz-transition: margin 200ms ease-out;
   -o-transition: margin 200ms ease-out;
   transition: margin 200ms ease-out;
+}
+
+#sideNavIcon {
+  border: solid 2px white;
+  border-radius: 5px;
+  color: white;
+  background-color: #062259;
+  margin-bottom: 10px;
 }
 
 /*small/medium side display*/
@@ -149,12 +167,11 @@ section {
   #sideNavHeader {
     display: block;
   }
+}
+
+@media screen and (min-width: 576px) and (max-width: 767px) {
   #sideNavIcon {
-    border: solid 2px white;
-    border-radius: 5px;
-    color: white;
-    background-color: #062259;
-    margin-bottom: 10px;
+    display: block !important;
   }
 }
 

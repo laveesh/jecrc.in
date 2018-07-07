@@ -1,4 +1,4 @@
-<div class="navbar navbar-expand-sm bg-primary sidebar col-md-3" role="navigation">
+<div class="navbar navbar-expand-sm bg-primary sidebar col-md-3 col-sm-3" role="navigation">
     <div class="container-fluid">
 		<!-- Brand and toggle get grouped for better mobile display -->
 		<div class="navbar-header" id="sideNavHeader">
