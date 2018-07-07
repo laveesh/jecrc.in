@@ -1,7 +1,19 @@
 body {
   background: white !important;
 }
+html, body{
+  box-sizing: border-box;
+}
+header,article,aside,nav,footer{
+  box-sizing: border-box;
+  margin:0;
+  padding:0;
+}
 
+* {
+  padding: 0;
+  margin:0;
+}
 /* Header */
 
 .collegeHeader {
@@ -205,20 +217,8 @@ section {
 /* ---------------------------- */
 /* footer */
 
-html, body{
-  box-sizing: border-box;
-}
-header,article,aside,nav,footer{
-  box-sizing: border-box;
-  margin:0;
-  padding:0;
-}
 
-* {
-  padding: 0;
-  margin:0;
-}
-.container{
+.footer-container{
   color: white;
   margin-top: 30px;
   padding-top: 30px;
@@ -250,7 +250,7 @@ header,article,aside,nav,footer{
    padding-top: 10px;
 
  }
-.fa {
+.footer-icons {
   padding: 10px;
   font-size: 15px;
   width: 40px;

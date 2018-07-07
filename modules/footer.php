@@ -1,5 +1,5 @@
 <footer class="site-footer">
-    <div class="container">
+    <div class="container footer-container">
       <div class="row  align-center">
         <div class="col-md-4">
           <p>Important Links:</p>
@@ -22,11 +22,11 @@
       <div class="footer-bottom">
         <div class="row">
           <div class="col-md-9">
-            <a href="#"><i class="fa fa-facebook"></i></a>
-            <a href="#"><i class="fa fa-twitter"></i></a>
-            <a href="#"><i  class="fa fa-google"></i></a>
-            <a href="#"><i  class="fa fa-linkedin"></i></a>
-            <a href="#"><i  class="fa fa-youtube"></i></a>
+            <a href="#"><i class="fa fa-facebook footer-icons"></i></a>
+            <a href="#"><i class="fa fa-twitter footer-icons"></i></a>
+            <a href="#"><i  class="fa fa-google footer-icons"></i></a>
+            <a href="#"><i  class="fa fa-linkedin footer-icons"></i></a>
+            <a href="#"><i  class="fa fa-youtube footer-icons"></i></a>
           </div>
           <div class="col-md-3">
             <p class="footer-bottom-para"> Developers</p>
