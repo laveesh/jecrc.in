@@ -13,9 +13,9 @@
 <body>
   <?php include '../modules/header.php'; ?>
 
-  This is the image carousel
-
   <?php include '../modules/sidenav.php'; ?>
+
+  <?php include '../modules/imageCarousel.php'; ?>
 
   <script src="js/jquery.min.js"></script>
   <script src="js/popper.min.js"></script>

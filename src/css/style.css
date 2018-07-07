@@ -5,7 +5,7 @@ body {
 /* Header */
 
 .collegeHeader {
-  min-height: 10.5vh;
+  min-height: 13vh;
   text-align: center;
 }
 
@@ -36,13 +36,15 @@ nav {
 #icon {
   position: absolute !important;
   z-index: 1 !important;
-  bottom: 30px !important;
-  right: 30px;
+  top: 10vh !important;
+  right: 2%;
+  height: 35px;
+  width: 35px;
+  padding: 0;
   display: none;
-  height: 50px;
-  width: 50px;
   color: white;
   background-color: #062259 !important;
+  border: solid 2px white;
   border-radius: 5px;
 }
 
@@ -58,6 +60,11 @@ nav {
   nav {
     border: none;
   }
+  #navbarSupportedContent {
+    overflow-y: scroll;
+    max-height: 250px;
+    padding-top: 20px;
+  }
   .nav-link {
     font-size: 20px !important;
   }
@@ -70,7 +77,10 @@ nav {
 .sidebar {
   font-size: 20px;
   /* padding: 20px; */
-  box-shadow: 5px 5px 5px grey;
+  margin-top: 2vh;
+  margin-left: 2vw;
+  box-shadow: 2px 2px 5px grey;
+  padding: 20px;
 }
 
 .sidebar a {
@@ -85,12 +95,16 @@ a.dropdown-item {
 
 #sideNavHeader {
   display: none;
+  position: absolute;
+  top: 10vh;
+  left: 2%;
+  height: 35px;
+  width: 35px;
+  z-index: 1;
 }
 
 nav.sidebar, .main {
   -webkit-transition: margin 200ms ease-out;
-  -moz-transition: margin 200ms ease-out;
-  -o-transition: margin 200ms ease-out;
   transition: margin 200ms ease-out;
 }
 
@@ -172,6 +186,19 @@ section {
 @media screen and (min-width: 576px) and (max-width: 767px) {
   #sideNavIcon {
     display: block !important;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  #bs-sidebar-navbar-collapse-1 {
+    max-height: 250px !important;
+    overflow-y: scroll;
+    padding-top: 10px;
+  }
+  .sidebar {
+    margin: 0 !important;
+    padding-top: 0 !important;
+    padding-bottom: 2px !important;
   }
 }
 

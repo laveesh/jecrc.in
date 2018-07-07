@@ -1,12 +1,10 @@
+<div class="navbar-header" id="sideNavHeader">
+  <button type="button" class="navbar-toggle" id="sideNavIcon" data-toggle="collapse" data-target="#bs-sidebar-navbar-collapse-1">
+    <span><i class="fa fa-bars"></i></span>
+  </button>
+</div>
 <div class="navbar navbar-expand-sm bg-primary sidebar col-md-3 col-sm-3" role="navigation">
     <div class="container-fluid">
-		<!-- Brand and toggle get grouped for better mobile display -->
-		<div class="navbar-header" id="sideNavHeader">
-			<button type="button" class="navbar-toggle" id="sideNavIcon" data-toggle="collapse" data-target="#bs-sidebar-navbar-collapse-1">
-        <span><i class="fa fa-bars"></i></span>
-			</button>
-		</div>
-		<!-- Collect the nav links, forms, and other content for toggling -->
 		<div class="collapse navbar-collapse" id="bs-sidebar-navbar-collapse-1">
 			<ul class="nav navbar-nav flex-column">
 				<li class="active"><a href="#">Home<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
