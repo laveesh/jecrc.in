@@ -203,3 +203,129 @@ section {
 }
 
 /* ---------------------------- */
+/* footer */
+
+html, body{
+  box-sizing: border-box;
+}
+header,article,aside,nav,footer{
+  box-sizing: border-box;
+  margin:0;
+  padding:0;
+}
+
+* {
+  padding: 0;
+  margin:0;
+}
+.container{
+  color: white;
+  margin-top: 30px;
+  padding-top: 30px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+}
+.site-footer{
+  background-color: #062259;
+  }
+
+.list-styling a{
+  list-style-type: none;
+ }
+ .footer-list{
+   padding-bottom: 18px;
+ }
+ .support-color{
+   color:white;
+ }
+ .align-center{
+  text-align: center;
+ }
+ .footer-bottom-para{
+   text-align: right;
+ }
+ .footer-bottom{
+   border-top: 1px solid white;;
+   margin-top: 10px;
+   padding-top: 10px;
+
+ }
+.fa {
+  padding: 10px;
+  font-size: 15px;
+  width: 40px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+  transition: transform 0.7s ease;
+}
+
+ .fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-google {
+  background: #dd4b39;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+
+.fa-facebook:hover {
+  background: white;
+  color: blue;
+  transform: rotate(360deg);
+}
+
+.fa-twitter:hover {
+  color: #55ACEE;
+  background: white;
+  transform: rotate(360deg);
+}
+
+.fa-linkedin:hover {
+  color: #007bb5;
+  background: white;
+  transform: rotate(360deg);
+}
+
+.fa-google:hover {
+  color: #dd4b39;
+  background: white;
+  transform: rotate(360deg);
+}
+
+.fa-youtube:hover {
+  color: #bb0000;
+  background: white;
+  transform: rotate(360deg);
+}
+
+.fa-instagram:hover {
+  color: #125688;
+  background: white;
+  transform: rotate(360deg);
+}
+
+/* ----------------------------- */
