@@ -2,6 +2,10 @@
 
 JECRC Foundation website for NBA Criteria
 
-## Intallation
+## Installation
 
-just go to src/index.html and start working on it.
+Just open the repository folder, start your php server and go to the path 
+
+localhost/jecrcwebsite/src
+
+and the site starts running.
