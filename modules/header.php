@@ -1,6 +1,6 @@
 <header>
   <div class="collegeHeader container-fluid bg-primary text-white">
-      <img src="../src/img/jecrclogo.png" id="jecrcLogo" alt="JECRC">
+      <img src="src/img/jecrclogo.png" id="jecrcLogo" alt="JECRC">
       <span id="collegeName">Jaipur Engineering College And Research Center</span>
   </div>
   <nav class="navbar navbar-expand-lg bg-primary">
