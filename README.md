@@ -1,10 +1,12 @@
 # jecrcwebsite
+
+## JECRC Foundation website for NBA Criteria
+
 JECRC Foundation website for NBA Criteria
-----
 
-## Installation
+## Intallation
 
-Just open the repository folder, start your php server and go to the path 
+Just open the repository folder, start your php server and go to the path
 
 localhost/jecrcwebsite/src
 

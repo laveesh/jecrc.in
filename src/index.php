@@ -4,14 +4,18 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Bootstrap 4 Starter Pack</title>
+  <title>JECRC</title>
   <link rel="stylesheet" href="css/font-awesome.min.css">
   <link rel="stylesheet" href="css/bootstrap.css">
   <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="img/favicon.png" type="image/x-icon"/>
 </head>
 <body>
-  <h1>Bootstrap 4 Starter Pack</h1>
-  <p>Version 4.0.0-beta</p>
+  <?php include '../modules/header.php'; ?>
+
+  <?php include '../modules/sidenav.php'; ?>
+
+  <?php include '../modules/imageCarousel.php'; ?>
 
   <script src="js/jquery.min.js"></script>
   <script src="js/popper.min.js"></script>
