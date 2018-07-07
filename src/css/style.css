@@ -77,8 +77,8 @@ nav {
 .sidebar {
   font-size: 20px;
   /* padding: 20px; */
-  margin-top: 2vh;
-  margin-left: 2vw;
+  /* margin-top: 2vh;
+  margin-left: 2vw; */
   box-shadow: 2px 2px 5px grey;
   padding: 20px;
 }
