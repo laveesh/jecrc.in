@@ -17,7 +17,7 @@
 
   <?php include './modules/imageCarousel.php'; ?>
 
-<?php include './modules/footer.php'; ?>
+  <?php include './modules/footer.php'; ?>
 
   <script src="src/js/jquery.min.js"></script>
   <script src="src/js/popper.min.js"></script>
