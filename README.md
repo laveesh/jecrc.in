@@ -47,6 +47,3 @@ This project is official JECRC Foundation website for NBA Criteria
 >     your css here  
 > /\*------------------ footer end--------\*/
 
-* if you are adding a part to webpage. Add your _*filename.php*_ in modules and import it in _*index.php*_:
-> index.php  
-> <?php include './modules/filename.php'; ?>
