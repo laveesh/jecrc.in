@@ -38,6 +38,14 @@ header, article, aside, nav, footer {
   padding-top: 10px;
 }
 
+.deptHeader {
+  color: white !important;
+  font-size: 4vmin !important;
+  text-align: center;
+  border-top: solid 1px white;
+  padding-top: 5px;
+}
+
 nav {
   border-top: solid 1px white;
 }

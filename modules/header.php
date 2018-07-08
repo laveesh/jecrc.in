@@ -1,11 +1,14 @@
 <header>
   <div class="collegeHeader container-fluid bg-primary text-white">
-      <img src="src/img/jecrclogo.png" id="jecrcLogo" alt="JECRC">
+    <a href="index.php"><img src="src/img/jecrclogo.png" id="jecrcLogo" alt="JECRC"></a>
       <span id="collegeName">Jaipur Engineering College And Research Center</span>
   </div>
   <nav class="navbar navbar-expand-lg bg-primary">
     <div class="collapse navbar-collapse bg-primary" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="index.php">Home<span class="sr-only">(current)</span></a>
+        </li>
         <li class="nav-item active">
           <a class="nav-link" href="#">About<span class="sr-only">(current)</span></a>
         </li>
@@ -38,7 +41,7 @@
             Courses Offered
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="#">Computer Science</a>
+            <a class="dropdown-item" href="cse.php">Computer Science</a>
             <a class="dropdown-item" href="#">Information Technology</a>
             <a class="dropdown-item" href="#">Electronics and Communication</a>
             <a class="dropdown-item" href="#">Electrical Engineering</a>
