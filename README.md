@@ -40,7 +40,7 @@ This project is official JECRC Foundation website for NBA Criteria
 * go to github and make a pull request.
 
 # Before you start work:
-* pull changes from remote in master branch and also  in your own branch
+* pull changes **from remote** in **master** branch and also  in your **own branch**
 > $ git pull origin master  
 * checkout your branch:-
 > $git checkout yourbranch  
