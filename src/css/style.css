@@ -141,8 +141,7 @@ nav.sidebar, .main {
 
 @media screen and (max-width: 576px) {
   .banner .sidebarContainer {
-    padding: 0 !important;
-    margin: 0 !important;
+    padding: 0 0 0 15px !important;
   }
 }
 
