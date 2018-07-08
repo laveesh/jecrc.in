@@ -15,8 +15,6 @@
 
   <?php include './modules/sidenav.php'; ?>
 
-  <?php include './modules/imageCarousel.php'; ?>
-
   <?php include './modules/footer.php'; ?>
 
   <script src="src/js/jquery.min.js"></script>
