@@ -39,6 +39,12 @@ This project is official JECRC Foundation website for NBA Criteria
 > $git push origin *branchname*
 * go to github and make a pull request.
 
+# Before you start work:
+* pull changes **from remote** in **master** branch and also  in your **own branch**
+> $ git pull origin master  
+* checkout your branch:-
+> $git checkout yourbranch  
+
 # Some useful instructions(should be followed)
 * Bootstrap and font-awesome files are already included in project so just go and use them.
 * Never change any property of Bootstrap classes. Instead create your own new class   
@@ -46,4 +52,3 @@ This project is official JECRC Foundation website for NBA Criteria
 > /\* -----------------------footer start---------\*/
 >     your css here  
 > /\*------------------ footer end--------\*/
-
