@@ -16,20 +16,73 @@
           <div class="container-fluid">
       		<div class="collapse navbar-collapse" id="bs-sidebar-navbar-collapse-1">
       			<ul class="nav navbar-nav flex-column">
-      				<li class="active"><a href="#">About<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-      				<li ><a href="#">Profile<span class="pull-right hidden-xs showopacity glyphicon glyphicon-user"></span></a></li>
-      				<li ><a href="#">Messages<span class="pull-right hidden-xs showopacity glyphicon glyphicon-envelope"></span></a></li>
+              <li class="active"><a id="home">Home<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  Dropdown
+                  About
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="#">Action</a>
-                  <a class="dropdown-item" href="#">Another action</a>
-                  <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="#">Something else here</a>
+                  <a class="dropdown-item" id="about">About</a>
+                  <a class="dropdown-item" id="history">History</a>
+                  <a class="dropdown-item" id="mission_vision">Mission and Vision</a>
+                  <a class="dropdown-item" id="hod_message">HoD's Message</a>
+                  <a class="dropdown-item" id="contact">Contact Us</a>
                 </div>
               </li>
+              <li class="nav-item dropdown">
+                <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Academics
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" id="academics">Academics</a>
+                  <a class="dropdown-item" id="student_opportunities">Student Opportunities</a>
+                  <a class="dropdown-item" id="ug_program">Under Graduate Program</a>
+                  <a class="dropdown-item" id="curriculum">Structure Curriculum</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Research
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" id="research">Research</a>
+                  <a class="dropdown-item" id="publication">Publication</a>
+                  <a class="dropdown-item" id="research_topic1">Research Topic 1</a>
+                  <a class="dropdown-item" id="research_topic2">Research Topic 2</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  People
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" id="people_home">Home</a>
+                  <a class="dropdown-item" id="faculty">Faculty</a>
+                  <a class="dropdown-item" id="staff">Staff</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  News and Events
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" id="news">News</a>
+                  <a class="dropdown-item" id="events">Events</a>
+                  <a class="dropdown-item" id="awards_faculty">Faculties Awards</a>
+                  <a class="dropdown-item" id="awards_student">Students Awards</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Alumni
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" id="alumni">Alumni</a>
+                  <a class="dropdown-item" id="alumni_notes">Alumni Notes</a>
+                  <a class="dropdown-item" id="support">Support</a>
+                </div>
+              </li>
+              <li class="active"><a id="student_associations">Student Associations<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
       					</ul>
       				</li>
       			</ul>
@@ -104,7 +157,7 @@ $('body').height(Math.max(height1,height3,height2));
 }
 
 }
-$(document).ready(function () {
+$( document ).ready(function () {
 htmlbodyHeightUpdate()
 $( window ).resize(function() {
 htmlbodyHeightUpdate()

@@ -10,16 +10,20 @@
   <link rel="stylesheet" href="src/css/style.css">
   <link rel="stylesheet" href="departments/cse/src/css/cse.css">
   <link rel="icon" href="src/img/favicon.png" type="image/x-icon"/>
+  <script src="src/js/jquery.min.js"></script>
+  <script src="src/js/popper.min.js"></script>
+  <script src="src/js/bootstrap.min.js"></script>
 </head>
 <body>
   <?php include 'modules/header.php'; ?>
 
   <?php include 'departments/cse/modules/sidenav.php'; ?>
 
-  <?php include 'modules/footer.php'; ?>
+  <main id="cse_root">
+    <?php include 'departments/cse/modules/home.php'; ?>
+  </main>
 
-  <script src="src/js/jquery.min.js"></script>
-  <script src="src/js/popper.min.js"></script>
-  <script src="src/js/bootstrap.min.js"></script>
+  <?php include 'modules/footer.php'; ?>
+  <script src="departments/cse/src/js/cse.js"></script>
 </body>
 </html>

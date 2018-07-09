@@ -114,6 +114,7 @@ nav {
   color: white !important;
   font-size: 20px;
   text-decoration: none;
+  cursor: pointer;
 }
 
 a.dropdown-item {
