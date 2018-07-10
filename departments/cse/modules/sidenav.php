@@ -16,7 +16,7 @@
           <div class="container-fluid">
       		<div class="collapse navbar-collapse" id="bs-sidebar-navbar-collapse-1">
       			<ul class="nav navbar-nav flex-column">
-              <li class="active"><a href="http://localhost/jecrcwebsite/cse.php?section=home">Home<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              <li class="active"><a href="cse.php?section=home">Home<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   About
