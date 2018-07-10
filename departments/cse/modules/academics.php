@@ -1,6 +1,6 @@
-<div id="academics" class="container card">
+<div id="academics" class="container card section">
 	<div class="sectionHeading">Academics</div>
-	<div class="car-body">
+	<div class="car-body sectionContent">
 <p >The Department is affiliated to UP Technical University and offers Under-Graduate and Post-Graduate programmes. It is also a research center for PhD (Computer Science) students enrolled with UP Technical University.</p>
 <p >The CSE Department practices the Outcome Based Education (OBE) approach for teaching-learning process. This is a learning-centric approach rather than traditional teaching-centric approach to education. This approach focuses on the attributes the students should possess after the completion of the programme through the following key questions</p>
 <ol class="sectionList">
