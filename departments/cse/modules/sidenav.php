@@ -22,11 +22,11 @@
                   About
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="http://localhost/jecrcwebsite/cse.php?section=about">About</a>
-                  <a class="dropdown-item" href="http://localhost/jecrcwebsite/cse.php?section=history">History</a>
-                  <a class="dropdown-item" href="http://localhost/jecrcwebsite/cse.php?section=mission_vision">Mission and Vision</a>
-                  <a class="dropdown-item" href="http://localhost/jecrcwebsite/cse.php?section=hod_message">HoD's Message</a>
-                  <a class="dropdown-item" href="http://localhost/jecrcwebsite/cse.php?section=contact">Contact Us</a>
+                  <a class="dropdown-item" href="cse.php?section=about">About</a>
+                  <a class="dropdown-item" href="cse.php?section=history">History</a>
+                  <a class="dropdown-item" href="cse.php?section=mission_vision">Mission and Vision</a>
+                  <a class="dropdown-item" href="cse.php?section=hod_message">HoD's Message</a>
+                  <a class="dropdown-item" href="cse.php?section=contact">Contact Us</a>
                 </div>
               </li>
               <li class="nav-item dropdown">
@@ -34,10 +34,10 @@
                   Academics
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="http://localhost/jecrcwebsite/cse.php?section=academics">Academics</a>
-                  <a class="dropdown-item" href="http://localhost/jecrcwebsite/cse.php?section=student_opportunities">Student Opportunities</a>
-                  <a class="dropdown-item" href="http://localhost/jecrcwebsite/cse.php?section=ug_program">Under Graduate Program</a>
-                  <a class="dropdown-item" href="http://localhost/jecrcwebsite/cse.php?section=curriculum">Structure Curriculum</a>
+                  <a class="dropdown-item" href="cse.php?section=academics">Academics</a>
+                  <a class="dropdown-item" href="cse.php?section=student_opportunities">Student Opportunities</a>
+                  <a class="dropdown-item" href="cse.php?section=ug_program">Under Graduate Program</a>
+                  <a class="dropdown-item" href="cse.php?section=curriculum">Structure Curriculum</a>
                 </div>
               </li>
               <li class="nav-item dropdown">
@@ -45,10 +45,10 @@
                   Research
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="http://localhost/jecrcwebsite/cse.php?section=research">Research</a>
-                  <a class="dropdown-item" href="http://localhost/jecrcwebsite/cse.php?section=publication">Publication</a>
-                  <a class="dropdown-item" href="http://localhost/jecrcwebsite/cse.php?section=research_topic1">Research Topic 1</a>
-                  <a class="dropdown-item" href="http://localhost/jecrcwebsite/cse.php?section=research_topic2">Research Topic 2</a>
+                  <a class="dropdown-item" href="cse.php?section=research">Research</a>
+                  <a class="dropdown-item" href="cse.php?section=publication">Publication</a>
+                  <a class="dropdown-item" href="cse.php?section=research_topic1">Research Topic 1</a>
+                  <a class="dropdown-item" href="cse.php?section=research_topic2">Research Topic 2</a>
                 </div>
               </li>
               <li class="nav-item dropdown">
@@ -56,9 +56,9 @@
                   People
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="http://localhost/jecrcwebsite/cse.php?section=people_home">Home</a>
-                  <a class="dropdown-item" href="http://localhost/jecrcwebsite/cse.php?section=faculty">Faculty</a>
-                  <a class="dropdown-item" href="http://localhost/jecrcwebsite/cse.php?section=staff">Staff</a>
+                  <a class="dropdown-item" href="cse.php?section=people_home">Home</a>
+                  <a class="dropdown-item" href="cse.php?section=faculty">Faculty</a>
+                  <a class="dropdown-item" href="cse.php?section=staff">Staff</a>
                 </div>
               </li>
               <li class="nav-item dropdown">
@@ -66,10 +66,10 @@
                   News and Events
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="http://localhost/jecrcwebsite/cse.php?section=news">News</a>
-                  <a class="dropdown-item" href="http://localhost/jecrcwebsite/cse.php?section=events">Events</a>
-                  <a class="dropdown-item" href="http://localhost/jecrcwebsite/cse.php?section=awards_faculty">Faculties Awards</a>
-                  <a class="dropdown-item" href="http://localhost/jecrcwebsite/cse.php?section=awards_student">Students Awards</a>
+                  <a class="dropdown-item" href="cse.php?section=news">News</a>
+                  <a class="dropdown-item" href="cse.php?section=events">Events</a>
+                  <a class="dropdown-item" href="cse.php?section=awards_faculty">Faculties Awards</a>
+                  <a class="dropdown-item" href="cse.php?section=awards_student">Students Awards</a>
                 </div>
               </li>
               <li class="nav-item dropdown">
@@ -77,12 +77,12 @@
                   Alumni
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="http://localhost/jecrcwebsite/cse.php?section=alumni">Alumni</a>
-                  <a class="dropdown-item" href="http://localhost/jecrcwebsite/cse.php?section=alumni_notes">Alumni Notes</a>
-                  <a class="dropdown-item" href="http://localhost/jecrcwebsite/cse.php?section=support">Support</a>
+                  <a class="dropdown-item" href="cse.php?section=alumni">Alumni</a>
+                  <a class="dropdown-item" href="cse.php?section=alumni_notes">Alumni Notes</a>
+                  <a class="dropdown-item" href="cse.php?section=support">Support</a>
                 </div>
               </li>
-              <li class="active"><a href="http://localhost/jecrcwebsite/cse.php?section=student_associations">Student Associations<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              <li class="active"><a href="cse.php?section=student_associations">Student Associations<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
       					</ul>
       				</li>
       			</ul>
