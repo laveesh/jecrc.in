@@ -3,7 +3,7 @@
 .section {
     padding: 1%;
     box-shadow: 2px 2px 5px grey;
-    margin-top: 3%;
+    margin-top: 3%; 
 }
 
 .sectionHeading{
@@ -25,6 +25,7 @@
 .sectionContent {
     font-family: "georgia";
     font-size: 16px;
+    padding: 1%;
 }
 
 .sectionList {
@@ -34,5 +35,3 @@
 p{
     text-align: justify;
 }
-/*Main heading CSS*/
-/*UG_Program*/
