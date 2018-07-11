@@ -1,0 +1,37 @@
+/*GENERAL ALIGNMENT FOR SECTION*/
+
+.section {
+  padding: 1%;
+  box-shadow: 2px 2px 5px grey;
+  margin-top: 3%;
+}
+
+.sectionHeading {
+  text-align: center;
+  background-color: #05173a;
+  width: 100%;
+  border-radius: 20px;
+  color: white;
+  margin-bottom: 10px;
+  padding: 5px;
+  font-family: "times new roman";
+  font-size: 20px;
+}
+
+.sectionSubHeading {
+  color: #0e08ee;
+}
+
+.sectionContent {
+  font-family: "georgia";
+  font-size: 16px;
+  padding: 1%;
+}
+
+.sectionList {
+  margin-left: 3%;
+}
+
+.section p {
+  text-align: justify;
+}
