@@ -17,7 +17,6 @@
 
 
 
-
 <div class="container-fluid banner text-center">
   <div class="col-md col-sm col-lg imageCarousel">
     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -67,6 +66,22 @@
       </a>
     </div>
   </div>
+
+
+
+
+
+
+  <div class="container-fluid alert-danger mb-4">
+    <marquee scrollamount="6">
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </marquee>
+  </div>
+  <div class="container-fluid alert-info mb-4">
+    <marquee scrollamount="7">
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </marquee>
+  </div>
     <div class="container-fluid mb-4">
       <div class="row">
       <div class="col-md-6">
@@ -75,14 +90,14 @@
             <h3>Events</h3>
           </div>
           <div class="container text-left">
-            <ul class="">
-              <li class="border-bottom"><h6>Hackathon</h6>
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labor.                </p>
-              <li class="text-primary border-bottom">Renaissance
-              <li class="border-bottom">ICETEAS
-              <li class="text-primary border-bottom">ICITDA
-            </ul>
+              <ul class="">
+                <li class="border-bottom"><h6>Hackathon</h6>
+                  <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labor.                </p>
+                <li class="text-primary border-bottom">Renaissance
+                <li class="border-bottom">ICETEAS
+                <li class="text-primary border-bottom">ICITDA
+              </ul>
           </div>
           </div>
       </div>
@@ -92,12 +107,14 @@
             <h3>News</h3>
           </div>
           <div class="container text-left">
-            <ul class="">
-              <li class="border-bottom text-primary">First
-              <li class="border-bottom">Second
-              <li class="text-primary border-bottom">Third
-              <li class="border-bottom">Fourth
-            </ul>
+            <marquee direction="up" behavior="scroll" id="marq">
+              <ul class="">
+                <li class="border-bottom text-primary">First
+                <li class="border-bottom">Second
+                <li class="text-primary border-bottom">Third
+                <li class="border-bottom">Fourth
+              </ul>
+            </marquee>
           </div>
         </div>
       </div>
@@ -115,7 +132,7 @@
 
   <!-- randomly arranged contents  -->
   <div class="container-fluid jumbotron">
-    <div class="row">
+    <div class="row text-justify">
       <div class="col-md-3">
         <div class="container border">
           <div class="border bg-success text-center">
@@ -224,5 +241,12 @@
   <script src="src/js/jquery.min.js"></script>
   <script src="src/js/popper.min.js"></script>
   <script src="src/js/bootstrap.min.js"></script>
+  <script>
+    $("marquee").hover(function () {
+        this.stop();
+      }, function () {
+        this.start();
+      });
+  </script>
 </body>
 </html>
