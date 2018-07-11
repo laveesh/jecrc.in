@@ -13,6 +13,11 @@
 <body>
   <?php include './modules/header.php'; ?>
 
+
+
+
+
+
 <div class="container-fluid banner text-center">
   <div class="col-md col-sm col-lg imageCarousel">
     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
