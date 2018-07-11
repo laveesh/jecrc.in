@@ -3,11 +3,13 @@ body {
 }
 
 html, body {
+  -webkit-box-sizing: border-box;
   box-sizing: border-box;
   overflow-x: hidden;
 }
 
 header, article, aside, nav, footer {
+  -webkit-box-sizing: border-box;
   box-sizing: border-box;
   margin: 0;
   padding: 0;
@@ -106,13 +108,14 @@ nav {
 
 .sidebar {
   font-size: 20px;
+  -webkit-box-shadow: 2px 2px 5px grey;
   box-shadow: 2px 2px 5px grey;
-  padding: 20px;
+  padding: 0px;
 }
 
 .sidebar a {
   color: white !important;
-  font-size: 20px;
+  font-size: 1.5vw;
   text-decoration: none;
   cursor: pointer;
 }
@@ -152,12 +155,24 @@ nav.sidebar, .main {
   .banner .sidebarContainer {
     padding: 0 0 0 15px !important;
   }
+  .sidebar {
+    padding: 15px;
+  }
+  .sidebar a {
+    font-size: 20px !important;
+  }
 }
 
 @media screen and (min-width: 576px) {
   #bs-sidebar-navbar-collapse-1 {
     position: absolute;
-    top: 5vh;
+    top: 2vh;
+  }
+}
+
+@media screen and (max-width:1199px) {
+  .sidebar {
+    overflow-y: scroll;
   }
 }
 

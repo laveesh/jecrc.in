@@ -3,7 +3,7 @@
     <a href="index.php"><img src="src/img/jecrclogo.png" id="jecrcLogo" alt="JECRC"></a>
       <span id="collegeName">Jaipur Engineering College And Research Center</span>
   </div>
-  <nav class="navbar navbar-expand-lg bg-primary">
+  <nav class="navbar navbar-expand-lg bg-primary mainNav">
     <div class="collapse navbar-collapse bg-primary" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item active">

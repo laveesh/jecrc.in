@@ -1,7 +1,7 @@
 <section id="events section">
 	<div class="container">
 		<div class="mainsectionHeading sectionHeading">Recents events @JECRC</div>
-		<section id="event1" class="card sectionContent">			
+		<section id="event1" class="t">			
 			<div class="sectionHeading">Expert talk on “Big Data” by Dr. Mansaf Alam from Jamia Milia Islamia, Delhi on 27th October,2015.</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
@@ -43,7 +43,7 @@
 				</div>
 			</div>
 		</section>
-	<section id="event1" class="card sectionContent">			
+	<section id="event1" class="t">
 			<div class="sectionHeading">Two days workshop on “Big Data & Hadoop” conducted by APPFLUXUS 2016 in collaboration with EDP Cell, IIT Roorkee.</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
@@ -84,7 +84,7 @@
 				</div>
 			</div>
 		</section>
-		<section id="event3" class="card sectionContent">			
+		<section id="event3" class="t">
 			<div class="sectionHeading">Expert Talk on “Digital Disruption” by Mr. Prashant Pandey</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
@@ -130,6 +130,6 @@
 				</div>
 			</div>
 		</section>
-		
+
 	</div>
 </section>
