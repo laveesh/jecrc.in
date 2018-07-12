@@ -12,7 +12,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
     background-position: top;
 }
 
-@media screen and (max-width: 575px) {
+@media screen and (max-width: 767px) {
     .bg-jecrc {
         background: #062259;
     }
