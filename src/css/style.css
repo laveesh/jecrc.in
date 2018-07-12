@@ -1,5 +1,6 @@
 body {
   background: white !important;
+  background-color: #ffffff;
 }
 
 html, body {
@@ -291,7 +292,6 @@ section {
 
 .footer-container {
   color: white;
-  margin-top: 30px;
   padding-top: 30px;
   font-family: "Times New Roman", Times, serif;
   font-size: 18px;

@@ -8,17 +8,15 @@
   <link rel="stylesheet" href="src/css/font-awesome.min.css">
   <link rel="stylesheet" href="src/css/bootstrap.css">
   <link rel="stylesheet" href="src/css/style.css">
+  <link rel="stylesheet" href="src/css/home.css">
   <link rel="icon" href="src/img/favicon.png" type="image/x-icon"/>
 </head>
 <body>
   <?php include './modules/header.php'; ?>
 
 
-
-
-
-<div class="container-fluid banner text-center">
-  <div class="col-md col-sm col-lg imageCarousel">
+<div class="container-fluid text-center homeBanner">
+  <div class="imageCarousel">
     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
       <ol class="carousel-indicators">
         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -66,60 +64,58 @@
       </a>
     </div>
   </div>
+</div>
 
 
 
 
 
-
-  <div class="container-fluid alert-danger mb-4">
+  <div class="container-fluid mt-2 mb-2 marqueContainer">
     <marquee scrollamount="6">
       Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
     </marquee>
   </div>
-  <div class="container-fluid alert-info mb-4">
-    <marquee scrollamount="7">
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    </marquee>
-  </div>
-    <div class="container-fluid mb-4">
+    <div class="container-fluid mt-2 mb-4">
       <div class="row">
       <div class="col-md-6">
-        <div class="container border rounded">
-          <div class="border bg-success text-center rounded-bottom">
+        <div class="container section newsBox">
+          <div class="sectionHeading bg-primary">
             <h3>Events</h3>
           </div>
-          <div class="container text-left">
-              <ul class="">
-                <li class="border-bottom"><h6>Hackathon</h6>
+          <div class="container text-left sectionContent">
+            <marquee direction="up" scrollamount="4" behavior="scroll" id="marq">
+              <ul class="sectionList">
+                <li class="border-bottom"><h4><b>Hackathon</b></h4>
                   <p>
                     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labor.                </p>
                 <li class="text-primary border-bottom">Renaissance
                 <li class="border-bottom">ICETEAS
                 <li class="text-primary border-bottom">ICITDA
               </ul>
+            </marquee>
           </div>
           </div>
       </div>
       <div class="col-md-6">
-        <div class="container border rounded">
-          <div class="border bg-warning text-center rounded-bottom">
+        <div class="container section newsBox">
+          <div class="sectionHeading bg-primary">
             <h3>News</h3>
           </div>
-          <div class="container text-left">
-            <marquee direction="up" behavior="scroll" id="marq">
-              <ul class="">
-                <li class="border-bottom text-primary">First
-                <li class="border-bottom">Second
-                <li class="text-primary border-bottom">Third
-                <li class="border-bottom">Fourth
+          <div class="container text-left sectionContent">
+            <marquee direction="up" behavior="scroll" scrollamount="4" id="marq">
+              <ul class="sectionList">
+                <li class="border-bottom">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labor.</li>
+                <li class="border-bottom">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labor.</li>
+                <li class="border-bottom">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labor.</li>
+                <li class="border-bottom">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labor.</li>
+                <li class="border-bottom">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labor.</li>
               </ul>
             </marquee>
           </div>
-        </div>
+          </div>
       </div>
-    </div>
   </div>
+</div>
 
 
 
@@ -131,106 +127,86 @@
 
 
   <!-- randomly arranged contents  -->
-  <div class="container-fluid jumbotron">
-    <div class="row text-justify">
+  <div class="container-fluid">
+    <div class="row">
       <div class="col-md-3">
-        <div class="container border">
-          <div class="border bg-success text-center">
-            <h3>Heading Here</h3>
-          </div>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-        </div>
-        <div class="container border">
-          <div class="border bg-warning text-center">
-            <h3>Heading Here</h3>
-          </div>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-        </div>
-      </div>
+        <section class="section container card">
+          <div class="sectionHeading">RECENT NEWS</div>
+          <div class="sectionContent card-body px-4">
+            The area of Computer Science and Engineering deals with not only Theory of Computation and Design of Computational Systems, but also new engineering trends in software and hardware technology. A good technologist with this specialization is expected to
+            possess excellent analytical ability, mathematical aptitude, problem solving skills and a logical mind. The Computer Science and Engineering Department at JSS is affiliated to Uttar Pradesh Technical University, Lucknow and endeavours to provide
+            an environment where students can grow into Computer Engineers of tomorrow possessing all these necessary attributes. Academic standards are high and students have an opportunity to learn from experienced and well-qualified faculty members.
+            The classroom sessions are reinforced through practical sessions, projects, workshops and many other co-curricular activities. Industrial interaction is promoted through various MOUs with companies like IBM, SAP and Nokia resulting in increased
+            employability of students.
 
-        <div class="col-md-6">
-          <div class="container border">
-            <div class="border bg-warning text-center">
-              <h3>Heading Here</h3>
-            </div>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
           </div>
-          <div class="container border">
-            <div class="border bg-success text-center">
-              <h3>Heading Here</h3>
-            </div>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </section>
+      </div>
+      <div class="col-md-6">
+        <section class="section container card">
+          <div class="sectionHeading">NEWS LETTER - THE HORIZON</div>
+          <div class="sectionContent card-body">
+            The area of Computer Science and Engineering deals with not only Theory of Computation and Design of Computational Systems, but also new engineering trends in software and hardware technology. A good technologist with this specialization is expected to
+            possess excellent analytical ability, mathematical aptitude, problem solving skills and a logical mind. The Computer Science and Engineering Department at JSS is affiliated to Uttar Pradesh Technical University, Lucknow and endeavours to provide
+            an environment where students can grow into Computer Engineers of tomorrow possessing all these necessary attributes. Academic standards are high and students have an opportunity to learn from experienced and well-qualified faculty members.
+            The classroom sessions are reinforced through practical sessions, projects, workshops and many other co-curricular activities. Industrial interaction is promoted through various MOUs with companies like IBM, SAP and Nokia resulting in increased
+            employability of students.
           </div>
-          <div class="container border">
-            <div class="border bg-warning text-center">
-              <h3>Heading Here</h3>
-            </div>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </section>
+        <section class="section container card">
+          <div class="sectionHeading">NEW HEADING</div>
+          <div class="sectionContent card-body">
+            The area of Computer Science and Engineering deals with not only Theory of Computation and Design of Computational Systems, but also new engineering trends in software and hardware technology. A good technologist with this specialization is expected to
+            possess excellent analytical ability, mathematical aptitude, problem solving skills and a logical mind. The Computer Science and Engineering Department at JSS is affiliated to Uttar Pradesh Technical University, Lucknow and endeavours to provide
+            an environment where students can grow into Computer Engineers of tomorrow possessing all these necessary attributes. Academic standards are high and students have an opportunity to learn from experienced and well-qualified faculty members.
+            The classroom sessions are reinforced through practical sessions, projects, workshops and many other co-curricular activities. Industrial interaction is promoted through various MOUs with companies like IBM, SAP and Nokia resulting in increased
+            employability of students.
           </div>
-          <div class="container border">
-            <div class="border bg-success text-center">
-              <h3>Heading Here</h3>
-            </div>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </section>
+      </div>
+      <div class="col-md-3">
+        <section class="section container card">
+          <div class="sectionHeading">STUDENT SPOTLIGHT</div>
+          <div class="sectionContent card-body">
+            The area of Computer Science and Engineering deals with not only Theory of Computation and Design of Computational Systems, but also new engineering trends in software and hardware technology. A good technologist with this specialization is expected to
+            possess excellent analytical ability, mathematical aptitude, problem solving skills and a logical mind. The Computer Science and Engineering Department at JSS is affiliated to Uttar Pradesh Technical University, Lucknow and endeavours to provide
+            an environment where students can grow into Computer Engineers of tomorrow possessing all these necessary attributes. Academic standards are high and students have an opportunity to learn from experienced and well-qualified faculty members.
+            The classroom sessions are reinforced through practical sessions, projects, workshops and many other co-curricular activities. Industrial interaction is promoted through various MOUs with companies like IBM, SAP and Nokia resulting in increased
+            employability of students.
           </div>
-        </div>
-          <div class="col-md-3">
-            <div class="container border">
-              <div class="border bg-success text-center">
-                <h3>Heading Here</h3>
-              </div>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-            </div>
-            <div class="container border">
-              <div class="border bg-warning text-center">
-                <h3>Heading Here</h3>
-              </div>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-            </div>
-            <div class="container border">
-              <div class="border bg-success text-center">
-                <h3>Heading Here</h3>
-              </div>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-            </div>
-          </div>
+
+        </section>
+      </div>
     </div>
   </div>
 
-  <div class="container-fluid">
+  <div class="container-fluid mt-5 pt-5 pb-5 pr-5 pl-5 bg-blue-layer">
     <div class="row">
-      <div class="col-12 banner text-center text-primary">
-        <h1>The JECRC Advantage</h1>
+      <div class="col-12 pt-3 pb-3 pr-3 pl-3 text-center text-white advHeading">
+        <span>The JECRC ADVANTAGES</span>
       </div>
       <div class="col-md-4">
-        <div class="col my-1 jumbotron">
-          Hiei aifj iahfiodfaihaeofhoiajfoj j ka f;la'
+        <div class="col my-5 text-center bg-white advContainer">
+          Advantage 1
         </div>
-        <div class="col jumbotron">
-          Hiei aifj iahfiodfaihaeofhoiajfoj j ka f;la'
-        </div>
-      </div>
-      <div class="col-md-4">
-        <div class="col my-1 jumbotron">
-          Hiei aifj iahfiodfaihaeofhoiajfoj j ka f;la'
-        </div>
-        <div class="col jumbotron">
-          Hiei aifj iahfiodfaihaeofhoiajfoj j ka f;la'
+        <div class="col my-5 text-center bg-white advContainer">
+          Advantage 1
         </div>
       </div>
       <div class="col-md-4">
-        <div class="col my-1 jumbotron">
-          Hiei aifj iahfiodfaihaeofhoiajfoj j ka f;la'
+        <div class="col my-5 text-center bg-white advContainer">
+          Advantage 1
         </div>
-        <div class="col jumbotron">
-          Hiei aifj iahfiodfaihaeofhoiajfoj j ka f;la'
+        <div class="col my-5 text-center bg-white advContainer">
+          Advantage 1
+        </div>
+      </div>
+      <div class="col-md-4">
+        <div class="col my-5 text-center bg-white advContainer">
+          Advantage 1
+        </div>
+        <div class="col my-5 text-center bg-white advContainer">
+          Advantage 1
         </div>
       </div>
     </div>
