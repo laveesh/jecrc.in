@@ -180,7 +180,7 @@
     </div>
   </div>
 
-  <div class="container-fluid mt-5 pt-5 pb-5 pr-5 pl-5 bg-blue-layer">
+  <div class="container-fluid mb-1 mt-5 pt-5 pb-5 pr-5 pl-5 bg-jecrc">
     <div class="pt-3 pb-3 pr-3 pl-3 text-center text-white advHeading">
       <span>The JECRC ADVANTAGES</span>
     </div>

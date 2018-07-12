@@ -1,6 +1,8 @@
 body {
   background: white !important;
   background-color: #ffffff;
+  border-left: solid 15px #062259 !important; 
+  border-right: solid 15px #062259 !important;
 }
 
 html, body {
