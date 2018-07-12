@@ -181,10 +181,10 @@
   </div>
 
   <div class="container-fluid mt-5 pt-5 pb-5 pr-5 pl-5 bg-blue-layer">
+    <div class="pt-3 pb-3 pr-3 pl-3 text-center text-white advHeading">
+      <span>The JECRC ADVANTAGES</span>
+    </div>
     <div class="row">
-      <div class="col-12 pt-3 pb-3 pr-3 pl-3 text-center text-white advHeading">
-        <span>The JECRC ADVANTAGES</span>
-      </div>
       <div class="col-md-4">
         <div class="col my-5 text-center bg-white advContainer">
           Advantage 1

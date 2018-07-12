@@ -85,3 +85,9 @@
     border-radius: 25px;
     box-shadow: 2px 2px 2px black;
 }
+
+@media screen and (max-width: 575px) {
+    .advHeading {
+        font-size: 35px;
+    }
+}
