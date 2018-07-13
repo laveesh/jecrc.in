@@ -38,9 +38,23 @@ header, article, aside, nav, footer {
 }
 
 .collegeHeader #collegeName {
-  color: white;
   font-size: 5vmin;
   padding-top: 10px;
+}
+
+.collegeHeader #collegeUni{
+  font-size: 3vmin;
+}
+
+.collegeHeader #collegeAdd{
+  font-size: 3vmin;
+  padding-left: calc(10vh + 5px);
+}
+
+@media screen and (max-width: 991px) {
+.collegeHeader #collegeUni, .collegeHeader #collegeAdd{
+  display: none;
+} 
 }
 
 .deptHeader {
