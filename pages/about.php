@@ -9,16 +9,20 @@
   <link rel="stylesheet" href="../src/css/bootstrap.css">
   <link rel="stylesheet" href="../src/css/style.css">
   <link rel="icon" href="../src/img/favicon.png" type="image/x-icon"/>
+  <script src="../src/js/jquery.min.js"></script>
+  <script src="../src/js/popper.min.js"></script>
+  <script src="../src/js/bootstrap.min.js"></script>
 </head>
 <body>
   <?php include '../modules/header.php'; ?>
 
-  <?php include '../modules/sidenav.php'; ?>
+  <?php include '../departments/about/modules/sidenav.php'; ?>
+
+  <main id="about_root">
+    <?php include '../departments/about/modules/home.php'; ?>
+  </main>
 
   <?php include '../modules/footer.php'; ?>
-
-  <script src="../src/js/jquery.min.js"></script>
-  <script src="../src/js/popper.min.js"></script>
-  <script src="../src/js/bootstrap.min.js"></script>
+  <script src="../departments/about/src/js/about.js"></script>
 </body>
 </html>
