@@ -10,6 +10,6 @@
 <li>How to involve all the stakeholders viz. students, faculty, alumni, employers, industry, parents and society, for continuous improvement of the programme?</li>
 </ol>
 <p >Under OBE model, the quality of teaching is measured by the quality of learning, defined as outcomes, that takes place. Programme Educational Objectives (PEOs) are formulated to align with the vision and mission of the Department. Programme Outcomes (POs) are defined to achieve PEOs which are further aligned to Course Outcomes (CO) of each subject. Vision, Mission and PEOs are the long-term outcomes whereas POs and COs are the short-term outcomes.</p>
-<div class="container"><img src="departments/cse/src/img/Academics/academics.jpg"></div>
+<div class="container"><img src="../departments/cse/src/img/Academics/academics.jpg"></div>
 </div>
 </div>

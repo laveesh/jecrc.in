@@ -6,7 +6,7 @@
 					<div class="card-header text-center"><h4>Name</h4></div>
 					<div class="row">
 						<div class="col-md-4 align="center">
-							<img src="departments/cse/src/img/people/faculty/random.jpg"class="img-circle img-responsive" alt="faculty-image">
+							<img src="../departments/cse/src/img/people/faculty/random.jpg"class="img-circle img-responsive" alt="faculty-image">
 						</div>
 						<div class="col-md-8 px-2">
 							<ul class="list-group list-group-flush">
@@ -27,7 +27,7 @@
 					<div class="card-header text-center"><h4>Name</h4></div>
 					<div class="row">
 						<div class="col-md-4 align="center">
-							<img src="departments/cse/src/img/people/faculty/random.jpg"class="img-circle img-responsive" alt="faculty-image">
+							<img src="../departments/cse/src/img/people/faculty/random.jpg"class="img-circle img-responsive" alt="faculty-image">
 						</div>
 						<div class="col-md-8 px-2">
 							<ul class="list-group list-group-flush">
@@ -50,7 +50,7 @@
 					<div class="card-header text-center"><h4>Name</h4></div>
 					<div class="row">
 						<div class="col-md-4 align="center">
-							<img src="departments/cse/src/img/people/faculty/random.jpg"class="img-circle img-responsive" alt="faculty-image">
+							<img src="../departments/cse/src/img/people/faculty/random.jpg"class="img-circle img-responsive" alt="faculty-image">
 						</div>
 						<div class="col-md-8 px-2">
 							<ul class="list-group list-group-flush">
@@ -71,7 +71,7 @@
 					<div class="card-header text-center"><h4>Name</h4></div>
 					<div class="row">
 						<div class="col-md-4 align="center">
-							<img src="departments/cse/src/img/people/faculty/random.jpg"class="img-circle img-responsive" alt="faculty-image">
+							<img src="../departments/cse/src/img/people/faculty/random.jpg"class="img-circle img-responsive" alt="faculty-image">
 						</div>
 						<div class="col-md-8 px-2">
 							<ul class="list-group list-group-flush">
@@ -94,7 +94,7 @@
 					<div class="card-header text-center"><h4>Name</h4></div>
 					<div class="row">
 						<div class="col-md-4 align="center">
-							<img src="departments/cse/src/img/people/faculty/random.jpg"class="img-circle img-responsive" alt="faculty-image">
+							<img src="../departments/cse/src/img/people/faculty/random.jpg"class="img-circle img-responsive" alt="faculty-image">
 						</div>
 						<div class="col-md-8 px-2">
 							<ul class="list-group list-group-flush">
@@ -115,7 +115,7 @@
 					<div class="card-header text-center"><h4>Name</h4></div>
 					<div class="row">
 						<div class="col-md-4 align="center">
-							<img src="departments/cse/src/img/people/faculty/random.jpg"class="img-circle img-responsive" alt="faculty-image">
+							<img src="../departments/cse/src/img/people/faculty/random.jpg"class="img-circle img-responsive" alt="faculty-image">
 						</div>
 						<div class="col-md-8 px-2">
 							<ul class="list-group list-group-flush">
@@ -138,7 +138,7 @@
 					<div class="card-header text-center"><h4>Name</h4></div>
 					<div class="row">
 						<div class="col-md-4 align="center">
-							<img src="departments/cse/src/img/people/faculty/random.jpg"class="img-circle img-responsive" alt="faculty-image">
+							<img src="../departments/cse/src/img/people/faculty/random.jpg"class="img-circle img-responsive" alt="faculty-image">
 						</div>
 						<div class="col-md-8 px-2">
 							<ul class="list-group list-group-flush">
@@ -159,7 +159,7 @@
 					<div class="card-header text-center"><h4>Name</h4></div>
 					<div class="row">
 						<div class="col-md-4 align="center">
-							<img src="departments/cse/src/img/people/faculty/random.jpg"class="img-circle img-responsive" alt="faculty-image">
+							<img src="../departments/cse/src/img/people/faculty/random.jpg"class="img-circle img-responsive" alt="faculty-image">
 						</div>
 						<div class="col-md-8 px-2">
 							<ul class="list-group list-group-flush">
@@ -182,7 +182,7 @@
 					<div class="card-header text-center"><h4>Name</h4></div>
 					<div class="row">
 						<div class="col-md-4 align="center">
-							<img src="departments/cse/src/img/people/faculty/random.jpg"class="img-circle img-responsive" alt="faculty-image">
+							<img src="../departments/cse/src/img/people/faculty/random.jpg"class="img-circle img-responsive" alt="faculty-image">
 						</div>
 						<div class="col-md-8 px-2">
 							<ul class="list-group list-group-flush">
@@ -203,7 +203,7 @@
 					<div class="card-header text-center"><h4>Name</h4></div>
 					<div class="row">
 						<div class="col-md-4 align="center">
-							<img src="departments/cse/src/img/people/faculty/random.jpg"class="img-circle img-responsive" alt="faculty-image">
+							<img src="../departments/cse/src/img/people/faculty/random.jpg"class="img-circle img-responsive" alt="faculty-image">
 						</div>
 						<div class="col-md-8 px-2">
 							<ul class="list-group list-group-flush">

@@ -119,28 +119,28 @@
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="src/img/Carousel/slider1.jpg" alt="First slide">
+            <img src="../departments/ece/src/img/Carousel/slider2.jpg" alt="First slide">
           </div>
           <div class="carousel-item">
-            <img src="src/img/Carousel/slider2.jpg" alt="Second slide">
+            <img src="../departments/ece/src/img/Carousel/slider2.jpg" alt="Second slide">
           </div>
           <div class="carousel-item">
-            <img   src="src/img/Carousel/slider3.JPG" alt="Third slide">
+            <img   src="../departments/ece/src/img/Carousel/slider3.JPG" alt="Third slide">
           </div>
           <div class="carousel-item">
-            <img  src="src/img/Carousel/slider4.jpg" alt="Fourth slide">
+            <img  src="../departments/ece/src/img/Carousel/slider4.jpg" alt="Fourth slide">
           </div>
           <div class="carousel-item">
-            <img  src="src/img/Carousel/slider5.jpg" alt="Fifth slide">
+            <img  src="../departments/ece/src/img/Carousel/slider5.jpg" alt="Fifth slide">
           </div>
           <div class="carousel-item">
-            <img  src="src/img/Carousel/slider6.jpg" alt="Sixth slide">
+            <img  src="../departments/ece/src/img/Carousel/slider6.jpg" alt="Sixth slide">
           </div>
           <div class="carousel-item">
-            <img  src="src/img/Carousel/slider7.jpg" alt="Seventh slide">
+            <img  src="../departments/ece/src/img/Carousel/slider7.jpg" alt="Seventh slide">
           </div>
           <div class="carousel-item">
-            <img  src="src/img/Carousel/slider8.jpg" alt="Eighth slide">
+            <img  src="../departments/ece/src/img/Carousel/slider8.jpg" alt="Eighth slide">
           </div>
         </div>
         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">

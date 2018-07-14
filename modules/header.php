@@ -1,6 +1,6 @@
 <header>
   <div class="collegeHeader container-fluid bg-primary text-white">
-    <a href="index.php"><img src="src/img/jecrclogo.png" id="jecrcLogo" alt="JECRC"></a>
+    <a href="../index.php"><img src="../src/img/jecrclogo.png" id="jecrcLogo" alt="JECRC"></a>
       <span id="collegeName">Jaipur Engineering College And Research Center</span>
       <div id="collegeUni">Affilated to Rajasthan Technical University, Kota (REAP CODE: 020)</div>
       <div id="collegeAdd">
@@ -11,7 +11,7 @@
     <div class="collapse navbar-collapse bg-primary" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item active">
-          <a class="nav-link" href="index.php">Home<span class="sr-only">(current)</span></a>
+          <a class="nav-link" href="../index.php">Home<span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item active">
           <a class="nav-link" href="about.php">About<span class="sr-only">(current)</span></a>
