@@ -21,13 +21,13 @@
             College
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="#">Administration</a>
-            <a class="dropdown-item" href="#">Research</a>
-            <a class="dropdown-item" href="#">Library</a>
-            <a class="dropdown-item" href="#">Achivements</a>
-            <a class="dropdown-item" href="#">Center Of Excillenece IBM</a>
-            <a class="dropdown-item" href="#">Events</a>
-            <a class="dropdown-item" href="#">Campus Facilities</a>
+            <a class="dropdown-item" href="administration.php">Administration</a>
+            <a class="dropdown-item" href="research.php">Research</a>
+            <a class="dropdown-item" href="library.php">Library</a>
+            <a class="dropdown-item" href="achivements.php">Achivements</a>
+            <a class="dropdown-item" href="ibm.php">Center Of Excillenece IBM</a>
+            <a class="dropdown-item" href="events.php">Events</a>
+            <a class="dropdown-item" href="campus_facilities.php">Campus Facilities</a>
           </div>
         </li>
         <li class="nav-item dropdown">
@@ -35,9 +35,9 @@
             Students
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="#">Admission</a>
-            <a class="dropdown-item" href="#">Academics</a>
-            <a class="dropdown-item" href="#">Student Resources</a>
+            <a class="dropdown-item" href="admission.php">Admission</a>
+            <a class="dropdown-item" href="academics.php">Academics</a>
+            <a class="dropdown-item" href="student_resources.php">Student Resources</a>
           </div>
         </li>
         <li class="nav-item dropdown">
@@ -46,26 +46,26 @@
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
             <a class="dropdown-item" href="cse.php">Computer Science</a>
-            <a class="dropdown-item" href="#">Information Technology</a>
+            <a class="dropdown-item" href="it.php">Information Technology</a>
             <a class="dropdown-item" href="ece.php">Electronics and Communication</a>
-            <a class="dropdown-item" href="#">Electrical Engineering</a>
-            <a class="dropdown-item" href="#">Mechanical Engineering</a>
-            <a class="dropdown-item" href="#">Civil Engineering</a>
+            <a class="dropdown-item" href="ee.php">Electrical Engineering</a>
+            <a class="dropdown-item" href="me.php">Mechanical Engineering</a>
+            <a class="dropdown-item" href="civil.php">Civil Engineering</a>
           </div>
         </li>
         <li class="nav-item active">
-          <a class="nav-link" href="#">Govt. Schemes</a>
+          <a class="nav-link" href="government_schemes.php">Govt. Schemes</a>
         </li>
         <li class="nav-item active">
-          <a class="nav-link" href="#">Traning and Placements</a>
+          <a class="nav-link" href="tpo.php">Traning and Placements</a>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
             Alumni
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="#">Our Alumni</a>
-            <a class="dropdown-item" href="#">Alumni Survey</a>
+            <a class="dropdown-item" href="our_alumni.php">Our Alumni</a>
+            <a class="dropdown-item" href="alumni_survey.php">Alumni Survey</a>
           </div>
         </li>
         <li class="nav-item dropdown">
@@ -82,8 +82,8 @@
             Contact Us
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="#">Contact Details</a>
-            <a class="dropdown-item" href="#">How to reach ?</a>
+            <a class="dropdown-item" href="contact_details.php">Contact Details</a>
+            <a class="dropdown-item" href="how_to_reach.php">How to reach ?</a>
           </div>
         </li>
       </ul>
