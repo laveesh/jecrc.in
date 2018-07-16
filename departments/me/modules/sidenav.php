@@ -5,7 +5,7 @@
   </button>
 </div>
 <div class="container-fluid bg-primary deptHeader">
-  <span class="deptName">Department Of Computer Science Engineering</span>
+  <span class="deptName">Department Of Electronics And Communication</span>
 </div>
 <!-- Container for sidebar and Image Carousel -->
 <div class="container-fluid banner">
@@ -16,17 +16,17 @@
           <div class="container-fluid">
       		<div class="collapse navbar-collapse" id="bs-sidebar-navbar-collapse-1">
       			<ul class="nav navbar-nav flex-column">
-              <li class="active"><a href="cse.php?section=home">Home<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              <li class="active"><a href="me.php?section=home">Home<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   About
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="cse.php?section=about">About</a>
-                  <a class="dropdown-item" href="cse.php?section=history">History</a>
-                  <a class="dropdown-item" href="cse.php?section=mission_vision">Mission and Vision</a>
-                  <a class="dropdown-item" href="cse.php?section=hod_message">HoD's Message</a>
-                  <a class="dropdown-item" href="cse.php?section=contact">Contact Us</a>
+                  <a class="dropdown-item" href="me.php?section=about">About</a>
+                  <a class="dropdown-item" href="me.php?section=history">History</a>
+                  <a class="dropdown-item" href="me.php?section=mission_vision">Mission and Vision</a>
+                  <a class="dropdown-item" href="me.php?section=hod_message">HoD's Message</a>
+                  <a class="dropdown-item" href="me.php?section=contact">Contact Us</a>
                 </div>
               </li>
               <li class="nav-item dropdown">
@@ -34,10 +34,14 @@
                   Academics
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="cse.php?section=academics">Academics</a>
-                  <a class="dropdown-item" href="cse.php?section=student_opportunities">Student Opportunities</a>
-                  <a class="dropdown-item" href="cse.php?section=ug_program">Under Graduate Program</a>
-                  <a class="dropdown-item" href="cse.php?section=curriculum">Structure Curriculum</a>
+                  <a class="dropdown-item" href="me.php?section=academics">Academics</a>
+                  <a class="dropdown-item" href="me.php?section=student_opportunities">Student Opportunities</a>
+                  <a class="dropdown-item" href="me.php?section=ug_program">Under Graduate Program</a>
+                  <a class="dropdown-item" href="me.php?section=program_outcomes">Program Outcomes</a>
+                  <a class="dropdown-item" href="me.php?section=program_edu_obj">Program Education Objective</a>
+                  <a class="dropdown-item" href="me.php?section=course_outcomes">Course Outcomes</a>
+                  <a class="dropdown-item" href="me.php?section=co_po_mapping">CO and PO Mapping</a>
+                  <a class="dropdown-item" href="me.php?section=curriculum">Structure Curriculum</a>
                 </div>
               </li>
               <li class="nav-item dropdown">
@@ -45,10 +49,10 @@
                   Research
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="cse.php?section=research">Research</a>
-                  <a class="dropdown-item" href="cse.php?section=publication">Publication</a>
-                  <a class="dropdown-item" href="cse.php?section=research_topic1">Research Topic 1</a>
-                  <a class="dropdown-item" href="cse.php?section=research_topic2">Research Topic 2</a>
+                  <a class="dropdown-item" href="me.php?section=research">Research</a>
+                  <a class="dropdown-item" href="me.php?section=publication">Publication</a>
+                  <a class="dropdown-item" href="me.php?section=research_topic1">Research Topic 1</a>
+                  <a class="dropdown-item" href="me.php?section=research_topic2">Research Topic 2</a>
                 </div>
               </li>
               <li class="nav-item dropdown">
@@ -56,9 +60,9 @@
                   People
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="cse.php?section=people_home">Home</a>
-                  <a class="dropdown-item" href="cse.php?section=faculty">Faculty</a>
-                  <a class="dropdown-item" href="cse.php?section=staff">Staff</a>
+                  <a class="dropdown-item" href="me.php?section=people_home">Home</a>
+                  <a class="dropdown-item" href="me.php?section=faculty">Faculty</a>
+                  <a class="dropdown-item" href="me.php?section=staff">Staff</a>
                 </div>
               </li>
               <li class="nav-item dropdown">
@@ -66,10 +70,20 @@
                   News and Events
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="cse.php?section=news">News</a>
-                  <a class="dropdown-item" href="cse.php?section=events">Events</a>
-                  <a class="dropdown-item" href="cse.php?section=awards_faculty">Faculties Awards</a>
-                  <a class="dropdown-item" href="cse.php?section=awards_student">Students Awards</a>
+                  <a class="dropdown-item" href="me.php?section=news">News</a>
+                  <a class="dropdown-item" href="me.php?section=events">Events</a>
+                  <a class="dropdown-item" href="me.php?section=tech_events">Technical Events</a>
+                  <a class="dropdown-item" href="me.php?section=awards_faculty">Faculties Awards</a>
+                  <a class="dropdown-item" href="me.php?section=awards_student">Students Awards</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Infrastructure
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="me.php?section=labs">Laboratory</a>
+                  <a class="dropdown-item" href="me.php?section=library">Library</a>
                 </div>
               </li>
               <li class="nav-item dropdown">
@@ -77,12 +91,12 @@
                   Alumni
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="cse.php?section=alumni">Alumni</a>
-                  <a class="dropdown-item" href="cse.php?section=alumni_notes">Alumni Notes</a>
-                  <a class="dropdown-item" href="cse.php?section=support">Support</a>
+                  <a class="dropdown-item" href="me.php?section=alumni">Alumni</a>
+                  <a class="dropdown-item" href="me.php?section=alumni_notes">Alumni Notes</a>
+                  <a class="dropdown-item" href="me.php?section=support">Support</a>
                 </div>
               </li>
-              <li class="active"><a href="cse.php?section=student_associations">Student Associations<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              <li class="active"><a href="me.php?section=student_associations">Student Associations<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
       					</ul>
       				</li>
       			</ul>
@@ -105,28 +119,28 @@
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="../departments/cse/src/img/Carousel/slider1.jpg" alt="First slide">
+            <img src="../departments/me/src/img/Carousel/slider2.jpg" alt="First slide">
           </div>
           <div class="carousel-item">
-            <img src="../departments/cse/src/img/Carousel/slider2.jpg" alt="Second slide">
+            <img src="../departments/me/src/img/Carousel/slider2.jpg" alt="Second slide">
           </div>
           <div class="carousel-item">
-            <img src="../departments/cse/src/img/Carousel/slider3.JPG" alt="Third slide">
+            <img   src="../departments/me/src/img/Carousel/slider3.JPG" alt="Third slide">
           </div>
           <div class="carousel-item">
-            <img  src="../departments/cse/src/img/Carousel/slider4.jpg" alt="Fourth slide">
+            <img  src="../departments/me/src/img/Carousel/slider4.jpg" alt="Fourth slide">
           </div>
           <div class="carousel-item">
-            <img  src="../departments/cse/src/img/Carousel/slider5.jpg" alt="Fifth slide">
+            <img  src="../departments/me/src/img/Carousel/slider5.jpg" alt="Fifth slide">
           </div>
           <div class="carousel-item">
-            <img  src="../departments/cse/src/img/Carousel/slider6.jpg" alt="Sixth slide">
+            <img  src="../departments/me/src/img/Carousel/slider6.jpg" alt="Sixth slide">
           </div>
           <div class="carousel-item">
-            <img  src="../departments/cse/src/img/Carousel/slider7.jpg" alt="Seventh slide">
+            <img  src="../departments/me/src/img/Carousel/slider7.jpg" alt="Seventh slide">
           </div>
           <div class="carousel-item">
-            <img  src="../departments/cse/src/img/Carousel/slider8.jpg" alt="Eighth slide">
+            <img  src="../departments/me/src/img/Carousel/slider8.jpg" alt="Eighth slide">
           </div>
         </div>
         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
