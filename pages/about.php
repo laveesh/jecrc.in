@@ -8,6 +8,7 @@
   <link rel="stylesheet" href="../src/css/font-awesome.min.css">
   <link rel="stylesheet" href="../src/css/bootstrap.css">
   <link rel="stylesheet" href="../src/css/style.css">
+  <link rel="stylesheet" href="../departments/about/src/css/about.css">
   <link rel="icon" href="../src/img/favicon.png" type="image/x-icon"/>
   <script src="../src/js/jquery.min.js"></script>
   <script src="../src/js/popper.min.js"></script>
