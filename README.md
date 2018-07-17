@@ -65,3 +65,10 @@ This project is official JECRC Foundation website for NBA Criteria
 -   Sidebar is diffrent for all the departments.
 -   diffrent files of departments are present in /departments/[department_name]/ folder
 -   write css for departments in their respective folder present in /departments/[department_name]/src/css/[department_name].css
+
+# Guidelines for Image Resolution
+
+- For image Carousel - 1400px * 500px.
+- For staff and faculty image - 300px * 300px.
+- For event images - 300px * 200px.
+- For some other random images - 400px * 300px.
