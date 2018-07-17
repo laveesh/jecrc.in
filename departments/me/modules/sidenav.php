@@ -119,7 +119,7 @@
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="../departments/me/src/img/Carousel/slider2.jpg" alt="First slide">
+            <img src="../departments/me/src/img/Carousel/slider1.jpg" alt="First slide">
           </div>
           <div class="carousel-item">
             <img src="../departments/me/src/img/Carousel/slider2.jpg" alt="Second slide">
