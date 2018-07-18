@@ -182,12 +182,10 @@
           <div class="container text-left sectionContent">
             <marquee direction="up" scrollamount="4" behavior="scroll" id="marq">
               <ul class="sectionList">
-                <li class="border-bottom"><h4><b>Hackathon</b></h4>
-                  <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labor.                </p>
-                <li class="text-primary border-bottom">Renaissance
-                <li class="border-bottom">ICETEAS
-                <li class="text-primary border-bottom">ICITDA
+                <li class="border-bottom"><h4><b>JMAG Edition-9 released</b></h4>
+                <li class="text-primary border-bottom">700 placements in 2 days with 2 Companies
+                <li class="border-bottom">Inducton day for batch 2015-19
+                <li class="text-primary border-bottom">JMAG Edition-7 released
               </ul>
             </marquee>
           </div>
@@ -241,13 +239,16 @@
       </div>
       <div class="col-md-6">
         <section class="section container card">
-          <div class="sectionHeading">NEWS LETTER - THE HORIZON</div>
+          <div class="sectionHeading">Welcome to JECRC Foundation</div>
           <div class="sectionContent card-body">
-            The area of Computer Science and Engineering deals with not only Theory of Computation and Design of Computational Systems, but also new engineering trends in software and hardware technology. A good technologist with this specialization is expected to
-            possess excellent analytical ability, mathematical aptitude, problem solving skills and a logical mind. The Computer Science and Engineering Department at JSS is affiliated to Uttar Pradesh Technical University, Lucknow and endeavours to provide
-            an environment where students can grow into Computer Engineers of tomorrow possessing all these necessary attributes. Academic standards are high and students have an opportunity to learn from experienced and well-qualified faculty members.
-            The classroom sessions are reinforced through practical sessions, projects, workshops and many other co-curricular activities. Industrial interaction is promoted through various MOUs with companies like IBM, SAP and Nokia resulting in increased
-            employability of students.
+              <ul class="sectionList">
+                <dd>“When education sees its course, a dream opens its eyes”, is the belief of the foundation under the aegis of which top engineering colleges in India are set up. Education is just a spark for which it ignites the minds and inflames the intellect. Ignited minds change the world and bring us a better tomorrow.</dd>
+
+                <dd>It goes beyond developing one's knowledge and sharpening his skills as it paves the way for progress of a nation and its generations to come.</dd>
+              
+                <dd>In the 18 years of educational journey the JECRC Foundation has set up some of the best engineering colleges and nurtured the essence of growth in education. The JECRC Engineering College was the first venture of the foundation in the league of the best colleges for B.Tech in Rajasthan. The Foundation has earned respect of being the most reputed educational group in north India with the establishment of some of the best colleges in Rajasthan, prime focus being the holistic approach and overall development of its <students class=""></students></dd>
+            
+          </ul>
           </div>
         </section>
         <section class="section container card">
