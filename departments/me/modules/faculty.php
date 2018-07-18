@@ -7,13 +7,13 @@
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Dr. M.P SINGH</h4></div>
 					<div class="row">
-						<div class="col-md-3 align="center">
-							<img src="../departments/me/src/img/people/faculty/M.P.SINGH.JPG"	class="img-responsive rounded-circle" alt="faculty-image">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/me/src/img/people/faculty/M.P.SINGH.jpg"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: P.hd</li>
-								<li class="list-group-item"><strong>Designation</strong>: Professor</li>
+								<li class="list-group-item"><strong>Designation</strong>: HOD</li>
 								<li class="list-group-item">BT-20</li>
 								<li class="list-group-item">mpsingh.me@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 18 year</li>
@@ -28,15 +28,15 @@
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Prof. Utpal Chakravarty</h4></div>
 					<div class="row">
-						<div class="col-md-3 align="center">
-							<img src="../departments/me/src/img/people/faculty/Shruti.jpg"class="rounded-circle img-responsive" alt="faculty-image">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/me/src/img/people/faculty/Hemant.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Director Placement Cell(Outset)
 								<li class="list-group-item">Block</li>
-								<li class="list-group-item">utpalchakravarty.me@jmessor</li>rc.ac.in</li>
+								<li class="list-group-item">utpalchakravarty.me@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 16 year</li>
 								<li class="list-group-item">Publication: 0</li>
 							</ul>
@@ -54,8 +54,8 @@
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Prof. Manish Jain</h4></div>
 					<div class="row">
-						<div class="col-md-3 align="center">
-							<img src="../departments/me/src/img/people/faculty/Manish.JPG"	class="rounded-circle img-responsive" alt="faculty-image">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/me/src/img/people/faculty/Manish.jpg"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -75,8 +75,8 @@
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Dr. Bhuvnesh Bhardwaj</h4></div>
 					<div class="row">
-						<div class="col-md-3 align="center">
-							<img src="../departments/me/src/img/people/faculty/Bhuvnesh.jpg"class="rounded-circle img-responsive" alt="faculty-image">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/me/src/img/people/faculty/Bhuvnesh.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -100,8 +100,8 @@
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Dr. Manish Shrivastava</h4></div>
 					<div class="row">
-						<div class="col-md-3 align="center">
-							<img src="../departments/me/src/img/people/faculty/Manish.jpg"class="rounded-circle img-responsive" alt="faculty-image">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/me/src/img/people/faculty/Manish.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -121,8 +121,8 @@
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Kuldeep Sharma</h4></div>
 					<div class="row">
-						<div class="col-md-3 align="center">
-							<img src="../departments/me/src/img/people/faculty/Kuldeep.jpg"class="rounded-circle img-responsive" alt="faculty-image">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/me/src/img/people/faculty/Kuldeep.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -146,8 +146,8 @@
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Lalit Kumar Sharma</h4></div>
 					<div class="row">
-						<div class="col-md-3 align="center">
-							<img src="../departments/me/src/img/people/faculty/Lalit.jpg"class="rounded-circle img-responsive" alt="faculty-image">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/me/src/img/people/faculty/LALIT.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -167,8 +167,8 @@
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Tejendra Singh</h4></div>
 					<div class="row">
-						<div class="col-md-3 align="center">
-							<img src="../departments/me/src/img/people/faculty/Tejendra.jpg"class="rounded-circle img-responsive" alt="faculty-image">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/me/src/img/people/faculty/Tejendra.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -191,8 +191,8 @@
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Rajendra Kumar Gupta</h4></div>
 					<div class="row">
-						<div class="col-md-3 align="center">
-							<img src="../departments/me/src/img/people/faculty/Rajendra.jpg"class="rounded-circle img-responsive" alt="faculty-image">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/me/src/img/people/faculty/Rajendra.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -212,8 +212,8 @@
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Shashank Shekhar singh</h4></div>
 					<div class="row">
-						<div class="col-md-3 align="center">
-							<img src="../departments/me/src/img/people/faculty/Shashank.jpg"class="rounded-circle img-responsive" alt="faculty-image">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/me/src/img/people/faculty/SHASHANK.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -235,8 +235,8 @@
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Man Mohan Sidh</h4></div>
 					<div class="row">
-						<div class="col-md-3 align="center">
-							<img src="../departments/me/src/img/people/faculty/Manmohan.jpg"class="rounded-circle img-responsive" alt="faculty-image">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/me/src/img/people/faculty/Manmohan.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -256,8 +256,8 @@
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Hemant Bansal</h4></div>
 					<div class="row">
-						<div class="col-md-3 align="center">
-							<img src="../departments/me/src/img/people/faculty/Hemant.jpg"class="rounded-circle img-responsive" alt="faculty-image">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/me/src/img/people/faculty/Hemant.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -281,8 +281,8 @@
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Ravi Yadav</h4></div>
 					<div class="row">
-						<div class="col-md-3 align="center">
-							<img src="../departments/me/src/img/people/faculty/Ravi.jpg"class="rounded-circle img-responsive" alt="faculty-image">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/me/src/img/people/faculty/ravi.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -302,8 +302,8 @@
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Ravi Kumar Jangir</h4></div>
 					<div class="row">
-						<div class="col-md-3 align="center">
-							<img src="../departments/me/src/img/people/faculty/ravijangir.jpg"class="rounded-circle img-responsive" alt="faculty-image">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/me/src/img/people/faculty/ravijangir.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -327,8 +327,8 @@
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Nitin Chhabra </h4></div>
 					<div class="row">
-						<div class="col-md-3 align="center">
-							<img src="../departments/me/src/img/people/faculty/Nitin.jpg"class="rounded-circle img-responsive" alt="faculty-image">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/me/src/img/people/faculty/Nitin.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -348,8 +348,8 @@
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Dilip Kumar Prajapati</h4></div>
 					<div class="row">
-						<div class="col-md-3 align="center">
-							<img src="../departments/me/src/img/people/faculty/Dilip.jpg"class="rounded-circle img-responsive" alt="faculty-image">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/me/src/img/people/faculty/dilip.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -374,8 +374,8 @@
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Jitendra Kumar Gupta </h4></div>
 					<div class="row">
-						<div class="col-md-3 align="center">
-							<img src="../departments/me/src/img/people/faculty/Jitendra.jpg"class="rounded-circle img-responsive" alt="faculty-image">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/me/src/img/people/faculty/JITENDRA.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -395,8 +395,8 @@
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Ashish Nagpal</h4></div>
 					<div class="row">
-						<div class="col-md-3 align="center">
-							<img src="../departments/me/src/img/people/faculty/Aashish.jpg"class="rounded-circle img-responsive" alt="faculty-image">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/me/src/img/people/faculty/aashish.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -421,8 +421,8 @@
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Abhishek Kumar</h4></div>
 					<div class="row">
-						<div class="col-md-3 align="center">
-							<img src="../departments/me/src/img/people/faculty/Abhishek.jpg"class="rounded-circle img-responsive" alt="faculty-image">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/me/src/img/people/faculty/Abhishek.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -442,8 +442,8 @@
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Akhil Vijay</h4></div>
 					<div class="row">
-						<div class="col-md-3 align="center">
-							<img src="../departments/me/src/img/people/faculty/Akhil.jpg"class="rounded-circle img-responsive" alt="faculty-image">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/me/src/img/people/faculty/Akhilesh.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -467,8 +467,8 @@
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Akhilesh paliwal </h4></div>
 					<div class="row">
-						<div class="col-md-3 align="center">
-							<img src="../departments/me/src/img/people/faculty/Akhilesh.jpg"class="rounded-circle img-responsive" alt="faculty-image">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/me/src/img/people/faculty/Akhilesh.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -488,8 +488,8 @@
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Dayal Singh Rathore</h4></div>
 					<div class="row">
-						<div class="col-md-3 align="center">
-							<img src="../departments/me/src/img/people/faculty/Dayal.jpg"class="rounded-circle img-responsive" alt="faculty-image">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/me/src/img/people/faculty/Dayal.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -513,8 +513,8 @@
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Gaurav Kumar jain </h4></div>
 					<div class="row">
-						<div class="col-md-3 align="center">
-							<img src="../departments/me/src/img/people/faculty/Gourav.jpg"class="rounded-circle img-responsive" alt="faculty-image">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/me/src/img/people/faculty/Gourav.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -534,8 +534,8 @@
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Hukum Chand</h4></div>
 					<div class="row">
-						<div class="col-md-3 align="center">
-							<img src="../departments/me/src/img/people/faculty/Hukum.jpg"class="rounded-circle img-responsive" alt="faculty-image">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/me/src/img/people/faculty/hukum.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -559,8 +559,8 @@
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Nikhl Jain </h4></div>
 					<div class="row">
-						<div class="col-md-3 align="center">
-							<img src="../departments/me/src/img/people/faculty/Nikhil.jpg"class="rounded-circle img-responsive" alt="faculty-image">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/me/src/img/people/faculty/nikhil.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -580,8 +580,8 @@
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Ms. Palak Jindal</h4></div>
 					<div class="row">
-						<div class="col-md-3 align="center">
-							<img src="../departments/me/src/img/people/faculty/Palak.jpg"class="rounded-circle img-responsive" alt="faculty-image">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/me/src/img/people/faculty/palak.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -607,8 +607,8 @@
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Ms. Priti Pramod Bodkhe </h4></div>
 					<div class="row">
-						<div class="col-md-3 align="center">
-							<img src="../departments/me/src/img/people/faculty/Priti.jpg"class="rounded-circle img-responsive" alt="faculty-image">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/me/src/img/people/faculty/Priti.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -628,8 +628,8 @@
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Rohit Goyal</h4></div>
 					<div class="row">
-						<div class="col-md-3 align="center">
-							<img src="../departments/me/src/img/people/faculty/Rohit.jpg"class="rounded-circle img-responsive" alt="faculty-image">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/me/src/img/people/faculty/ROHIT.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -654,8 +654,8 @@
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Satya Prakash Saini </h4></div>
 					<div class="row">
-						<div class="col-md-3 align="center">
-							<img src="../departments/me/src/img/people/faculty/Satya.jpg"class="rounded-circle img-responsive" alt="faculty-image">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/me/src/img/people/faculty/SATYA.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -675,9 +675,8 @@
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Shrikant Bansal</h4></div>
 					<div class="row">
-						<div class="col-md-3 align="center">
-							<img src="../departments/me/src/img/people/faculty/Shrikant
-							.jpg"class="rounded-circle img-responsive" alt="faculty-image">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/me/src/img/people/faculty/SHRIKANT.jpg" class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -701,8 +700,8 @@
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Tej Bahadur Singh </h4></div>
 					<div class="row">
-						<div class="col-md-3 align="center">
-							<img src="../departments/me/src/img/people/faculty/Tej.jpg"class="rounded-circle img-responsive" alt="faculty-image">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/me/src/img/people/faculty/TEJ.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -722,8 +721,8 @@
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Tejaram Saini</h4></div>
 					<div class="row">
-						<div class="col-md-3 align="center">
-							<img src="../departments/me/src/img/people/faculty/Tejaram.jpg"class="rounded-circle img-responsive" alt="faculty-image">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/me/src/img/people/faculty/Tejaram.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -748,8 +747,8 @@
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Veerendra Kumar </h4></div>
 					<div class="row">
-						<div class="col-md-3 align="center">
-							<img src="../departments/me/src/img/people/faculty/Veerendra.jpg"class="rounded-circle img-responsive" alt="faculty-image">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/me/src/img/people/faculty/Veerendra.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -769,8 +768,8 @@
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Yogesh Dubey</h4></div>
 					<div class="row">
-						<div class="col-md-3 align="center">
-							<img src="../departments/me/src/img/people/faculty/Yogesh.jpg"class="rounded-circle img-responsive" alt="faculty-image">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/me/src/img/people/faculty/Yogesh.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
