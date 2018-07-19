@@ -1,18 +1,18 @@
 <section class="section container card">
 	<div class="sectionHeading">History</div>
 	<div class="sectionContent card-body px-4">
-		<p>The Department of Computer Science and Engineering was established in 1998 with the launch of the undergraduate programme with a meagre 40 seats. The intake was increased to 60 in 1999, and to 90 in 2000. By 2002, the intake had increased to 120, a capacity that remains till today. The course was accredited National Board of Accreditation (NBA) for 3 years in 2005 and for a further 3 years in 2008.
+		<p>Mechanical Engineering Department, established in 2003 with a meagre 60 seats. Mechanical Engineering Department is one of the oldest and biggest departments of the institute with student strength of about 720 and faculty strength of 40. 
+		</p>
+		<p>The Department currently offers Under Graduate program B. Tech. Mechanical Engineering. Department have Well balanced academics and industrial experience faculty members and well equipped laboratory expose students to correlate theoretical concept in the practical work.
+		</p>
+		<p>In 2018, Centre of Excellence establish collaborated with CADD CENTRE promote high quality education by providing state-of-the-art and emerging technologies in the academy as well as industry with the objective of nurturing highly engineering professionals.The department is always motivating students to participate in the various technical/social activities held inside/outside the institute to develop their dynamic personality and leadership quality.
 		</p>
 		<p>
-		The Post-Graduate prorgramme in Computer Science and Engineering was started with 18 seats in 2008.
-		</p>
-		<p>
-		In 2009, IBM collaborated with JSSATE, Noida to establish IBM Center of Excellence to promote high quality education by providing state-of-the-art and emerging technologies in the academy with the objective of nurturing highly skilled computer professionals. In July 2013, JSSATE, Noida became a SAP University Alliance Partner under SAP‘s University Alliances Program. In 2013, JSSATE, Noida also established Nokia Mobile Innovation Labs with financial assistance from Nokia University Relations, Finland.
-		</p>
-		<p>
-		The Research Centre for students pursuing PhD (Computer Science) from UPTU was also established in 2013.
-		</p>
+			<ul>
+			<li>Moonriders : moonriders is a student club in which students work on the automobiles , takes part in different national level compititions. </li>
+			<li>Aashayein : Aashayein is a student club which work for the patients or people who need blood ,SDP . they conducts the blood donation camp in the campus.</li>
+			<li>Abhudhya : Is the cluster of social groups at jecrc which work for the development of the less fortunate sections of the society by providing free education ,medical care,stationary,etc.</li> 
+			</ul>
+			</p>
 	</div>
 </section>
-
-
