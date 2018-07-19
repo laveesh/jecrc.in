@@ -18,6 +18,10 @@ header, article, aside, nav, footer {
   padding: 0;
 }
 
+p{
+  text-align: justify !important;
+}
+
 * {
   padding: 0;
   margin: 0;

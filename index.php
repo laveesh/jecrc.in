@@ -172,52 +172,6 @@
       Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
     </marquee>
   </div>
-    <div class="container-fluid mt-2 mb-4">
-      <div class="row">
-      <div class="col-md-6">
-        <div class="container section newsBox">
-          <div class="sectionHeading bg-primary">
-            <h3>Events</h3>
-          </div>
-          <div class="container text-left sectionContent">
-            <marquee direction="up" scrollamount="4" behavior="scroll" id="marq">
-              <ul class="sectionList">
-                <li class="border-bottom"><h4><b>JMAG Edition-9 released</b></h4>
-                <li class="text-primary border-bottom">700 placements in 2 days with 2 Companies
-                <li class="border-bottom">Inducton day for batch 2015-19
-                <li class="text-primary border-bottom">JMAG Edition-7 released
-              </ul>
-            </marquee>
-          </div>
-          </div>
-      </div>
-      <div class="col-md-6">
-        <div class="container section newsBox">
-          <div class="sectionHeading bg-primary">
-            <h3>News</h3>
-          </div>
-          <div class="container text-left sectionContent">
-            <marquee direction="up" behavior="scroll" scrollamount="4" id="marq">
-              <ul class="sectionList">
-                <li class="border-bottom">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labor.</li>
-                <li class="border-bottom">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labor.</li>
-                <li class="border-bottom">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labor.</li>
-                <li class="border-bottom">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labor.</li>
-                <li class="border-bottom">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labor.</li>
-              </ul>
-            </marquee>
-          </div>
-          </div>
-      </div>
-  </div>
-</div>
-
-
-
-
-
-
-
 
 
 
@@ -226,14 +180,17 @@
     <div class="row">
       <div class="col-md-3">
         <section class="section container card">
-          <div class="sectionHeading">RECENT NEWS</div>
-          <div class="sectionContent card-body px-4">
-            The area of Computer Science and Engineering deals with not only Theory of Computation and Design of Computational Systems, but also new engineering trends in software and hardware technology. A good technologist with this specialization is expected to
-            possess excellent analytical ability, mathematical aptitude, problem solving skills and a logical mind. The Computer Science and Engineering Department at JSS is affiliated to Uttar Pradesh Technical University, Lucknow and endeavours to provide
-            an environment where students can grow into Computer Engineers of tomorrow possessing all these necessary attributes. Academic standards are high and students have an opportunity to learn from experienced and well-qualified faculty members.
-            The classroom sessions are reinforced through practical sessions, projects, workshops and many other co-curricular activities. Industrial interaction is promoted through various MOUs with companies like IBM, SAP and Nokia resulting in increased
-            employability of students.
-
+          <div class="sectionHeading">NEWS & EVENTS</div>
+          <div class="sectionContent card-body px-4 newsBox">
+            <marquee direction="up" behavior="scroll" scrollamount="6" id="marq">
+              <ul class="sectionList">
+                <li class="border-bottom">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labor.</li>
+                <li class="border-bottom">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labor.</li>
+                <li class="border-bottom">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labor.</li>
+                <li class="border-bottom">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labor.</li>
+                <li class="border-bottom">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labor.</li>
+              </ul>
+            </marquee>
           </div>
         </section>
       </div>
@@ -246,31 +203,74 @@
 
                 <dd>It goes beyond developing one's knowledge and sharpening his skills as it paves the way for progress of a nation and its generations to come.</dd>
               
-                <dd>In the 18 years of educational journey the JECRC Foundation has set up some of the best engineering colleges and nurtured the essence of growth in education. The JECRC Engineering College was the first venture of the foundation in the league of the best colleges for B.Tech in Rajasthan. The Foundation has earned respect of being the most reputed educational group in north India with the establishment of some of the best colleges in Rajasthan, prime focus being the holistic approach and overall development of its <students class=""></students></dd>
-            
+                <dd>In the 18 years of educational journey the JECRC Foundation has set up some of the best engineering colleges and nurtured the essence of growth in education. The JECRC Engineering College was the first venture of the foundation in the league of the best colleges for B.Tech in Rajasthan. The Foundation has earned respect of being the most reputed educational group in north India with the establishment of some of the best colleges in Rajasthan, prime focus being the holistic approach and overall development of its <students class=""></students></dd> 
           </ul>
-          </div>
-        </section>
-        <section class="section container card">
-          <div class="sectionHeading">NEW HEADING</div>
-          <div class="sectionContent card-body">
-            The area of Computer Science and Engineering deals with not only Theory of Computation and Design of Computational Systems, but also new engineering trends in software and hardware technology. A good technologist with this specialization is expected to
-            possess excellent analytical ability, mathematical aptitude, problem solving skills and a logical mind. The Computer Science and Engineering Department at JSS is affiliated to Uttar Pradesh Technical University, Lucknow and endeavours to provide
-            an environment where students can grow into Computer Engineers of tomorrow possessing all these necessary attributes. Academic standards are high and students have an opportunity to learn from experienced and well-qualified faculty members.
-            The classroom sessions are reinforced through practical sessions, projects, workshops and many other co-curricular activities. Industrial interaction is promoted through various MOUs with companies like IBM, SAP and Nokia resulting in increased
-            employability of students.
           </div>
         </section>
       </div>
       <div class="col-md-3">
         <section class="section container card">
-          <div class="sectionHeading">STUDENT SPOTLIGHT</div>
+          <div class="sectionHeading">MESSAGES</div>
           <div class="sectionContent card-body">
-            The area of Computer Science and Engineering deals with not only Theory of Computation and Design of Computational Systems, but also new engineering trends in software and hardware technology. A good technologist with this specialization is expected to
-            possess excellent analytical ability, mathematical aptitude, problem solving skills and a logical mind. The Computer Science and Engineering Department at JSS is affiliated to Uttar Pradesh Technical University, Lucknow and endeavours to provide
-            an environment where students can grow into Computer Engineers of tomorrow possessing all these necessary attributes. Academic standards are high and students have an opportunity to learn from experienced and well-qualified faculty members.
-            The classroom sessions are reinforced through practical sessions, projects, workshops and many other co-curricular activities. Industrial interaction is promoted through various MOUs with companies like IBM, SAP and Nokia resulting in increased
-            employability of students.
+  <div class="imageCarousel">
+    <div id="carouselMessage" class="carousel slide" data-ride="carousel">
+      <ol class="carousel-indicators">
+        <li data-target="#carouselMessage" data-slide-to="0" class="active"></li>
+        <li data-target="#carouselMessage" data-slide-to="1"></li>
+        <li data-target="#carouselMessage" data-slide-to="2"></li>
+      </ol>
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+        <!-- Principles Message -->
+          <div class="col-12" style="text-align: center;">
+            <img src="src/img/people/Anil.jpg" class="rounded-circle img-responsive faculty-img" alt="principle">              
+            <h3 class="py-1">V.K. Chandna</h3>
+            <h4 class="py-1">Principle</h4>
+          </div>
+          <div class="col-12">
+            <p class="py-2">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum error, voluptate. Porro alias nihil deserunt, vel soluta laboriosam maxime autem labore ab unde, laborum, asperiores officia ullam. Asperiores cupiditate numquam in aliquid doloribus? Dignissimos pariatur vel, nam ipsa consectetur dicta saepe explicabo quasi sapiente recusandae cumque facilis iusto praesentium quod, accusamus ducimus atque modi libero nostrum non sed laudantium sint. Nesciunt, debitis et illo ullam excepturi eum ad suscipit vel modi. Velit aliquam quos aliquid tenetur consectetur veritatis dolorem omnis nam maiores quasi quia aut ducimus at, possimus vitae debitis dolore inventore voluptate sapiente! Quasi et sunt reprehenderit quibusdam porro.
+            </p>
+          </div>
+        </div>
+        <div class="carousel-item">
+        <!-- Directors Message -->
+          <div class="col-12" style="text-align: center;">
+            <img src="src/img/people/Anil.jpg" class="rounded-circle img-responsive faculty-img" alt="principle">              
+            <h3 class="py-1">V.K. Chandna</h3>
+            <h4 class="py-1">Principle</h4>
+          </div>
+          <div class="col-12">
+            <p class="py-2">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum error, voluptate. Porro alias nihil deserunt, vel soluta laboriosam maxime autem labore ab unde, laborum, asperiores officia ullam. Asperiores cupiditate numquam in aliquid doloribus? Dignissimos pariatur vel, nam ipsa consectetur dicta saepe explicabo quasi sapiente recusandae cumque facilis iusto praesentium quod, accusamus ducimus atque modi libero nostrum non sed laudantium sint. Nesciunt, debitis et illo ullam excepturi eum ad suscipit vel modi. Velit aliquam quos aliquid tenetur consectetur veritatis dolorem omnis nam maiores quasi quia aut ducimus at, possimus vitae debitis dolore inventore voluptate sapiente! Quasi et sunt reprehenderit quibusdam porro.
+            </p>
+          </div>
+        </div>
+        <div class="carousel-item">
+        <!-- Directors Message -->
+          <div class="col-12" style="text-align: center;">
+            <img src="src/img/people/Anil.jpg" class="rounded-circle img-responsive faculty-img" alt="principle">              
+            <h3 class="py-1">V.K. Chandna</h3>
+            <h4 class="py-1">Principle</h4>
+          </div>
+          <div class="col-12">
+            <p class="py-2">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum error, voluptate. Porro alias nihil deserunt, vel soluta laboriosam maxime autem labore ab unde, laborum, asperiores officia ullam. Asperiores cupiditate numquam in aliquid doloribus? Dignissimos pariatur vel, nam ipsa consectetur dicta saepe explicabo quasi sapiente recusandae cumque facilis iusto praesentium quod, accusamus ducimus atque modi libero nostrum non sed laudantium sint. Nesciunt, debitis et illo ullam excepturi eum ad suscipit vel modi. Velit aliquam quos aliquid tenetur consectetur veritatis dolorem omnis nam maiores quasi quia aut ducimus at, possimus vitae debitis dolore inventore voluptate sapiente! Quasi et sunt reprehenderit quibusdam porro.
+            </p>
+          </div>
+        </div>
+      </div>
+      <a class="carousel-control-prev" href="#carouselMessage" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#carouselMessage" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+  </div>
+
           </div>
 
         </section>
