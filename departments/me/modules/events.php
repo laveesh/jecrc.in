@@ -46,11 +46,11 @@
 			<div class="sectionHeading">Expert talk on “Big Data” by Dr. Mansaf Alam from Jamia Milia Islamia, Delhi on 27th October,2015.</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
-					<div id="events_carausel" class="carousel slide" data-ride="carousel">
+					<div id="events_carausel2" class="carousel slide" data-ride="carousel">
 					<ol class="carousel-indicators">
-						<li data-target="#events_carausel" data-slide-to="0" class="active"></li>
-						<li data-target="#events_carausel" data-slide-to="1"></li>
-						<li data-target="#events_carausel" data-slide-to="2"></li>
+						<li data-target="#events_carausel2" data-slide-to="0" class="active"></li>
+						<li data-target="#events_carausel2" data-slide-to="1"></li>
+						<li data-target="#events_carausel2" data-slide-to="2"></li>
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
@@ -63,11 +63,11 @@
 							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
 						</div>
 					</div>
-					<a class="carousel-control-prev" href="#events_carausel" role="button" data-slide="prev">
+					<a class="carousel-control-prev" href="#events_carausel2" role="button" data-slide="prev">
 					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
 					<span class="sr-only">Previous</span>
 					</a>
-					<a class="carousel-control-next" href="#events_carausel" role="button" data-slide="next">
+					<a class="carousel-control-next" href="#events_carausel2" role="button" data-slide="next">
 					<span class="carousel-control-next-icon" aria-hidden="true"></span>
 					<span class="sr-only">Next</span>
 					</a>
@@ -88,11 +88,11 @@
 			<div class="sectionHeading">Expert talk on “Big Data” by Dr. Mansaf Alam from Jamia Milia Islamia, Delhi on 27th October,2015.</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
-					<div id="events_carausel" class="carousel slide" data-ride="carousel">
+					<div id="events_carausel3" class="carousel slide" data-ride="carousel">
 					<ol class="carousel-indicators">
-						<li data-target="#events_carausel" data-slide-to="0" class="active"></li>
-						<li data-target="#events_carausel" data-slide-to="1"></li>
-						<li data-target="#events_carausel" data-slide-to="2"></li>
+						<li data-target="#events_carausel3" data-slide-to="0" class="active"></li>
+						<li data-target="#events_carausel3" data-slide-to="1"></li>
+						<li data-target="#events_carausel3" data-slide-to="2"></li>
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
@@ -105,11 +105,11 @@
 							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
 						</div>
 					</div>
-					<a class="carousel-control-prev" href="#events_carausel" role="button" data-slide="prev">
+					<a class="carousel-control-prev" href="#events_carausel3" role="button" data-slide="prev">
 					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
 					<span class="sr-only">Previous</span>
 					</a>
-					<a class="carousel-control-next" href="#events_carausel" role="button" data-slide="next">
+					<a class="carousel-control-next" href="#events_carausel3" role="button" data-slide="next">
 					<span class="carousel-control-next-icon" aria-hidden="true"></span>
 					<span class="sr-only">Next</span>
 					</a>
