@@ -5,7 +5,7 @@
   </button>
 </div>
 <div class="container-fluid bg-primary deptHeader">
-  <span class="deptName">Department Of Computer Science Engineering</span>
+  <span class="deptName">Department of Electronics And Communication</span>
 </div>
 <!-- Container for sidebar and Image Carousel -->
 <div class="container-fluid banner">
@@ -37,6 +37,10 @@
                   <a class="dropdown-item" href="cse.php?section=academics">Academics</a>
                   <a class="dropdown-item" href="cse.php?section=student_opportunities">Student Opportunities</a>
                   <a class="dropdown-item" href="cse.php?section=ug_program">Under Graduate Program</a>
+                  <a class="dropdown-item" href="cse.php?section=program_outcomes">Program Outcomes</a>
+                  <a class="dropdown-item" href="cse.php?section=program_edu_obj">Program Education Objective</a>
+                  <a class="dropdown-item" href="cse.php?section=course_outcomes">Course Outcomes</a>
+                  <a class="dropdown-item" href="cse.php?section=co_po_mapping">CO and PO Mapping</a>
                   <a class="dropdown-item" href="cse.php?section=curriculum">Structure Curriculum</a>
                 </div>
               </li>
@@ -68,8 +72,18 @@
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="cse.php?section=news">News</a>
                   <a class="dropdown-item" href="cse.php?section=events">Events</a>
+                  <a class="dropdown-item" href="cse.php?section=tech_events">Technical Events</a>
                   <a class="dropdown-item" href="cse.php?section=awards_faculty">Faculties Awards</a>
                   <a class="dropdown-item" href="cse.php?section=awards_student">Students Awards</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Infrastructure
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="cse.php?section=labs">Laboratory</a>
+                  <a class="dropdown-item" href="cse.php?section=library">Library</a>
                 </div>
               </li>
               <li class="nav-item dropdown">
@@ -99,9 +113,6 @@
           <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
           <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
           <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
-          <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
-          <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
-          <li data-target="#carouselExampleIndicators" data-slide-to="7"></li>
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
@@ -111,7 +122,7 @@
             <img src="../departments/cse/src/img/Carousel/slider2.jpg" alt="Second slide">
           </div>
           <div class="carousel-item">
-            <img src="../departments/cse/src/img/Carousel/slider3.JPG" alt="Third slide">
+            <img   src="../departments/cse/src/img/Carousel/slider3.JPG" alt="Third slide">
           </div>
           <div class="carousel-item">
             <img  src="../departments/cse/src/img/Carousel/slider4.jpg" alt="Fourth slide">
@@ -119,16 +130,7 @@
           <div class="carousel-item">
             <img  src="../departments/cse/src/img/Carousel/slider5.jpg" alt="Fifth slide">
           </div>
-          <div class="carousel-item">
-            <img  src="../departments/cse/src/img/Carousel/slider6.jpg" alt="Sixth slide">
-          </div>
-          <div class="carousel-item">
-            <img  src="../departments/cse/src/img/Carousel/slider7.jpg" alt="Seventh slide">
-          </div>
-          <div class="carousel-item">
-            <img  src="../departments/cse/src/img/Carousel/slider8.jpg" alt="Eighth slide">
-          </div>
-        </div>
+          
         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
           <span class="carousel-control-prev-icon" aria-hidden="true"></span>
           <span class="sr-only">Previous</span>

@@ -1,15 +1,29 @@
 <section class="section container card">
 	<div class="sectionHeading">HOD's Message</div>
-	<div class="row card-body flex-row">
-		<div class="col-md-4">
-				<img src="../departments/cse/src/img/people/faculty/aditya.jpg" alt="hod image" class="card-img-top">
-		</div>
-		<div class="col-md-8">
-			<div class="card-block mt-2">
-				<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure veritatis maiores, saepe accusamus, quia magni, laudantium a nemo, repellat cum recusandae? Fugiat asperiores beatae fugit hic veritatis vel assumenda excepturi.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui autem pariatur animi provident quae ducimus veniam laborum optio. Adipisci fugit blanditiis dicta ad unde nam ratione explicabo nemo enim, similique.</p>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore eaque dolores excepturi eos, nam quia voluptatum iusto magnam omnis quos animi, ipsa neque sint asperiol Lorem ipsum dolor sit amet, consectetur adipisicing elit. At nihil illo nam totam cumque quae ea, numquam nisi officia voluptatibus dolores, adipisci eum, illum ipsum cum! Minima maiores sint suscipit.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officiis, sapiente saepe maiores nobis voluptas similique, quaerat adipisci eius voluptatem, voluptates laboriosam aut ab. Et labore quisquam, eligendi explicabo. Nihil, nam!</p>
-			</div>
-		</div>
-	</div>
+	<div class="panel-body card">
+					<div class="row">
+						<div class="col-md-4 py-3" align="center">
+							<img src="../departments/cse/src/img/people/faculty/Dr. Vijay Singh Rathore.png"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						</div>
+						<div class="col-md-8 px-4 py-3">
+							<p>
+								Computer Science & Engineering Program works with efficiency and added strength in a manner which focuses on providing the best. With the continuous evolution in technology and computer science, the department marches hand in hand with this progress, never letting the knowledge offered to students lag behind under any circumstances.
+							</p>
+							<p>
+								We nurture a student’s needs to stimulate and grow boundlessly, and offer an environment inducing mind’s capabilities to comprehend and infer. With regular training sessions, workshops, national and international conferences, CSE Department makes sure that the student’s get the best exposure, to develop their own selves.
+							</p>
+							<p>
+								With this second edition of SCOOP, I congratulate the students to take this initiative further and bring our department’s activities to everyone’s notice. Guiding and assisting them has been a pleasure. You will find everything that goes on behind the computer screens of our wing, with a scoop of our magazine SCOOP.
+							</p>
+							<p>
+								Best of luck to everyone!
+							</p>
+							<p class="text-right pr-2"><strong>
+								Prof. (Dr.) Vijay Singh Rathore <br />
+								Program Co-ordinator, CSE
+							</strong></p>
+						</div>
+					</div>
+				</div>
 
 </section>
