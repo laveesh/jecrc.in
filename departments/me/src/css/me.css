@@ -36,3 +36,12 @@
 .section p {
   text-align: justify;
 }
+
+
+/*Faculty image*/
+
+.faculty-img{
+  width: 100px;
+  height: 100px;
+}
+/*-------------------------*/
