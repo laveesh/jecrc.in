@@ -1,8 +1,16 @@
 <div id="academics" class="container card section">
 	<div class="sectionHeading">Academics</div>
 	<div class="card-body sectionContent">
-<p >The Department is affiliated to UP Technical University and offers Under-Graduate and Post-Graduate programmes. It is also a research center for PhD (Computer Science) students enrolled with UP Technical University.</p>
-<p >The CSE Department practices the Outcome Based Education (OBE) approach for teaching-learning process. This is a learning-centric approach rather than traditional teaching-centric approach to education. This approach focuses on the attributes the students should possess after the completion of the programme through the following key questions</p>
+<p >Electronics Engineering department is the coredepartment of the institute. The
+Department has 50 highly qualified faculty members with Ph.D. and M.Tech from
+prestigious institutions like IITs, NITs and other institutes of repute.
+</p>
+<p>
+Till now the department has three faculties with Ph.D. degree, many faculty members are
+pursuing Ph.D. programme in different reputated universities.
+The Electronics Engineering Department is enriched with various laboratories and
+having more than 1000 students in the department.</p>
+<p >The ECE Department practices the Outcome Based Education (OBE) approach for teaching-learning process. This is a learning-centric approach rather than traditional teaching-centric approach to education. This approach focuses on the attributes the students should possess after the completion of the programme through the following key questions</p>
 <ol class="sectionList">
 <li>At the end of the course, what should a student be able to do?</li>
 <li>How can the faculty and staff help the student in gaining this ability?</li>
