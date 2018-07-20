@@ -36,11 +36,11 @@
 					<ol class="sectionList">
 						<li><strong>Date of the event:</strong>8<sup>th</sup>July 2017.</li>
 						<li><strong>Venue:</strong>IIT, Delhi</li>
-						<li><strong>Objective/s:</strong> Dr. Manish Srivastava has participated one day seminar in “MOBILITY XPERT TALK” at IIT Delhi on 08th Jul 2017. Event was organised by ISIE India. Intellectuals and various speakers from  different parts of the country participated in the event.</li>
+						<li><strong>Objective/s:</strong> Dr. Manish Srivastava has participated one day seminar in “MOBILITY XPERT TALK” at IIT Delhi on 08th Jul 2017. Event was organised by ISIE India. Intellectuals and various speakers from different parts of the country participated in the event.</li>
 						<li><strong>Outcome:</strong></li>
 						<li><strong>Guests of Honour at the event:</strong></li>
 					</ol>
-				</div>
+				</div>	
 			</div>
 		</section>
 		<!-- 2 -->
