@@ -1,9 +1,25 @@
-<div class="container section" >
-<div class="sectionHeading">ALUMNI</div>
+<div class="container section">
 
-<p class="sectionContent pt-4" >One of the major goals of the department is to develop interaction with its alumni both within the country as well as abroad. To intensify this interaction alumni meets are held once a year with the aim to bridge the gap between institute and its alumni. Our students have always made us proud. Almost all our students get placed in reputed companies such as Infosys, Tech-Mahindra, HCL, Birlasoft, Adobe and many more; and continue to grow after employment.</p>
+<div class="sectionHeading">ALUMNI NOTES</div>
 
-<p class="sectionContent	">
-	Many of our alumni also choose to go for higher studies in premier institutions. These include top business schools such as IIM's, IBS (Hyderabad), NITIE (Mumbai), Symbiosis (Pune) and FMS (New Delhi). for MBA and top engineering colleges such as IISc, IIT's JNU; i.etc. for M.Tech in India. Our Students also pursue their higher studies in foreign universities such as Stony Brook University, New York(USA), University of Texas, Arlington, etc.
-</p>
+<div class="sectionContent">
+	<ul class="sectionList">
+				<li><strong>Degree year:</strong>2006-2010</li>
+				<li><strong>Deepak</strong></li>
+	</ul>
+		<p>
+			"Along with building strong fundamentals in Computer Science, I also got hundreds of opportunities to build life skills like effective writing, public speaking, people and project management and leadership, all of which have been very useful in my career so far. My class- mates were confident and smart and added great value to my learning in the classroom. Because of the CS and Math skills I built at JSS, and the support of the faculty by way of strong recommendation letters, I got an admit to the Masters program in Computer Science at the State University of New York at Stony Brook. After finishing my Masters degree, I got a job at Microsoft Corp as a Software Development Engineer."
+		</p>
+</div>
+
+
+<div class="sectionContent">
+	<ul class="sectionList">
+				<li><strong>Degree year:</strong>2006-2010</li>
+				<li><strong>Deepak</strong></li>
+	</ul>
+		<p>
+			"Along with building strong fundamentals in Computer Science, I also got hundreds of opportunities to build life skills like effective writing, public speaking, people and project management and leadership, all of which have been very useful in my career so far. My class- mates were confident and smart and added great value to my learning in the classroom. Because of the CS and Math skills I built at JSS, and the support of the faculty by way of strong recommendation letters, I got an admit to the Masters program in Computer Science at the State University of New York at Stony Brook. After finishing my Masters degree, I got a job at Microsoft Corp as a Software Development Engineer."
+		</p>
+</div>
 </div>

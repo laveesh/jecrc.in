@@ -121,9 +121,6 @@
         <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="7"></li>
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
@@ -140,15 +137,6 @@
         </div>
         <div class="carousel-item">
           <img  src="src/img/Carousel/slider5.jpg" alt="Fifth slide">
-        </div>
-        <div class="carousel-item">
-          <img  src="src/img/Carousel/slider6.jpg" alt="Sixth slide">
-        </div>
-        <div class="carousel-item">
-          <img  src="src/img/Carousel/slider7.jpg" alt="Seventh slide">
-        </div>
-        <div class="carousel-item">
-          <img  src="src/img/Carousel/slider8.jpg" alt="Eighth slide">
         </div>
       </div>
       <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -199,12 +187,32 @@
           <div class="sectionHeading">Welcome to JECRC Foundation</div>
           <div class="sectionContent card-body">
               <ul class="sectionList">
-                <dd>“When education sees its course, a dream opens its eyes”, is the belief of the foundation under the aegis of which top engineering colleges in India are set up. Education is just a spark for which it ignites the minds and inflames the intellect. Ignited minds change the world and bring us a better tomorrow.</dd>
+                <p>“When education sees its course, a dream opens its eyes”, is the belief of the foundation under the aegis of which top engineering colleges in India are set up. Education is just a spark for which it ignites the minds and inflames the intellect. Ignited minds change the world and bring us a better tomorrow.</p>
 
-                <dd>It goes beyond developing one's knowledge and sharpening his skills as it paves the way for progress of a nation and its generations to come.</dd>
+                <p>It goes beyond developing one's knowledge and sharpening his skills as it paves the way for progress of a nation and its generations to come.</p>
               
-                <dd>In the 18 years of educational journey the JECRC Foundation has set up some of the best engineering colleges and nurtured the essence of growth in education. The JECRC Engineering College was the first venture of the foundation in the league of the best colleges for B.Tech in Rajasthan. The Foundation has earned respect of being the most reputed educational group in north India with the establishment of some of the best colleges in Rajasthan, prime focus being the holistic approach and overall development of its <students class=""></students></dd> 
+                <p>In the 18 years of educational journey the JECRC Foundation has set up some of the best engineering colleges and nurtured the essence of growth in education. The JECRC Engineering College was the first venture of the foundation in the league of the best colleges for B.Tech in Rajasthan. The Foundation has earned respect of being the most reputed educational group in north India with the establishment of some of the best colleges in Rajasthan, prime focus being the holistic approach and overall development of its.</p> 
           </ul>
+          </div>
+        </section>
+        <section class="section container card">
+          <div class="sectionHeading">Outcome based education</div>
+          <div class="sectionContent card-body">
+                <p>Jaipur Engineering College and Research Centre, Jaipur has implemented Outcome Based Education (OBE) in the Institute. JECRC is proud to mention that it has created necessary manpower and infrastructure to implement Outcome Based Education from the year 2014-15. So far the Technical Institutions have been imparting teaching through a traditional system where the learning outcomes of the students are not clearly measured. The‘Washington Accord’ emphasize on outcome based education. There is a need to develop a standard approach to match quality assurance for Engineering Programs. The graduating Engineers of the future will need to be evaluated in their outlook and experience and be ready for global opportunities. So, there is a need and challenge for all Technical Institutions to aid and empower the future students for global environment.</p>
+
+                <p>The Outcome Based Education focuses on outcomes through achievement of learning objectives of
+their program. The OBE strongly emphasize student centric learning and adaptation of modern
+teaching-learning systems. JECRC has gone far ahead in implementing OBE where every student
+will distinctly write-down the learning outcomes in every hour of lecture he/she attends. The
+Teachers have been given specialized training to embark on OBE method of delivery and use of
+modern teaching-learning systems. With this OBE, it is expected that the students distinctly gain
+excellent knowledge in their relevant branch and contribute to the development of the organizations
+where they are employed.</p>
+              
+                <p>JECRC is also a Centre for imparting training on NBA which emphasis on OBE. The OBE process at
+JECRC is expected to raise the standards of Technical Education imparted in the Institute in the
+coming years. JECRC is committed for creating knowledge, skills and problem solving abilities
+among students of all ranks.</p> 
           </div>
         </section>
       </div>

@@ -41,7 +41,6 @@
                   <a class="dropdown-item" href="me.php?section=program_edu_obj">Program Education Objective</a>
                   <a class="dropdown-item" href="me.php?section=course_outcomes">Course Outcomes</a>
                   <a class="dropdown-item" href="me.php?section=co_po_mapping">CO and PO Mapping</a>
-                  <a class="dropdown-item" href="me.php?section=curriculum">Structure Curriculum</a>
                 </div>
               </li>
               <li class="nav-item dropdown">
@@ -49,7 +48,6 @@
                   Research
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="me.php?section=research">Research</a>
                   <a class="dropdown-item" href="me.php?section=publication">Publication</a>
                   <a class="dropdown-item" href="me.php?section=research_topic1">Research Topic 1</a>
                   <a class="dropdown-item" href="me.php?section=research_topic2">Research Topic 2</a>
@@ -60,7 +58,6 @@
                   People
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="me.php?section=people_home">Home</a>
                   <a class="dropdown-item" href="me.php?section=faculty">Faculty</a>
                   <a class="dropdown-item" href="me.php?section=staff">Staff</a>
                 </div>
@@ -86,16 +83,7 @@
                   <a class="dropdown-item" href="me.php?section=library">Library</a>
                 </div>
               </li>
-              <li class="nav-item dropdown">
-                <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  Alumni
-                </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="me.php?section=alumni">Alumni</a>
-                  <a class="dropdown-item" href="me.php?section=alumni_notes">Alumni Notes</a>
-                  <a class="dropdown-item" href="me.php?section=support">Support</a>
-                </div>
-              </li>
+              <li class="active"><a href="me.php?section=alumni">Alumni<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="active"><a href="me.php?section=student_associations">Student Associations<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
       					</ul>
       				</li>

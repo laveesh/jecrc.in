@@ -11,18 +11,3 @@
 </ol>
 </div>
 </section>
-<section id="employmentAvenues" class="container card section">
-	<div class="sectionHeading">Employment Avenues</div>
-	<div class="card-body sectionContent">
-	<p >Students are given career opportunities in the coveted areas of research and development, software industries, banking sectors, information security and other suitable areas. To facilitate the placement process for the students, a department faculty placement coordinator, assisted by two student coordinators, monitor placement activities like pre-placement talks, online tests (as required by the company), interviews and GDs. Students are constantly notified about new companies and off-campus jobs in other colleges through notices and announcements. Information regarding company profile, packages offered, selection criteria and dates of visit is provided to the students well in advance and subsequently the student data is given to the placement offices according to their respective criteria.</p>
-<p >Students have been placed in renowned companies like Adobe, Infosys, Birlasoft, HCL and the likes with impressive salary packages ranging from 4 L p.a to as high as 8.3L p.a.</p>
-</div>
-</section>
-<section id="innovation" class="container card section">
-	<div class="sectionHeading">Innovation</div>
-	<div class="card-body sectionContent">
-	<p >One of the most used systems of the organization is the "JSS Info-Center". This system serves as a means of communication between faculty, staff, students and administrative staff. Notices, assignments and other important information can be shared through the info-center. This system was created by the students of CSE and IT and is also maintained by them.</p>
-	<p >Zealicon is a techno-cultural fest of the Academy which is held annually. Right from designing of the brochure for the fest till designing, developing, hosting and maintaining the website is done by the students of CSE and IT.</p>
-	<p >students of CSE and IT have also developed an online quiz system. This is used extensively by the faculty.</p>
-	</div>
-</section>	
