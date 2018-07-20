@@ -51,8 +51,8 @@
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="me.php?section=research">Research</a>
                   <a class="dropdown-item" href="me.php?section=publication">Publication</a>
-                  <a class="dropdown-item" href="me.php?section=research_topic1">Research Topic 1</a>
-                  <a class="dropdown-item" href="me.php?section=research_topic2">Research Topic 2</a>
+                  <a class="dropdown-item" href="me.php?section=research_topic1">Conventional and nonconventional machining process</a>
+                  <a class="dropdown-item" href="me.php?section=research_topic2">Hybrid Stimulation </a>
                 </div>
               </li>
               <li class="nav-item dropdown">
