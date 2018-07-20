@@ -3,7 +3,7 @@
 	<div class="sectionContent card-body px-4">
 		<p>Mechanical Engineering Department, established in 2003 with a meagre 60 seats. Mechanical Engineering Department is one of the oldest and biggest departments of the institute with student strength of about 720 and faculty strength of 40. 
 		</p>
-		<p>The Department currently offers Under Graduate program B. Tech. Mechanical Engineering. Department have Well balanced academics and industrial experience faculty members and well equipped laboratory expose students to correlate theoretical concept in the practical work.
+		<p>The Department currently offers Under Graduate program B. Tech. Mechanical Engineering. Department has well balanced academics and industrial experience faculty members and well equipped laboratories which expose students to correlate theoretical concept in the practical work.
 		</p>
 		<p>In 2018, Centre of Excellence establish collaborated with CADD CENTRE promote high quality education by providing state-of-the-art and emerging technologies in the academy as well as industry with the objective of nurturing highly engineering professionals.The department is always motivating students to participate in the various technical/social activities held inside/outside the institute to develop their dynamic personality and leadership quality.
 		</p>
