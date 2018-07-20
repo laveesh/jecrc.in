@@ -12,5 +12,5 @@ inputs in the form of research articles and our departmental projects have been 
 taking literature help from the books and research papers.</p>
 	</div>
 <!-- 	<embed src="../departments/me/src/pdf/books_database.pdf" class="embed-doc" value="FitH" type='application/pdf'> -->
-	<iframe src="http://docs.google.com/gview?url=http://cdn.phpreferencebook.com/wp-content/uploads/2008/12/php_reference_-_beginner_to_intermediate_php5.pdf&embedded=true" class="embed-doc" frameborder="0"></iframe>		
+	<iframe src="http://docs.google.com/gview?url=https://jecrcwebsite.herokuapp.com/departments/me/src/pdf/books_database.pdf&embedded=true" class="embed-doc" frameborder="0"></iframe>		
 </section>
