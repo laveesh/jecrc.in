@@ -1,11 +1,13 @@
 <!-- Reasearch Software Engineering and Practices part -->
 <section class="section container card">
-  <div class="sectionHeading">Software Engineering and Practices</div>
+  <div class="sectionHeading">Conventional and nonconventional machining process</div>
   <div class="sectionContent card-body px-4">
-    Computer Science and Information Technology faculty research interests in software engineering is principally in the area of Service Oriented Architecture, Orchestration and Choreography for composing of web services , Ontology , Aspect Oriented Software
-    engineering, Metrics development, Defect Management, regression testing, reverse engineering and testing techniques. The aim is to develop and experiment with industry standard solutions using advanced software development techniques and understanding
-    of how software systems evolve. Different software solutions are developed in order to satisfy given software requirements. Other work involves developing better models and techniques for the design and implementation of software systems. Some research
-    work includes test prioritization techniques, design and development of testing techniques, repairing transformation of test cases for regression testing and developing software quality management models. This group tries to ensure better and consistent
-    research results in software development practice.
+    <p>	Manufacturing processes can be broadly divided into two groups and they are primary manufacturing processes and secondary manufacturing processes. The former ones provide basic shape and size to the material as per designer’s requirement. Casting, forming, powder metallurgy are such processes to name a few. Secondary manufacturing processes provide the final shape and size with tighter control on dimension, surface characteristics etc. Material removal processes are mainly the secondary manufacturing processes.</p>
+
+<p>Material removal processes once again can be divided into mainly two groups and they are “Conventional Machining Processes” and “Non-Traditional Manufacturing Processes”.</p>
+
+<p>Examples of conventional machining processes are turning, boring, milling, shaping, broaching, slotting, grinding etc. Similarly, Abrasive Jet Machining (AJM), Ultrasonic Machining (USM), Water Jet and Abrasive Water Jet Machining (WJM and AWJM), Electro-discharge Machining (EDM) are some of the Non Traditional Machining (NTM) Processes</p>
+
+ 
   </div>
 </section>

@@ -1,11 +1,11 @@
 <!-- this is the side bar icon -->
 <div class="navbar-header" id="sideNavHeader">
-  <button type="button" class="navbar-toggle" id="sideNavIcon" data-toggle="collapse" data-target="#bs-sidebar-navbar-collapse-1">
-    <span><i class="fa fa-bars"></i></span>
-  </button>
+	<button type="button" class="navbar-toggle" id="sideNavIcon" data-toggle="collapse" data-target="#bs-sidebar-navbar-collapse-1">
+	<span><i class="fa fa-bars"></i></span>
+	</button>
 </div>
 <div class="container-fluid bg-primary deptHeader">
-  <span class="deptName">Departement of Mechanical Engineering</span>
+	<span class="deptName">Departement of Mechanical Engineering</span>
 </div>
 <!-- Container for sidebar and Image Carousel -->
 <div class="container-fluid banner">
@@ -157,7 +157,6 @@ else
 $('html').height(Math.max(height1,height3,height2));
 $('body').height(Math.max(height1,height3,height2));
 }
-
 }
 $( document ).ready(function () {
 htmlbodyHeightUpdate()
@@ -166,7 +165,7 @@ htmlbodyHeightUpdate()
 });
 $( window ).scroll(function() {
 height2 = $('.main').height()
-  htmlbodyHeightUpdate()
+htmlbodyHeightUpdate()
 });
 });
 </script>
