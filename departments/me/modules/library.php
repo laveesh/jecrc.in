@@ -5,8 +5,8 @@
 Mechanical Department Shri Manish Jain and other dignitaries of the College. Mechanical
 department library include 3022 number of books from the field of Material Science, Power
 plant Engineering, Thermal Engineering, Design and Manufacturing. Mechanical Department
-Library have eBook facility and 459 number of EBooks available in department library
-.Department Library have well equipped with proper furniture and students and faculty come
+Library have eBook facility and 459 number of e-Books available in department library
+.Department Library is  well equipped with proper furniture, students and faculty come
 regularly for reading the books and research papers. Students and faculty members give their
 inputs in the form of research articles and our departmental projects have been developed by
 taking literature help from the books and research papers.</p>
