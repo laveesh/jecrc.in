@@ -164,7 +164,7 @@
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								<li class="list-group-item">BT-02</li>
-								<li class="list-group-item">yogeshdubey@gmail.com</li>
+								<li class="list-group-item">tejendrasingh.me@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 06 year</li>
 								<li class="list-group-item">Publication: 02</li>
 							</ul>

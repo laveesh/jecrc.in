@@ -842,7 +842,7 @@
 			<tr>
 				<th scope="row">62</th>
 				<td>205</td>
-				<td>205</td>
+				<td>Engineering Mechanics</td>
 				<td>
 <ul class="list-group list-group-flush">
 	<li class="list-group-item">CO-1 Students will be able to describe fundamental laws of forces, FBD and virtual work.</li>

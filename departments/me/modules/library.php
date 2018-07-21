@@ -10,8 +10,7 @@ Library have eBook facility and 459 number of e-Books available in department li
 regularly for reading the books and research papers. Students and faculty members give their
 inputs in the form of research articles and our departmental projects have been developed by
 taking literature help from the books and research papers.</p>
-
-
-
 	</div>
+<!-- 	<embed src="../departments/me/src/pdf/books_database.pdf" class="embed-doc" value="FitH" type='application/pdf'> -->
+	<iframe src="http://docs.google.com/gview?url=https://jecrcwebsite.herokuapp.com/departments/me/src/pdf/books_database.pdf&embedded=true" class="embed-doc" frameborder="0"></iframe>		
 </section>

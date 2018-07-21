@@ -45,7 +45,7 @@
 				</h3>
 				<p>
 					Fork lifter was about building a crane using wooden material suitable enough to place the given weights on a platform using only hydraulic mechanism.
-					
+
 				</p>
 			</li>
 			<li class="list-group-item">
