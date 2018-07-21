@@ -11,13 +11,13 @@
             <img src="../src/img/Carousel/slider1.jpg" alt="First slide">
           </div>
           <div class="carousel-item">
-            <img src="../src/img/Carousel/slider2.jpg" alt="Second slide">
+            <img src="../src/img/Carousel/slider4.jpg" alt="Second slide">
           </div>
           <div class="carousel-item">
             <img src="../src/img/Carousel/slider3.jpg" alt="Third slide">
           </div>
           <div class="carousel-item">
-            <img  src="../src/img/Carousel/slider4.jpg" alt="Fourth slide">
+            <img  src="../src/img/Carousel/slider2.jpg" alt="Fourth slide">
           </div>
           <div class="carousel-item">
             <img  src="../src/img/Carousel/slider5.jpg" alt="Fifth slide">

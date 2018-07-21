@@ -41,7 +41,6 @@
                   <a class="dropdown-item" href="ece.php?section=program_edu_obj">Program Education Objective</a>
                   <a class="dropdown-item" href="ece.php?section=course_outcomes">Course Outcomes</a>
                   <a class="dropdown-item" href="ece.php?section=co_po_mapping">CO and PO Mapping</a>
-                  <a class="dropdown-item" href="ece.php?section=curriculum">Structure Curriculum</a>
                 </div>
               </li>
               <li class="nav-item dropdown">
@@ -60,7 +59,6 @@
                   People
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="ece.php?section=people_home">Home</a>
                   <a class="dropdown-item" href="ece.php?section=faculty">Faculty</a>
                   <a class="dropdown-item" href="ece.php?section=staff">Staff</a>
                 </div>

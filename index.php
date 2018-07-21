@@ -22,7 +22,7 @@
           Shri Ram ki Nangal, via Sitapura RIICO, Tonk Road, Sukhpuria, Bambala, Jaipur, Rajasthan 302022
         </div>
       </div>
-      <nav class="navbar navbar-expand-lg bg-primary mainNav">
+      <nav class="navbar navbar-expand-xl bg-primary mainNav">
         <div class="collapse navbar-collapse bg-primary" id="navbarSupportedContent">
           <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
@@ -124,13 +124,13 @@
               <img src="src/img/Carousel/slider1.jpg" alt="First slide">
             </div>
             <div class="carousel-item">
-              <img src="src/img/Carousel/slider2.jpg" alt="Second slide">
+              <img src="src/img/Carousel/slider4.jpg" alt="Second slide">
             </div>
             <div class="carousel-item">
               <img   src="src/img/Carousel/slider3.jpg" alt="Third slide">
             </div>
             <div class="carousel-item">
-              <img  src="src/img/Carousel/slider4.jpg" alt="Fourth slide">
+              <img  src="src/img/Carousel/slider2.jpg" alt="Fourth slide">
             </div>
             <div class="carousel-item">
               <img  src="src/img/Carousel/slider5.jpg" alt="Fifth slide">
@@ -147,15 +147,10 @@
         </div>
       </div>
     </div>
-    <div class="container-fluid mt-2 mb-2 marqueContainer">
-      <marquee scrollamount="6">
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-      </marquee>
-    </div>
     <!-- randomly arranged contents  -->
     <div class="container-fluid">
       <div class="row">
-        <div class="col-md-3">
+        <div class="col-xl-3 col-lg-4">
           <section class="section container card">
             <div class="sectionHeading">NEWS & EVENTS</div>
             <div class="sectionContent card-body px-4 newsBox">
@@ -170,16 +165,79 @@
               </marquee>
             </div>
           </section>
+          <!-- Photo Gallery  -->
+          <section class="section container card my-5 gallery">
+            <div class="sectionHeading">Photo Gallery</div>
+            <div class="sectionContent card-body px-4 gallery-cont">
+              <marquee direction="down" behavior="scroll" scrollamount="10">
+              <div class="row">
+                <div class="col-12">
+                  <img src="src/img/gallery/1.jpg" alt="img-1" class="gallery-img my-3">
+                </div>
+                <div class="col-12">
+                  <img src="src/img/gallery/2.jpg" alt="img-2" class="gallery-img my-3">
+                </div>
+                <div class="col-12">
+                  <img src="src/img/gallery/3.jpg" alt="img-3" class="gallery-img my-3">
+                </div>
+                <div class="col-12">
+                  <img src="src/img/gallery/4.jpg" alt="img-4" class="gallery-img my-3">
+                </div>
+                <div class="col-12">
+                  <img src="src/img/gallery/5.jpg" alt="img-5" class="gallery-img my-3">
+                </div>
+                <div class="col-12">
+                  <img src="src/img/gallery/6.jpg" alt="img-6" class="gallery-img my-3">
+                </div>
+                <div class="col-12">
+                  <img src="src/img/gallery/7.jpg" alt="img-7" class="gallery-img my-3">
+                </div>
+                <div class="col-12">
+                  <img src="src/img/gallery/8.jpg" alt="img-8" class="gallery-img my-3">
+                </div>
+                <div class="col-12">
+                  <img src="src/img/gallery/9.jpg" alt="img-9" class="gallery-img my-3">
+                </div>
+                <div class="col-12">
+                  <img src="src/img/gallery/10.jpg" alt="img-10" class="gallery-img my-3">
+                </div>
+                <div class="col-12">
+                  <img src="src/img/gallery/11.jpg" alt="img-11" class="gallery-img my-3">
+                </div>
+                <div class="col-12">
+                  <img src="src/img/gallery/12.jpg" alt="img-12" class="gallery-img my-3">
+                </div>
+                <div class="col-12">
+                  <img src="src/img/gallery/13.jpg" alt="img-13" class="gallery-img my-3">
+                </div>
+                <div class="col-12">
+                  <img src="src/img/gallery/14.jpg" alt="img-14" class="gallery-img my-3">
+                </div>
+                <div class="col-12">
+                  <img src="src/img/gallery/15.jpg" alt="img-15" class="gallery-img my-3">
+                </div>
+                <div class="col-12">
+                  <img src="src/img/gallery/16.jpg" alt="img-16" class="gallery-img my-3">
+                </div>
+              </div>
+              </marquee>
+            </div>
+          </section>
         </div>
-        <div class="col-md-6">
+        <div class="col-xl-6 col-lg-8">
           <section class="section container card">
             <div class="sectionHeading">Welcome to JECRC Foundation</div>
             <div class="sectionContent card-body">
               <ul class="sectionList">
-                <p>“When education sees its course, a dream opens its eyes”, is the belief of the foundation under the aegis of which top engineering colleges in India are set up. Education is just a spark for which it ignites the minds and inflames the intellect. Ignited minds change the world and bring us a better tomorrow.</p>
-                <p>It goes beyond developing one's knowledge and sharpening his skills as it paves the way for progress of a nation and its generations to come.</p>
-                
-                <p>In the 18 years of educational journey the JECRC Foundation has set up some of the best engineering colleges and nurtured the essence of growth in education. The JECRC Engineering College was the first venture of the foundation in the league of the best colleges for B.Tech in Rajasthan. The Foundation has earned respect of being the most reputed educational group in north India with the establishment of some of the best colleges in Rajasthan, prime focus being the holistic approach and overall development of its.</p>
+                <p>An individual’s freedom lies in the way he is taught to express his thoughts, and this expression essentially comes from education. Established over a decade ago, JECRC Foundation has been providing quality education to its students, setting rationale in their minds for the transformation of technology, and ideologies of the world at large.</p>
+                <p>Perceived as the unparalleled educational group, JECRC Foundation is continuously ascending the steps of glory by establishing premier institutes in the field of engineering, management and pure & applied sciences; viz. :</p>
+                <ul class="sectionList my-1">
+                  <li>Jaipur Engineering College & Research Centre (JECRC)</li>
+                  <li>JECRC UDML College of Engineering (JECRC UDML)</li>
+                  <li>JECRC University</li>
+                </ul>
+                <p>Every year, more than 5000 students entrust JECRC Foundation with the responsibility of shaping their minds for a better future. Commanding the priority list of best engineering colleges in Jaipur, it has become the preferred choice of students from all across India, showing keen interest in admissions through various mediums of JEE and REAP.</p>
+                <p>Development of a unique and creative approach to life and education is the prime focus of JECRC Foundation.</p>
               </ul>
             </div>
           </section>
@@ -196,7 +254,6 @@
                   <img class="img-thumbnail" src="src/img/outcome_edu/ob2.jpg">
                 </div>
               </div>
-
               <p>The Outcome Based Education focuses on outcomes through achievement of learning objectives of
                 their program. The OBE strongly emphasize student centric learning and adaptation of modern
                 teaching-learning systems. JECRC has gone far ahead in implementing OBE where every student
@@ -205,7 +262,6 @@
                 modern teaching-learning systems. With this OBE, it is expected that the students distinctly gain
                 excellent knowledge in their relevant branch and contribute to the development of the organizations
               where they are employed.</p>
-
               <div class="row">
                 <div class="col-md-6 col-sm-12 text-center">
                   <img class="img-thumbnail" src="src/img/outcome_edu/ob3.jpg">
@@ -222,151 +278,119 @@
             </div>
           </section>
         </div>
-        <div class="col-md-3">
+        <div class="col-xl-3 col-lg-12">
           <section class="section container card">
-            <div class="sectionHeading">MESSAGES</div>
+            <div class="sectionHeading">DIRECTOR'S MESSAGE</div>
             <div class="sectionContent card-body">
-              <div class="imageCarousel">
-                <div id="carouselMessage" class="carousel slide" data-ride="carousel">
-                  <ol class="carousel-indicators">
-                    <li data-target="#carouselMessage" data-slide-to="0" class="active"></li>
-                    <li data-target="#carouselMessage" data-slide-to="1"></li>
-                    <li data-target="#carouselMessage" data-slide-to="2"></li>
-                  </ol>
-                  <div class="carousel-inner">
-                    <div class="carousel-item active">
-                      <!-- Principles Message -->
-                      <div class="col-12" style="text-align: center;">
-                        <img src="src/img/people/Anil.jpg" class="rounded-circle img-responsive faculty-img" alt="principle">
-                        <h3 class="py-1">V.K. Chandna</h3>
-                        <h4 class="py-1">Principle</h4>
-                      </div>
-                      <div class="col-12">
-                        <p class="py-2">
-                          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum error, voluptate. Porro alias nihil deserunt, vel soluta laboriosam maxime autem labore ab unde, laborum, asperiores officia ullam. Asperiores cupiditate numquam in aliquid doloribus? Dignissimos pariatur vel, nam ipsa consectetur dicta saepe explicabo quasi sapiente recusandae cumque facilis iusto praesentium quod, accusamus ducimus atque modi libero nostrum non sed laudantium sint. Nesciunt, debitis et illo ullam excepturi eum ad suscipit vel modi. Velit aliquam quos aliquid tenetur consectetur veritatis dolorem omnis nam maiores quasi quia aut ducimus at, possimus vitae debitis dolore inventore voluptate sapiente! Quasi et sunt reprehenderit quibusdam porro.
-                        </p>
-                      </div>
-                    </div>
-                    <div class="carousel-item">
-                      <!-- Directors Message -->
-                      <div class="col-12" style="text-align: center;">
-                        <img src="src/img/people/Anil.jpg" class="rounded-circle img-responsive faculty-img" alt="principle">
-                        <h3 class="py-1">V.K. Chandna</h3>
-                        <h4 class="py-1">Principle</h4>
-                      </div>
-                      <div class="col-12">
-                        <p class="py-2">
-                          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum error, voluptate. Porro alias nihil deserunt, vel soluta laboriosam maxime autem labore ab unde, laborum, asperiores officia ullam. Asperiores cupiditate numquam in aliquid doloribus? Dignissimos pariatur vel, nam ipsa consectetur dicta saepe explicabo quasi sapiente recusandae cumque facilis iusto praesentium quod, accusamus ducimus atque modi libero nostrum non sed laudantium sint. Nesciunt, debitis et illo ullam excepturi eum ad suscipit vel modi. Velit aliquam quos aliquid tenetur consectetur veritatis dolorem omnis nam maiores quasi quia aut ducimus at, possimus vitae debitis dolore inventore voluptate sapiente! Quasi et sunt reprehenderit quibusdam porro.
-                        </p>
-                      </div>
-                    </div>
-                    <div class="carousel-item">
-                      <!-- Directors Message -->
-                      <div class="col-12" style="text-align: center;">
-                        <img src="src/img/people/Anil.jpg" class="rounded-circle img-responsive faculty-img" alt="principle">
-                        <h3 class="py-1">V.K. Chandna</h3>
-                        <h4 class="py-1">Principle</h4>
-                      </div>
-                      <div class="col-12">
-                        <p class="py-2">
-                          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum error, voluptate. Porro alias nihil deserunt, vel soluta laboriosam maxime autem labore ab unde, laborum, asperiores officia ullam. Asperiores cupiditate numquam in aliquid doloribus? Dignissimos pariatur vel, nam ipsa consectetur dicta saepe explicabo quasi sapiente recusandae cumque facilis iusto praesentium quod, accusamus ducimus atque modi libero nostrum non sed laudantium sint. Nesciunt, debitis et illo ullam excepturi eum ad suscipit vel modi. Velit aliquam quos aliquid tenetur consectetur veritatis dolorem omnis nam maiores quasi quia aut ducimus at, possimus vitae debitis dolore inventore voluptate sapiente! Quasi et sunt reprehenderit quibusdam porro.
-                        </p>
-                      </div>
-                    </div>
-                  </div>
-                  <a class="carousel-control-prev" href="#carouselMessage" role="button" data-slide="prev">
-                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span class="sr-only">Previous</span>
-                  </a>
-                  <a class="carousel-control-next" href="#carouselMessage" role="button" data-slide="next">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="sr-only">Next</span>
-                  </a>
-                </div>
+              <div class="col-12" style="text-align: center;">
+                <img src="src/img/people/principal.jpg" class="rounded-circle img-responsive faculty-img" alt="principle">
+                <h3 class="py-1">Arpit Agarwal</h3>
+                <h4 class="py-1">Director</h4>
+              </div>
+              <div class="col-12">
+                <p class="py-2">
+                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum error, voluptate. Porro alias nihil deserunt, vel soluta laboriosam maxime autem labore ab unde, laborum, asperiores officia ullam. Asperiores cupiditate numquam in aliquid doloribus? Dignissimos pariatur vel, nam ipsa consectetur dicta saepe explicabo quasi sapiente recusandae cumque facilis iusto praesentium quod, accusamus ducimus atque modi libero nostrum non sed laudantium sint. Nesciunt, debitis et illo ullam excepturi eum ad suscipit vel modi. Velit aliquam quos aliquid tenetur consectetur veritatis dolorem omnis nam maiores quasi quia aut ducimus at, possimus vitae debitis dolore inventore voluptate sapiente! Quasi et sunt reprehenderit quibusdam porro.
+                </p>
+              </div>
+            </div>
+          </section>
+          <section class="section container card mt-5">
+            <div class="sectionHeading">PRINCIPAL'S MESSAGES</div>
+            <div class="sectionContent card-body">
+              <div class="col-12" style="text-align: center;">
+                <img src="src/img/people/principal.jpg" class="rounded-circle img-responsive faculty-img" alt="principle">
+                <h3 class="py-1">V.K. Chandna</h3>
+                <h4 class="py-1">Principal</h4>
+              </div>
+              <div class="col-12">
+                <p class="py-2">
+                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum error, voluptate. Porro alias nihil deserunt, vel soluta laboriosam maxime autem labore ab unde, laborum, asperiores officia ullam. Asperiores cupiditate numquam in aliquid doloribus? Dignissimos pariatur vel, nam ipsa consectetur dicta saepe explicabo quasi sapiente recusandae cumque facilis iusto praesentium quod, accusamus ducimus atque modi libero nostrum non sed laudantium sint. Nesciunt, debitis et illo ullam excepturi eum ad suscipit vel modi. Velit aliquam quos aliquid tenetur consectetur veritatis dolorem omnis nam maiores quasi quia aut ducimus at, possimus vitae debitis dolore inventore voluptate sapiente! Quasi et sunt reprehenderit quibusdam porro.
+                </p>
               </div>
             </div>
           </section>
         </div>
       </div>
     </div>
-    <div class="container-fluid mb-1 mt-5 pt-5 pb-5 pr-5 pl-5 bg-jecrc">
-      <div class="pt-3 pb-3 pr-3 pl-3 text-center text-white advHeading">
-        <span>The JECRC ADVANTAGES</span>
+  </div>
+  <div class="container-fluid mb-1 mt-5 pt-5 pb-5 pr-5 pl-5 bg-jecrc">
+    <div class="pt-3 pb-3 pr-3 pl-3 text-center text-white advHeading">
+      <span>The JECRC ADVANTAGES</span>
+    </div>
+    <div class="row">
+      <div class="col-md-4">
+        <div class="col my-5 text-center bg-white advContainer">
+          Advantage 1
+        </div>
+        <div class="col my-5 text-center bg-white advContainer">
+          Advantage 1
+        </div>
       </div>
-      <div class="row">
-        <div class="col-md-4">
-          <div class="col my-5 text-center bg-white advContainer">
-            Advantage 1
-          </div>
-          <div class="col my-5 text-center bg-white advContainer">
-            Advantage 1
-          </div>
+      <div class="col-md-4">
+        <div class="col my-5 text-center bg-white advContainer">
+          Advantage 1
         </div>
-        <div class="col-md-4">
-          <div class="col my-5 text-center bg-white advContainer">
-            Advantage 1
-          </div>
-          <div class="col my-5 text-center bg-white advContainer">
-            Advantage 1
-          </div>
+        <div class="col my-5 text-center bg-white advContainer">
+          Advantage 1
         </div>
-        <div class="col-md-4">
-          <div class="col my-5 text-center bg-white advContainer">
-            Advantage 1
-          </div>
-          <div class="col my-5 text-center bg-white advContainer">
-            Advantage 1
-          </div>
+      </div>
+      <div class="col-md-4">
+        <div class="col my-5 text-center bg-white advContainer">
+          Advantage 1
+        </div>
+        <div class="col my-5 text-center bg-white advContainer">
+          Advantage 1
         </div>
       </div>
     </div>
-    <!-- Footer -->
-    <footer class="site-footer">
-      <div class="container footer-container">
-        <div class="row  align-center">
-          <div class="col-md-4">
-            <p>Important Links:</p>
-            <ul class="list-styling">
-              <li><a href="#">demo link</a></li>
-              <li><a href="#">demo link</a></li>
-              <li><a href="#">demo link</a></li>
-              <li><a href="#">demo link</a></li>
-            </ul>
+  </div>
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="container footer-container">
+      <div class="row  align-center">
+        <div class="col-md-4">
+          <h4>Important Links:</h4>
+          <ul class="list-styling">
+            <li><a href="#">demo link</a></li>
+            <li><a href="#">demo link</a></li>
+            <li><a href="#">demo link</a></li>
+            <li><a href="#">demo link</a></li>
+          </ul>
+        </div>
+        <div class="col-md-4">
+          <h4>Recruitments 2018</h4>
+        </div>
+        <div class="col-md-4">
+          <h4>Contact Us</h4>
+          <h5>895084748</h5>
+          <h5 class="support-color"> <a href="#">Support@jecrc.ac.in</a></h5>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <div class="row">
+          <div class="col-md-9">
+            <a href="#"><i class="fa fa-facebook footer-icons"></i></a>
+            <a href="#"><i class="fa fa-twitter footer-icons"></i></a>
+            <a href="#"><i  class="fa fa-google footer-icons"></i></a>
+            <a href="#"><i  class="fa fa-linkedin footer-icons"></i></a>
+            <a href="#"><i  class="fa fa-youtube footer-icons"></i></a>
           </div>
-          <div class="col-md-4">
-            <p>Recruitments 2018:</p>
-          </div>
-          <div class="col-md-4">
-            <p>Contact Us</p>
-            <p>895084748</p>
-            <p class="support-color"> <a href="#">Support@jecrc.ac.in</a></p>
+          <div class="col-md-3">
+            <p class="footer-bottom-para"> Developers</p>
           </div>
         </div>
-        <div class="footer-bottom">
-          <div class="row">
-            <div class="col-md-9">
-              <a href="#"><i class="fa fa-facebook footer-icons"></i></a>
-              <a href="#"><i class="fa fa-twitter footer-icons"></i></a>
-              <a href="#"><i  class="fa fa-google footer-icons"></i></a>
-              <a href="#"><i  class="fa fa-linkedin footer-icons"></i></a>
-              <a href="#"><i  class="fa fa-youtube footer-icons"></i></a>
-            </div>
-            <div class="col-md-3">
-              <p class="footer-bottom-para"> Developers</p>
-            </div>
-          </div>
-        </div>
-      </footer>
-      <!-- ---------------------------- -->
-      <script src="src/js/jquery.min.js"></script>
-      <script src="src/js/popper.min.js"></script>
-      <script src="src/js/bootstrap.min.js"></script>
-      <script>
-      $("marquee").hover(function () {
-      this.stop();
-      }, function () {
-      this.start();
-      });
-      </script>
-    </body>
-  </html>
+      </div>
+    </footer>
+    <!-- ---------------------------- -->
+    <script src="src/js/jquery.min.js"></script>
+    <script src="src/js/popper.min.js"></script>
+    <script src="src/js/bootstrap.min.js"></script>
+    <script>
+    $("marquee").hover(function () {
+    this.stop();
+    }, function () {
+    this.start();
+    });
+    </script>
+  </body>
+</html>
