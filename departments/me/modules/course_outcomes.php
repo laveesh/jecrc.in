@@ -766,34 +766,18 @@
 			</tr>
 			<tr>
 				<th scope="row">56</th>
-				<td>3ME4A</td>
-				<td>Manufacturing Processes</td>
+				<td>3ME103</td>
+				<td>Managerial Economics and Financial Acccounting</td>
 				<td>
-<ul class="list-group list-group-flush">
-	<li class="list-group-item">CO-1 To describe various type of casting processes.</li>
-	<li class="list-group-item">CO-2 To memorize different forming & joining processes in manufacturing.</li>
-	<li class="list-group-item">CO-3 To explain additive manufacturing process.</li>
-	<li class="list-group-item">CO-4 To classify plastic & nano technologies in manufacturing and their relevance to industry.</li>
-</ul>
-</td>
-			</tr>
-			<tr>
-				<th scope="row">57</th>
-				<td>3ME5A</td>
-				<td>Object Oriented Programming in C ++</td>
-				<td>
-
-<ul class="list-group list-group-flush">
-	<li class="list-group-item">CO-1 To implement the paradigms of object oriented programming in comparison of procedural oriented programming.</li>
-	<li class="list-group-item">CO-2 To implement the concept of dynamic memory allocation in the class structure as fundamental building block for computational programming.</li>
-	<li class="list-group-item">CO-3 To identify variety of programming language constructs by applying the concepts of abstraction inheritance, polymorphism, dynamic binding, templates and various types of files in building reusable code along with standard template library.</li>
-	<li class="list-group-item">CO-4 Apply the concepts of data structures such as stacks, Linked List, queues, simple binary tree to solve various computing problems</li>
-</ul>
-
+					<ul class="list-group list-group-flush">
+						<li class="list-group-item">CO-1 Students able to explain the term Economics and various laws of economics.</li>
+						<li class="list-group-item">CO-2 Able to know market structure and also its input on production cost.</li>
+						<li class="list-group-item">CO-3 To make aware the student with balance sheet and able to analyze the effect of its component on balance sheets.</li>
+					</ul>
 				</td>
 			</tr>
 			<tr>
-				<th scope="row">58</th>
+				<th scope="row">57</th>
 				<td>3ME6.2A</td>
 				<td>Advanced Engineering Mathematics</td>
 				<td>
@@ -808,7 +792,7 @@
 				</td>
 			</tr>
 			<tr>
-				<th scope="row">59</th>
+				<th scope="row">58</th>
 				<td>3ME7A</td>
 				<td>Material Science And Testing Lab</td>
 				<td>
@@ -821,7 +805,7 @@
 				</td>
 			</tr>
 			<tr>
-				<th scope="row">60</th>
+				<th scope="row">59</th>
 				<td>3ME8A</td>
 				<td>Production Practice-I</td>
 				<td>
@@ -832,7 +816,7 @@
 </td>
 			</tr>
 			<tr>
-				<th scope="row">61</th>
+				<th scope="row">60</th>
 				<td> 3ME10A</td>
 				<td>Computer Programming Lab</td>
 				<td>
@@ -843,7 +827,7 @@
 </td>
 			</tr>
 			<tr>
-				<th scope="row">62</th>
+				<th scope="row">61</th>
 				<td>3ME11A</td>
 				<td>Mechanical Engineering Drawing</td>
 				<td>
@@ -856,7 +840,7 @@
 				</td>
 			</tr>
 			<tr>
-				<th scope="row">63</th>
+				<th scope="row">62</th>
 				<td>205</td>
 				<td>Engineering Mechanics</td>
 				<td>
@@ -869,7 +853,7 @@
 </td>
 			</tr>
 			<tr>
-				<th scope="row">64</th>
+				<th scope="row">63</th>
 				<td>210</td>
 				<td>Machine Drawing</td>
 				<td>
@@ -882,7 +866,7 @@
 				</td>
 			</tr>
 			<tr>
-				<th scope="row">65</th>
+				<th scope="row">64</th>
 				<td>109</td>
 				<td>PRACTICAL GEOMETRY</td>
 				<td>
@@ -895,7 +879,7 @@
 				</td>
 			</tr>
 			<tr>
-				<th scope="row">66</th>
+				<th scope="row">65</th>
 				<td>110</td>
 				<td>WORKSHOP PRACTICE</td>
 				<td>
