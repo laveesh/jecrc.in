@@ -8,7 +8,7 @@
 					<div class="card-header text-center"><h4>Dr. Lokesh Kuamr Bansal</h4></div>
 					<div class="row">
 						<div class="col-md-3 pt-1 py-1" align="center">
-							<img src="../departments/ece/src/img/people/faculty/Bansal.jpg"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+							<img src="../departments/ece/src/img/people/faculty/Abhishek Dixit.jpg"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
