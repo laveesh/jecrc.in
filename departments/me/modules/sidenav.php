@@ -49,8 +49,8 @@
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="me.php?section=publication">Publication</a>
-                  <a class="dropdown-item" href="me.php?section=research_topic1">Research Topic 1</a>
-                  <a class="dropdown-item" href="me.php?section=research_topic2">Research Topic 2</a>
+                  <a class="dropdown-item" href="me.php?section=research_topic1">Machining Process</a>
+                  <a class="dropdown-item" href="me.php?section=research_topic2">Hybrid Simulation</a>
                 </div>
               </li>
               <li class="nav-item dropdown">

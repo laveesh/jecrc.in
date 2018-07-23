@@ -233,7 +233,6 @@
                 <p>Perceived as the unparalleled educational group, JECRC Foundation is continuously ascending the steps of glory by establishing premier institutes in the field of engineering, management and pure & applied sciences; viz. :</p>
                 <ul class="sectionList my-1">
                   <li>Jaipur Engineering College & Research Centre (JECRC)</li>
-                  <li>JECRC UDML College of Engineering (JECRC UDML)</li>
                   <li>JECRC University</li>
                 </ul>
                 <p>Every year, more than 5000 students entrust JECRC Foundation with the responsibility of shaping their minds for a better future. Commanding the priority list of best engineering colleges in Jaipur, it has become the preferred choice of students from all across India, showing keen interest in admissions through various mediums of JEE and REAP.</p>
