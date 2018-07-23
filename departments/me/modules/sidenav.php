@@ -98,8 +98,8 @@
         <ol class="carousel-indicators">
           <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
           <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-          <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-          <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+         <!-- <li data-target="#carouselExampleIndicators" data-slide-to="2"></li> -->
+           <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
           <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
           <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
           <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
@@ -112,9 +112,9 @@
           <div class="carousel-item">
             <img src="../departments/me/src/img/Carousel/slider2.jpg" alt="Second slide">
           </div>
-          <div class="carousel-item">
+          <!-- <div class="carousel-item">
             <img   src="../departments/me/src/img/Carousel/slider3.JPG" alt="Third slide">
-          </div>
+          </div> -->
           <div class="carousel-item">
             <img  src="../departments/me/src/img/Carousel/slider4.jpg" alt="Fourth slide">
           </div>

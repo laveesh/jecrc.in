@@ -314,16 +314,28 @@
 						<li data-target="#events_carausel6" data-slide-to="0" class="active"></li>
 						<li data-target="#events_carausel6" data-slide-to="1"></li>
 						<li data-target="#events_carausel6" data-slide-to="2"></li>
+						<li data-target="#events_carausel6" data-slide-to="3"></li>
+						<li data-target="#events_carausel6" data-slide-to="4"></li>
+						<li data-target="#events_carausel6" data-slide-to="5"></li>
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
+							<img class="d-block w-100" src="../departments/ece/src/img/Events/technophilia/1.jpg" alt="Technophilia">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
+							<img class="d-block w-100" src="../departments/ece/src/img/Events/technophilia/2.jpg" alt="Technophilia">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
+							<img class="d-block w-100" src="../departments/ece/src/img/Events/technophilia/3.jpg" alt="Technophilia">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/ece/src/img/Events/technophilia/4.jpg" alt="Technophilia">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/ece/src/img/Events/technophilia/5.jpg" alt="Technophilia">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/ece/src/img/Events/technophilia/6.jpg" alt="Technophilia">
 						</div>
 					</div>
 					<a class="carousel-control-prev" href="#events_carausel6" role="button" data-slide="prev">
@@ -364,17 +376,29 @@
 					<ol class="carousel-indicators">
 						<li data-target="#events_carausel7" data-slide-to="0" class="active"></li>
 						<li data-target="#events_carausel7" data-slide-to="1"></li>
-						<li data-target="#events_carausel7" data-slide-to="2"></li>
+						<li data-target="#events_carausel7" data-slide-to="3"></li>
+						<li data-target="#events_carausel7" data-slide-to="4"></li>
+						<li data-target="#events_carausel7" data-slide-to="5"></li>
+						<li data-target="#events_carausel7" data-slide-to="6"></li>
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
+							<img class="d-block w-100" src="../departments/ece/src/img/Events/phoenix/1.jpg" alt="Phoenix">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
+							<img class="d-block w-100" src="../departments/ece/src/img/Events/phoenix/2.jpg" alt="Phoenix">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
+							<img class="d-block w-100" src="../departments/ece/src/img/Events/phoenix/3.jpg" alt="Phoenix">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/ece/src/img/Events/phoenix/4.jpg" alt="Phoenix">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/ece/src/img/Events/phoenix/5.jpg" alt="Phoenix">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/ece/src/img/Events/phoenix/6.jpg" alt="Phoenix">
 						</div>
 					</div>
 					<a class="carousel-control-prev" href="#events_carausel7" role="button" data-slide="prev">
@@ -477,7 +501,7 @@ There are 2 rounds, first about the identification of circuit elements and secon
 			</div>
 		</section>
 		<section class="section">
-			<div class="sectionHeading">TechinoBuzz</div>
+			<div class="sectionHeading">TechnoBuzz</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
 					<div id="events_carausel9" class="carousel slide" data-ride="carousel">
@@ -488,13 +512,13 @@ There are 2 rounds, first about the identification of circuit elements and secon
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
+							<img class="d-block w-100" src="../departments/ece/src/img/Events/TechnoBuzz/1.jpg" alt="TechnoBuzz">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
+							<img class="d-block w-100" src="../departments/ece/src/img/Events/TechnoBuzz/2.jpg" alt="STechnoBuzz">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
+							<img class="d-block w-100" src="../departments/ece/src/img/Events/TechnoBuzz/3.jpg" alt="TechnoBuzz">
 						</div>
 					</div>
 					<a class="carousel-control-prev" href="#events_carausel9" role="button" data-slide="prev">
@@ -605,13 +629,13 @@ There are 2 rounds, first about the identification of circuit elements and secon
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
+							<img class="d-block w-100" src="../departments/ece/src/img/Events/tambola/1.jpg" alt="Tambola">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
+							<img class="d-block w-100" src="../departments/ece/src/img/Events/tambola/2.jpg" alt="Tambola">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
+							<img class="d-block w-100" src="../departments/ece/src/img/Events/tambola/3.jpg" alt="Tambola">
 						</div>
 					</div>
 					<a class="carousel-control-prev" href="#events_carausel11" role="button" data-slide="prev">

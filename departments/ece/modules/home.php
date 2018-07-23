@@ -36,8 +36,21 @@
             <div class="col-md-4 py-2"><a href="../departments/ece/src/newsletters/Ujjwalam vol_1 issue_2.pdf" class="btn btn-block btn-lg btn-primary" download>Vol-1 Issue-2</a></div>
             <div class="col-md-4 py-2"><a href="../departments/ece/src/newsletters/Ujjwalam Vol2 Issue1.pdf" class="btn btn-block btn-lg btn-primary" download>Vol-2 Issue-1</a></div>
           </div>
+          <hr>
           <p class="py-2 px-3">
-            It is with great pleasure that we bring to you the second issue of Ujjwalam, the newsletter of ECE Department JECRC Jaipur. The name of our newsletter- Ujjwalam- signifies brightness, With faculty members that consist of bright minds and students who are keen to leave a mark, our future is in safe hands indeed. The goal of this newsletter is to update you all with the developments at ECE department (JECRC) Jaipur. The current issue will provide the information about the various initiatives of department which are related to academics, research and innovation, student affairs, alumni and departmental laboratory / workshop. This newsletter besides reporting on the major events will also report on laurels earned by our faculty members, staff and students. While acknowledging valuable inputs received from the faculty members, staff and students, we also welcome suggestions from them to help us develop the newsletter further.
+            The Departments of Electronics & Communication Engineering
+       is the major department involving number of
+laboratories with a diversified variety of equipment being the core
+branch and with laboratories focusing on fundamental aspects of
+Electronics & Communication Engineering. In
+order to cope up with the requirement of industries, the department also
+have laboratories with latest technologies. Students have an open access in
+the laboratories, to understand as well as apply their knowledge to explore
+their engineering skills. The department have team of highly motivated
+and dedicated faculty members to the cause of academics and striving to do
+the best in the interest of the college and the students. Most of the faculty
+members are actively involved in research work and regularly publishing
+their research papers in Journals and Conferences.
 
           </p>
         </div>
@@ -47,6 +60,35 @@
       <section class="section container card">
         <div class="sectionHeading">STUDENT SPOTLIGHT</div>
         <div class="sectionContent card-body">
+          <h3 class="sectionHeading">GATE Toppers</h3>
+          <div class="row">
+            <div class="col-md-6 text-center">
+              <img src="../departments/ece/src/img/studentspotlight/image13.png" alt="" class="img-fluid img-thumbnail rounded-circle">
+              <h5 class="py-2">Jagdeesh Sirvi</h5>
+            </div>
+            <div class="col-md-6 text-center">
+              <img src="../departments/ece/src/img/studentspotlight/image14.png" alt="" class="img-fluid img-thumbnail rounded-circle">
+              <h5 class="py-2">Vishal Ranjan Prasad</h5>
+            </div>
+          </div>
+
+          <h3 class="sectionHeading">RTU Toppers</h3>
+          <div class="row">
+            <div class="col-md-6">
+              <ul class="list-group list-group-flush">
+                <li class="list-group-item">Ritu Daryani</li>
+                <li class="list-group-item">Jitesh Kumar</li>
+                <li class="list-group-item">Vinod Kr Gill</li>
+              </ul>
+            </div>
+            <div class="col-md-6">
+              <ul class="list-group list-group-flush">
+                <li class="list-group-item">Mukul Agarwal</li>
+                <li class="list-group-item">Rajat Garg</li>
+                <li class="list-group-item">Bhawna Soni</li>
+              </ul>
+            </div>
+          </div>
         </div>
 
       </section>
