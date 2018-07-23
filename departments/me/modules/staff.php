@@ -8,7 +8,7 @@
 				<div class="card-header text-center"><h4>Hemant Naiwal</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/me/src/img/people/faculty/M.P.SINGH.jpg"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/me/src/img/people/staff/Hemant.jpg"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -27,7 +27,7 @@
 				<div class="card-header text-center"><h4>Sandeep Sharma</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/me/src/img/people/faculty/M.P.SINGH.jpg"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/me/src/img/people/staff/Sandeep.jpg"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -46,7 +46,7 @@
 				<div class="card-header text-center"><h4>Raj Singh Naruka</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/me/src/img/people/faculty/M.P.SINGH.jpg"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/me/src/img/people/staff/Rajendra.jpg"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -65,7 +65,7 @@
 				<div class="card-header text-center"><h4>Narendra Singh</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/me/src/img/people/faculty/M.P.SINGH.jpg"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/me/src/img/people/staff/Narendra.jpg"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -84,7 +84,7 @@
 				<div class="card-header text-center"><h4>Sunil Kumar Yadav</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/me/src/img/people/faculty/M.P.SINGH.jpg"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/me/src/img/people/staff/Sunil.jpg"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -103,7 +103,7 @@
 				<div class="card-header text-center"><h4>Anil Kumar Prajapati</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/me/src/img/people/faculty/M.P.SINGH.jpg"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/me/src/img/people/staff/Anil.jpg"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -122,7 +122,7 @@
 				<div class="card-header text-center"><h4>Hanuman Prasad Saini</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/me/src/img/people/faculty/M.P.SINGH.jpg"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/me/src/img/people/staff/Haunuman.jpg"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -141,7 +141,7 @@
 				<div class="card-header text-center"><h4>Birsingh Sirowa</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/me/src/img/people/faculty/M.P.SINGH.jpg"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/me/src/img/people/staff/Birsingh.jpg"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">

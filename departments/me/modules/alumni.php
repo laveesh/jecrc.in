@@ -1,56 +1,13 @@
-<<<<<<< HEAD
-<div class="container section">
-||||||| merged common ancestors
-<div class="container section" >
-<div class="sectionHeading">ALUMNI</div>
-=======
 <section class="section container">
 	<h1 class="sectionHeading">ALUMNI</h1>
->>>>>>> e566d693ef887a379c8f9d5e6dfc20ff7a75b71d
-
-<<<<<<< HEAD
-<div class="sectionHeading">ALUMNI NOTES</div>
-||||||| merged common ancestors
-<p class="sectionContent pt-4" >One of the major goals of the department is to develop interaction with its alumni both within the country as well as abroad. To intensify this interaction alumni meets are held once a year with the aim to bridge the gap between institute and its alumni. Our students have always made us proud. Almost all our students get placed in reputed companies such as Infosys, Tech-Mahindra, HCL, Birlasoft, Adobe and many more; and continue to grow after employment.</p>
-=======
-<div class="row sectionContent">
->>>>>>> e566d693ef887a379c8f9d5e6dfc20ff7a75b71d
-
-<<<<<<< HEAD
-<div class="sectionContent">
-	<ul class="sectionList">
-				<li><strong>Degree year:</strong>2006-2010</li>
-				<li><strong>Deepak</strong></li>
-	</ul>
-		<p>
-			"Along with building strong fundamentals in Computer Science, I also got hundreds of opportunities to build life skills like effective writing, public speaking, people and project management and leadership, all of which have been very useful in my career so far. My class- mates were confident and smart and added great value to my learning in the classroom. Because of the CS and Math skills I built at JSS, and the support of the faculty by way of strong recommendation letters, I got an admit to the Masters program in Computer Science at the State University of New York at Stony Brook. After finishing my Masters degree, I got a job at Microsoft Corp as a Software Development Engineer."
-		</p>
-</div>
-
-
-<div class="sectionContent">
-	<ul class="sectionList">
-				<li><strong>Degree year:</strong>2006-2010</li>
-				<li><strong>Deepak</strong></li>
-	</ul>
-		<p>
-			"Along with building strong fundamentals in Computer Science, I also got hundreds of opportunities to build life skills like effective writing, public speaking, people and project management and leadership, all of which have been very useful in my career so far. My class- mates were confident and smart and added great value to my learning in the classroom. Because of the CS and Math skills I built at JSS, and the support of the faculty by way of strong recommendation letters, I got an admit to the Masters program in Computer Science at the State University of New York at Stony Brook. After finishing my Masters degree, I got a job at Microsoft Corp as a Software Development Engineer."
-		</p>
-</div>
-</div>
-||||||| merged common ancestors
-<p class="sectionContent	">
-	Many of our alumni also choose to go for higher studies in premier institutions. These include top business schools such as IIM's, IBS (Hyderabad), NITIE (Mumbai), Symbiosis (Pune) and FMS (New Delhi). for MBA and top engineering colleges such as IISc, IIT's JNU; i.etc. for M.Tech in India. Our Students also pursue their higher studies in foreign universities such as Stony Brook University, New York(USA), University of Texas, Arlington, etc.
-</p>
-</div>
-=======
+	
 
 <div class="col-md-12 mt-4">
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>VIPUL SAINI(2006-2010)</h4></div>
 					<div class="row">
 						<div class="col-md-3 pt-1 py-1" align="center">
-							<img src="../departments/me/src/img/people/faculty/M.P.SINGH.jpg"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+							<img src="../departments/me/src/img/alumni/vipul.jpg"	class="img-responsive rounded-circle w-75 " alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<div class="sectionContent">
@@ -73,7 +30,7 @@
 					<div class="card-header text-center"><h4>PARTH MISHRA (2008-2012)</h4></div>
 					<div class="row">
 						<div class="col-md-3 pt-1 py-1" align="center">
-							<img src="../departments/me/src/img/people/faculty/M.P.SINGH.jpg"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+							<img src="../departments/me/src/img/alumni/parth.jpg"	class="img-responsive rounded-circle w-75" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<div class="sectionContent">
@@ -94,7 +51,7 @@
 					<div class="card-header text-center"><h4>Akshat yadav (2004-2008)</h4></div>
 					<div class="row">
 						<div class="col-md-3 pt-1 py-1" align="center">
-							<img src="../departments/me/src/img/people/faculty/M.P.SINGH.jpg"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+							<img src="../departments/me/src/img/alumni/akshat.jpg"	class="img-responsive rounded-circle w-75" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<div class="sectionContent">
@@ -114,18 +71,14 @@
 <div class="col-md-12 mt-4">
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Saurabh Jain (2004-2008)</h4></div>
-					<div class="row">
-						<div class="col-md-3 pt-1 py-1" align="center">
-							<img src="../departments/me/src/img/people/faculty/M.P.SINGH.jpg"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
-						</div>
-						<div class="col-md-9 px-2">
+					
 							<div class="sectionContent">
 								I have completed my graduation in 2008. Initially I joined in I.T branch but during first year found my interest in Mechanical and shifted to it after completing first year. Those four years (2004-2008) were undoubtedly the best years of my life. Great teachers, friends & memories are assets that I gained in that period which have made me a rich person, not by virtue of money but by emotions and relationships. M.P.Singh Sir, Manish Jain Sir and Kuldeep sir are people whom I owe a lot in my life. 
 								I joined Reliance Industries limited as a Maintenance Engineer in 2008 and had worked there till 2010, then went on for pursuing my MBA from Delhi Technological University (Popularly known as Delhi College of Engineering).Since 2012, I am working with Tata Hitachi Construction Machinery Company Private limited as Sr. Manager-Sales & Marketing in Jaipur.
 								Sitting in my office while writing this note pictures of College campus, Yadav ji ki canteen, Mechanical labs & old friends are floating in my mind, I am feeling nostalgic. I am having a feeling of Gratitude towards the Institute for allowing me to be a part of it.
 
 							</div>
-						</div>
+						
 					</div>
 				</div>
 	</div>
@@ -134,4 +87,4 @@
 
 
 </section>
->>>>>>> e566d693ef887a379c8f9d5e6dfc20ff7a75b71d
+
