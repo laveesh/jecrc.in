@@ -141,7 +141,7 @@ nav {
 
 .sidebar a {
   color: white !important;
-  font-size: 1.5vw;
+  font-size: 1vmax;
   text-decoration: none;
   cursor: pointer;
 }
@@ -298,16 +298,19 @@ section {
 
 .banner .imageCarousel {
   padding: 20px;
+  text-align: center;
 }
 
 .banner .imageCarousel .carousel-item img {
-  width: 75vw;
+  width: 77vw;
   height: auto;
+  border-radius: 15px;
+  box-shadow: 2px 5px 5px grey;
 }
 
 @media screen and (max-width: 576px) {
   .banner .imageCarousel .carousel-item img {
-    width: 100vw !important;
+    width: 87vw !important;
   }
 }
 
@@ -438,3 +441,49 @@ section {
 }
 
 /* ----------------------------- */
+/*GENERAL ALIGNMENT FOR SECTION*/
+
+.section {
+  padding: 1%;
+  box-shadow: 2px 2px 5px grey;
+  margin-top: 3%;
+  margin-bottom: 3%;
+}
+
+.sectionHeading {
+  text-align: center;
+  background-color: #05173a;
+  width: 100%;
+  border-radius: 20px;
+  color: white;
+  margin-bottom: 10px;
+  padding: 5px;
+  font-family: "times new roman";
+  font-size: 20px;
+}
+
+.sectionSubHeading {
+  color: #0e08ee;
+}
+
+.sectionContent {
+  font-family: "georgia";
+  font-size: 18px;
+  padding: 1%;
+}
+
+.sectionList {
+  margin-left: 3%;
+}
+
+.section p {
+  text-align: justify;
+}
+
+/*Faculty image*/
+
+.faculty-img{
+  width: 100px;
+  height: 100px;
+}
+/*-------------------------*/

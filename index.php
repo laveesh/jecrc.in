@@ -282,7 +282,7 @@
             <div class="sectionHeading">DIRECTOR'S MESSAGE</div>
             <div class="sectionContent card-body">
               <div class="col-12" style="text-align: center;">
-                <img src="src/img/people/principal.jpg" class="rounded-circle img-responsive faculty-img" alt="principle">
+                <img src="src/img/people/arpit.jpg" class="rounded-circle img-responsive faculty-img" alt="principle">
                 <h3 class="py-1">Arpit Agarwal</h3>
                 <h4 class="py-1">Director</h4>
               </div>
@@ -302,9 +302,15 @@
                 <h4 class="py-1">Principal</h4>
               </div>
               <div class="col-12">
-                <p class="py-2">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum error, voluptate. Porro alias nihil deserunt, vel soluta laboriosam maxime autem labore ab unde, laborum, asperiores officia ullam. Asperiores cupiditate numquam in aliquid doloribus? Dignissimos pariatur vel, nam ipsa consectetur dicta saepe explicabo quasi sapiente recusandae cumque facilis iusto praesentium quod, accusamus ducimus atque modi libero nostrum non sed laudantium sint. Nesciunt, debitis et illo ullam excepturi eum ad suscipit vel modi. Velit aliquam quos aliquid tenetur consectetur veritatis dolorem omnis nam maiores quasi quia aut ducimus at, possimus vitae debitis dolore inventore voluptate sapiente! Quasi et sunt reprehenderit quibusdam porro.
+                <p class="py-1">
+                  Technical education is seeing new reforms every once in a while, and that is rightly, the need of the hour. To bring these reforms in practice, and to offer engineering students a new vision of creation, JECRC was established eighteen years ago. With this departmental magazine, CSE Department has progressed further in making everyone aware of our goals and their successful achievement.
                 </p>
+                <p class="py-1">
+                  Computer Science & Engineering department is endowed with the best of faculty and staff members, deeply committed to skill based learning, and making students keen about advancements in the field. This program has procured great growth and continues to bring laurels to JECRC, making us proud by excellent results. Every field, be it research, entrepreneurship, industry, or a job; success in every dimension is achieved by the students.
+                </p>
+                <p class="py-1">
+                  I wish for the institute and department to progress further with an ever increasing pace, and staunch support by the endeavors of all. Let us make JECRC a synonym for knowledge. Best wishes!
+                </p>                
               </div>
             </div>
           </section>
