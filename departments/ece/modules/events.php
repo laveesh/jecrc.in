@@ -309,16 +309,28 @@ JECRC</p>
 						<li data-target="#events_carausel8" data-slide-to="0" class="active"></li>
 						<li data-target="#events_carausel8" data-slide-to="1"></li>
 						<li data-target="#events_carausel8" data-slide-to="2"></li>
+						<li data-target="#events_carausel8" data-slide-to="3"></li>
+						<li data-target="#events_carausel8" data-slide-to="4"></li>
+						<li data-target="#events_carausel8" data-slide-to="5"></li>
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Picture11.png" alt="First slide">
+							<img class="d-block w-100" src="../departments/ece/src/img/Events/NC/1.jpg" alt="National Conference">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
+							<img class="d-block w-100" src="../departments/ece/src/img/Events/NC/2.jpg" alt="National Conference">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
+							<img class="d-block w-100" src="../departments/ece/src/img/Events/NC/3.jpg" alt="National Conference">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/ece/src/img/Events/NC/4.jpg" alt="National Conference">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/ece/src/img/Events/NC/5.jpg" alt="National Conference">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/ece/src/img/Events/NC/6.jpg" alt="National Conference">
 						</div>
 					</div>
 					<a class="carousel-control-prev" href="#events_carausel8" role="button" data-slide="prev">
