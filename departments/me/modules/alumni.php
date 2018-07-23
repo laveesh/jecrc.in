@@ -7,7 +7,7 @@
 					<div class="card-header text-center"><h4>VIPUL SAINI(2006-2010)</h4></div>
 					<div class="row">
 						<div class="col-md-3 pt-1 py-1" align="center">
-							<img src="../departments/me/src/img/alumni/vipul.jpg"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+							<img src="../departments/me/src/img/alumni/vipul.jpg"	class="img-responsive rounded-circle w-75 " alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<div class="sectionContent">
@@ -30,7 +30,7 @@
 					<div class="card-header text-center"><h4>PARTH MISHRA (2008-2012)</h4></div>
 					<div class="row">
 						<div class="col-md-3 pt-1 py-1" align="center">
-							<img src="../departments/me/src/img/alumni/parth.jpg"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+							<img src="../departments/me/src/img/alumni/parth.jpg"	class="img-responsive rounded-circle w-75" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<div class="sectionContent">
@@ -51,7 +51,7 @@
 					<div class="card-header text-center"><h4>Akshat yadav (2004-2008)</h4></div>
 					<div class="row">
 						<div class="col-md-3 pt-1 py-1" align="center">
-							<img src="../departments/me/src/img/alumni/vipul.jpg"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+							<img src="../departments/me/src/img/alumni/akshat.jpg"	class="img-responsive rounded-circle w-75" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<div class="sectionContent">
