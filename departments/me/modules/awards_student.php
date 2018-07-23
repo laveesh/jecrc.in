@@ -4,15 +4,12 @@
 		<ul class="list-group list-group-flush">
 			<li class="list-group-item">Mr. Himanshu Chopra secured 5th rank in RTU merit with overall 83.50%.</li>
 			<li class="list-group-item">
-				<h3 class="sectionSubHeading">Robowar, IIT Guwahati
-</h3>
 <p>
 	Mr. Harshul Khandelwal, Mr. Aditya Yadav, Mr. Gaurav Lodha, Mr. Bhupendra Suman and three more members from Electrical Engineering secured 8th Position among 30 teams in ROBOACALYPSE, Techniche (Annual Tech-fest, IIT Guwahati), during 01-04 September 2016.
 
 </p>
 			</li>
 			<li class="list-group-item">
-				<h3 class="sectionSubHeading">ROBOWAR</h3>
 				<p>
 					Mr. Harshul Khandelwal (III Year) with his group participated in ROBOWAR at LNMIT during18th to 20th Jan, 2017 and won 2nd prize.
 				</p>
@@ -60,7 +57,6 @@
 			<li class="list-group-item">A team of 30 students of ME department participated in  Mega ATV Championship.This competition was organized in the city of temples Bhubaneshwar  by the AutoSports India, BAJA Tutor in association with Kalinga Motors Sports Club, Supported by Ministry of Sports Government of Odisha, FIA (FédérationInternationale de l'Automobile) and FMSCI (Federation of Motor Sports Clubs of India) during 4-7 March 2016. 
 </li>
 			<li class="list-group-item">
-				<h3 class="sectionSubHeading">NKRC Season-4</h3>
 				<p>
 “The Moto rids” is a group of 23 machine lovers registered themselves in a national level Go Kart event named “NKRC Season-4”and because of the hard work and way of presenting students were awarded with the “Stig Award” and “Rs 10000” cash reward.
 </p></li>
