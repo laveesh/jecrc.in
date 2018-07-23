@@ -2,7 +2,7 @@
     <div class="container footer-container">
       <div class="row  align-center">
         <div class="col-md-4">
-          <p>Important Links:</p>
+          <h4>Important Links:</h4>
           <ul class="list-styling">
             <li><a href="#">demo link</a></li>
             <li><a href="#">demo link</a></li>
@@ -11,12 +11,12 @@
           </ul>
         </div>
         <div class="col-md-4">
-          <p>Recruitments 2018:</p>
+          <h4>Recruitments 2018</h4>
         </div>
         <div class="col-md-4">
-          <p>Contact Us</p>
-          <p>895084748</p>
-          <p class="support-color"> <a href="#">Support@jecrc.ac.in</a></p>
+          <h4>Contact Us</h4>
+          <h5>895084748</h5>
+          <h5 class="support-color"> <a href="#">Support@jecrc.ac.in</a></h5>
         </div>
       </div>
       <div class="footer-bottom">
