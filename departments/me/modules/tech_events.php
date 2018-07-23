@@ -13,13 +13,10 @@
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
+              <img class="d-block w-100" src="../departments/me/src/img/TechEvents/robo1.jpg" alt="First slide">
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
-            </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
+              <img class="d-block w-100" src="../departments/me/src/img/TechEvents/robo2.png" alt="Second slide">
             </div>
           </div>
           <a class="carousel-control-prev" href="#events_carausel" role="button" data-slide="prev">
@@ -56,7 +53,7 @@
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
+              <img class="d-block w-100" src="../departments/me/src/img/TechEvents/rc.jpg" alt="First slide">
             </div>
             <div class="carousel-item">
               <img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
@@ -98,13 +95,7 @@
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
-            </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
-            </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
+              <img class="d-block w-100" src="../departments/me/src/img/TechEvents/rc.png" alt="First slide">
             </div>
           </div>
           <a class="carousel-control-prev" href="#events_carausel" role="button" data-slide="prev">
@@ -140,13 +131,10 @@
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
+              <img class="d-block w-100" src="../departments/me/src/img/TechEvents/elite1.png" alt="First slide">
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
-            </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
+              <img class="d-block w-100" src="../departments/me/src/img/TechEvents/elite2.png" alt="Second slide">
             </div>
           </div>
           <a class="carousel-control-prev" href="#events_carausel3" role="button" data-slide="prev">
@@ -181,13 +169,13 @@
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
+              <img class="d-block w-100" src="../departments/me/src/img/TechEvents/conf1.png" alt="First slide">
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
+              <img class="d-block w-100" src="../departments/me/src/img/TechEvents/conf2.png" alt="Second slide">
             </div>
             <div class="carousel-item">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
+              <img class="d-block w-100" src="../departments/me/src/img/TechEvents/conf3.png" alt="Third slide">
             </div>
           </div>
           <a class="carousel-control-prev" href="#events_carausel" role="button" data-slide="prev">
@@ -408,7 +396,7 @@
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
+              <img class="d-block w-100" src="../departments/me/src/img/TechEvents/mt.png" alt="First slide">
             </div>
             <div class="carousel-item">
               <img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
