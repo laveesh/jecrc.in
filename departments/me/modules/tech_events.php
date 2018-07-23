@@ -9,7 +9,7 @@
           <ol class="carousel-indicators">
             <li data-target="#events_carausel" data-slide-to="0" class="active"></li>
             <li data-target="#events_carausel" data-slide-to="1"></li>
-            <li data-target="#events_carausel" data-slide-to="2"></li>
+            <!-- <li data-target="#events_carausel" data-slide-to="2"></li> -->
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
@@ -48,19 +48,14 @@
         <div id="events_carausel2" class="carousel slide" data-ride="carousel">
           <ol class="carousel-indicators">
             <li data-target="#events_carausel2" data-slide-to="0" class="active"></li>
-            <li data-target="#events_carausel2" data-slide-to="1"></li>
-            <li data-target="#events_carausel2" data-slide-to="2"></li>
+            <!-- <li data-target="#events_carausel2" data-slide-to="1"></li> -->
+            <!-- <li data-target="#events_carausel2" data-slide-to="2"></li> -->
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="d-block w-100" src="../departments/me/src/img/TechEvents/rc.jpg" alt="First slide">
+              <img class="d-block w-100" src="../departments/me/src/img/TechEvents/vib.png" alt="First slide">
             </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
-            </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
-            </div>
+            
           </div>
           <a class="carousel-control-prev" href="#events_carausel2" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -87,22 +82,22 @@
     <div class="sectionHeading">RC Car Event</div>
     <div class="row">
       <div class="col-md-3 col-sm-12">
-        <div id="events_carausel" class="carousel slide" data-ride="carousel">
+        <div id="events_carausel3" class="carousel slide" data-ride="carousel">
           <ol class="carousel-indicators">
-            <li data-target="#events_carausel" data-slide-to="0" class="active"></li>
-            <li data-target="#events_carausel" data-slide-to="1"></li>
-            <li data-target="#events_carausel" data-slide-to="2"></li>
+            <li data-target="#events_carausel3" data-slide-to="0" class="active"></li>
+            <!-- <li data-target="#events_carausel3" data-slide-to="1"></li> -->
+            <!-- <li data-target="#events_carausel3" data-slide-to="2"></li> -->
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
               <img class="d-block w-100" src="../departments/me/src/img/TechEvents/rc.png" alt="First slide">
             </div>
           </div>
-          <a class="carousel-control-prev" href="#events_carausel" role="button" data-slide="prev">
+          <a class="carousel-control-prev" href="#events_carausel3" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
         </a>
-          <a class="carousel-control-next" href="#events_carausel" role="button" data-slide="next">
+          <a class="carousel-control-next" href="#events_carausel3" role="button" data-slide="next">
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
         </a>
@@ -123,11 +118,11 @@
     <div class="sectionHeading">Elite Carting</div>
     <div class="row">
       <div class="col-md-3 col-sm-12">
-        <div id="events_carausel3" class="carousel slide" data-ride="carousel">
+        <div id="events_carausel4" class="carousel slide" data-ride="carousel">
           <ol class="carousel-indicators">
-            <li data-target="#events_carausel3" data-slide-to="0" class="active"></li>
-            <li data-target="#events_carausel3" data-slide-to="1"></li>
-            <li data-target="#events_carausel3" data-slide-to="2"></li>
+            <li data-target="#events_carausel4" data-slide-to="0" class="active"></li>
+            <li data-target="#events_carausel4" data-slide-to="1"></li>
+            <!-- <li data-target="#events_carausel4" data-slide-to="2"></li> -->
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
@@ -137,11 +132,11 @@
               <img class="d-block w-100" src="../departments/me/src/img/TechEvents/elite2.png" alt="Second slide">
             </div>
           </div>
-          <a class="carousel-control-prev" href="#events_carausel3" role="button" data-slide="prev">
+          <a class="carousel-control-prev" href="#events_carausel4" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
         </a>
-          <a class="carousel-control-next" href="#events_carausel3" role="button" data-slide="next">
+          <a class="carousel-control-next" href="#events_carausel4" role="button" data-slide="next">
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
         </a>
@@ -161,11 +156,11 @@
     <div class="sectionHeading">Conference [RESSD-2016]</div>
     <div class="row">
       <div class="col-md-3 col-sm-12">
-        <div id="events_carausel" class="carousel slide" data-ride="carousel">
+        <div id="events_carausel17" class="carousel slide" data-ride="carousel">
           <ol class="carousel-indicators">
-            <li data-target="#events_carausel" data-slide-to="0" class="active"></li>
-            <li data-target="#events_carausel" data-slide-to="1"></li>
-            <li data-target="#events_carausel" data-slide-to="2"></li>
+            <li data-target="#events_carausel17" data-slide-to="0" class="active"></li>
+            <li data-target="#events_carausel17" data-slide-to="1"></li>
+            <li data-target="#events_carausel17" data-slide-to="2"></li>
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
@@ -178,11 +173,11 @@
               <img class="d-block w-100" src="../departments/me/src/img/TechEvents/conf3.png" alt="Third slide">
             </div>
           </div>
-          <a class="carousel-control-prev" href="#events_carausel" role="button" data-slide="prev">
+          <a class="carousel-control-prev" href="#events_carausel17" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
         </a>
-          <a class="carousel-control-next" href="#events_carausel" role="button" data-slide="next">
+          <a class="carousel-control-next" href="#events_carausel17" role="button" data-slide="next">
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
         </a>
@@ -217,28 +212,23 @@
   <div class="sectionHeading">Faculty Development Programme</div>
   <div class="row">
     <div class="col-md-3 col-sm-12">
-      <div id="events_carausel3" class="carousel slide" data-ride="carousel">
+      <div id="events_carausel5" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
-          <li data-target="#events_carausel3" data-slide-to="0" class="active"></li>
-          <li data-target="#events_carausel3" data-slide-to="1"></li>
-          <li data-target="#events_carausel3" data-slide-to="2"></li>
+          <li data-target="#events_carausel5" data-slide-to="0" class="active"></li>
+          <!-- <li data-target="#events_carausel5" data-slide-to="1"></li> -->
+          <!-- <li data-target="#events_carausel5" data-slide-to="2"></li> -->
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
+            <img class="d-block w-100" src="../departments/me/src/img/TechEvents/fdp1.jpg" alt="First slide">
           </div>
-          <div class="carousel-item">
-            <img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
-          </div>
-          <div class="carousel-item">
-            <img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
-          </div>
+          
         </div>
-        <a class="carousel-control-prev" href="#events_carausel3" role="button" data-slide="prev">
+        <a class="carousel-control-prev" href="#events_carausel5" role="button" data-slide="prev">
       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
       <span class="sr-only">Previous</span>
       </a>
-        <a class="carousel-control-next" href="#events_carausel3" role="button" data-slide="next">
+        <a class="carousel-control-next" href="#events_carausel5" role="button" data-slide="next">
       <span class="carousel-control-next-icon" aria-hidden="true"></span>
       <span class="sr-only">Next</span>
       </a>
@@ -262,28 +252,23 @@
     <div class="sectionHeading">EMBRYO</div>
     <div class="row">
       <div class="col-md-3 col-sm-12">
-        <div id="events_carausel3" class="carousel slide" data-ride="carousel">
+        <div id="events_carausel6" class="carousel slide" data-ride="carousel">
           <ol class="carousel-indicators">
-            <li data-target="#events_carausel3" data-slide-to="0" class="active"></li>
-            <li data-target="#events_carausel3" data-slide-to="1"></li>
-            <li data-target="#events_carausel3" data-slide-to="2"></li>
+            <li data-target="#events_carausel6" data-slide-to="0" class="active"></li>
+            <!-- <li data-target="#events_carausel6" data-slide-to="1"></li> -->
+            <!-- <li data-target="#events_carausel6" data-slide-to="2"></li> -->
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
+              <img class="d-block w-100" src="../departments/me/src/img/TechEvents/embryo.jpg" alt="First slide">
             </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
-            </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
-            </div>
+            
           </div>
-          <a class="carousel-control-prev" href="#events_carausel3" role="button" data-slide="prev">
+          <a class="carousel-control-prev" href="#events_carausel6" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
         </a>
-          <a class="carousel-control-next" href="#events_carausel3" role="button" data-slide="next">
+          <a class="carousel-control-next" href="#events_carausel6" role="button" data-slide="next">
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
         </a>
@@ -305,28 +290,23 @@
     <div class="sectionHeading">REVERSE ENGINEERING</div>
     <div class="row">
       <div class="col-md-3 col-sm-12">
-        <div id="events_carausel3" class="carousel slide" data-ride="carousel">
+        <div id="events_carausel7" class="carousel slide" data-ride="carousel">
           <ol class="carousel-indicators">
-            <li data-target="#events_carausel3" data-slide-to="0" class="active"></li>
-            <li data-target="#events_carausel3" data-slide-to="1"></li>
-            <li data-target="#events_carausel3" data-slide-to="2"></li>
+            <li data-target="#events_carausel7" data-slide-to="0" class="active"></li>
+            <!-- <li data-target="#events_carausel7" data-slide-to="1"></li> -->
+            <!-- <li data-target="#events_carausel7" data-slide-to="2"></li> -->
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
+              <img class="d-block w-100" src="../departments/me/src/img/TechEvents/re.jpg" alt="First slide">
             </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
-            </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
-            </div>
+            
           </div>
-          <a class="carousel-control-prev" href="#events_carausel3" role="button" data-slide="prev">
+          <a class="carousel-control-prev" href="#events_carausel7" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
         </a>
-          <a class="carousel-control-next" href="#events_carausel3" role="button" data-slide="next">
+          <a class="carousel-control-next" href="#events_carausel7" role="button" data-slide="next">
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
         </a>
@@ -347,28 +327,23 @@
     <div class="sectionHeading">CADD MANIA</div>
     <div class="row">
       <div class="col-md-3 col-sm-12">
-        <div id="events_carausel3" class="carousel slide" data-ride="carousel">
+        <div id="events_carausel8" class="carousel slide" data-ride="carousel">
           <ol class="carousel-indicators">
-            <li data-target="#events_carausel3" data-slide-to="0" class="active"></li>
-            <li data-target="#events_carausel3" data-slide-to="1"></li>
-            <li data-target="#events_carausel3" data-slide-to="2"></li>
+            <li data-target="#events_carausel8" data-slide-to="0" class="active"></li>
+            <!-- <li data-target="#events_carausel8" data-slide-to="1"></li> -->
+            <!-- <li data-target="#events_carausel8" data-slide-to="2"></li> -->
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
+              <img class="d-block w-100" src="../departments/me/src/img/TechEvents/cm.jpg" alt="First slide">
             </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
-            </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
-            </div>
+            
           </div>
-          <a class="carousel-control-prev" href="#events_carausel3" role="button" data-slide="prev">
+          <a class="carousel-control-prev" href="#events_carausel8" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
         </a>
-          <a class="carousel-control-next" href="#events_carausel3" role="button" data-slide="next">
+          <a class="carousel-control-next" href="#events_carausel8" role="button" data-slide="next">
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
         </a>
@@ -388,28 +363,23 @@
     <div class="sectionHeading">MIGHTY THOTTLE</div>
     <div class="row">
       <div class="col-md-3 col-sm-12">
-        <div id="events_carausel3" class="carousel slide" data-ride="carousel">
+        <div id="events_carausel9" class="carousel slide" data-ride="carousel">
           <ol class="carousel-indicators">
-            <li data-target="#events_carausel3" data-slide-to="0" class="active"></li>
-            <li data-target="#events_carausel3" data-slide-to="1"></li>
-            <li data-target="#events_carausel3" data-slide-to="2"></li>
+            <li data-target="#events_carausel9" data-slide-to="0" class="active"></li>
+            <!-- <li data-target="#events_carausel9" data-slide-to="1"></li> -->
+            <!-- <li data-target="#events_carausel9" data-slide-to="2"></li> -->
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
               <img class="d-block w-100" src="../departments/me/src/img/TechEvents/mt.png" alt="First slide">
             </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
-            </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
-            </div>
+            
           </div>
-          <a class="carousel-control-prev" href="#events_carausel3" role="button" data-slide="prev">
+          <a class="carousel-control-prev" href="#events_carausel9" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
         </a>
-          <a class="carousel-control-next" href="#events_carausel3" role="button" data-slide="next">
+          <a class="carousel-control-next" href="#events_carausel9" role="button" data-slide="next">
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
         </a>
@@ -428,28 +398,23 @@
     <div class="sectionHeading">FORK LIFTER</div>
     <div class="row">
       <div class="col-md-3 col-sm-12">
-        <div id="events_carausel3" class="carousel slide" data-ride="carousel">
+        <div id="events_carausel10" class="carousel slide" data-ride="carousel">
           <ol class="carousel-indicators">
-            <li data-target="#events_carausel3" data-slide-to="0" class="active"></li>
-            <li data-target="#events_carausel3" data-slide-to="1"></li>
-            <li data-target="#events_carausel3" data-slide-to="2"></li>
+            <li data-target="#events_carausel10" data-slide-to="0" class="active"></li>
+            <!-- <li data-target="#events_carausel10" data-slide-to="1"></li> -->
+            <!-- <li data-target="#events_carausel10" data-slide-to="2"></li> -->
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
+              <img class="d-block w-100" src="../departments/me/src/img/TechEvents/fl.jpg" alt="First slide">
             </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
-            </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
-            </div>
+           
           </div>
-          <a class="carousel-control-prev" href="#events_carausel3" role="button" data-slide="prev">
+          <a class="carousel-control-prev" href="#events_carausel10" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
         </a>
-          <a class="carousel-control-next" href="#events_carausel3" role="button" data-slide="next">
+          <a class="carousel-control-next" href="#events_carausel10" role="button" data-slide="next">
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
         </a>
@@ -469,28 +434,23 @@
     <div class="sectionHeading">PROPELLO</div>
     <div class="row">
       <div class="col-md-3 col-sm-12">
-        <div id="events_carausel3" class="carousel slide" data-ride="carousel">
+        <div id="events_carausel11" class="carousel slide" data-ride="carousel">
           <ol class="carousel-indicators">
-            <li data-target="#events_carausel3" data-slide-to="0" class="active"></li>
-            <li data-target="#events_carausel3" data-slide-to="1"></li>
-            <li data-target="#events_carausel3" data-slide-to="2"></li>
+            <li data-target="#events_carausel11" data-slide-to="0" class="active"></li>
+            <!-- <li data-target="#events_carausel11" data-slide-to="1"></li> -->
+            <!-- <li data-target="#events_carausel11" data-slide-to="2"></li> -->
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
+              <img class="d-block w-100" src="../departments/me/src/img/TechEvents/prop.jpg" alt="First slide">
             </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
-            </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
-            </div>
+            
           </div>
-          <a class="carousel-control-prev" href="#events_carausel3" role="button" data-slide="prev">
+          <a class="carousel-control-prev" href="#events_carausel11" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
         </a>
-          <a class="carousel-control-next" href="#events_carausel3" role="button" data-slide="next">
+          <a class="carousel-control-next" href="#events_carausel11" role="button" data-slide="next">
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
         </a>
@@ -509,28 +469,23 @@
     <div class="sectionHeading">R-MECH OLYMPIAD</div>
     <div class="row">
       <div class="col-md-3 col-sm-12">
-        <div id="events_carausel3" class="carousel slide" data-ride="carousel">
+        <div id="events_carausel12" class="carousel slide" data-ride="carousel">
           <ol class="carousel-indicators">
-            <li data-target="#events_carausel3" data-slide-to="0" class="active"></li>
-            <li data-target="#events_carausel3" data-slide-to="1"></li>
-            <li data-target="#events_carausel3" data-slide-to="2"></li>
+            <li data-target="#events_carausel12" data-slide-to="0" class="active"></li>
+            <!-- <li data-target="#events_carausel12" data-slide-to="1"></li> -->
+            <!-- <li data-target="#events_carausel12" data-slide-to="2"></li> -->
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
+              <img class="d-block w-100" src="../departments/me/src/img/TechEvents/rm.jpg" alt="First slide">
             </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
-            </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
-            </div>
+            
           </div>
-          <a class="carousel-control-prev" href="#events_carausel3" role="button" data-slide="prev">
+          <a class="carousel-control-prev" href="#events_carausel12" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
         </a>
-          <a class="carousel-control-next" href="#events_carausel3" role="button" data-slide="next">
+          <a class="carousel-control-next" href="#events_carausel12" role="button" data-slide="next">
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
         </a>
@@ -551,28 +506,23 @@
     <div class="sectionHeading">BRAIN QUEST</div>
     <div class="row">
       <div class="col-md-3 col-sm-12">
-        <div id="events_carausel3" class="carousel slide" data-ride="carousel">
+        <div id="events_carausel13" class="carousel slide" data-ride="carousel">
           <ol class="carousel-indicators">
-            <li data-target="#events_carausel3" data-slide-to="0" class="active"></li>
-            <li data-target="#events_carausel3" data-slide-to="1"></li>
-            <li data-target="#events_carausel3" data-slide-to="2"></li>
+            <li data-target="#events_carausel13" data-slide-to="0" class="active"></li>
+            <!-- <li data-target="#events_carausel13" data-slide-to="1"></li> -->
+            <!-- <li data-target="#events_carausel13" data-slide-to="2"></li> -->
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
+              <img class="d-block w-100" src="../departments/me/src/img/TechEvents/bq.jpg" alt="First slide">
             </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
-            </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
-            </div>
+          
           </div>
-          <a class="carousel-control-prev" href="#events_carausel3" role="button" data-slide="prev">
+          <a class="carousel-control-prev" href="#events_carausel13" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
         </a>
-          <a class="carousel-control-next" href="#events_carausel3" role="button" data-slide="next">
+          <a class="carousel-control-next" href="#events_carausel13" role="button" data-slide="next">
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
         </a>
@@ -591,28 +541,23 @@
     <div class="sectionHeading">I V SHOW</div>
     <div class="row">
       <div class="col-md-3 col-sm-12">
-        <div id="events_carausel3" class="carousel slide" data-ride="carousel">
+        <div id="events_carausel14" class="carousel slide" data-ride="carousel">
           <ol class="carousel-indicators">
-            <li data-target="#events_carausel3" data-slide-to="0" class="active"></li>
-            <li data-target="#events_carausel3" data-slide-to="1"></li>
-            <li data-target="#events_carausel3" data-slide-to="2"></li>
+            <li data-target="#events_carausel14" data-slide-to="0" class="active"></li>
+            <!-- <li data-target="#events_carausel14" data-slide-to="1"></li> -->
+            <!-- <li data-target="#events_carausel14" data-slide-to="2"></li> -->
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
+              <img class="d-block w-100" src="../departments/me/src/img/TechEvents/ivs.jpg" alt="First slide">
             </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
-            </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
-            </div>
+            
           </div>
-          <a class="carousel-control-prev" href="#events_carausel3" role="button" data-slide="prev">
+          <a class="carousel-control-prev" href="#events_carausel14" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
         </a>
-          <a class="carousel-control-next" href="#events_carausel3" role="button" data-slide="next">
+          <a class="carousel-control-next" href="#events_carausel14" role="button" data-slide="next">
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
         </a>
@@ -632,28 +577,23 @@
     <div class="sectionHeading">ANSYS Training Programme</div>
     <div class="row">
       <div class="col-md-3 col-sm-12">
-        <div id="events_carausel3" class="carousel slide" data-ride="carousel">
+        <div id="events_carausel15" class="carousel slide" data-ride="carousel">
           <ol class="carousel-indicators">
-            <li data-target="#events_carausel3" data-slide-to="0" class="active"></li>
-            <li data-target="#events_carausel3" data-slide-to="1"></li>
-            <li data-target="#events_carausel3" data-slide-to="2"></li>
+            <li data-target="#events_carausel15" data-slide-to="0" class="active"></li>
+            <!-- <li data-target="#events_carausel15" data-slide-to="1"></li> -->
+            <!-- <li data-target="#events_carausel15" data-slide-to="2"></li> -->
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
+              <img class="d-block w-100" src="../departments/me/src/img/TechEvents/atp.jpg" alt="First slide">
             </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
-            </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
-            </div>
+            
           </div>
-          <a class="carousel-control-prev" href="#events_carausel3" role="button" data-slide="prev">
+          <a class="carousel-control-prev" href="#events_carausel15" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
         </a>
-          <a class="carousel-control-next" href="#events_carausel3" role="button" data-slide="next">
+          <a class="carousel-control-next" href="#events_carausel15" role="button" data-slide="next">
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
         </a>
@@ -672,28 +612,23 @@
     <div class="sectionHeading">SAE Convention (North India)</div>
     <div class="row">
       <div class="col-md-3 col-sm-12">
-        <div id="events_carausel3" class="carousel slide" data-ride="carousel">
+        <div id="events_carausel16" class="carousel slide" data-ride="carousel">
           <ol class="carousel-indicators">
-            <li data-target="#events_carausel3" data-slide-to="0" class="active"></li>
-            <li data-target="#events_carausel3" data-slide-to="1"></li>
-            <li data-target="#events_carausel3" data-slide-to="2"></li>
+            <li data-target="#events_carausel16" data-slide-to="0" class="active"></li>
+            <!-- <li data-target="#events_carausel16" data-slide-to="1"></li> -->
+            <!-- <li data-target="#events_carausel16" data-slide-to="2"></li> -->
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
+              <img class="d-block w-100" src="../departments/me/src/img/TechEvents/sae.jpg" alt="First slide">
             </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
-            </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
-            </div>
+            
           </div>
-          <a class="carousel-control-prev" href="#events_carausel3" role="button" data-slide="prev">
+          <a class="carousel-control-prev" href="#events_carausel16" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
         </a>
-          <a class="carousel-control-next" href="#events_carausel3" role="button" data-slide="next">
+          <a class="carousel-control-next" href="#events_carausel16" role="button" data-slide="next">
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
         </a>
