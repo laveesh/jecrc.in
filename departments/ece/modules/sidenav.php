@@ -22,7 +22,6 @@
                   About
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="ece.php?section=about">About</a>
                   <a class="dropdown-item" href="ece.php?section=history">History</a>
                   <a class="dropdown-item" href="ece.php?section=mission_vision">Mission and Vision</a>
                   <a class="dropdown-item" href="ece.php?section=hod_message">HoD's Message</a>
