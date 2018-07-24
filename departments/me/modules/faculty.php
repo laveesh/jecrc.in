@@ -15,7 +15,7 @@
 							<li class="list-group-item"><strong>Designation</strong>: HOD</li>
 
 							<li class="list-group-item">mpsingh.me@jecrc.ac.in</li>
-							<li class="list-group-item">Experience: 18 year</li>
+							<li class="list-group-item">Experience: 18 years</li>
 							<li class="list-group-item">Publication: 18</li>
 						</ul>
 					</div>
@@ -32,11 +32,11 @@
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
-							<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+							<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech.</li>
 							<li class="list-group-item"><strong>Designation</strong>: Director Placement Cell(Outset)
 
 								<li class="list-group-item">utpalchakravarty.me@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 16 year</li>
+								<li class="list-group-item">Experience: 16 years</li>
 								
 							</ul>
 						</div>
@@ -54,11 +54,11 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech.</li>
 								<li class="list-group-item"><strong>Designation</strong>: Deputy Director special project</li>
 
 								<li class="list-group-item">manishjain.me@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 17 year</li>
+								<li class="list-group-item">Experience: 17 years</li>
 								<li class="list-group-item">Publication: 01</li>
 							</ul>
 						</div>
@@ -79,7 +79,8 @@
 								<li class="list-group-item"><strong>Designation</strong>: Associate Professor</li>
 
 								<li class="list-group-item">bhuvnesh.me@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 12 year</li>
+
+								<li class="list-group-item">Experience: 12 years</li>
 								<li class="list-group-item">Publication: 02</li>
 							</ul>
 						</div>
@@ -101,7 +102,7 @@
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								
 								<li class="list-group-item">manishshrivastava.me@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 22 year</li>
+								<li class="list-group-item">Experience: 22 years</li>
 								<li class="list-group-item">Publication: 02</li>
 							</ul>
 						</div>
@@ -118,11 +119,11 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech.</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								
 								<li class="list-group-item">Kuldeepsharma.me@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 13 year</li>
+								<li class="list-group-item">Experience: 13 years</li>
 								
 							</ul>
 						</div>
@@ -140,11 +141,11 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech.</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant professor</li>
 								
 								<li class="list-group-item">lalitkumarsharma.me@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 11 year</li>
+								<li class="list-group-item">Experience: 11 years</li>
 								<li class="list-group-item">Publication: 03</li>
 							</ul>
 						</div>
@@ -161,11 +162,11 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech.</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								
 								<li class="list-group-item">tejendrasingh.me@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 06 year</li>
+								<li class="list-group-item">Experience: 06 years</li>
 								<li class="list-group-item">Publication: 02</li>
 							</ul>
 						</div>
@@ -176,19 +177,21 @@
 		<div class="row sectionContent">
 			<div class="col-md-6 mt-4">
 				<div class="panel-body card">
-					<div class="card-header text-center"><h4>SATYENDRA KUMAR</h4></div>
+					<div class="card-header text-center"><h4>Mr. Satyendra Kumar</h4></div>
 					<div class="row">
 						<div class="col-md-3 pt-1 py-1" align="center">
 							<img src="../departments/me/src/img/people/faculty/SATYENDRA.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech.</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								
 								<li class="list-group-item">satyendrakumar.me@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 07 year</li>
+
+								<li class="list-group-item">Experience: 07 years</li>
 								<li class="list-group-item">Publication: 1</li>
+
 							</ul>
 						</div>
 					</div>
@@ -204,11 +207,11 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech.</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								
 								<li class="list-group-item">yogeshdubey.me@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 06 year</li>
+								<li class="list-group-item">Experience: 06 years</li>
 								
 							</ul>
 						</div>
@@ -227,11 +230,11 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech.</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								
 								<li class="list-group-item">rajendragupta.me@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 10 year</li>
+								<li class="list-group-item">Experience: 10 years</li>
 								
 							</ul>
 						</div>
@@ -248,11 +251,11 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech.</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								
-								<li class="list-group-item">rshashank.me@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 02 year</li>
+								<li class="list-group-item">shashank.me@jecrc.ac.in</li>
+								<li class="list-group-item">Experience: 02 years</li>
 								
 							</ul>
 						</div>
@@ -270,11 +273,11 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: P.hd</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: P.hd (Persuing)</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								
 								<li class="list-group-item">manmohan.me@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 02 year</li>
+								<li class="list-group-item">Experience: 02 years</li>
 								<li class="list-group-item">Publication: 5</li>
 							</ul>
 						</div>
@@ -291,11 +294,11 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech.</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								
 								<li class="list-group-item">hemantbansal.me@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 8 year</li>
+								<li class="list-group-item">Experience: 8 years</li>
 								
 							</ul>
 						</div>
@@ -313,11 +316,11 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: B.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech. (Persuing)</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								
 								<li class="list-group-item">raviyadav.me@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 06 year</li>
+								<li class="list-group-item">Experience: 06 years</li>
 								
 							</ul>
 						</div>
@@ -334,11 +337,11 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech. (Persuing)</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								
 								<li class="list-group-item">ravijangid.me@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 4 year</li>
+								<li class="list-group-item">Experience: 4 years</li>
 								
 							</ul>
 						</div>
@@ -356,11 +359,11 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: B.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech. (Persuing)</li>
 								<li class="list-group-item"><strong>Designation     </strong>: Faculty</li>
 								
 								<li class="list-group-item">nitinchhabra.me@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 6 year</li>
+								<li class="list-group-item">Experience: 6 years</li>
 								
 							</ul>
 						</div>
@@ -377,11 +380,11 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: B.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech. (Persuing)</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								
 								<li class="list-group-item">dilipprajapati.me@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 05 year</li>
+								<li class="list-group-item">Experience: 05 years</li>
 								
 							</ul>
 						</div>
@@ -399,11 +402,11 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: B.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech. (Persuing)</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								
 								<li class="list-group-item">jetu.gupta.me@jecrc.ac.in</li>
-								<li class="list-group-item">Experience:06 year</li>
+								<li class="list-group-item">Experience:06 years</li>
 								
 							</ul>
 						</div>
@@ -420,11 +423,11 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech.</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								
 								<li class="list-group-item">aashishnagpal.me@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 8 year</li>
+								<li class="list-group-item">Experience: 8 years</li>
 								
 							</ul>
 						</div>
@@ -442,11 +445,11 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech.</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								
 								<li class="list-group-item">abhishekkumar.me@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 07 year</li>
+								<li class="list-group-item">Experience: 07 years</li>
 								<li class="list-group-item">Publication: 01</li>
 							</ul>
 						</div>
@@ -463,11 +466,11 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech.</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								
 								<li class="list-group-item">akhilvijay.me@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 6 year</li>
+								<li class="list-group-item">Experience: 6 years</li>
 								
 							</ul>
 						</div>
@@ -485,11 +488,11 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech.</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								
 								<li class="list-group-item">akhilesh.me@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 4 year</li>
+								<li class="list-group-item">Experience: 4 years</li>
 								
 							</ul>
 						</div>
@@ -506,11 +509,11 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech.</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								
 								<li class="list-group-item">dayalsinghrathore.me@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 6 year</li>
+								<li class="list-group-item">Experience: 6 years</li>
 								
 							</ul>
 						</div>
@@ -528,11 +531,11 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech.</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								
 								<li class="list-group-item">gauravjain.me@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 02 year</li>
+								<li class="list-group-item">Experience: 02 years</li>
 								
 							</ul>
 						</div>
@@ -549,11 +552,11 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.S</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech.</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								
 								<li class="list-group-item">hukumchand.me@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 6 year</li>
+								<li class="list-group-item">Experience: 6 years</li>
 								
 							</ul>
 						</div>
@@ -571,11 +574,11 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: P.hd</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: P.hd (Persuing)</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								
 								<li class="list-group-item">nikhiljain981.me@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 5 year</li>
+								<li class="list-group-item">Experience: 5 years</li>
 								
 							</ul>
 						</div>
@@ -592,11 +595,11 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech.</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								
 								<li class="list-group-item">palak.me@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 08 year</li>
+								<li class="list-group-item">Experience: 08 years</li>
 								<li class="list-group-item">Publication: 03</li>
 							</ul>
 						</div>
@@ -614,11 +617,11 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech.</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								
 								<li class="list-group-item">priti.me@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 08 year</li>
+								<li class="list-group-item">Experience: 08 years</li>
 								<li class="list-group-item">Publication: 01</li>
 							</ul>
 						</div>
@@ -635,11 +638,11 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
-								<li class="list-group-item"><strong>Designation</strong>: Lecturer</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech.</li>
+								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 								<li class="list-group-item">rohitgoyal.me@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 1 year</li>
+								<li class="list-group-item">Experience: 1 years</li>
 								
 							</ul>
 						</div>
@@ -657,11 +660,11 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech.</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								
 								<li class="list-group-item">satyaprakash.me@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 06 year</li>
+								<li class="list-group-item">Experience: 06 years</li>
 								<li class="list-group-item">Publication: 1</li>
 							</ul>
 						</div>
@@ -678,11 +681,11 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech.</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								
 								<li class="list-group-item">shrikantbansal.me@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 07 year</li>
+								<li class="list-group-item">Experience: 07 years</li>
 								
 							</ul>
 						</div>
@@ -700,11 +703,11 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech.</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								
 								<li class="list-group-item">tejbahadur.me@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 03 year</li>
+								<li class="list-group-item">Experience: 03 years</li>
 								
 							</ul>
 						</div>
@@ -721,11 +724,11 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech.</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 								<li class="list-group-item">tejaramsaini.me@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 02 year</li>
+								<li class="list-group-item">Experience: 02 years</li>
 								<li class="list-group-item">Publication: 01</li>
 							</ul>
 						</div>
@@ -743,11 +746,11 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech.</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								
 								<li class="list-group-item">veerendra.me@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 04 year</li>
+								<li class="list-group-item">Experience: 04 years</li>
 								<li class="list-group-item">Publication: 01</li>
 							</ul>
 						</div>

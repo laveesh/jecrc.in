@@ -38,7 +38,7 @@
 						<li><strong>Venue:</strong>IIT, Delhi</li>
 						<li><strong>Objective/s:</strong> Dr. Manish Srivastava has participated one day seminar in “MOBILITY XPERT TALK” at IIT Delhi on 08th Jul 2017. Event was organised by ISIE India. Intellectuals and various speakers from different parts of the country participated in the event.</li>
 						<li><strong>Outcome:</strong></li>
-						<li><strong>Guests of Honour at the event:</strong></li>
+						 
 					</ol>
 				</div>	
 			</div>
@@ -81,7 +81,7 @@
 						<li><strong>Venue:</strong>IIT, Roorkee</li>
 						<li><strong>Objective/s:</strong>QIP Short Term Course  on “Enhancing Yield in Metal Casting”</li>
 						<li><strong>Outcome:</strong></li>
-						<li><strong>Guests of Honour at the event:</strong> Er.Akhilesh Paliwal</li>
+						
 					</ol>
 				</div>
 			</div>
@@ -124,7 +124,7 @@
 						<li><strong>Venue:</strong> at MNIT Jaipur</li>
 						<li><strong>Objective/s:</strong></li>
 						<li><strong>Outcome:</strong>Candidates (Students and Faculty) will be able to identify and interpret concepts of Big Data.</li>
-						<li><strong>Guests of Honour at the event:</strong>Er. Lalit kumar Sharma &  Er. Nikhil Jain</li>
+						 
 					</ol>
 				</div>
 			</div>
@@ -167,7 +167,7 @@
 						<li><strong>Venue:</strong>NITTR, Chandigarh</li>
 						<li><strong>Objective/s:</strong>To introduce the significance and emergence of Big Data.</li>
 						<li><strong>Outcome:</strong>Candidates (Students and Faculty) will be able to identify and interpret concepts of Big Data.</li>
-						<li><strong>Guests of Honour at the event:</strong>Mr. Satyendra Kumar</li>
+						 
 					</ol>
 				</div>
 			</div>
@@ -210,7 +210,7 @@
 						<li><strong>Venue:</strong>Poornima University</li>
 						<li><strong>Objective/s:</strong></li>
 						<li><strong>Outcome:</strong></li>
-						<li><strong>Guests of Honour at the event:</strong></li>
+						 
 					</ol>
 				</div>
 			</div>
@@ -253,7 +253,7 @@
 						<li><strong>Venue:</strong> JECRC, Jaipur</li>
 						<li><strong>Objective/s:</strong></li>
 						<li><strong>Outcome:</strong>Prize winners: DR. M. P. Singh (HoD ME), Mr. Manish Jain, Mr. Kuldeep Sharma, Dr. Bhuvnesh Bharadwaj</li>
-						<li><strong>Guests of Honour at the event:</strong></li>
+						 
 					</ol>
 				</div>
 			</div>
@@ -298,7 +298,7 @@
 						<li><strong>Venue:</strong> at MNIT Jaipur</li>
 						<li><strong>Objective/s:</strong></li>
 						<li><strong>Outcome:</strong>“The Moto rids” is a group of 23 machine lovers registered themselves in a national level Go Kart event named “NKRC Season-4”and because of the hard work and way of presenting students were awarded with the “Stig Award” and “Rs 10000” cash reward.</li>
-						<li><strong>Guests of Honour at the event:</strong></li>
+						 
 					</ol>
 				</div>
 			</div>
@@ -341,7 +341,7 @@
 						<li><strong>Venue:</strong>Radharamn Engg. College, Bhopal</li>
 						<li><strong>Objective/s:</strong>A team of 18 students of Moonriders visited Radharamn Engg. College, Bhopal from 29/9/17-5/10/17.</li>
 						<li><strong>Outcome:</strong></li>
-						<li><strong>Guests of Honour at the event:</strong></li>
+						
 					</ol>
 				</div>
 			</div>
@@ -390,7 +390,7 @@
 						<!-- Outcome -->
 						<li><strong>Outcome:</strong></li>
 						<!-- Guest -->
-						<li><strong>Guests of Honour at the event:</strong></li>
+						 
 					</ol>
 				</div>
 			</div>
@@ -439,7 +439,7 @@
 						<!-- Outcome -->
 						<li><strong>Outcome:</strong> The students got 2nd position.</li>
 						<!-- Guest -->
-						<li><strong>Guests of Honour at the event:</strong></li>
+						 
 					</ol>
 				</div>
 			</div>
@@ -500,14 +500,7 @@
 							<li>Students and research scholars were made aware about the recent trends in the field of renewable energy.</li>
 							<li>Students knew about the benefits of such conferences so that they may get an insight into the field of research which is an essential factor for the advancement of their career.</li>
 							</ul>
-						</li>
-						<!-- Guest -->
-						<li><strong>Guests of Honour at the event:</strong>
-							Dr. B K Sharma, 
-							Dr. Rahul Goyal, 
-							Prof V.K.Chandna, 
-							Mr. Manish Jain
-						</li>
+						
 					</ol>
 				</div>
 			</div>
@@ -556,7 +549,7 @@
 						<!-- Outcome -->
 						<li><strong>Outcome:</strong></li>
 						<!-- Guest -->
-						<li><strong>Guests of Honour at the event:</strong> Prof. (Dr.) Noe. G. Alba-Baena from University of Texas; Shri GunjanSaxena, General Manager in BSNL, Jaipur; Prof. (Dr.) Deepak Garg from Bennett University; Prof. (Dr.) Rajesh Kumar Tiwari from RVS College of Engg and Technology, Jamshedpur; Prof. (Dr.) Peeyush Chandra Retd. Professor of Mathematics from IIT Kanpur; Prof. (Dr.) MeghanshuVashista from Department of Mechanical Engg, IIT BHU; Prof. (Dr.) PurshotamChaturani, Retd. Professor of Mathematics from IIT Bombay, along with Mr.Amit and Arpit Agrawal Director JECRC foundation and Prof V.K.Chandna,Principal JECRC,Jaipur </li>
+						 the event:</strong> Prof. (Dr.) Noe. G. Alba-Baena from University of Texas; Shri GunjanSaxena, General Manager in BSNL, Jaipur; Prof. (Dr.) Deepak Garg from Bennett University; Prof. (Dr.) Rajesh Kumar Tiwari from RVS College of Engg and Technology, Jamshedpur; Prof. (Dr.) Peeyush Chandra Retd. Professor of Mathematics from IIT Kanpur; Prof. (Dr.) MeghanshuVashista from Department of Mechanical Engg, IIT BHU; Prof. (Dr.) PurshotamChaturani, Retd. Professor of Mathematics from IIT Bombay, along with Mr.Amit and Arpit Agrawal Director JECRC foundation and Prof V.K.Chandna,Principal JECRC,Jaipur </li>
 					</ol>
 				</div>
 			</div>
@@ -605,7 +598,7 @@
 						<!-- Outcome -->
 						<li><strong>Outcome:</strong></li>
 						<!-- Guest -->
-						<li><strong>Guests of Honour at the event:</strong></li>
+						 
 					</ol>
 				</div>
 			</div>
@@ -661,7 +654,7 @@
 						HOD Physics Prof. R K Mangal  focused on the practical knowledge in technical education , because it is the primary need of the industries .Dean I year Prof.  U K pareek talked about technical knowledge and its importance rather than be the distinction in the UG programme .He talked about the importance of classes and role of faculty in the class.Course coordinator Mr. VipinGoyal gave the vote of thanks to all the dignriies , participants and students . Prof. Paabla has informed about the ICT based STC and explained about the advantages of STC.
 						</li>
 						<!-- Guest -->
-						<li><strong>Guests of Honour at the event:</strong></li>
+						
 					</ol>
 				</div>
 			</div>
