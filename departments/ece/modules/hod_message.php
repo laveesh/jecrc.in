@@ -24,7 +24,7 @@ responsible human being. The graduates of the
 Electronics & Communication Stream have been
 selected by some of the world’s leading corporations
 & as well as by most of the leading Indian
-counterparts. We hope that we will continue to
+counterparts.We hope that we will continue to
 deliver our best to serve the society and mankind. It
 is also expected that our students will continue to
 pass on the skills which they have developed during

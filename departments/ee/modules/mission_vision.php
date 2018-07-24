@@ -1,19 +1,24 @@
 <section class="section container card">
-  <div class="sectionHeading">Mission and Vision</div>
-  <div class="sectionContent card-body">
-    <h3 class="sectionSubHeading">Vision</h3>
-    <p>To contribute through excellence in scientific and technical education, teaching and research in Electronics and Communication Engineering & to meet the needs of global industry.
-    </p>
-    <h3 class="sectionSubHeading">Mission</h3>
-    <ol class="list-group list-group-flush sectionList">
-      <li class="list-group-item py-3">To equip the students with a strong foundation of basic sciences and domain knowledge of ECE, so that they are able to creatively apply their knowledge to the solution arising in their career path.</li>
-      <li class="list-group-item py-3">To induce the habit of life-long learning to enhance overall performance.
-      </li>
-      <li class="list-group-item py-3">Students are able to communicate their ideas clearly and concisely so that they can work in a team as well as an individual.
-      </li>
-      <li class="list-group-item py-3">To make students responsive towards the ethical, social, environmental and economic context for the society.
-      </li>
-    </ol>
+	<div class="sectionHeading">Mission and Vision</div>
+	<div class="sectionContent card-body">
+	<h3 class="sectionSubHeading">Vision</h3>
+	<p>To emerge as a Center of Excellence in teaching in the area of Electrical
+		Engineering and to serve as a valuable resource for society by promoting
+		excellence and creativity.
+	</p>
+	<h3 class="sectionSubHeading">Mission
+		</h3>
+		<ol class="list-group list-group-flush sectionList">
+			<li class="list-group-item py-3"><strong>M1. </strong>To provide professional and ethical
+				guidance to the students to make them employable.
+			</li>
+			<li class="list-group-item py-3"><strong>M2. </strong> To improve quality of education through   different quality improvement programs for faculty and students.
+			</li>
+			<li class="list-group-item py-3"><strong>M3. </strong>To encourage students to acquire practical knowledge through projects and participation in national and international events.
+			</li>
+			<li class="list-group-item py-3"><strong>M4. </strong>To prepare our students for upcoming challenges of life through guidance for competitive examinations.
+			</li>
+		</ol>
 
-  </div>
+	</div>
 </section>
