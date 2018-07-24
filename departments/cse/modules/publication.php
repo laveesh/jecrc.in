@@ -1,20 +1,5 @@
-<!-- research publication page -->
 <section class="section container card">
-  <div class="sectionHeading">Publications</div>
-  <div class="sectionContent card-body px-4">
-    <p><b>Aditi Gupta, Ajay Kumar, Jyoti Gautam</b>- Aditi Gupta, Ajay Kumar, Jyoti Gautam, â€œA Survey on Semantic Similarity Measuresâ€, in International Journal for Innovative Research in Science & Technology (IJIRST), Volume 3, Issue 12, May 2017.,Journal,05/22
-    </p>
-    <p><b>Aditi Gupta, Ajay Kumar, Jyoti Gautam</b>- Aditi Gupta, Ajay Kumar, Jyoti Gautam, â€œA Survey on Semantic Similarity Measuresâ€, in International Journal for Innovative Research in Science & Technology (IJIRST), Volume 3, Issue 12, May 2017.,Journal,05/22
-    </p>
-    <p><b>Aditi Gupta, Ajay Kumar, Jyoti Gautam</b>- Aditi Gupta, Ajay Kumar, Jyoti Gautam, â€œA Survey on Semantic Similarity Measuresâ€, in International Journal for Innovative Research in Science & Technology (IJIRST), Volume 3, Issue 12, May 2017.,Journal,05/22
-    </p>
-    <p><b>Aditi Gupta, Ajay Kumar, Jyoti Gautam</b>- Aditi Gupta, Ajay Kumar, Jyoti Gautam, â€œA Survey on Semantic Similarity Measuresâ€, in International Journal for Innovative Research in Science & Technology (IJIRST), Volume 3, Issue 12, May 2017.,Journal,05/22
-    </p>
-    <p><b>Aditi Gupta, Ajay Kumar, Jyoti Gautam</b>- Aditi Gupta, Ajay Kumar, Jyoti Gautam, â€œA Survey on Semantic Similarity Measuresâ€, in International Journal for Innovative Research in Science & Technology (IJIRST), Volume 3, Issue 12, May 2017.,Journal,05/22
-    </p>
-    <p><b>Aditi Gupta, Ajay Kumar, Jyoti Gautam</b>- Aditi Gupta, Ajay Kumar, Jyoti Gautam, â€œA Survey on Semantic Similarity Measuresâ€, in International Journal for Innovative Research in Science & Technology (IJIRST), Volume 3, Issue 12, May 2017.,Journal,05/22
-    </p>
-    <p><b>Aditi Gupta, Ajay Kumar, Jyoti Gautam</b>- Aditi Gupta, Ajay Kumar, Jyoti Gautam, â€œA Survey on Semantic Similarity Measuresâ€, in International Journal for Innovative Research in Science & Technology (IJIRST), Volume 3, Issue 12, May 2017.,Journal,05/22
-    </p>
-  </div>
+  <div class="sectionHeading">Publication</div>
+<!--  <embed src="../departments/me/src/pdf/books_database.pdf" class="embed-doc" value="FitH" type='application/pdf'> -->
+  <iframe src="https://docs.google.com/gview?url=https://jecrcwebsite.herokuapp.com/departments/cse/src/pdf/Computersciencepublication.pdf&embedded=true" class="embed-doc" frameborder="0"></iframe>   
 </section>
