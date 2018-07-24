@@ -80,7 +80,7 @@
 
 								<li class="list-group-item">bhuvnesh.me@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 12 year</li>
-								<li class="list-group-item">Publication: 02</li>
+								<li class="list-group-item">Publication: 22</li>
 							</ul>
 						</div>
 					</div>
@@ -176,7 +176,7 @@
 		<div class="row sectionContent">
 			<div class="col-md-6 mt-4">
 				<div class="panel-body card">
-					<div class="card-header text-center"><h4>SATYENDRA KUMAR</h4></div>
+					<div class="card-header text-center"><h4>Mr. Satyendra Kumar</h4></div>
 					<div class="row">
 						<div class="col-md-3 pt-1 py-1" align="center">
 							<img src="../departments/me/src/img/people/faculty/SATYENDRA.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
@@ -188,7 +188,7 @@
 								
 								<li class="list-group-item">satyendrakumar.me@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 07 year</li>
-								<li class="list-group-item">Publication: 1</li>
+								<li class="list-group-item">Publication: 2</li>
 							</ul>
 						</div>
 					</div>

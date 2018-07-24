@@ -67,7 +67,6 @@
                   News and Events
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="me.php?section=news">News</a>
                   <a class="dropdown-item" href="me.php?section=events">Events</a>
                   <a class="dropdown-item" href="me.php?section=tech_events">Technical Events</a>
                   <a class="dropdown-item" href="me.php?section=awards_faculty">Faculties Awards</a>
