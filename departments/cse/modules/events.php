@@ -1,10 +1,11 @@
 <div class="container">
-		<div class="sectionHeading">Recents events @JECRC</div>
-		<section class="section">
-			<div class="sectionHeading">International Workshop On Open Source Innovations –TechnologicalConvergence by  RED HAT ACADEMY </div>
-			<div class="row">
-				<div class="col-md-3 col-sm-12">
-					<div id="events_carausel" class="carousel slide" data-ride="carousel">
+	<div class="sectionHeading">Recents events @JECRC</div>
+	<section class="section">
+		<div class="sectionHeading"> International Conference on Emerging Trends in Expert Applications & Security (ICETEAS) 2018
+		</div>
+		<div class="row">
+			<div class="col-md-3 col-sm-12">
+				<div id="events_carausel" class="carousel slide" data-ride="carousel">
 					<ol class="carousel-indicators">
 						<li data-target="#events_carausel" data-slide-to="0" class="active"></li>
 						<li data-target="#events_carausel" data-slide-to="1"></li>
@@ -22,464 +23,299 @@
 						</div>
 					</div>
 					<a class="carousel-control-prev" href="#events_carausel" role="button" data-slide="prev">
-					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-					<span class="sr-only">Previous</span>
+						<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+						<span class="sr-only">Previous</span>
 					</a>
 					<a class="carousel-control-next" href="#events_carausel" role="button" data-slide="next">
-					<span class="carousel-control-next-icon" aria-hidden="true"></span>
-					<span class="sr-only">Next</span>
+						<span class="carousel-control-next-icon" aria-hidden="true"></span>
+						<span class="sr-only">Next</span>
 					</a>
-					</div>
 				</div>
-				<div class="col-md-9 col-sm-12 sectionContent">
-					<ol class="sectionList">
-						<li><strong>Date of the event:</strong><sup></sup></li>
-						<li><strong>Venue:</strong> Auditorium</li>
-						<li><strong>Objectives:</strong></li>
-						<li><strong>Outcome:</strong></li>
+			</div>
+			<div class="col-md-9 col-sm-12 sectionContent">
+				<ol class="sectionList">
+					<li><strong>Date of the event:</strong>Feb 17-18, 2018</li>
+					<li><strong>Venue:</strong> Auditorium</li>
+					<li><strong>Objectives:</strong>
+						<ul>
+							<li>To address innovative advancements in Expert Applications & Security Issues</li>
+							<li>Provide opportunistic forum and vibrant platform for researchers and industry practitioners</li>
+							<li>Exchange of state-of-the-art knowledge on specific new challenges</li>
+							<li>Establish business or research relations</li>
+							<li>To find global partners for future collaboration on emerging issues.</li>
+						</ul>
+					</li>
+					<li><strong>Outcome:</strong>
+						<p>Contributes to the society by serving the expert community seeking to stimulate the development to improve lives throughout the world by providing innovative results.
+						</p>
+						<p>
+
+						</p></li>
 					</ol>
 				</div>
 			</div>
 		</section>
 		<section class="section">
-			<div class="sectionHeading">Seminar by Huawei on multiple leading ICT technologies such as Wireless (2G, 3G, LTE), Core network</div>
+			<div class="sectionHeading">International Congress on Information and Communication Technology (ICICT) 2018
+			</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
 					<div id="events_carausel2" class="carousel slide" data-ride="carousel">
-					<ol class="carousel-indicators">
-						<li data-target="#events_carausel2" data-slide-to="0" class="active"></li>
-						<li data-target="#events_carausel2" data-slide-to="1"></li>
-						<li data-target="#events_carausel2" data-slide-to="2"></li>
-					</ol>
-					<div class="carousel-inner">
-						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
+						<ol class="carousel-indicators">
+							<li data-target="#events_carausel2" data-slide-to="0" class="active"></li>
+							<li data-target="#events_carausel2" data-slide-to="1"></li>
+							<li data-target="#events_carausel2" data-slide-to="2"></li>
+						</ol>
+						<div class="carousel-inner">
+							<div class="carousel-item active">
+								<img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
+							</div>
+							<div class="carousel-item">
+								<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
+							</div>
+							<div class="carousel-item">
+								<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
+							</div>
 						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
-						</div>
-					</div>
-					<a class="carousel-control-prev" href="#events_carausel2" role="button" data-slide="prev">
-					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-					<span class="sr-only">Previous</span>
-					</a>
-					<a class="carousel-control-next" href="#events_carausel2" role="button" data-slide="next">
-					<span class="carousel-control-next-icon" aria-hidden="true"></span>
-					<span class="sr-only">Next</span>
-					</a>
+						<a class="carousel-control-prev" href="#events_carausel2" role="button" data-slide="prev">
+							<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+							<span class="sr-only">Previous</span>
+						</a>
+						<a class="carousel-control-next" href="#events_carausel2" role="button" data-slide="next">
+							<span class="carousel-control-next-icon" aria-hidden="true"></span>
+							<span class="sr-only">Next</span>
+						</a>
 					</div>
 				</div>
 				<div class="col-md-9 col-sm-12 sectionContent">
 					<p>Informative Seminar presentations were conducted by ECE department on HCIG program, aimed for Engineering students, where participants get trained & certified by Huawei on multiple leading ICT technologies such as Wireless (2G, 3G, LTE), Core network</p>
 					<ol class="sectionList">
-						<li><strong>Date of the event:</strong><sup></sup></li>
-						<li><strong>Venue:</strong></li>
-						<li><strong>Objectives:</strong>For Engineering students get trained & certified by Huawei on multiple leading ICT technologies such as Wireless (2G, 3G, LTE), Core network</li>
-						<li><strong>Guests of Honour at the event:</strong></li>
+						<li><strong>Date of the event:</strong> February 27-28, 2018</li>
+						<li><strong>Venue:</strong>Brunel University, London, United Kingdom</li>
+						<li><strong>Objectives:</strong>
+							<ul>
+								<li>To provide opportunities for the Researchers, Academicians, Industry persons and students to interact and exchange ideas, experience and expertise in the current trend and strategies for Information and Communication Technologies.</li>
+								<li>To target state-of-the-art as well as emerging topics pertaining to ICT and its Supported e-Agriculture and Rural Development Technologies, e-Education and Computing Technologies, e-Mining and Inclusive Technologies for implementation for Engineering and Managerial Applications through ICT.</li>
+							</ul>
+						</li>
+						<li><strong>Outcomes:</strong>The participants got enlightened about vast avenues, current and emerging technological developments in the field of ICT in this era and its applications.
+
+						</li>
 					</ol>
 				</div>
 			</div>
 		</section>
 		<section class="section">
-			<div class="sectionHeading">Spy Robotic Workshop by Tetchiest Pvt. Ltd.</div>
+			<div class="sectionHeading">National Conference on Recent Trends in Computing & Communications (RTCC) 2018
+			</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
 					<div id="events_carausel3" class="carousel slide" data-ride="carousel">
-					<ol class="carousel-indicators">
-						<li data-target="#events_carausel3" data-slide-to="0" class="active"></li>
-						<li data-target="#events_carausel3" data-slide-to="1"></li>
-						<li data-target="#events_carausel3" data-slide-to="2"></li>
-					</ol>
-					<div class="carousel-inner">
-						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
+						<ol class="carousel-indicators">
+							<li data-target="#events_carausel3" data-slide-to="0" class="active"></li>
+							<li data-target="#events_carausel3" data-slide-to="1"></li>
+							<li data-target="#events_carausel3" data-slide-to="2"></li>
+						</ol>
+						<div class="carousel-inner">
+							<div class="carousel-item active">
+								<img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
+							</div>
+							<div class="carousel-item">
+								<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
+							</div>
+							<div class="carousel-item">
+								<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
+							</div>
 						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
-						</div>
-					</div>
-					<a class="carousel-control-prev" href="#events_carausel3" role="button" data-slide="prev">
-					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-					<span class="sr-only">Previous</span>
-					</a>
-					<a class="carousel-control-next" href="#events_carausel3" role="button" data-slide="next">
-					<span class="carousel-control-next-icon" aria-hidden="true"></span>
-					<span class="sr-only">Next</span>
-					</a>
+						<a class="carousel-control-prev" href="#events_carausel3" role="button" data-slide="prev">
+							<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+							<span class="sr-only">Previous</span>
+						</a>
+						<a class="carousel-control-next" href="#events_carausel3" role="button" data-slide="next">
+							<span class="carousel-control-next-icon" aria-hidden="true"></span>
+							<span class="sr-only">Next</span>
+						</a>
 					</div>
 				</div>
 				<div class="col-md-9 col-sm-12 sectionContent">
 					<ol class="sectionList">
-						<li><strong>Date of the event:</strong>19<sup>th</sup>August 2017</li>
-						<li><strong>Venue:</strong>B-Block</li>
-						<li><strong>Objectives:</strong>To introduce the significance and emergence Spy Robotics</li>
-						<li><strong>Outcome:</strong></li>
+						<li><strong>Date of the event:</strong>March 26-27, 2018</li>
+						<li><strong>Venue:</strong>Jecrc foundation</li>
+						<li><strong>Objectives:</strong>
+							<ul>
+								<li>To provide opportunistic platform to researchers to exchange state-of-the-art knowledge.</li>
+								<li>To understand issues and challenges in the current trends of research.</li>
+								<li>To disseminate knowledge and share experience of emerging technologies.</li>
+								<li>To formulate appropriate and effective strategies towards the innovative advancements in Computing & Communications</li>
+							</ul>
+						</li>
+						<li><strong>Outcome:</strong>The conference enlightened participants about advancing trends in Computing & Communication with issues and challenges towards innovative developments.
+
+						</li>
 					</ol>
 				</div>
 			</div>
 		</section>
+		<div class="sectionHeading">Seminars</div>
 		<section class="section">
-			<div class="sectionHeading">Induction Ceremony of JECRC Batch 2017-21.  </div>
-			<div class="row">
-				<div class="col-md-3 col-sm-12">
-					<div id="events_carausel4" class="carousel slide" data-ride="carousel">
-					<ol class="carousel-indicators">
-						<li data-target="#events_carausel4" data-slide-to="0" class="active"></li>
-						<li data-target="#events_carausel4" data-slide-to="1"></li>
-						<li data-target="#events_carausel4" data-slide-to="2"></li>
-					</ol>
-					<div class="carousel-inner">
-						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Picture11.png" alt="First slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
-						</div>
-					</div>
-					<a class="carousel-control-prev" href="#events_carausel4" role="button" data-slide="prev">
-					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-					<span class="sr-only">Previous</span>
-					</a>
-					<a class="carousel-control-next" href="#events_carausel4" role="button" data-slide="next">
-					<span class="carousel-control-next-icon" aria-hidden="true"></span>
-					<span class="sr-only">Next</span>
-					</a>
-					</div>
-				</div>
-				<div class="col-md-9 col-sm-12 sectionContent">
-					<p>It was a historic moment for JECRC, as we welcomed the Chairman AICTE, Dr. Anil Sahasrabudhe  and Director AICTE, Dr. Manpreet Singh Manna for  Induction Ceremony of JECRC Batch 2017-21. More than 1500 people attended this event . On this occasion, meritorious students were felicitated  for their achievements</p>
-					<ol class="sectionList">
-						<li><strong>Date of the event:</strong><sup></sup></li>
-						<li><strong>Venue:</strong> Central Lawn</li>
-						<li><strong>Guests of Honour at the event:</strong> The Chairman AICTE,Dr. Anil Sahasrabudhe and The Director AICTE, Dr. Manpreet Singh Manna</li>
-					</ol>
-				</div>
+			<div class="sectionHeading">International Seminar on Higher Education Opportunities in UK for Engineering Students
 			</div>
-		</section>
-		<section class="section">
-			<div class="sectionHeading">Smart India Hackathon-2017</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
 					<div id="events_carausel5" class="carousel slide" data-ride="carousel">
-					<ol class="carousel-indicators">
-						<li data-target="#events_carausel5" data-slide-to="0" class="active"></li>
-						<li data-target="#events_carausel5" data-slide-to="1"></li>
-						<li data-target="#events_carausel5" data-slide-to="2"></li>
-					</ol>
-					<div class="carousel-inner">
-						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Picture11.png" alt="First slide">
+						<ol class="carousel-indicators">
+							<li data-target="#events_carausel5" data-slide-to="0" class="active"></li>
+							<li data-target="#events_carausel5" data-slide-to="1"></li>
+							<li data-target="#events_carausel5" data-slide-to="2"></li>
+						</ol>
+						<div class="carousel-inner">
+							<div class="carousel-item active">
+								<img class="d-block w-100" src="../departments/ece/src/img/Events/Picture11.png" alt="First slide">
+							</div>
+							<div class="carousel-item">
+								<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
+							</div>
+							<div class="carousel-item">
+								<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
+							</div>
 						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
-						</div>
-					</div>
-					<a class="carousel-control-prev" href="#events_carausel5" role="button" data-slide="prev">
-					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-					<span class="sr-only">Previous</span>
-					</a>
-					<a class="carousel-control-next" href="#events_carausel5" role="button" data-slide="next">
-					<span class="carousel-control-next-icon" aria-hidden="true"></span>
-					<span class="sr-only">Next</span>
-					</a>
+						<a class="carousel-control-prev" href="#events_carausel5" role="button" data-slide="prev">
+							<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+							<span class="sr-only">Previous</span>
+						</a>
+						<a class="carousel-control-next" href="#events_carausel5" role="button" data-slide="next">
+							<span class="carousel-control-next-icon" aria-hidden="true"></span>
+							<span class="sr-only">Next</span>
+						</a>
 					</div>
 				</div>
 				<div class="col-md-9 col-sm-12 sectionContent">
-					<p>The government of India organized Smart India Hackathon-2017, under the Ministry of Human Research and Development (MHRD) in association with AICTE. Around 50 teams from all over the India participated in the College campus. They came to Jaipur on March 30-31, 2017 and stayed on the college campus till April 3, 2017.</p>
-					<ol class="sectionList">
-						<li><strong>Date of the event:</strong>March 30<sup>th</sup> to April 3 <sup>rd</sup>	2017</li>
-						<li><strong>Venue:</strong> JECRC College</li>
-					</ol>
+					<p class="px-3">
+						<strong>Dr. SanjeevOhri, Vice Principal, Dudley College, UK</strong> visited the JECRC Foundation on September 21, 2017. He interacted with JECRC students and explored the possibilities with students and faculty exchange program with Dudley College, UK. He visited spiritual cell and also inaugurated the Mechanical Workshop. A token of remembrance, was presented to the honorable guests by the event coordinators Prof. (Dr.) Vijay Singh Rathore and Dr. Bhavna Sharma in the end.
+					</p>
 				</div>
 			</div>
 		</section>
 		<section class="section">
-			<div class="sectionHeading"> J-techtrix</div>
+			<div class="sectionHeading">International Seminar on Outcome Based Education
+			</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
 					<div id="events_carausel6" class="carousel slide" data-ride="carousel">
-					<ol class="carousel-indicators">
-						<li data-target="#events_carausel6" data-slide-to="0" class="active"></li>
-						<li data-target="#events_carausel6" data-slide-to="1"></li>
-						<li data-target="#events_carausel6" data-slide-to="2"></li>
-					</ol>
-					<div class="carousel-inner">
-						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Picture11.png" alt="First slide">
+						<ol class="carousel-indicators">
+							<li data-target="#events_carausel6" data-slide-to="0" class="active"></li>
+							<li data-target="#events_carausel6" data-slide-to="1"></li>
+							<li data-target="#events_carausel6" data-slide-to="2"></li>
+						</ol>
+						<div class="carousel-inner">
+							<div class="carousel-item active">
+								<img class="d-block w-100" src="../departments/ece/src/img/Events/Picture11.png" alt="First slide">
+							</div>
+							<div class="carousel-item">
+								<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
+							</div>
+							<div class="carousel-item">
+								<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
+							</div>
 						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
-						</div>
-					</div>
-					<a class="carousel-control-prev" href="#events_carausel6" role="button" data-slide="prev">
-					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-					<span class="sr-only">Previous</span>
-					</a>
-					<a class="carousel-control-next" href="#events_carausel6" role="button" data-slide="next">
-					<span class="carousel-control-next-icon" aria-hidden="true"></span>
-					<span class="sr-only">Next</span>
-					</a>
+						<a class="carousel-control-prev" href="#events_carausel6" role="button" data-slide="prev">
+							<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+							<span class="sr-only">Previous</span>
+						</a>
+						<a class="carousel-control-next" href="#events_carausel6" role="button" data-slide="next">
+							<span class="carousel-control-next-icon" aria-hidden="true"></span>
+							<span class="sr-only">Next</span>
+						</a>
 					</div>
 				</div>
 				<div class="col-md-9 col-sm-12 sectionContent">
-					<p>J-Techtrix was organized for B. Tech students of all years on April 08, 2017 during 9:00 AM to 4:00 PM. The objective of this exhibition was ‘The project-based learning’ (beyond the syllabus). It provided a platform to the students to learn various experimental as well as theoretical aspects of various physical phenomena of science and technology.</p>
-					<ol class="sectionList">
-						<li><strong>Date of the event:</strong> 8 <sup>th</sup>April 2017</li>
-						<li><strong>Venue:</strong> C-Block</li>
-						<li><strong>Objectives:</strong>To introduce students to the project-based learning(beyond the syllabus)</li>
-					</ol>
+					<p class="px-2">
+						<strong>Dr Peter H Kent, CEO, UKEI, London</strong> with his colleague, Dr David Wing, Director, UKEI visited JECRC, Jaipur on November 9, 2017 for a discussion on Outcome Based Education for 21st centennial engineering students. Faculty members got benefitted with their words of wisdom on the current scenario of engineering education and the demand of upcoming time.A token of remembrance, was presented to the honorable guests by the event coordinators Prof. (Dr.) Vijay Singh Rathore and Ms. Shikha Maheshwari in the end.
+
+
+					</p>
 				</div>
 			</div>
 		</section>
 		<section class="section">
-			<div class="sectionHeading">RTDEEE</div>
+			<div class="sectionHeading">National Seminar on Improving Faculty API
+			</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
 					<div id="events_carausel6" class="carousel slide" data-ride="carousel">
-					<ol class="carousel-indicators">
-						<li data-target="#events_carausel6" data-slide-to="0" class="active"></li>
-						<li data-target="#events_carausel6" data-slide-to="1"></li>
-						<li data-target="#events_carausel6" data-slide-to="2"></li>
-					</ol>
-					<div class="carousel-inner">
-						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Picture11.png" alt="First slide">
+						<ol class="carousel-indicators">
+							<li data-target="#events_carausel6" data-slide-to="0" class="active"></li>
+							<li data-target="#events_carausel6" data-slide-to="1"></li>
+							<li data-target="#events_carausel6" data-slide-to="2"></li>
+						</ol>
+						<div class="carousel-inner">
+							<div class="carousel-item active">
+								<img class="d-block w-100" src="../departments/ece/src/img/Events/Picture11.png" alt="First slide">
+							</div>
+							<div class="carousel-item">
+								<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
+							</div>
+							<div class="carousel-item">
+								<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
+							</div>
 						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
-						</div>
-					</div>
-					<a class="carousel-control-prev" href="#events_carausel6" role="button" data-slide="prev">
-					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-					<span class="sr-only">Previous</span>
-					</a>
-					<a class="carousel-control-next" href="#events_carausel6" role="button" data-slide="next">
-					<span class="carousel-control-next-icon" aria-hidden="true"></span>
-					<span class="sr-only">Next</span>
-					</a>
+						<a class="carousel-control-prev" href="#events_carausel6" role="button" data-slide="prev">
+							<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+							<span class="sr-only">Previous</span>
+						</a>
+						<a class="carousel-control-next" href="#events_carausel6" role="button" data-slide="next">
+							<span class="carousel-control-next-icon" aria-hidden="true"></span>
+							<span class="sr-only">Next</span>
+						</a>
 					</div>
 				</div>
 				<div class="col-md-9 col-sm-12 sectionContent">
-					<p>The 2nd International Conference “RTDEEE-2018” is
-organized with a vision to address the various issues to promote
-the creation of intelligent solutions in future. It is expected that
-researchers will bring new prospects for collaboration across
-disciplines and gain ideas facilitating novel concepts.
-The theme of this conference will motivate the researchers to adopt the
-outcome for implementation. RTDEEE-2018 is a premier conference,
-organized by the Department of Electronics & Communication Engg.
-and the Department of Electrical Engineering during April 6-7, 2018 at
-JECRC</p>
-					<ol class="sectionList">
-						<li><strong>Date of the event:</strong> 8 <sup>th</sup>April 2017</li>
-						<li><strong>Venue:</strong> C-Block</li>
-						<li><strong>Objectives:</strong>To introduce students to the project-based learning(beyond the syllabus)</li>
-					</ol>
+					<p class="px-2">
+						Prof. (Dr.) P. K. Mishra, Institute of Science, Department of Computer Science, Banaras Hindu University, Varanasi conducted a seminar on improving Faculty API on November 23, 2017. The session turned as an interactive one as discussion was based on significant contributions in the classroom teachings. The session ended with the vote of thanks and a token of remembrance to the honorable guest by Prof. (Dr.) Vijay Singh Rathore.
+					</p>
 				</div>
 			</div>
 		</section>
+		<div class="sectionHeading">Industrial Visit</div>
 		<section class="section">
-			<div class="sectionHeading"> National Conference</div>
+			<div class="sectionHeading">Visit to Tedstart, Jaipur
+			</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
 					<div id="events_carausel6" class="carousel slide" data-ride="carousel">
-					<ol class="carousel-indicators">
-						<li data-target="#events_carausel6" data-slide-to="0" class="active"></li>
-						<li data-target="#events_carausel6" data-slide-to="1"></li>
-						<li data-target="#events_carausel6" data-slide-to="2"></li>
-					</ol>
-					<div class="carousel-inner">
-						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Picture11.png" alt="First slide">
+						<ol class="carousel-indicators">
+							<li data-target="#events_carausel6" data-slide-to="0" class="active"></li>
+							<li data-target="#events_carausel6" data-slide-to="1"></li>
+							<li data-target="#events_carausel6" data-slide-to="2"></li>
+						</ol>
+						<div class="carousel-inner">
+							<div class="carousel-item active">
+								<img class="d-block w-100" src="../departments/ece/src/img/Events/Picture11.png" alt="First slide">
+							</div>
+							<div class="carousel-item">
+								<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
+							</div>
+							<div class="carousel-item">
+								<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
+							</div>
 						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
-						</div>
-					</div>
-					<a class="carousel-control-prev" href="#events_carausel6" role="button" data-slide="prev">
-					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-					<span class="sr-only">Previous</span>
-					</a>
-					<a class="carousel-control-next" href="#events_carausel6" role="button" data-slide="next">
-					<span class="carousel-control-next-icon" aria-hidden="true"></span>
-					<span class="sr-only">Next</span>
-					</a>
-					</div>
-				</div>
-				<div class="col-md-9 col-sm-12 sectionContent">
-					<p>The National Conference “RAST-2018” is organized with a
-vision to address the various issues to promote the creation of
-intelligent solutions in future.
-In RAST-2018 students and research scholars were made aware
-about the recent trends in the field of electronics and electrical
-engineering.
-Students knew about the benefits of such conferences so that
-they may get an insight into the field of research which is an
-essential factor for the advancement of their career</p>
-				
-						<li><strong>Date of the event:</strong>March 27<sup>th</sup> to March 28<sup>th</sup>	2018</li>
-							
-				</div>
-			</div>
-		</section>
-		<section class="section">
-			<div class="sectionHeading">Industrial Tour[BRAMAN] at TalentPull Chandigarh</div>
-			<div class="row">
-				<div class="col-md-3 col-sm-12">
-					<div id="events_carausel6" class="carousel slide" data-ride="carousel">
-					<ol class="carousel-indicators">
-						<li data-target="#events_carausel6" data-slide-to="0" class="active"></li>
-						<li data-target="#events_carausel6" data-slide-to="1"></li>
-						<li data-target="#events_carausel6" data-slide-to="2"></li>
-					</ol>
-					<div class="carousel-inner">
-						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Picture11.png" alt="First slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
-						</div>
-					</div>
-					<a class="carousel-control-prev" href="#events_carausel6" role="button" data-slide="prev">
-					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-					<span class="sr-only">Previous</span>
-					</a>
-					<a class="carousel-control-next" href="#events_carausel6" role="button" data-slide="next">
-					<span class="carousel-control-next-icon" aria-hidden="true"></span>
-					<span class="sr-only">Next</span>
-					</a>
+						<a class="carousel-control-prev" href="#events_carausel6" role="button" data-slide="prev">
+							<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+							<span class="sr-only">Previous</span>
+						</a>
+						<a class="carousel-control-next" href="#events_carausel6" role="button" data-slide="next">
+							<span class="carousel-control-next-icon" aria-hidden="true"></span>
+							<span class="sr-only">Next</span>
+						</a>
 					</div>
 				</div>
 				<div class="col-md-9 col-sm-12 sectionContent">
-					<p>Department of Electronics and Communication Engineering
-						organized an industrial Tour BHRAMAN on 19th March to 25th
-						March 2018 for ECE students. The industrial visit is coordinated by
-						Ms. Aapurva Kaul, Mr. Ashish Sharma, Mr. Bhoopesh Kumawat ,
-						Ms. Preeti Barot, Ms. Shivam Upadhyay.</p>
-					<ol class="sectionList">
-						<li><strong>Date of the event:</strong>March 19<sup>th</sup> to March 25<sup>th</sup>	2018</li>
-						<li><strong>Attendees:</strong> 51 Students of ECE department along with 5 Faculty Members.</li>
-						<li><strong>Objectives:</strong>To introduce students to the project-based learning(beyond the syllabus)</li>
-					</ol>
+					<p>TAn industrial visit was organized to Tedstart, Jaipur on August 31, 2017. Tedstart is a joint initiative of Startup Oasis and Department of Technical Education, Government of Rajasthan, which will foster entrepreneurship in 7 regions of Rajasthan by providing special startup support programs to solve obstinate problems of the state. 64 students of JECRC visited Tedstart campus at Department of Technical Education, Govt. of Rajasthan (Center for Electronic Governance), Jaipur and learn how to tap into the pool of entrepreneurship to solve persistent problems.
+
+					</p>
+
 				</div>
 			</div>
 		</section>
-		<section class="section">
-			<div class="sectionHeading">Training Program on Embedded System & Robotics</div>
-			<div class="row">
-				<div class="col-md-3 col-sm-12">
-					<div id="events_carausel6" class="carousel slide" data-ride="carousel">
-					<ol class="carousel-indicators">
-						<li data-target="#events_carausel6" data-slide-to="0" class="active"></li>
-						<li data-target="#events_carausel6" data-slide-to="1"></li>
-						<li data-target="#events_carausel6" data-slide-to="2"></li>
-					</ol>
-					<div class="carousel-inner">
-						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Picture11.png" alt="First slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
-						</div>
-					</div>
-					<a class="carousel-control-prev" href="#events_carausel6" role="button" data-slide="prev">
-					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-					<span class="sr-only">Previous</span>
-					</a>
-					<a class="carousel-control-next" href="#events_carausel6" role="button" data-slide="next">
-					<span class="carousel-control-next-icon" aria-hidden="true"></span>
-					<span class="sr-only">Next</span>
-					</a>
-					</div>
-				</div>
-				<div class="col-md-9 col-sm-12 sectionContent">
-					<p>TechieNest Pvt. Ltd. were provided industrial training on the
-							topic of Embedded System & Robotics to ECE students. This
-							training module was completed in two slots with the duration
-							of 90 hours each slots. The training was started from 22nd
-							January 2018 (First slot) , 12th Feb 2018 (Second Slot). Total
-							56 students were successfully completed this training module.
-							After this training, students will be evaluated based on theory
-							and practical examinations certified by TechieNest, (An ISO
-							9001:2008 Certified Company).</p>
-					
-						<li><strong>Date of the event:</strong>22<sup>nd</sup> January(first slot) and 12<sup>th</sup>Febuary 2018(Second slot)</li>
-					
-				</div>
-			</div>
-		</section>
-		<section class="section">
-			<div class="sectionHeading">Training Program on Embedded System & Robotics</div>
-			<div class="row">
-				<div class="col-md-3 col-sm-12">
-					<div id="events_carausel6" class="carousel slide" data-ride="carousel">
-					<ol class="carousel-indicators">
-						<li data-target="#events_carausel6" data-slide-to="0" class="active"></li>
-						<li data-target="#events_carausel6" data-slide-to="1"></li>
-						<li data-target="#events_carausel6" data-slide-to="2"></li>
-					</ol>
-					<div class="carousel-inner">
-						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Picture11.png" alt="First slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
-						</div>
-					</div>
-					<a class="carousel-control-prev" href="#events_carausel6" role="button" data-slide="prev">
-					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-					<span class="sr-only">Previous</span>
-					</a>
-					<a class="carousel-control-next" href="#events_carausel6" role="button" data-slide="next">
-					<span class="carousel-control-next-icon" aria-hidden="true"></span>
-					<span class="sr-only">Next</span>
-					</a>
-					</div>
-				</div>
-				<div class="col-md-9 col-sm-12 sectionContent">
-					<p>On January 19,2018, Department of Electronics &
-Communication had signed the MOU with SaKRobotix.
-Under this SakRobotix conducted 28 hours training from 19th
-January to 22th January 2018 on the topic of embedded and
-robotics . There were 66 participants.
-After completion of training students will get certificates from
-Sakrobotix startup and research centre incubation with IIT
-Guwahati in the field of robotics and embedded systems.</p>
-					<li><strong>Date of the event:</strong>January 19<sup>th</sup> to January 22<sup>th</sup>	2018</li>
-						<li><strong>Attendees:</strong> There were 66 participants.</li>
-						
-					
-				</div>
-			</div>
-		</section>
+		
 	</div>

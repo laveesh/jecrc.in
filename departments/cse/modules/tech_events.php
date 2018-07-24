@@ -2,7 +2,7 @@
 	<div class="container">
 		<div class="sectionHeading">Recents events @JECRC</div>
 		<section class="section">
-			<div class="sectionHeading">ROBOWAR</div>
+			<div class="sectionHeading">JAVALETS</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
 					<div id="events_carausel" class="carousel slide" data-ride="carousel">
@@ -33,34 +33,15 @@
 					</div>
 				</div>
 				<div class="col-md-9 col-sm-12 sectionContent">
-					<p>This competition is to show how long robot of yours can withstand in the arena fighting the other robot. Teams
-							must build a manually controlled machine which can withstand the other robot in the arena.
-							The bot can be wired or wireless. In case the participants use wireless mechanism, they must use dual
-							frequency remote.</p>
-					<ol class="sectionList">
-						<li><strong>Date of the event:</strong>27<sup>th</sup>Febuary 2018.</li>
-						<li><strong>Venue:</strong> HAWAMAHAL</li>
-						<li><strong>Faculty Co-ordinators:</strong>
-							<ol class="sectionList">
-								<li>Vikas Sharma</li>
-								<li>Devesh Gupta</li>
-								</ol>
-						</li>
-						<li><strong>Students Co-dinators:</strong><ol class="sectionList">
-								<li>Harish Sharma</li>
-								<li>Chirag maheshwari</li>
-								<li>Gourav goyal</li>
-								<li>Chaitanya</li>
-								<li>Rishabh jain</li>
-								<li>Raghuveer</li>
-								</ol>
-						</li>
-					</ol>
+			<p>
+				A coding competition Java Lets involving the concepts of Java programming language was organized on March 25, 2018. The event observed a massive participation from different colleges also. Hackerearth evaluated the results on the basis of complexities and time of submission for the solutions of all the submissions.
+
+			</p>
 				</div>
 			</div>
 		</section>
 		<section class="section">
-			<div class="sectionHeading">ROBO SOCCER</div>`
+			<div class="sectionHeading">Embroyo</div>`
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
 					<div id="events_carausel2" class="carousel slide" data-ride="carousel">
@@ -91,31 +72,13 @@
 					</div>
 				</div>
 				<div class="col-md-9 col-sm-12 sectionContent">
-					<p> For all those who have passion in Robotics or Sports, RENAISSANCE’18 presents robo-soccer. This competition is to show how good and swift robot of yours can be by playing soccer using it and scoring more goals.</p>
-					<ol class="sectionList">
-						<li><strong>Date of the event:</strong>25<sup>th</sup>Febuary 2018.</li>
-						<li><strong>Venue:</strong> Quad-angle  A-block</li>
-						<li><strong>Faculty Co-ordinators:</strong>
-							<ol class="sectionList">
-								<li>Mr. Vikash Mishra</li>
-								<li>Ms. Deepmala Kulshrestha</li>
-								</ol>
-						</li>
-						<li><strong>Students Co-dinators:</strong><ol class="sectionList">
-								<li>Hardik Rathi</li>
-								<li>Juhi Garg</li>
-								<li>Anuj Goyal </li>
-								<li>Bharti</li>
-								<li>Vishal</li>
-								<li>Ankit</li>
-								</ol>
-						</li>
-					</ol>
+					<p>A national level paper presentation contest Embryo was organized on 25th March 2018 which ignites innovative ideas and explored different Scientific & Technical researches. The participants proliferated their energies and presented research papers with full enthusiasm. Akshita Bhardwaj and Malvika Kushwah won first prize of Rs 2100. Embryo enhances stage skills of individual and helped in bringing out professionalism.   </p>
 				</div>
 			</div>
 		</section>
 		<section class="section">
-			<div class="sectionHeading">FORMULA ZERO</div>
+			<div class="sectionHeading">Enlightenment
+</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
 					<div id="events_carausel3" class="carousel slide" data-ride="carousel">
@@ -146,31 +109,16 @@
 					</div>
 				</div>
 				<div class="col-md-9 col-sm-12 sectionContent">
-					<p>For all those who have passion in Robotic so far Sports, RENAISSANCE͛’18 presents Formula zero. This competition  is to show how good and swift robot of yours can be,by crossing the hurdles using it and scoring more points.</p>
-					<ol class="sectionList">
-						<li><strong>Date of the event:</strong>27<sup>th</sup>March 2018.</li>
-						<li><strong>Venue:</strong> B-Block Fountain Area</li>
-						<li><strong>Faculty Co-ordinators:</strong>
-							<ol class="sectionList">
-								<li>Mr. Ankur Gangwar</li>
-								<li>Mr. Neha Singh</li>
-								</ol>
-						</li>
-						<li><strong>Students Co-dinators:</strong><ol class="sectionList">
-								<li>Gaurav gupta</li>
-								<li>Jaya Mittal</li>
-								<li>Anshul Dhaka</li>
-								<li>Anant</li>
-								<li>Saandeep</li>
-								<li>Naman</li>
-								</ol>
-						</li>
-					</ol>
+					<p>
+						A workshop on exploring the self through Meditation and Spirituality was conducted on 25th & 26th March 2018 by Spiritual Research Cell It was designed for young explorers who embark on journey of self-discovery. An exhibition on Science and Spirituality was also setup with main attraction of the concentration loop. Around four hundred people including students and staff members visited the exhibition in two days. Competition of ‘Know your Concentration’ was also conducted as a special event for the staff of JECRC and winners were awarded prizes and certificate of appreciation on 27th March 2018. 
+
+					</p>
 				</div>
 			</div>
 		</section>
 <section class="section">
-			<div class="sectionHeading">Line Follower</div>
+			<div class="sectionHeading">Hardware Assembling
+</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
 					<div id="events_carausel4" class="carousel slide" data-ride="carousel">
@@ -201,31 +149,16 @@
 					</div>
 				</div>
 				<div class="col-md-9 col-sm-12 sectionContent">
-					<p>For all those who have passion in Robotics or Sports, RENAISSANCE’18 presents Line follower. This competition is to show how good and swift robot of yours can be by following a line using it and scoring more points.</p>
-					<ol class="sectionList">
-						<li><strong>Date of the event:</strong>8<sup>th</sup>March 2018.</li>
-						<li><strong>Venue:</strong> C-401</li>
-						<li><strong>Faculty Co-ordinators:</strong>
-							<ol class="sectionList">
-								<li>Mr. Ankur Gangwar</li>
-								<li>Ms. Neha Singh</li>
-								</ol>
-						</li>
-						<li><strong>Students Co-dinators:</strong><ol class="sectionList">
-								<li>Gaurav gupta</li>
-								<li>Jaya Mittal</li>
-								<li>Anshul Dhaka</li>
-								<li>Anant</li>
-								<li>Saandeep</li>
-								<li>Naman</li>
-								</ol>
-						</li>
-					</ol>
+					<p>
+						A unique competition Hardware Assembling was organized on March 26th, 2018 to enhance the skills of PC assembling. Every team is required to assemble the CPU cabinet with all the required hardware tools within the limit of 5 minutes and if CPU boots then the team is considered to be qualified. The team of Bhavik and Akash took minimum time and won first prize of Rs. 11,000.     
+
+					</p>
 				</div>
 			</div>
 		</section>
 		<section class="section">
-			<div class="sectionHeading">Game of Drones</div>
+			<div class="sectionHeading">TECH PROBE
+</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
 					<div id="events_carausel5" class="carousel slide" data-ride="carousel">
@@ -256,23 +189,14 @@
 					</div>
 				</div>
 				<div class="col-md-9 col-sm-12 sectionContent">
-					<p>Build your Drone to travel from source to destination crossing various interruptions, hurdles, etc., along the path of journey. This is an open event for all (but should not be from any industry or a professional).</p>
-					<ol class="sectionList">
-						<li><strong>Date of the event:</strong>26<sup>th</sup>March 2018.</li>
-						<li><strong>Venue:</strong> GH-Lawn</li>
-						<li><strong>Faculty Co-ordinators:</strong>
-							<ol class="sectionList">
-								<li >Siddharth Chaturvedi</li>
-								<li >Naresh kumar</li>
-								<li >Ashish Sharma</li>
-								</ol>
-						</li>					
-					</ol>
+					<p>
+						A technical quiz competition, Tech Probe was organized on March 26th, 2018 to test the technical knowledge of participants. A huge number of participants from all the departments grabbed the opportunity to showcase their talents. Instead of conventional methods of quiz, tech probe participants answered timed questions through their smartphones and winners were awarded cash prizes.  
+					</p>
 				</div>
 			</div>
 		</section>
 		<section class="section">
-			<div class="sectionHeading">TECHNOPHILIA</div>
+			<div class="sectionHeading">JustC</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
 					<div id="events_carausel6" class="carousel slide" data-ride="carousel">
@@ -303,27 +227,15 @@
 					</div>
 				</div>
 				<div class="col-md-9 col-sm-12 sectionContent">
-					<p>This event is to develop research aptitude among engineering students. Future of education belongs to research. Students who want to pursue higher studies in india or abroad are very much inquisitive about  developing research aptitude . Technophilia will provide them a solid platform to begin. </p>
-					<ol class="sectionList">
-						<li><strong>Date of the event:</strong>26<sup>th</sup>March 2017.</li>
-						<li><strong>Venue:</strong> CAD LAB(ECE), B-BLOCK,GROUND FLOOR</li>
-						<li><strong>Faculty Co-ordinators:</strong>
-							<ol class="sectionList">
-								<li>Rajesh Bhataija</li>
-								<li>S.S.Manaktala</li>
-								</ol>
-						</li>
-						<li><strong>Students Co-dinators:</strong><ol class="sectionList">
-								<li>Shipra Goyal</li>
-								<li>Radhey Shyam</li>
-							</ol>
-						</li>
-					</ol>
+					<p>
+						An event based on C programming language was organized on 27th March 2018. The event consists of two rounds - a Quiz as well as a Competitive Programming to test the understanding of C programming language and computer science fundamentals. It created the ability to solve problems inspired by real life situations. Saroj Kumar won the grand prize of Rs. 11,000 and five runner ups won cash prize of Rs. 2000 each.
+
+					</p>
 				</div>
 			</div>
 		</section>
 		<section class="section">
-			<div class="sectionHeading">Phoenix</div>
+			<div class="sectionHeading">New Venture</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
 					<div id="events_carausel7" class="carousel slide" data-ride="carousel">
@@ -354,28 +266,15 @@
 					</div>
 				</div>
 				<div class="col-md-9 col-sm-12 sectionContent">
-					<p>“CASH THE ASH”, In this event students have to develop a working model from the available components of a non working or discarded device according their innovative idea. Creating is not finding of a thing but making something out of it after it is found so get your mind work to create something innovative from the ASH.  </p>
-					<ol class="sectionList">
-						<li><strong>Date of the event:</strong>26<sup>th</sup>March 2018.</li>
-						<li><strong>Venue:</strong> ECE workshop & BS-12</li>
-						<li><strong>Faculty Co-ordinators:</strong>
-							<ol class="sectionList">
-								<li>Rajesh Bhataija</li>
-								<li>S.S.Manaktala</li>
-								</ol>
-						</li>
-						<li><strong>Students Co-dinators:</strong><ol class="sectionList">
-								<li>Mr. Maneet</li>
-								<li>Mr. Giriraj</li>
-								<li>Mr. Kailash</li>
-							</ol>
-						</li>
-					</ol>
+					<p>
+						An annual Business Plan competition “NEW VENTURE” was organized by E-cell on March 28th, 2018. The event aimed to identify budding entrepreneurs that can contribute to the buzzing economy in the coming future. New Venture tested the skills of students in business plan. 
+
+					</p>
 				</div>
 			</div>
 		</section>
 <section class="section">
-			<div class="sectionHeading">Renovators</div>
+			<div class="sectionHeading">Subito</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
 					<div id="events_carausel8" class="carousel slide" data-ride="carousel">
@@ -406,191 +305,12 @@
 					</div>
 				</div>
 				<div class="col-md-9 col-sm-12 sectionContent">
-					<p> Renovators is a technical event that falls right in into the core of engineering. It emphasis on the basic circuits that are involve in the course of engineering. It also disperse light onto the innovation and creativity. 
-There are 2 rounds, first about the identification of circuit elements and second about the design of already studied circuit. </p>
-					<ol class="sectionList">
-						<li><strong>Date of the event:</strong>25<sup>th</sup>March 2018.</li>
-						<li><strong>Venue:</strong>  BG-15, BG-16</li>
-						<li><strong>Faculty Co-ordinators:</strong>
-							<ol class="sectionList">
-								<li> Mr.  Deepak Sankhala</li>
-								<li> Mr. Venimadhav Sharma</li>
-								</ol>
-						</li>
-						<li><strong>Students Co-dinators:</strong><ol class="sectionList">
-								<li>Ambuj Shukla </li>
-								<li>Abhay Goyal</li>
-								<li>Anchal Agrawal</li>
-								<li> Anchal Khandelwal </li>
-								<li>Deveant Kumar </li>
-								<li>Lovey Agrawal</li>
-							</ol>
-						</li>
-					</ol>
+					<p>
+						A technical event based on the theme based web, mobile app development was organized on 28th March 2018. Participants prepared application (app) in a given time and showcased their app in front of panel of judges. Two competitions were organized in this event, Front End Ninja and Full Stack Ninja, where each competition has their own winning prizes. Abhishek Mohata & Akshita Vijay were the winners of Front End Ninja and Kunal Sarna and Kandarp Gupta won Full Stack Ninja competition.   
+
+					</p>
 				</div>
 			</div>
 		</section>
-		<section class="section">
-			<div class="sectionHeading">TechinoBuzz</div>
-			<div class="row">
-				<div class="col-md-3 col-sm-12">
-					<div id="events_carausel9" class="carousel slide" data-ride="carousel">
-					<ol class="carousel-indicators">
-						<li data-target="#events_carausel9" data-slide-to="0" class="active"></li>
-						<li data-target="#events_carausel9" data-slide-to="1"></li>
-						<li data-target="#events_carausel9" data-slide-to="2"></li>
-					</ol>
-					<div class="carousel-inner">
-						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
-						</div>
-					</div>
-					<a class="carousel-control-prev" href="#events_carausel9" role="button" data-slide="prev">
-					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-					<span class="sr-only">Previous</span>
-					</a>
-					<a class="carousel-control-next" href="#events_carausel9" role="button" data-slide="next">
-					<span class="carousel-control-next-icon" aria-hidden="true"></span>
-					<span class="sr-only">Next</span>
-					</a>
-					</div>
-				</div>
-				<div class="col-md-9 col-sm-12 sectionContent">
-					<p>Techino Buzz is a Technical poster presentation. This is the presentation of research information or an idea with an academic or professional focus on a poster. For any professional, communicating his/her idea efficiently determines his success professionally. The primary motive of this competition is to enhance the ability to deliver a visual presentation without any other audio/video aids. This event basically focuses on the creativity of the students. Here at Renaissance we provide you a platform to showcase your innovation, creativity, knowledge, and ability to tackle practical problems.</p>
-					<ol class="sectionList">
-						<li><strong>Date of the event:</strong>27<sup>th</sup>March 2018.</li>
-						<li><strong>Venue:</strong>BF-01</li>
-						<li><strong>Faculty Co-ordinators:</strong>
-							<ol class="sectionList">
-								<li>Ms. Ritu Vyas</li>
-								<li> Mr. Shivam Upadhyay</li>
-								</ol>
-						</li>
-						<li><strong>Students Co-dinators:</strong><ol class="sectionList">
-								<li>Ayush Jain </li>
-								<li>Ajay Agarwal</li>
-								<li>Ayushi Johari</li>
-								<li> Avi Goyal </li>
-								<li>Aman Khandelwal </li>
-								<li>Ashish Gupta</li>
-							</ol>
-						</li>
-					</ol>
-				</div>
-			</div>
-		</section>
-		<section class="section">
-			<div class="sectionHeading">Quizolic</div>
-			<div class="row">
-				<div class="col-md-3 col-sm-12">
-					<div id="events_carausel10" class="carousel slide" data-ride="carousel">
-					<ol class="carousel-indicators">
-						<li data-target="#events_carausel10" data-slide-to="0" class="active"></li>
-						<li data-target="#events_carausel10" data-slide-to="1"></li>
-						<li data-target="#events_carausel10" data-slide-to="2"></li>
-					</ol>
-					<div class="carousel-inner">
-						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
-						</div>
-					</div>
-					<a class="carousel-control-prev" href="#events_carausel10" role="button" data-slide="prev">
-					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-					<span class="sr-only">Previous</span>
-					</a>
-					<a class="carousel-control-next" href="#events_carausel10" role="button" data-slide="next">
-					<span class="carousel-control-next-icon" aria-hidden="true"></span>
-					<span class="sr-only">Next</span>
-					</a>
-					</div>
-				</div>
-				<div class="col-md-9 col-sm-12 sectionContent">
-					<p>A Quiz Is More Than Just A Collection Of Questions In Search Of Answers. It Is A Reflection Of The Times We Live And Have Lived In. The Event Presents A Medley Of Well Gleaned Technical Questions To Test The Intellectual Capabilities. If Archie Was The First And Backrub Became Google, The Advent Of Search Engines And Internet Has Meant That Answers To Anything Are Just A Click Away.</p>
-					<ol class="sectionList">
-						<li><strong>Date of the event:</strong>27<sup>th</sup>March 2018.</li>
-						<li><strong>Venue:</strong>BF-01</li>
-						<li><strong>Faculty Co-ordinators:</strong>
-							<ol class="sectionList">
-								<li>Ms. Ritu Vyas</li>
-								<li> Mr. Shivam Upadhyay</li>
-								</ol>
-						</li>
-						<li><strong>Students Co-dinators:</strong><ol class="sectionList">
-								<li>Arushi Khandelwal </li>
-								<li>Akshansha Singhal</li>
-								<li>Bhavit Mathur</li>
-								<li> Devansh Dadich </li>
-								<li>Anubhav Khandelwal </li>
-							</ol>
-						</li>
-					</ol>
-				</div>
-			</div>
-		</section> 	
-		<section class="section">
-			<div class="sectionHeading">TECH  TAMBOLA</div>
-			<div class="row">
-				<div class="col-md-3 col-sm-12">
-					<div id="events_carausel11" class="carousel slide" data-ride="carousel">
-					<ol class="carousel-indicators">
-						<li data-target="#events_carausel11" data-slide-to="0" class="active"></li>
-						<li data-target="#events_carausel11" data-slide-to="1"></li>
-						<li data-target="#events_carausel11" data-slide-to="2"></li>
-					</ol>
-					<div class="carousel-inner">
-						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
-						</div>
-					</div>
-					<a class="carousel-control-prev" href="#events_carausel11" role="button" data-slide="prev">
-					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-					<span class="sr-only">Previous</span>
-					</a>
-					<a class="carousel-control-next" href="#events_carausel11" role="button" data-slide="next">
-					<span class="carousel-control-next-icon" aria-hidden="true"></span>
-					<span class="sr-only">Next</span>
-					</a>
-					</div>
-				</div>
-				<div class="col-md-9 col-sm-12 sectionContent">
-					<p>Combine your luck and your skills, solve basic mathematical equations and circuits and play Tambola. Improve your skills, solve time based questions and win exciting prizes.</p>
-					<ol class="sectionList">
-						<li><strong>Date of the event:</strong>25<sup>th</sup>March 2018.</li>
-						<li><strong>Venue:</strong></li>
-						<li><strong>Faculty Co-ordinators:</strong>
-							<ol class="sectionList">
-								<li>Mr. Ashish Sharma</li>
-								<li> Mrs. Deepmala</li>
-								</ol>
-						</li>
-						<li><strong>Students Co-dinators:</strong><ol class="sectionList">
-								<li> Peehu Choudhary</li>
-								<li>Parth Sharma</li>
-								<li>Shivali Purwar</li>
-								<li>Ramakant Rajput</li>
-								<li>Priya Bhargava </li>
-							</ol>
-						</li>
-					</ol>
-				</div>
-			</div>
-		</section> 	
+		
 	</div>
