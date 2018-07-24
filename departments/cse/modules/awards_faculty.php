@@ -3,15 +3,15 @@
 	<div class=" card-body sectionContent">
 	<div class="container text-justify">
 	  <h2>Recent achievements of Faculties</h2>
-	  <div class="card mt-2">
-	    <div class="card-header">Prof. (Dr.) Vijay Singh Rathore</div>
+	  <div class="card mt-2 px-0">
+	    <div class="card-header text-center font-weight-bold py-2">Prof. (Dr.) Vijay Singh Rathore</div>
 	    <div class="card-body">
 	    	<div class="row">
-	    		<div class="col-md-3 border-right">
-	    			<img src="../departments/cse/src/img/awards/faculties/1.png" height="300px" width="200px">
+	    		<div class="col-md-4 border-right">
+	    			<img src="../departments/cse/src/img/awards/faculties/1.png" class="card-img-top rounded-circle img-fluid">
 	    		</div>
-	    		<div class="col-md-9">
-	    			<ul class="sectionList px-4">
+	    		<div class="col-md-8">
+	    			<ul class="sectionList mt-2">
 	    				<li>
 		    			Honorary Appreciation cum Felicitation Ceremony 2017 ( By
 						G R Foundation ) Supported By – CSI Division IV, COEP Pune, in
@@ -32,15 +32,15 @@
 	    </div>
 	  </div>
 	  <div class="card mt-2">
-	    <div class="card-header">Dr. Bhavna Sharma</div>
+	    <div class="card-header text-center font-weight-bold py-2">Dr. Bhavna Sharma</div>
 	    <div class="card-body">
 	    	<div class="row">
-	    		<div class="col-md-3 border-right">
-	    			<img src="../departments/cse/src/img/awards/faculties/2.jpg" height="300px" width="200px">
+	    		<div class="col-md-4 border-right">
+	    			<img src="../departments/cse/src/img/awards/faculties/2.jpg" class="card-img-top rounded-circle img-fluid">
 
 	    		</div>
-	    		<div class="col-md-9">
-	    			<ul class="sectionList px-4">
+	    		<div class="col-md-8">
+	    			<ul class="sectionList mt-2">
 	    				<li>
 	    				Received Distinguished Service Award by JECRC Foundation for
 						Organizer and Coordinator for Smart India Hackathon-2017.
@@ -56,14 +56,14 @@
 	    </div>
 	  </div>
 	  <div class="card mt-2">
-	    <div class="card-header">Mr. Mukesh Agarwal</div>
+	    <div class="card-header text-center font-weight-bold py-2">Mr. Mukesh Agarwal</div>
 	    <div class="card-body">
 	    	<div class="row">
-	    		<div class="col-md-3 border-right">
-	    			<img src="../departments/cse/src/img/awards/faculties/3.png" height="300px" width="200px">
+	    		<div class="col-md-4 border-right">
+	    			<img src="../departments/cse/src/img/awards/faculties/3.png" class="card-img-top rounded-circle img-fluid">
 	    		</div>
-	    		<div class="col-md-9">
-	    			<ul class="sectionList px-4">
+	    		<div class="col-md-8">
+	    			<ul class="sectionList mt-2">
 	    				<li>Completed M. Tech in Software Engineering from BITS-Pilani.</li>
 						<li>Published research paper in Springer AISC (ISSN No. 2194-5357)
 						in International Congress of Information and Communication
@@ -91,14 +91,14 @@
 	    </div>
 	  </div>
 	  <div class="card mt-2">
-	    <div class="card-header">Mr. Gajendra Sharma</div>
+	    <div class="card-header text-center font-weight-bold py-2">Mr. Gajendra Sharma</div>
 	    <div class="card-body">
 	    	<div class="row">
-	    		<div class="col-md-3 border-right">
-	    			<img src="../departments/cse/src/img/awards/faculties/4.png" height="300px" width="200px">
+	    		<div class="col-md-4 border-right">
+	    			<img src="../departments/cse/src/img/awards/faculties/4.png" class="card-img-top rounded-circle img-fluid">
 	    		</div>
-	    		<div class="col-md-9">
-	    			<ul class="sectionList px-4">
+	    		<div class="col-md-8">
+	    			<ul class="sectionList mt-2">
 	    				<li>Organized Vande Mataram event at SMS, Stadium , Jaipur .
 						<li>Faculty Coordinator- “Big Data” workshop conducted in
 						collaboration with IIT, Kharagpur.
@@ -111,14 +111,14 @@
 	    </div>
 	  </div>
 	  <div class="card mt-2">
-	    <div class="card-header">Dr. Sanjay Gaur</div>
+	    <div class="card-header text-center font-weight-bold py-2">Dr. Sanjay Gaur</div>
 	    <div class="card-body">
 	    	<div class="row">
-	    		<div class="col-md-3 border-right">
-	    			<img src="../departments/cse/src/img/awards/faculties/5.jpg" height="300px" width="200px">
+	    		<div class="col-md-4 border-right">
+	    			<img src="../departments/cse/src/img/awards/faculties/5.jpg" class="card-img-top rounded-circle img-fluid">
 	    		</div>
-	    		<div class="col-md-9">
-	    			<ul class="sectionList px-4">
+	    		<div class="col-md-8">
+	    			<ul class="sectionList mt-2">
 						<li>Received Achiever of Year 2017 award for Significant
 						Contribution in Computer Science and Engineering by The
 						Institution of Engineers –Udaipur Chapter on Engineers’ Day.
@@ -139,14 +139,14 @@
 	    </div>
 	  </div>
 	  <div class="card mt-2">
-	    <div class="card-header">Dr. Nilam Choudhary</div>
+	    <div class="card-header text-center font-weight-bold py-2">Dr. Nilam Choudhary</div>
 	    <div class="card-body">
 	    	<div class="row">
-	    		<div class="col-md-3 border-right">
-	    			<img src="../departments/cse/src/img/awards/faculties/6.png" height="300px" width="200px">
+	    		<div class="col-md-4 border-right">
+	    			<img src="../departments/cse/src/img/awards/faculties/6.png" class="card-img-top rounded-circle img-fluid">
 	    		</div>
-	    		<div class="col-md-9">
-	    			<ul class="sectionList px-4">
+	    		<div class="col-md-8">
+	    			<ul class="sectionList mt-2">
 						<li>QEEE Program Coordinator of JECRC Foundation, attended
 						QEEE Feedback Meeting Workshop IIT Chennai.
 						<li>Chaired the session in International Conference on Engineering,
@@ -163,14 +163,14 @@
 	    </div>
 	  </div>
 	  <div class="card mt-2">
-	    <div class="card-header">Ms. Manju Vyas</div>
+	    <div class="card-header text-center font-weight-bold py-2">Ms. Manju Vyas</div>
 	    <div class="card-body">
 	    	<div class="row">
-	    		<div class="col-md-3 border-right">
-	    			<img src="../departments/cse/src/img/awards/faculties/7.jpg" height="300px" width="200px">
+	    		<div class="col-md-4 border-right">
+	    			<img src="../departments/cse/src/img/awards/faculties/7.jpg" class="card-img-top rounded-circle img-fluid">
 	    		</div>
-	    		<div class="col-md-9">
-	    			<ul class="sectionList px-4">
+	    		<div class="col-md-8">
+	    			<ul class="sectionList mt-2">
 						<li>Nodal Coordinator for Smart India Hackathon 2018 at JECRC,
 							Jaipur
 	    			</ul>
@@ -179,14 +179,14 @@
 	    </div>
 	  </div>
 	  <div class="card mt-2">
-	    <div class="card-header">Ms. Shikha Maheshwari</div>
+	    <div class="card-header text-center font-weight-bold py-2">Ms. Shikha Maheshwari</div>
 	    <div class="card-body">
 	    	<div class="row">
-	    		<div class="col-md-3 border-right">
-	    			<img src="../departments/cse/src/img/awards/faculties/8.jpg" height="300px" width="200px">
+	    		<div class="col-md-4 border-right">
+	    			<img src="../departments/cse/src/img/awards/faculties/8.jpg" class="card-img-top rounded-circle img-fluid">
 	    		</div>
-	    		<div class="col-md-9">
-	    			<ul class="sectionList px-4">
+	    		<div class="col-md-8">
+	    			<ul class="sectionList mt-2">
 						<li>Recognized as Microsoft Innovation Educator-Expert (MIE-E)
 						2017-18.
 						<li>Appreciated for Services &amp; Performance by JECRC Foundation,
@@ -201,14 +201,14 @@
 	    </div>
 	  </div>
 	  <div class="card mt-2">
-	    <div class="card-header">Mr. Abhishek Dixit</div>
+	    <div class="card-header text-center font-weight-bold py-2">Mr. Abhishek Dixit</div>
 	    <div class="card-body">
 	    	<div class="row">
-	    		<div class="col-md-3 border-right">
-	    			<img src="../departments/cse/src/img/awards/faculties/9.jpg" height="300px" width="200px">
+	    		<div class="col-md-4 border-right">
+	    			<img src="../departments/cse/src/img/awards/faculties/9.jpg" class="card-img-top rounded-circle img-fluid">
 	    		</div>
-	    		<div class="col-md-9">
-	    			<ul class="sectionList px-4">
+	    		<div class="col-md-8">
+	    			<ul class="sectionList mt-2">
 						<li>Certificate of Appreciation for contribution in growth of students
 							as Training and Placement officer.
 	    			</ul>
