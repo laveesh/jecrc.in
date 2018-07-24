@@ -23,3 +23,9 @@ color: #ff0000;
   padding: 0pt 5.75pt 0pt 5.75pt; 
   border: solid #000000 0.5pt;
 }
+.foo{
+
+}
+.foo:hover{
+box-shadow: 5px 5px 4px #333333;
+}
