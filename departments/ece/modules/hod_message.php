@@ -2,7 +2,7 @@
 	<div class="sectionHeading">HOD's Message</div>
 	<div class="row card-body flex-row">
 		<div class="col-md-4">
-				<img src="../departments/ece/src/img/people/faculty/Bansal.jpg" alt="hod image" class="card-img-top">
+				<img src="../departments/ece/src/img/people/faculty/Bansal.jpg" alt="hod image" class="card-img-top img-fluid rounded-circle img-thumbnail">
 		</div>
 		<div class="col-md-8">
 			<div class="card-block mt-2">
@@ -30,8 +30,8 @@ is also expected that our students will continue to
 pass on the skills which they have developed during
 their stay at this department to the whole of the world
 for a better society.
-
-<strong>- Dr. Lokesh Kumar Bansal</strong></p>
+</p>
+<p class="text-right font-weight-bold pr-2">Dr. Lokesh Kumar Bansal</p>
 			</div>
 		</div>
 	</div>
