@@ -11,7 +11,7 @@
 <div class="container-fluid banner">
   <div class="row">
     <!-- Sidebar -->
-    <div class="col-sm-3 sidebarContainer">
+    <div class="col-sm-2 sidebarContainer">
       <div class="navbar navbar-expand-sm bg-primary sidebar" role="navigation">
           <div class="container-fluid">
       		<div class="collapse navbar-collapse" id="bs-sidebar-navbar-collapse-1">
@@ -49,8 +49,8 @@
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="me.php?section=publication">Publication</a>
-                  <a class="dropdown-item" href="me.php?section=research_topic1">Research Topic 1</a>
-                  <a class="dropdown-item" href="me.php?section=research_topic2">Research Topic 2</a>
+                  <a class="dropdown-item" href="me.php?section=research_topic1">Machining Process</a>
+                  <a class="dropdown-item" href="me.php?section=research_topic2">Hybrid Simulation</a>
                 </div>
               </li>
               <li class="nav-item dropdown">
@@ -93,7 +93,7 @@
       </div>
     </div>
     <!-- Image Carousel -->
-    <div class="col-md-9 col-sm-9 col-lg-9 imageCarousel">
+    <div class="col-sm-10 imageCarousel">
       <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
           <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>

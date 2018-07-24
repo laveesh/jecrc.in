@@ -103,13 +103,13 @@
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
+							<img class="d-block w-100" src="../departments/ece/src/img/Events/drones/1.jpg" alt="First slide">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
+							<img class="d-block w-100" src="../departments/ece/src/img/Events/drones/2.jpg" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
+							<img class="d-block w-100" src="../departments/ece/src/img/Events/drones/3.jpg" alt="Third slide">
 						</div>
 					</div>
 					<a class="carousel-control-prev" href="#events_carausel3" role="button" data-slide="prev">
@@ -408,7 +408,7 @@ essential factor for the advancement of their career</p>
 				</div>
 			</div>
 		</section>
-		<section class="section">
+		<!-- <section class="section">
 			<div class="sectionHeading">Training Program on Embedded System & Robotics</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
@@ -501,5 +501,5 @@ Guwahati in the field of robotics and embedded systems.</p>
 					
 				</div>
 			</div>
-		</section>
+		</section> -->
 	</div>

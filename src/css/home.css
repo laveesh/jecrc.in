@@ -55,47 +55,6 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
     overflow: hidden;
 }
 
-.section {
-    padding: 1%;
-    box-shadow: 2px 2px 5px #062259;
-    margin-top: 3%;
-}
-
-.sectionHeading {
-    text-align: center;
-    background-color: #05173a;
-    width: 100%;
-    border-radius: 20px;
-    color: white;
-    margin-bottom: 10px;
-    padding: 5px;
-    font-family: "times new roman";
-    font-size: 20px;
-}
-
-.sectionSubHeading {
-    color: #0e08ee;
-}
-
-.sectionContent {
-    font-family: "georgia";
-    font-size: 20px;
-    padding: 1%;
-}
-
-.sectionList {
-    margin-left: 3%;
-}
-
-
-/*Faculty image*/
-
-.faculty-img{
-  width: 100px;
-  height: auto;
-}
-/* ------------------- */
-
 /* JECRC Advantage */
 
 .advHeading {

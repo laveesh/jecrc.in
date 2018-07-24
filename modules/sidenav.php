@@ -8,7 +8,7 @@
 <div class="container-fluid banner">
   <div class="row">
     <!-- Sidebar -->
-    <div class="col-sm-3 sidebarContainer">
+    <div class="col-sm-2 sidebarContainer">
       <div class="navbar navbar-expand-sm bg-primary sidebar" role="navigation">
           <div class="container-fluid">
       		<div class="collapse navbar-collapse" id="bs-sidebar-navbar-collapse-1">
@@ -35,7 +35,7 @@
       </div>
     </div>
     <!-- Image Carousel -->
-    <div class="col-md-9 col-sm-9 col-lg-9 imageCarousel">
+    <div class="col-sm-10 imageCarousel">
       <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
         <ol class="carousel-indicators">
           <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
