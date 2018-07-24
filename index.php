@@ -294,7 +294,7 @@
             </div>
           </section>
           <section class="section container card mt-5">
-            <div class="sectionHeading">PRINCIPAL'S MESSAGES</div>
+            <div class="sectionHeading">PRINCIPAL'S MESSAGE</div>
             <div class="sectionContent card-body">
               <div class="col-12" style="text-align: center;">
                 <img src="src/img/people/principal.jpg" class="rounded-circle img-responsive faculty-img" alt="principle">
@@ -302,15 +302,17 @@
                 <h4 class="py-1">Principal</h4>
               </div>
               <div class="col-12">
-                <p class="py-1">
-                  Technical education is seeing new reforms every once in a while, and that is rightly, the need of the hour. To bring these reforms in practice, and to offer engineering students a new vision of creation, JECRC was established eighteen years ago. With this departmental magazine, CSE Department has progressed further in making everyone aware of our goals and their successful achievement.
+                <p class="py-2">
+                  Technical education is seeing new reforms every once in a while, and that is rightly, the need of the hour. To bring these reforms in practice, and to offer engineering students a new vision of creation, JECRC was established eighteen years ago. With this departmental magazine, CSE Department has progressed further in making everyone aware of our goals and their successful achievement. 
                 </p>
-                <p class="py-1">
+                <p class="py-2">
                   Computer Science & Engineering department is endowed with the best of faculty and staff members, deeply committed to skill based learning, and making students keen about advancements in the field. This program has procured great growth and continues to bring laurels to JECRC, making us proud by excellent results. Every field, be it research, entrepreneurship, industry, or a job; success in every dimension is achieved by the students.
+
                 </p>
-                <p class="py-1">
-                  I wish for the institute and department to progress further with an ever increasing pace, and staunch support by the endeavors of all. Let us make JECRC a synonym for knowledge. Best wishes!
-                </p>                
+                <p class="py-2">
+                  I wish for the institute and department to progress further with an ever increasing pace, and staunch support by the endeavors of all. Let us make JECRC a synonym for knowledge. Best wishes! 
+                </p>
+                <p class="text-right font-weight-bold pr-3">V.K. Chandna <br>Principal</p>
               </div>
             </div>
           </section>
