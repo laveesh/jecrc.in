@@ -228,13 +228,13 @@
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image1.png" alt="First slide">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/" alt="First slide">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image2.png" alt="Second slide">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image3.png" alt="Third slide">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/" alt="Third slide">
 						</div>
 					</div>
 					<a class="carousel-control-prev" href="#events_carausel5" role="button" data-slide="prev">
@@ -268,18 +268,10 @@
 					<div id="events_carausel6" class="carousel slide" data-ride="carousel">
 					<ol class="carousel-indicators">
 						<li data-target="#events_carausel6" data-slide-to="0" class="active"></li>
-						<li data-target="#events_carausel6" data-slide-to="1"></li>
-						<li data-target="#events_carausel6" data-slide-to="2"></li>
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image1.png" alt="First slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image2.png" alt="Second slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image3.png" alt="Third slide">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/nkrc.jpg" alt="First slide">
 						</div>
 					</div>
 					<a class="carousel-control-prev" href="#events_carausel6" role="button" data-slide="prev">
@@ -519,13 +511,13 @@
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image1.png" alt="First slide">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/ritd1.jpg" alt="First slide">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image2.png" alt="Second slide">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/ritd2.jpg" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image3.png" alt="Third slide">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/ritd3.jpg" alt="Third slide">
 						</div>
 					</div>
 					<a class="carousel-control-prev" href="#.png" role="button" data-slide="prev">
@@ -568,13 +560,13 @@
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image1.png" alt="First slide">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/fdp1.jpg" alt="First slide">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image2.png" alt="Second slide">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/fdp2.jpg" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image3.png" alt="Third slide">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/fdp3.jpg" alt="Third slide">
 						</div>
 					</div>
 					<a class="carousel-control-prev" href="#events_carausel12" role="button" data-slide="prev">
@@ -617,13 +609,13 @@
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image1.png" alt="First slide">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/pdd1.jpg" alt="First slide">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image2.png" alt="Second slide">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/pdd2.jpg" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image3.png" alt="Third slide">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/pdd3.jpg" alt="Third slide">
 						</div>
 					</div>
 					<a class="carousel-control-prev" href="#events_carausel13" role="button" data-slide="prev">
