@@ -55,14 +55,7 @@
           </div>
         </div>
         <div class="sectionHeading">About</div>
-        <div class="sectionContent card-body">
-          <p class="px-3">
-            Department of Mechanical Engineering was established in year 2003. Department offers Bachelor of Technology degree with an intake of 210 students. We have well qualified and dedicated faculty and staff members. The dedication and hard work of the faculty and staff members have given fruitful results with our students securing ranks at University examination consistently.
-          </p>
-          <p class="px-3">
-            Department have 13 well equipped laboratories. A separate CENTRE OF EXALLENECE has been established which give the opportunity to the students to work on the software’s such as SOLID WORKS, ANSYS, COMSOL, Pro-ENGINEER, AutoCAD, MATLAB etc. A wide selection of projects, seminars and training facilities besides technical visits to industrial enterprises and specialized lectures from industry specialists generates enormous potential and confidence among the students enabling them to independently handle the life size problems in their engineering careers. Many MoU’s are signed with various industries offering opportunity to the students to learn working culture of industry. The Department also has a well-established workshop for training in Smithy, Carpentry, Welding, Fitting and Machine tools.
-          </p>
-        </div>
+        <iframe src="https://docs.google.com/gview?url=https://jecrcwebsite.herokuapp.com/departments/me/src/newsletters/jan-jun18.pdf&embedded=true" class="embed-doc" frameborder="0"></iframe> 
       </section>
     </div>
     <div class="col-md-3">

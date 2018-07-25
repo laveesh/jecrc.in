@@ -5,28 +5,28 @@
 			<div class="sectionHeading">Mobility Expert Talk (July 8 2017)</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
-					<div id="events_carausel" class="carousel slide" data-ride="carousel">
+					<div id="events_carausel0" class="carousel slide" data-ride="carousel">
 					<ol class="carousel-indicators">
-						<li data-target="#events_carausel" data-slide-to="0" class="active"></li>
-						<li data-target="#events_carausel" data-slide-to="1"></li>
-						<li data-target="#events_carausel" data-slide-to="2"></li>
+						<li data-target="#events_carausel0" data-slide-to="0" class="active"></li>
+						<!--<li data-target="#events_carausel0" data-slide-to="1"></li>
+						<li data-target="#events_carausel0" data-slide-to="2"></li>-->
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/met.png" alt="First slide">
+						</div>
+						<!--<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image2.png" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
-						</div>
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image3.png" alt="Third slide">
+						</div>-->
 					</div>
-					<a class="carousel-control-prev" href="#events_carausel" role="button" data-slide="prev">
+					<a class="carousel-control-prev" href="#events_carausel0" role="button" data-slide="prev">
 					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
 					<span class="sr-only">Previous</span>
 					</a>
-					<a class="carousel-control-next" href="#events_carausel" role="button" data-slide="next">
+					<a class="carousel-control-next" href="#events_carausel0" role="button" data-slide="next">
 					<span class="carousel-control-next-icon" aria-hidden="true"></span>
 					<span class="sr-only">Next</span>
 					</a>
@@ -38,7 +38,7 @@
 						<li><strong>Venue:</strong>IIT, Delhi</li>
 						<li><strong>Objective/s:</strong> Dr. Manish Srivastava has participated one day seminar in “MOBILITY XPERT TALK” at IIT Delhi on 08th Jul 2017. Event was organised by ISIE India. Intellectuals and various speakers from different parts of the country participated in the event.</li>
 						<li><strong>Outcome:</strong></li>
-						<li><strong>Guests of Honour at the event:</strong></li>
+						 
 					</ol>
 				</div>	
 			</div>
@@ -48,22 +48,65 @@
 			<div class="sectionHeading">QIP Short Term Course  on “Enhancing Yield in Metal Casting” Attended by Er.Akhilesh Paliwal At IIT, Roorkee (July 10-14 2017)</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
+					<div id="events_carausel1" class="carousel slide" data-ride="carousel">
+					<ol class="carousel-indicators">
+						<li data-target="#events_carausel1" data-slide-to="0" class="active"></li>
+						<!-- <li data-target="#events_carausel1" data-slide-to="1"></li> -->
+						<!-- <li data-target="#events_carausel1" data-slide-to="2"></li> -->
+					</ol>
+					<div class="carousel-inner">
+						<div class="carousel-item active">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/qip.png" alt="First slide">
+						</div>
+						<!--<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image2.png" alt="Second slide">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image3.png" alt="Third slide">
+						</div>-->
+					</div>
+					<a class="carousel-control-prev" href="#events_carausel1" role="button" data-slide="prev">
+					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+					<span class="sr-only">Previous</span>
+					</a>
+					<a class="carousel-control-next" href="#events_carausel1" role="button" data-slide="next">
+					<span class="carousel-control-next-icon" aria-hidden="true"></span>
+					<span class="sr-only">Next</span>
+					</a>
+					</div>
+				</div>
+				<div class="col-md-9 col-sm-12 sectionContent">
+					<ol class="sectionList">
+						<li><strong>Date of the event:</strong>10-14<sup>th</sup>July 2017.</li>
+						<li><strong>Venue:</strong>IIT, Roorkee</li>
+						<li><strong>Objective/s:</strong>QIP Short Term Course  on “Enhancing Yield in Metal Casting”</li>
+						<li><strong>Outcome:</strong></li>
+						
+					</ol>
+				</div>
+			</div>
+		</section>
+		<!-- 3 -->
+		<section class="section">
+			<div class="sectionHeading">Short term course on “Applied Statistics for Experiments”</div>
+			<div class="row">
+				<div class="col-md-3 col-sm-12">
 					<div id="events_carausel2" class="carousel slide" data-ride="carousel">
 					<ol class="carousel-indicators">
 						<li data-target="#events_carausel2" data-slide-to="0" class="active"></li>
 						<li data-target="#events_carausel2" data-slide-to="1"></li>
-						<li data-target="#events_carausel2" data-slide-to="2"></li>
+						<!-- <li data-target="#events_carausel2" data-slide-to="2"></li> -->
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/stats(1).png" alt="First slide">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/stats.png" alt="Second slide">
 						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
-						</div>
+						<!--<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image3.png" alt="Third slide">
+						</div>-->
 					</div>
 					<a class="carousel-control-prev" href="#events_carausel2" role="button" data-slide="prev">
 					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -77,54 +120,11 @@
 				</div>
 				<div class="col-md-9 col-sm-12 sectionContent">
 					<ol class="sectionList">
-						<li><strong>Date of the event:</strong>10-14<sup>th</sup>July 2017.</li>
-						<li><strong>Venue:</strong>IIT, Roorkee</li>
-						<li><strong>Objective/s:</strong>QIP Short Term Course  on “Enhancing Yield in Metal Casting”</li>
-						<li><strong>Outcome:</strong></li>
-						<li><strong>Guests of Honour at the event:</strong> Er.Akhilesh Paliwal</li>
-					</ol>
-				</div>
-			</div>
-		</section>
-		<!-- 3 -->
-		<section class="section">
-			<div class="sectionHeading">Short term course on “Applied Statistics for Experiments”</div>
-			<div class="row">
-				<div class="col-md-3 col-sm-12">
-					<div id="events_carausel" class="carousel slide" data-ride="carousel">
-					<ol class="carousel-indicators">
-						<li data-target="#events_carausel" data-slide-to="0" class="active"></li>
-						<li data-target="#events_carausel" data-slide-to="1"></li>
-						<li data-target="#events_carausel" data-slide-to="2"></li>
-					</ol>
-					<div class="carousel-inner">
-						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
-						</div>
-					</div>
-					<a class="carousel-control-prev" href="#events_carausel" role="button" data-slide="prev">
-					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-					<span class="sr-only">Previous</span>
-					</a>
-					<a class="carousel-control-next" href="#events_carausel" role="button" data-slide="next">
-					<span class="carousel-control-next-icon" aria-hidden="true"></span>
-					<span class="sr-only">Next</span>
-					</a>
-					</div>
-				</div>
-				<div class="col-md-9 col-sm-12 sectionContent">
-					<ol class="sectionList">
 						<li><strong>Date of the event:</strong>9-13<sup>th</sup>October 2017.</li>
 						<li><strong>Venue:</strong> at MNIT Jaipur</li>
 						<li><strong>Objective/s:</strong></li>
 						<li><strong>Outcome:</strong>Candidates (Students and Faculty) will be able to identify and interpret concepts of Big Data.</li>
-						<li><strong>Guests of Honour at the event:</strong>Er. Lalit kumar Sharma &  Er. Nikhil Jain</li>
+						 
 					</ol>
 				</div>
 			</div>
@@ -137,19 +137,19 @@
 					<div id="events_carausel3" class="carousel slide" data-ride="carousel">
 					<ol class="carousel-indicators">
 						<li data-target="#events_carausel3" data-slide-to="0" class="active"></li>
-						<li data-target="#events_carausel3" data-slide-to="1"></li>
-						<li data-target="#events_carausel3" data-slide-to="2"></li>
+						<!-- <li data-target="#events_carausel3" data-slide-to="1"></li> -->
+						<!-- <li data-target="#events_carausel3" data-slide-to="2"></li> -->
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/nitttr.png" alt="First slide">
+						</div>
+						<!--<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image2.png" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
-						</div>
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image3.png" alt="Third slide">
+						</div>-->
 					</div>
 					<a class="carousel-control-prev" href="#events_carausel3" role="button" data-slide="prev">
 					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -167,7 +167,7 @@
 						<li><strong>Venue:</strong>NITTR, Chandigarh</li>
 						<li><strong>Objective/s:</strong>To introduce the significance and emergence of Big Data.</li>
 						<li><strong>Outcome:</strong>Candidates (Students and Faculty) will be able to identify and interpret concepts of Big Data.</li>
-						<li><strong>Guests of Honour at the event:</strong>Mr. Satyendra Kumar</li>
+						 
 					</ol>
 				</div>
 			</div>
@@ -177,28 +177,28 @@
 			<div class="sectionHeading">Mr. Satyendra kumar delivered a Expert Lecture on “Optimization in Mechanical Component Design”.</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
-					<div id="events_carausel" class="carousel slide" data-ride="carousel">
+					<div id="events_carausel4" class="carousel slide" data-ride="carousel">
 					<ol class="carousel-indicators">
-						<li data-target="#events_carausel" data-slide-to="0" class="active"></li>
-						<li data-target="#events_carausel" data-slide-to="1"></li>
-						<li data-target="#events_carausel" data-slide-to="2"></li>
+						<li data-target="#events_carausel4" data-slide-to="0" class="active"></li>
+						<!-- <li data-target="#events_carausel4" data-slide-to="1"></li> -->
+						<!-- <li data-target="#events_carausel4" data-slide-to="2"></li> -->
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/optimisation.png" alt="First slide">
+						</div>
+						<!--<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image2.png" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
-						</div>
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image3.png" alt="Third slide">
+						</div>-->
 					</div>
-					<a class="carousel-control-prev" href="#events_carausel" role="button" data-slide="prev">
+					<a class="carousel-control-prev" href="#events_carausel4" role="button" data-slide="prev">
 					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
 					<span class="sr-only">Previous</span>
 					</a>
-					<a class="carousel-control-next" href="#events_carausel" role="button" data-slide="next">
+					<a class="carousel-control-next" href="#events_carausel4" role="button" data-slide="next">
 					<span class="carousel-control-next-icon" aria-hidden="true"></span>
 					<span class="sr-only">Next</span>
 					</a>
@@ -210,7 +210,7 @@
 						<li><strong>Venue:</strong>Poornima University</li>
 						<li><strong>Objective/s:</strong></li>
 						<li><strong>Outcome:</strong></li>
-						<li><strong>Guests of Honour at the event:</strong></li>
+						 
 					</ol>
 				</div>
 			</div>
@@ -220,28 +220,28 @@
 			<div class="sectionHeading">Best faculty Award</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
-					<div id="events_carausel" class="carousel slide" data-ride="carousel">
+					<div id="events_carausel5" class="carousel slide" data-ride="carousel">
 					<ol class="carousel-indicators">
-						<li data-target="#events_carausel" data-slide-to="0" class="active"></li>
-						<li data-target="#events_carausel" data-slide-to="1"></li>
-						<li data-target="#events_carausel" data-slide-to="2"></li>
+						<li data-target="#events_carausel5" data-slide-to="0" class="active"></li>
+						<li data-target="#events_carausel5" data-slide-to="1"></li>
+						<li data-target="#events_carausel5" data-slide-to="2"></li>
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image1.png" alt="First slide">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image2.png" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image3.png" alt="Third slide">
 						</div>
 					</div>
-					<a class="carousel-control-prev" href="#events_carausel" role="button" data-slide="prev">
+					<a class="carousel-control-prev" href="#events_carausel5" role="button" data-slide="prev">
 					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
 					<span class="sr-only">Previous</span>
 					</a>
-					<a class="carousel-control-next" href="#events_carausel" role="button" data-slide="next">
+					<a class="carousel-control-next" href="#events_carausel5" role="button" data-slide="next">
 					<span class="carousel-control-next-icon" aria-hidden="true"></span>
 					<span class="sr-only">Next</span>
 					</a>
@@ -253,7 +253,7 @@
 						<li><strong>Venue:</strong> JECRC, Jaipur</li>
 						<li><strong>Objective/s:</strong></li>
 						<li><strong>Outcome:</strong>Prize winners: DR. M. P. Singh (HoD ME), Mr. Manish Jain, Mr. Kuldeep Sharma, Dr. Bhuvnesh Bharadwaj</li>
-						<li><strong>Guests of Honour at the event:</strong></li>
+						 
 					</ol>
 				</div>
 			</div>
@@ -265,28 +265,28 @@
 			<div class="sectionHeading">NKRC Season-4</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
-					<div id="events_carausel" class="carousel slide" data-ride="carousel">
+					<div id="events_carausel6" class="carousel slide" data-ride="carousel">
 					<ol class="carousel-indicators">
-						<li data-target="#events_carausel" data-slide-to="0" class="active"></li>
-						<li data-target="#events_carausel" data-slide-to="1"></li>
-						<li data-target="#events_carausel" data-slide-to="2"></li>
+						<li data-target="#events_carausel6" data-slide-to="0" class="active"></li>
+						<li data-target="#events_carausel6" data-slide-to="1"></li>
+						<li data-target="#events_carausel6" data-slide-to="2"></li>
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image1.png" alt="First slide">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image2.png" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image3.png" alt="Third slide">
 						</div>
 					</div>
-					<a class="carousel-control-prev" href="#events_carausel" role="button" data-slide="prev">
+					<a class="carousel-control-prev" href="#events_carausel6" role="button" data-slide="prev">
 					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
 					<span class="sr-only">Previous</span>
 					</a>
-					<a class="carousel-control-next" href="#events_carausel" role="button" data-slide="next">
+					<a class="carousel-control-next" href="#events_carausel6" role="button" data-slide="next">
 					<span class="carousel-control-next-icon" aria-hidden="true"></span>
 					<span class="sr-only">Next</span>
 					</a>
@@ -298,7 +298,7 @@
 						<li><strong>Venue:</strong> at MNIT Jaipur</li>
 						<li><strong>Objective/s:</strong></li>
 						<li><strong>Outcome:</strong>“The Moto rids” is a group of 23 machine lovers registered themselves in a national level Go Kart event named “NKRC Season-4”and because of the hard work and way of presenting students were awarded with the “Stig Award” and “Rs 10000” cash reward.</li>
-						<li><strong>Guests of Honour at the event:</strong></li>
+						 
 					</ol>
 				</div>
 			</div>
@@ -308,28 +308,28 @@
 			<div class="sectionHeading">Moon Riders JECRC @ N K R C</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
-					<div id="events_carausel" class="carousel slide" data-ride="carousel">
+					<div id="events_carausel7" class="carousel slide" data-ride="carousel">
 					<ol class="carousel-indicators">
-						<li data-target="#events_carausel" data-slide-to="0" class="active"></li>
-						<li data-target="#events_carausel" data-slide-to="1"></li>
-						<li data-target="#events_carausel" data-slide-to="2"></li>
+						<li data-target="#events_carausel7" data-slide-to="0" class="active"></li>
+						<!-- <li data-target="#events_carausel7" data-slide-to="1"></li> -->
+						<!-- <li data-target="#events_carausel7" data-slide-to="2"></li> -->
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/moonnkrc.png" alt="First slide">
+						</div>
+						<!--<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image2.png" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
-						</div>
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image3.png" alt="Third slide">
+						</div>-->
 					</div>
-					<a class="carousel-control-prev" href="#events_carausel" role="button" data-slide="prev">
+					<a class="carousel-control-prev" href="#events_carausel7" role="button" data-slide="prev">
 					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
 					<span class="sr-only">Previous</span>
 					</a>
-					<a class="carousel-control-next" href="#events_carausel" role="button" data-slide="next">
+					<a class="carousel-control-next" href="#events_carausel7" role="button" data-slide="next">
 					<span class="carousel-control-next-icon" aria-hidden="true"></span>
 					<span class="sr-only">Next</span>
 					</a>
@@ -341,7 +341,7 @@
 						<li><strong>Venue:</strong>Radharamn Engg. College, Bhopal</li>
 						<li><strong>Objective/s:</strong>A team of 18 students of Moonriders visited Radharamn Engg. College, Bhopal from 29/9/17-5/10/17.</li>
 						<li><strong>Outcome:</strong></li>
-						<li><strong>Guests of Honour at the event:</strong></li>
+						
 					</ol>
 				</div>
 			</div>
@@ -352,28 +352,28 @@
 			<div class="sectionHeading">MOONRIDERS</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
-					<div id="events_carausel" class="carousel slide" data-ride="carousel">
+					<div id="events_carausel8" class="carousel slide" data-ride="carousel">
 					<ol class="carousel-indicators">
-						<li data-target="#events_carausel" data-slide-to="0" class="active"></li>
-						<li data-target="#events_carausel" data-slide-to="1"></li>
-						<li data-target="#events_carausel" data-slide-to="2"></li>
+						<li data-target="#events_carausel8" data-slide-to="0" class="active"></li>
+						<!-- <li data-target="#events_carausel8" data-slide-to="1"></li> -->
+						<!-- <li data-target="#events_carausel8" data-slide-to="2"></li> -->
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/moon.png" alt="First slide">
+						</div>
+						<!--<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image2.png" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
-						</div>
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image3.png" alt="Third slide">
+						</div>-->
 					</div>
-					<a class="carousel-control-prev" href="#events_carausel" role="button" data-slide="prev">
+					<a class="carousel-control-prev" href="#events_carausel8" role="button" data-slide="prev">
 					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
 					<span class="sr-only">Previous</span>
 					</a>
-					<a class="carousel-control-next" href="#events_carausel" role="button" data-slide="next">
+					<a class="carousel-control-next" href="#events_carausel8" role="button" data-slide="next">
 					<span class="carousel-control-next-icon" aria-hidden="true"></span>
 					<span class="sr-only">Next</span>
 					</a>
@@ -390,7 +390,7 @@
 						<!-- Outcome -->
 						<li><strong>Outcome:</strong></li>
 						<!-- Guest -->
-						<li><strong>Guests of Honour at the event:</strong></li>
+						 
 					</ol>
 				</div>
 			</div>
@@ -401,28 +401,28 @@
 			<div class="sectionHeading">GEETA GYAN PRATIYOGITA @ SKIT 2018</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
-					<div id="events_carausel" class="carousel slide" data-ride="carousel">
+					<div id="events_carausel9" class="carousel slide" data-ride="carousel">
 					<ol class="carousel-indicators">
-						<li data-target="#events_carausel" data-slide-to="0" class="active"></li>
-						<li data-target="#events_carausel" data-slide-to="1"></li>
-						<li data-target="#events_carausel" data-slide-to="2"></li>
+						<li data-target="#events_carausel9" data-slide-to="0" class="active"></li>
+						<!-- <li data-target="#events_carausel9" data-slide-to="1"></li> -->
+						<!-- <li data-target="#events_carausel9" data-slide-to="2"></li> -->
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/ggp.png" alt="First slide">
+						</div>
+						<!--<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image2.png" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
-						</div>
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image3.png" alt="Third slide">
+						</div>-->
 					</div>
-					<a class="carousel-control-prev" href="#events_carausel" role="button" data-slide="prev">
+					<a class="carousel-control-prev" href="#events_carausel9" role="button" data-slide="prev">
 					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
 					<span class="sr-only">Previous</span>
 					</a>
-					<a class="carousel-control-next" href="#events_carausel" role="button" data-slide="next">
+					<a class="carousel-control-next" href="#events_carausel9" role="button" data-slide="next">
 					<span class="carousel-control-next-icon" aria-hidden="true"></span>
 					<span class="sr-only">Next</span>
 					</a>
@@ -439,7 +439,7 @@
 						<!-- Outcome -->
 						<li><strong>Outcome:</strong> The students got 2nd position.</li>
 						<!-- Guest -->
-						<li><strong>Guests of Honour at the event:</strong></li>
+						 
 					</ol>
 				</div>
 			</div>
@@ -450,28 +450,28 @@
 			<div class="sectionHeading">Conference [NCFTME 2018]</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
-					<div id="events_carausel" class="carousel slide" data-ride="carousel">
+					<div id="events_carausel10" class="carousel slide" data-ride="carousel">
 					<ol class="carousel-indicators">
-						<li data-target="#events_carausel" data-slide-to="0" class="active"></li>
-						<li data-target="#events_carausel" data-slide-to="1"></li>
-						<li data-target="#events_carausel" data-slide-to="2"></li>
+						<li data-target="#events_carausel10" data-slide-to="0" class="active"></li>
+						<li data-target="#events_carausel10" data-slide-to="1"></li>
+						<li data-target="#events_carausel10" data-slide-to="2"></li>
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/ncftme.png" alt="First slide">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/ncft.png" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/ncft(1).png" alt="Third slide">
 						</div>
 					</div>
-					<a class="carousel-control-prev" href="#events_carausel" role="button" data-slide="prev">
+					<a class="carousel-control-prev" href="#events_carausel10" role="button" data-slide="prev">
 					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
 					<span class="sr-only">Previous</span>
 					</a>
-					<a class="carousel-control-next" href="#events_carausel" role="button" data-slide="next">
+					<a class="carousel-control-next" href="#events_carausel10" role="button" data-slide="next">
 					<span class="carousel-control-next-icon" aria-hidden="true"></span>
 					<span class="sr-only">Next</span>
 					</a>
@@ -500,14 +500,7 @@
 							<li>Students and research scholars were made aware about the recent trends in the field of renewable energy.</li>
 							<li>Students knew about the benefits of such conferences so that they may get an insight into the field of research which is an essential factor for the advancement of their career.</li>
 							</ul>
-						</li>
-						<!-- Guest -->
-						<li><strong>Guests of Honour at the event:</strong>
-							Dr. B K Sharma, 
-							Dr. Rahul Goyal, 
-							Prof V.K.Chandna, 
-							Mr. Manish Jain
-						</li>
+						
 					</ol>
 				</div>
 			</div>
@@ -518,28 +511,28 @@
 			<div class="sectionHeading">RITDME 2018</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
-					<div id="events_carausel" class="carousel slide" data-ride="carousel">
+					<div id="events_carausel11" class="carousel slide" data-ride="carousel">
 					<ol class="carousel-indicators">
-						<li data-target="#events_carausel" data-slide-to="0" class="active"></li>
-						<li data-target="#events_carausel" data-slide-to="1"></li>
-						<li data-target="#events_carausel" data-slide-to="2"></li>
+						<li data-target="#events_carausel11" data-slide-to="0" class="active"></li>
+						<li data-target="#events_carausel11" data-slide-to="1"></li>
+						<li data-target="#events_carausel11" data-slide-to="2"></li>
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image1.png" alt="First slide">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image2.png" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image3.png" alt="Third slide">
 						</div>
 					</div>
-					<a class="carousel-control-prev" href="#events_carausel" role="button" data-slide="prev">
+					<a class="carousel-control-prev" href="#.png" role="button" data-slide="prev">
 					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
 					<span class="sr-only">Previous</span>
 					</a>
-					<a class="carousel-control-next" href="#events_carausel" role="button" data-slide="next">
+					<a class="carousel-control-next" href="#.png" role="button" data-slide="next">
 					<span class="carousel-control-next-icon" aria-hidden="true"></span>
 					<span class="sr-only">Next</span>
 					</a>
@@ -556,7 +549,7 @@
 						<!-- Outcome -->
 						<li><strong>Outcome:</strong></li>
 						<!-- Guest -->
-						<li><strong>Guests of Honour at the event:</strong> Prof. (Dr.) Noe. G. Alba-Baena from University of Texas; Shri GunjanSaxena, General Manager in BSNL, Jaipur; Prof. (Dr.) Deepak Garg from Bennett University; Prof. (Dr.) Rajesh Kumar Tiwari from RVS College of Engg and Technology, Jamshedpur; Prof. (Dr.) Peeyush Chandra Retd. Professor of Mathematics from IIT Kanpur; Prof. (Dr.) MeghanshuVashista from Department of Mechanical Engg, IIT BHU; Prof. (Dr.) PurshotamChaturani, Retd. Professor of Mathematics from IIT Bombay, along with Mr.Amit and Arpit Agrawal Director JECRC foundation and Prof V.K.Chandna,Principal JECRC,Jaipur </li>
+						 the event:</strong> Prof. (Dr.) Noe. G. Alba-Baena from University of Texas; Shri GunjanSaxena, General Manager in BSNL, Jaipur; Prof. (Dr.) Deepak Garg from Bennett University; Prof. (Dr.) Rajesh Kumar Tiwari from RVS College of Engg and Technology, Jamshedpur; Prof. (Dr.) Peeyush Chandra Retd. Professor of Mathematics from IIT Kanpur; Prof. (Dr.) MeghanshuVashista from Department of Mechanical Engg, IIT BHU; Prof. (Dr.) PurshotamChaturani, Retd. Professor of Mathematics from IIT Bombay, along with Mr.Amit and Arpit Agrawal Director JECRC foundation and Prof V.K.Chandna,Principal JECRC,Jaipur </li>
 					</ol>
 				</div>
 			</div>
@@ -567,28 +560,28 @@
 			<div class="sectionHeading">FDP on “Mathematical Modeling and Optimization of Industrial Problems” </div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
-					<div id="events_carausel" class="carousel slide" data-ride="carousel">
+					<div id="events_carausel12" class="carousel slide" data-ride="carousel">
 					<ol class="carousel-indicators">
-						<li data-target="#events_carausel" data-slide-to="0" class="active"></li>
-						<li data-target="#events_carausel" data-slide-to="1"></li>
-						<li data-target="#events_carausel" data-slide-to="2"></li>
+						<li data-target="#events_carausel12" data-slide-to="0" class="active"></li>
+						<li data-target="#events_carausel12" data-slide-to="1"></li>
+						<li data-target="#events_carausel12" data-slide-to="2"></li>
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image1.png" alt="First slide">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image2.png" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image3.png" alt="Third slide">
 						</div>
 					</div>
-					<a class="carousel-control-prev" href="#events_carausel" role="button" data-slide="prev">
+					<a class="carousel-control-prev" href="#events_carausel12" role="button" data-slide="prev">
 					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
 					<span class="sr-only">Previous</span>
 					</a>
-					<a class="carousel-control-next" href="#events_carausel" role="button" data-slide="next">
+					<a class="carousel-control-next" href="#events_carausel12" role="button" data-slide="next">
 					<span class="carousel-control-next-icon" aria-hidden="true"></span>
 					<span class="sr-only">Next</span>
 					</a>
@@ -605,7 +598,7 @@
 						<!-- Outcome -->
 						<li><strong>Outcome:</strong></li>
 						<!-- Guest -->
-						<li><strong>Guests of Honour at the event:</strong></li>
+						 
 					</ol>
 				</div>
 			</div>
@@ -616,28 +609,28 @@
 			<div class="sectionHeading">SHORT TERM COURSE ON “PRODUCT DESIGN AND DEVELOPMENT” By NITTTR</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
-					<div id="events_carausel" class="carousel slide" data-ride="carousel">
+					<div id="events_carausel13" class="carousel slide" data-ride="carousel">
 					<ol class="carousel-indicators">
-						<li data-target="#events_carausel" data-slide-to="0" class="active"></li>
-						<li data-target="#events_carausel" data-slide-to="1"></li>
-						<li data-target="#events_carausel" data-slide-to="2"></li>
+						<li data-target="#events_carausel13" data-slide-to="0" class="active"></li>
+						<li data-target="#events_carausel13" data-slide-to="1"></li>
+						<li data-target="#events_carausel13" data-slide-to="2"></li>
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image1.png" alt="First slide">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image2.png" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image3.png" alt="Third slide">
 						</div>
 					</div>
-					<a class="carousel-control-prev" href="#events_carausel" role="button" data-slide="prev">
+					<a class="carousel-control-prev" href="#events_carausel13" role="button" data-slide="prev">
 					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
 					<span class="sr-only">Previous</span>
 					</a>
-					<a class="carousel-control-next" href="#events_carausel" role="button" data-slide="next">
+					<a class="carousel-control-next" href="#events_carausel13" role="button" data-slide="next">
 					<span class="carousel-control-next-icon" aria-hidden="true"></span>
 					<span class="sr-only">Next</span>
 					</a>
@@ -661,7 +654,7 @@
 						HOD Physics Prof. R K Mangal  focused on the practical knowledge in technical education , because it is the primary need of the industries .Dean I year Prof.  U K pareek talked about technical knowledge and its importance rather than be the distinction in the UG programme .He talked about the importance of classes and role of faculty in the class.Course coordinator Mr. VipinGoyal gave the vote of thanks to all the dignriies , participants and students . Prof. Paabla has informed about the ICT based STC and explained about the advantages of STC.
 						</li>
 						<!-- Guest -->
-						<li><strong>Guests of Honour at the event:</strong></li>
+						
 					</ol>
 				</div>
 			</div>
