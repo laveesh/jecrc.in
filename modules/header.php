@@ -59,14 +59,8 @@
         <li class="nav-item active">
           <a class="nav-link" href="tpo.php">Traning and Placements</a>
         </li>
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            Alumni
-          </a>
-          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="our_alumni.php">Our Alumni</a>
-            <a class="dropdown-item" href="alumni_survey.php">Alumni Survey</a>
-          </div>
+        <li class="nav-item active">
+          <a class="nav-link" href="alumni.php">Alumni</a>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">

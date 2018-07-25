@@ -25,82 +25,76 @@
       <nav class="navbar navbar-expand-xl bg-primary mainNav">
         <div class="collapse navbar-collapse bg-primary" id="navbarSupportedContent">
           <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
-              <a class="nav-link" href="index.php">Home<span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item active">
-              <a class="nav-link" href="pages/about.php">About<span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                College
-              </a>
-              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="pages/administration.php">Administration</a>
-                <a class="dropdown-item" href="pages/research.php">Research</a>
-                <a class="dropdown-item" href="pages/library.php">Library</a>
-                <a class="dropdown-item" href="pages/achivements.php">Achivements</a>
-                <a class="dropdown-item" href="pages/ibm.php">Center Of Excillenece IBM</a>
-                <a class="dropdown-item" href="pages/events.php">Events</a>
-                <a class="dropdown-item" href="pages/campus_facilities.php">Campus Facilities</a>
-              </div>
-            </li>
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Students
-              </a>
-              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="pages/admission.php">Admission</a>
-                <a class="dropdown-item" href="pages/academics.php">Academics</a>
-                <a class="dropdown-item" href="pages/student_resources.php">Student Resources</a>
-              </div>
-            </li>
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Courses Offered
-              </a>
-              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="pages/cse.php">Computer Science</a>
-                <a class="dropdown-item" href="pages/it.php">Information Technology</a>
-                <a class="dropdown-item" href="pages/ece.php">Electronics and Communication</a>
-                <a class="dropdown-item" href="pages/ee.php">Electrical Engineering</a>
-                <a class="dropdown-item" href="pages/me.php">Mechanical Engineering</a>
-                <a class="dropdown-item" href="pages/civil.php">Civil Engineering</a>
-              </div>
-            </li>
-            <li class="nav-item active">
-              <a class="nav-link" href="pages/government_schemes.php">Govt. Schemes</a>
-            </li>
-            <li class="nav-item active">
-              <a class="nav-link" href="pages/tpo.php">Traning and Placements</a>
-            </li>
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Alumni
-              </a>
-              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="pages/our_alumni.php">Our Alumni</a>
-                <a class="dropdown-item" href="pages/alumni_survey.php">Alumni Survey</a>
-              </div>
-            </li>
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Downloads
-              </a>
-              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="#">College Newsletter</a>
-                <a class="dropdown-item" href="#">Department Newsletter</a>
-              </div>
-            </li>
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Contact Us
-              </a>
-              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="pages/contact_details.php">Contact Details</a>
-                <a class="dropdown-item" href="pages/how_to_reach.php">How to reach ?</a>
-              </div>
-            </li>
+        <li class="nav-item active">
+          <a class="nav-link" href="index.php">Home<span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link" href="pages/about.php">About<span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            College
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" href="pages/administration.php">Administration</a>
+            <a class="dropdown-item" href="pages/research.php">Research</a>
+            <a class="dropdown-item" href="pages/library.php">Library</a>
+            <a class="dropdown-item" href="pages/achivements.php">Achivements</a>
+            <a class="dropdown-item" href="pages/ibm.php">Center Of Excillenece IBM</a>
+            <a class="dropdown-item" href="pages/events.php">Events</a>
+            <a class="dropdown-item" href="pages/campus_facilities.php">Campus Facilities</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Students
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" href="pages/admission.php">Admission</a>
+            <a class="dropdown-item" href="pages/academics.php">Academics</a>
+            <a class="dropdown-item" href="pages/student_resources.php">Student Resources</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Courses Offered
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" href="pages/cse.php">Computer Science</a>
+            <a class="dropdown-item" href="pages/it.php">Information Technology</a>
+            <a class="dropdown-item" href="pages/ece.php">Electronics and Communication</a>
+            <a class="dropdown-item" href="pages/ee.php">Electrical Engineering</a>
+            <a class="dropdown-item" href="pages/me.php">Mechanical Engineering</a>
+            <a class="dropdown-item" href="pages/civil.php">Civil Engineering</a>
+          </div>
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link" href="pages/government_schemes.php">Govt. Schemes</a>
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link" href="pages/tpo.php">Traning and Placements</a>
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link" href="pages/alumni.php">Alumni</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Downloads
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" href="#">College Newsletter</a>
+            <a class="dropdown-item" href="#">Department Newsletter</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Contact Us
+          </a>
+          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <a class="dropdown-item" href="pages/contact_details.php">Contact Details</a>
+            <a class="dropdown-item" href="pages/how_to_reach.php">How to reach ?</a>
+          </div>
+        </li>
           </ul>
         </div>
       </nav>

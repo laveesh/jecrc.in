@@ -1,7 +1,7 @@
 <!-- COMPUTER SCIENCE HOME PAGE -->
 <div class="container-fluid">
   <div class="row">
-    <div class="col-md-3">
+    <div class="col-xl-3 col-md-4">
       <section class="section container card">
         <div class="sectionHeading">RECENT NEWS</div>
         <div class="sectionContent card-body px-4">
@@ -16,60 +16,9 @@
           </marquee>
         </div>
       </section>
-    </div>
-    <div class="col-md-6">
-      <section class="section container card">
-        <div class="sectionHeading">NEWS LETTER</div>
-        <div class="sectionContent card-body">
-          <div class="row py-2">
-            <div class="col-md-4 py-2">
-              <a href="../departments/me/src/newsletters/july_17.pdf" class="btn-block btn btn-primary btn-lg"  download>July 17</a>
-            </div>
-            <div class="col-md-4 py-2">
-              <a href="../departments/me/src/newsletters/AUG_17.pdf" class="btn-block btn btn-primary btn-lg"  download>August 17</a></div>
-              <div class="col-md-4 py-2">
-                <a href="../departments/me/src/newsletters/Sept_17.pdf" class="btn-block btn btn-primary btn-lg"  download>Sept 17</a>
-              </div>
-            </div>
-            <div class="row py-2">
-              <div class="col-md-4 py-2">
-                <a href="../departments/me/src/newsletters/october_17.pdf" class="btn-block btn btn-primary btn-lg"  download>October 17</a>
-              </div>
-              <div class="col-md-4 py-2">
-                <a href="../departments/me/src/newsletters/nov_17.pdf" class="btn-block btn btn-primary btn-lg"  download>November 17</a>
-              </div>
-              <div class="col-md-4 py-2">
-                <a href="../departments/me/src/newsletters/e_machzine.pdf" class="btn-block btn btn-primary btn-lg"  download>E mechzine</a>
-              </div>
-            </div>
-            <div class="row py-2">
-              <div class="col-md-4 py-2">
-                <a href="../departments/me/src/newsletters/january_18.pdf" class="btn-block btn btn-primary btn-lg"  download>January 18</a>
-              </div>
-              <div class="col-md-4 py-2">
-                <a href="../departments/me/src/newsletters/march18.pdf" class="btn-block btn btn-primary btn-lg" download>March 18</a>
-              </div>
-              <div class="col-md-4 py-2">
-                <a href="../departments/me/src/newsletters/april_18.pdf" class="btn-block btn btn-primary btn-lg"  download>April 18</a>
-              </div>
-            </div>
-          </div>
-          <div class="sectionHeading">Latest Newsletter</div>
-          <iframe src="https://docs.google.com/gview?url=https://jecrcwebsite.herokuapp.com/departments/me/src/newsletters/jan-jun18.pdf&embedded=true" class="embed-doc" frameborder="0"></iframe>
-        </section>
-      </div>
-      <div class="col-md-3">
         <section class="section container card">
           <div class="sectionHeading">STUDENT SPOTLIGHT</div>
           <div class="sectionContent card-body">
-            <div class="sectionSubHeading">3D Printer</div>
-            <div class="sectionContent">
-              <p>Final year Students have achieved a new feat in the field of innovation and technology by developing the cost open source 3D printer, which create three dimensional solid object from a digital file. The creation of a 3D-printed object is achieved using additive processes</p>
-            </div>
-            <div class="sectionSubHeading">Quadcopters</div>
-            <div class="sectionContent">
-              <p>3 rd year Students developed Quadcopters, RC plane and Control Line plane model during 15 days Aero modelling workshop organised in JECRC Campus. The students who participated engaged themselves effectively in all the projects and gained invaluable knowledge and Aeromodelling hands-on experience.</p>
-            </div>
             <div class="sectionSubHeading">Pankaj Maharshi</div>
             <ul class="sectionList">
               <li>
@@ -91,6 +40,68 @@
             </ul>
           </div>
         </section>
-      </div>
+    </div>
+<div class="col-xl-9 col-md-8 row">
+  <div class="col-xl-8">
+    <section class="section container card">
+      <div class="sectionHeading">NEWS LETTER</div>
+      <div class="sectionContent card-body">
+        <div class="row py-2">
+          <div class="col-md-4 py-2">
+            <a href="../departments/me/src/newsletters/july_17.pdf" class="btn-block btn btn-primary btn-lg"  download>July 17</a>
+          </div>
+          <div class="col-md-4 py-2">
+            <a href="../departments/me/src/newsletters/AUG_17.pdf" class="btn-block btn btn-primary btn-lg"  download>August 17</a></div>
+            <div class="col-md-4 py-2">
+              <a href="../departments/me/src/newsletters/Sept_17.pdf" class="btn-block btn btn-primary btn-lg"  download>Sept 17</a>
+            </div>
+          </div>
+          <div class="row py-2">
+            <div class="col-md-4 py-2">
+              <a href="../departments/me/src/newsletters/october_17.pdf" class="btn-block btn btn-primary btn-lg"  download>October 17</a>
+            </div>
+            <div class="col-md-4 py-2">
+              <a href="../departments/me/src/newsletters/nov_17.pdf" class="btn-block btn btn-primary btn-lg"  download>November 17</a>
+            </div>
+            <div class="col-md-4 py-2">
+              <a href="../departments/me/src/newsletters/e_machzine.pdf" class="btn-block btn btn-primary btn-lg"  download>E mechzine</a>
+            </div>
+          </div>
+          <div class="row py-2">
+            <div class="col-md-4 py-2">
+              <a href="../departments/me/src/newsletters/january_18.pdf" class="btn-block btn btn-primary btn-lg"  download>January 18</a>
+            </div>
+            <div class="col-md-4 py-2">
+              <a href="../departments/me/src/newsletters/march18.pdf" class="btn-block btn btn-primary btn-lg" download>March 18</a>
+            </div>
+            <div class="col-md-4 py-2">
+              <a href="../departments/me/src/newsletters/april_18.pdf" class="btn-block btn btn-primary btn-lg"  download>April 18</a>
+            </div>
+          </div>
+        </div>
+      </section>
+  
+    <section class="section container card">
+        <div class="sectionHeading">Latest Newsletter</div>
+        <iframe src="https://docs.google.com/gview?url=https://jecrcwebsite.herokuapp.com/departments/me/src/newsletters/jan-jun18.pdf&embedded=true" class="embed-doc me-newsletter" frameborder="0"></iframe>
+    </section>
+  
+    </div>
+    <div class="col-xl-4">
+      <section class="section container card">
+        <div class="sectionHeading">INNOVATIONS</div>
+        <div class="sectionContent card-body">
+          <div class="sectionSubHeading">3D Printer</div>
+          <div class="sectionContent">
+            <p>Final year Students have achieved a new feat in the field of innovation and technology by developing the cost open source 3D printer, which create three dimensional solid object from a digital file. The creation of a 3D-printed object is achieved using additive processes</p>
+          </div>
+          <div class="sectionSubHeading">Quadcopters</div>
+          <div class="sectionContent">
+            <p>3 rd year Students developed Quadcopters, RC plane and Control Line plane model during 15 days Aero modelling workshop organised in JECRC Campus. The students who participated engaged themselves effectively in all the projects and gained invaluable knowledge and Aeromodelling hands-on experience.</p>
+          </div>
+        </div>
+      </section>
+    </div>
+</div>
     </div>
   </div>

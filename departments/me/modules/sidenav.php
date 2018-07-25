@@ -82,7 +82,15 @@
                   <a class="dropdown-item" href="me.php?section=library">Library</a>
                 </div>
               </li>
-              <li class="active"><a href="me.php?section=alumni">Alumni<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              <li class="nav-item dropdown">
+                <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Alumni
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="me.php?section=alumni">Alumni</a>
+                  <a class="dropdown-item" href="me.php?section=alumni_support">Alumni Support</a>
+                </div>
+              </li>
               <li class="active"><a href="me.php?section=student_associations">Student Associations<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
       					</ul>
       				</li>

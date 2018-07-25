@@ -228,13 +228,16 @@
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/me/src/img/meEvents/" alt="First slide">
+							<img class="d-block w-100" src="../departments/me/src/img/people/faculty/M.P.SINGH.jpg" alt="First slide">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/me/src/img/meEvents/" alt="Second slide">
+							<img class="d-block w-100" src="../departments/me/src/img//people/faculty/Manish.jpg" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/me/src/img/meEvents/" alt="Third slide">
+							<img class="d-block w-100" src="../departments/me/src/img/people/faculty/Kuldeep.jpg" alt="Third slide">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/me/src/img/people/faculty/Bhuvnesh.jpg" alt="Third slide">
 						</div>
 					</div>
 					<a class="carousel-control-prev" href="#events_carausel5" role="button" data-slide="prev">
