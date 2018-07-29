@@ -1,7 +1,7 @@
 <!-- COMPUTER SCIENCE HOME PAGE -->
 <div class="container-fluid">
   <div class="row">
-    <div class="col-md-3">
+    <div class="col-xl-3 col-md-4">
       <section class="section container card">
         <div class="sectionHeading">RECENT NEWS</div>
         <div class="sectionContent card-body px-4">
@@ -16,17 +16,42 @@
           </marquee>
         </div>
       </section>
+        <section class="section container card">
+          <div class="sectionHeading">STUDENT SPOTLIGHT</div>
+          <div class="sectionContent card-body">
+            <div class="sectionSubHeading">Pankaj Maharshi</div>
+            <ul class="sectionList">
+              <li>
+                <div class="sectionContent">
+                  <p>Made an Android App for Indian Railways named <strong><a href="https://play.google.com/store/apps/details?id=com.pankajmaharshi.railhealthkota" target="_blank">“Rail Health Kota”</a></strong>. Which is launched on 8 Feb. at Bharatpur by GM of West Central Railways Shri Girish Pillai Sir.</p>
+                  <p>This app is useful for all the People who use Indian Railway. When you are traveling in a train and if there is any Medical Emergency. Than please contact us through this app You will be attended by our Railway Medical Team on next Railway Stations.</p>
+                  <p>Live On Google Play Store:- February 5, 2018.</p>
+                </div>
+              </li>
+              <li>
+                <div class="sectionContent">
+                  <p>App <strong><a href="https://play.google.com/store/apps/details?id=com.pankajmaharshi98.swamivivekananda_biogra
+                  phy" target="_blank">Swami Vivekananda Biography</a></strong> is a Complete Bio of Swami Vivekananda. After using the app you will know about the Entire Life and Struggle of Swami Vivekananda. This app is Really Helpful to increase your Confidence and the Chances of your Success. By using this app you will EARN, Limtless Power, Confidence and Pinpoint Views on your Goal. You can BUY BEST BOOKS of Swami Vivekananda on this app. You can Watch Motivational Videos of Swami Vivekananda on this app. You can Read the 'QUOTES' of Swami Vivekananda and can Share Them to Your WhatsApp Groups. This app is COMPLETELY FREE to Download and Use.</p>
+                </div>
+              </li>
+              <li><strong><a href="https://play.google.com/store/apps/details?id=com.pankajmaharshi.onlinethela" target="_blank">“Online Thela” Android App Same to Flipkart.</a></strong>
+              </li>       
+              <li><strong><a href="https://play.google.com/store/apps/details?id=com.pankajmaharshi.safalta" target="_blank">“Safalta Ki Kahaniyan”</a></strong> Android App</li>
+            </ul>
+          </div>
+        </section>
     </div>
-    <div class="col-md-6">
-      <section class="section container card">
-        <div class="sectionHeading">NEWS LETTER</div>
-        <div class="sectionContent card-body">
-          <div class="row py-2">
-            <div class="col-md-4 py-2">
-              <a href="../departments/me/src/newsletters/july_17.pdf" class="btn-block btn btn-primary btn-lg"  download>July 17</a>
-            </div>
-            <div class="col-md-4 py-2">
-              <a href="../departments/me/src/newsletters/AUG_17.pdf" class="btn-block btn btn-primary btn-lg"  download>August 17</a></div>
+<div class="col-xl-9 col-md-8 row">
+  <div class="col-xl-8">
+    <section class="section container card">
+      <div class="sectionHeading">NEWS LETTER</div>
+      <div class="sectionContent card-body">
+        <div class="row py-2">
+          <div class="col-md-4 py-2">
+            <a href="../departments/me/src/newsletters/july_17.pdf" class="btn-block btn btn-primary btn-lg"  download>July 17</a>
+          </div>
+          <div class="col-md-4 py-2">
+            <a href="../departments/me/src/newsletters/AUG_17.pdf" class="btn-block btn btn-primary btn-lg"  download>August 17</a></div>
             <div class="col-md-4 py-2">
               <a href="../departments/me/src/newsletters/Sept_17.pdf" class="btn-block btn btn-primary btn-lg"  download>Sept 17</a>
             </div>
@@ -54,21 +79,29 @@
             </div>
           </div>
         </div>
-        <div class="sectionHeading">About</div>
-        <iframe src="https://docs.google.com/gview?url=https://jecrcwebsite.herokuapp.com/departments/me/src/newsletters/jan-jun18.pdf&embedded=true" class="embed-doc" frameborder="0"></iframe> 
       </section>
+  
+    <section class="section container card">
+        <div class="sectionHeading">Latest Newsletter</div>
+        <iframe src="https://docs.google.com/gview?url=https://jecrcwebsite.herokuapp.com/departments/me/src/newsletters/jan-jun18.pdf&embedded=true" class="embed-doc me-newsletter" frameborder="0"></iframe>
+    </section>
+  
     </div>
-    <div class="col-md-3">
+    <div class="col-xl-4">
       <section class="section container card">
-        <div class="sectionHeading">STUDENT SPOTLIGHT</div>
+        <div class="sectionHeading">INNOVATIONS</div>
         <div class="sectionContent card-body">
-          The area of Computer Science and Engineering deals with not only Theory of Computation and Design of Computational Systems, but also new engineering trends in software and hardware technology. A good technologist with this specialization is expected to
-          possess excellent analytical ability, mathematical aptitude, problem solving skills and a logical mind. The Computer Science and Engineering Department at JSS is affiliated to Uttar Pradesh Technical University, Lucknow and endeavours to provide
-          an environment where students can grow into Computer Engineers of tomorrow possessing all these necessary attributes. Academic standards are high and students have an opportunity to learn from experienced and well-qualified faculty members.
-          The classroom sessions are reinforced through practical sessions, projects, workshops and many other co-curricular activities. Industrial interaction is promoted through various MOUs with companies like IBM, SAP and Nokia resulting in increased
-          employability of students.
+          <div class="sectionSubHeading">3D Printer</div>
+          <div class="sectionContent">
+            <p>Final year Students have achieved a new feat in the field of innovation and technology by developing the cost open source 3D printer, which create three dimensional solid object from a digital file. The creation of a 3D-printed object is achieved using additive processes</p>
+          </div>
+          <div class="sectionSubHeading">Quadcopters</div>
+          <div class="sectionContent">
+            <p>3 rd year Students developed Quadcopters, RC plane and Control Line plane model during 15 days Aero modelling workshop organised in JECRC Campus. The students who participated engaged themselves effectively in all the projects and gained invaluable knowledge and Aeromodelling hands-on experience.</p>
+          </div>
         </div>
       </section>
     </div>
-  </div>
 </div>
+    </div>
+  </div>

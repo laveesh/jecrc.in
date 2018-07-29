@@ -81,7 +81,7 @@
 								<li class="list-group-item">bhuvnesh.me@jecrc.ac.in</li>
 
 								<li class="list-group-item">Experience: 12 years</li>
-								<li class="list-group-item">Publication: 02</li>
+								<li class="list-group-item">Publication: 22</li>
 							</ul>
 						</div>
 					</div>
@@ -190,7 +190,7 @@
 								<li class="list-group-item">satyendrakumar.me@jecrc.ac.in</li>
 
 								<li class="list-group-item">Experience: 07 years</li>
-								<li class="list-group-item">Publication: 1</li>
+								<li class="list-group-item">Publication: 2</li>
 
 							</ul>
 						</div>
@@ -462,7 +462,7 @@
 					<div class="card-header text-center"><h4>Mr. Akhil Vijay</h4></div>
 					<div class="row">
 						<div class="col-md-3 pt-1 py-1" align="center">
-							<img src="../departments/me/src/img/people/faculty/Akhilesh.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+							<img src="../departments/me/src/img/people/faculty/akhil.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">

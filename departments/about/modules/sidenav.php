@@ -16,7 +16,7 @@
           <div class="container-fluid">
       		<div class="collapse navbar-collapse" id="bs-sidebar-navbar-collapse-1">
       			<ul class="nav navbar-nav flex-column">
-              <li class="active"><a href="about.php?section=home">About Us<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              <li class="active"><a href="about.php?section=home">About JECRC<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   Explore the college
@@ -27,16 +27,6 @@
                   <a class="dropdown-item" href="about.php?section=facilities">Facilities</a>
                 </div>
               </li>
-              <li class="nav-item dropdown">
-                <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  Directory
-                </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="about.php?section=emp_dir">Employee Directory</a>
-                  <a class="dropdown-item" href="about.php?section=staff_dir">Staff Directory</a>
-                </div>
-              </li>
-              <li class="active"><a href="about.php?section=princi_msg">Principal's Message<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="active"><a href="about.php?section=mission_vision">Mission and Vision<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="active"><a href="about.php?section=history">History<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="active"><a href="about.php?section=functionaries">Important Functionaries<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>

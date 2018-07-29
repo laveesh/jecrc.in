@@ -8,6 +8,7 @@
   <link rel="stylesheet" href="../src/css/font-awesome.min.css">
   <link rel="stylesheet" href="../src/css/bootstrap.css">
   <link rel="stylesheet" href="../src/css/style.css">
+  <link rel="stylesheet" href="../departments/administration/src/css/administration.css">
   <link rel="icon" href="../src/img/favicon.png" type="image/x-icon"/>
   <script src="../src/js/jquery.min.js"></script>
   <script src="../src/js/popper.min.js"></script>
@@ -19,7 +20,7 @@
   <?php include '../departments/administration/modules/sidenav.php'; ?>
 
   <main id="administration_root">
-    <?php include '../departments/administraion/modules/home.php'; ?>
+    <?php include '../departments/administration/modules/home.php'; ?>
   </main>
   <?php include '../modules/footer.php'; ?>
   <script src="../departments/administration/src/js/administration.js"></script>
