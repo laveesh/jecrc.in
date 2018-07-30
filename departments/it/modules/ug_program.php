@@ -1,14 +1,14 @@
 <div class="container card section">
 <div class="sectionHeading">Undergraduate Program</div>
 <div class="card-body sectionContent">
-<p>The objective of Deparetement of ECE for the undergraduate programe is:</p>
+<p>The objective of Department of IT for the undergraduate program is:</p>
 <ol class="sectionList">
-<li>To equip the students with strong foundation of basic sciences and domain knowledge of ECE, so that they are able to creatively apply their knowledge to design solution of problems arising in their career path.</li>
+<li>To equip the students with strong foundation of basic sciences and domain knowledge of IT, so that they are able to creatively apply their knowledge to design solution of problems arising in their career path.</li>
 <li>To induce the habits of lifelong learning in order to continuously enhance overall performance.</li>
 <li>Students are able to communicate their ideas clearly and concisely so that they can work in team as well as an individual.</li>
-<li>To make the students responsive towards the ethical, social, environmental and economical growth of the society</li>
+<li>To make the students responsive towards the ethical, social, environmental and economical growth of the society.</li>
 
-<h3 class="sectionSubHeading">The Departement of ECE</h3>
+<h3 class="sectionSubHeading">The Departement of IT</h3>
 <p>Eligibility Criteria:</p>
 <p>Should have passed 10+2 examination with Physics and Mathematics as compulsory subjects along with one of the following subjects:</p>
 <ol class="sectionList">
