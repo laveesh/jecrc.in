@@ -13,7 +13,7 @@
             <!-- <img src="../departments/ece/src/img/Events/redhat/1.jpg" alt="redhat" class="img-fluid img-thumbnail"> -->
           </li>
           <li class="list-group-item">
-            Informative Seminar presentations were conducted by ECE departement on HCIG 
+            Informative Seminar presentations were conducted by IT departement on HCIG 
             <!-- <img src="../departments/ece/src/img/Events/seminar-ICT/1.jpg" alt="" class="img-fluid img-thumbnail"> -->
           </li>
           <li class="list-group-item">
@@ -38,20 +38,7 @@
           </div>
           <hr>
           <p class="py-2 px-3">
-            The Departments of Electronics & Communication Engineering
-       is the major department involving number of
-laboratories with a diversified variety of equipment being the core
-branch and with laboratories focusing on fundamental aspects of
-Electronics & Communication Engineering. In
-order to cope up with the requirement of industries, the department also
-have laboratories with latest technologies. Students have an open access in
-the laboratories, to understand as well as apply their knowledge to explore
-their engineering skills. The department have team of highly motivated
-and dedicated faculty members to the cause of academics and striving to do
-the best in the interest of the college and the students. Most of the faculty
-members are actively involved in research work and regularly publishing
-their research papers in Journals and Conferences.
-
+   The department of Computer Engineering is one of the most sought after departments in the college. It is well equipped with the latest infrastructure and laboratories. The department regularly arranges seminars, guest lectures, and workshops by industry experts for students and staff. The department offers add-on courses to cope with the latest trends in technology. The institute has signed MOUs with leading IT industries such as Infosys, TCS, Microsoft, Amdocs, Accenture, Cognizant, Thought Works and National Entrepreneurship Network, to promote Industry-Institute interaction. The department has good interaction with these industries. Every year about 20% of the final year students secure admission for higher studies at renowned Universities abroad and institutes of repute in India. Off late a good number of students are emerging as Entrepreneurs.
           </p>
         </div>
       </section>
