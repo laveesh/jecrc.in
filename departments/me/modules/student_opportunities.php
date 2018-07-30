@@ -3,7 +3,7 @@
 	<div class="sectionContent">
 		<ul class="list-group list-group-flush">
 			<li class="list-group-item">
-				<h3 class="sectionSubHeading">Participate in Moonrider club</h3>
+				<h3 class="sectionSubHeading">MOONRIDER CLUB</h3>
 				<p>
 					MOONRIDERS Club was formed in 2009(  by funder name )  , a unique inception in itself in the state of rajasthan where automobile was not a common subject anmong the student fraternity, is a group of auto enthusiast burgeoning into engieers.
 				</p>
@@ -12,7 +12,20 @@
 			<li class="list-group-item">Engineer day activities</li>
 			<li class="list-group-item">Youth day activities</li>
 			<li class="list-group-item">
-				<h3 class="sectionSubHeading">Renaissance</h3>
+				<h3 class="sectionSubHeading">Aashayein-The Life Saviours
+				</h3>
+				<p>
+					Aashayein, one of the eminent student initiatives of JECRC Foundation, started in Oct, 2013 has been incessantly working since last three years with the prime aim of fulfilling growing demands for fresh SDPs.
+				</p>
+			</li>
+			<li class="list-group-item">
+				<h2 class="sectionSubHeading">Xananoids</h2>
+				<p>
+					In this race of just coming first and not grasping any knowledge, Xananoids took its initial step in inculcating the knowledge among the students of the first year with the basic of robotics. The seminar took place in three sessions. It was great to see such overwhelming enthusiasm of the young buds. We wish that this zeal and curiosity learn more and more stays forever. The members of the Xananoids club go to various technical fests in a different event. Recently the team took part in plinth tech fest of LNMIIT in the transporter and stood second in it. The team consist of Mithlesh (ECE) Rishabh (ECE) Harish (Mech) Gaurav (Mech) Jitendra (Mech) and Shubham (CSE).
+				</p>
+			</li>			
+			<li class="list-group-item">
+				<h3 class="sectionHeading">RENAISSANCE</h3>
 				<p>
 					The National level techno Cultural Fest of JECRC, Renaissance has made a niche for itself among all colleges in the region. It‟s the second largest fest of Rajasthan. It provides a versatile platform for all students to learn and explore the various dimensions of their personality and to showcase their talent. Renaissance also provides unmatchable learning and exposure to the organizing team of students in the form of team work, pressure handling and product sale and promotion.
 				</p>
@@ -74,13 +87,6 @@
 					<li>Debate oraganised by other institutions</li>
 					<li>CAI(Centre of Apps and Ideas)</li>
 				</ul>
-			</li>
-			<li class="list-group-item">
-				<h3 class="sectionSubHeading">Aashayein-The Life Saviours
-				</h3>
-				<p>
-					Aashayein, one of the eminent student initiatives of JECRC Foundation, started in Oct, 2013 has been incessantly working since last three years with the prime aim of fulfilling growing demands for fresh SDPs.
-				</p>
 			</li>
 		</ul>
 	</div>
