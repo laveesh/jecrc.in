@@ -44,11 +44,11 @@
 <div class="col-xl-9 col-md-8 row">
   <div class="col-xl-8">
     <section class="section container card">
-      <div class="sectionHeading">NEWS LETTER</div>
+      <div class="sectionHeading">NEWSLETTERS</div>
       <div class="sectionContent card-body">
         <div class="row py-2">
           <div class="col-md-4 py-2">
-            <a href="../departments/me/src/newsletters/july_17.pdf" class="btn-block btn btn-primary btn-lg"  download>July 17</a>
+            <a href="../departments/me/src/newsletters/july_17.pdf" class="btn-block btn btn-primary btn-lg"  download>Previous</a>
           </div>
           <div class="col-md-4 py-2">
             <a href="../departments/me/src/newsletters/AUG_17.pdf" class="btn-block btn btn-primary btn-lg"  download>August 17</a></div>
