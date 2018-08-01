@@ -17,28 +17,8 @@
         </div>
       </section>
         <section class="section container card">
-          <div class="sectionHeading">STUDENT SPOTLIGHT</div>
-          <div class="sectionContent card-body">
-            <div class="sectionSubHeading">Pankaj Maharshi</div>
-            <ul class="sectionList">
-              <li>
-                <div class="sectionContent">
-                  <p>Made an Android App for Indian Railways named <strong><a href="https://play.google.com/store/apps/details?id=com.pankajmaharshi.railhealthkota" target="_blank">“Rail Health Kota”</a></strong>. Which is launched on 8 Feb. at Bharatpur by GM of West Central Railways Shri Girish Pillai Sir.</p>
-                  <p>This app is useful for all the People who use Indian Railway. When you are traveling in a train and if there is any Medical Emergency. Than please contact us through this app You will be attended by our Railway Medical Team on next Railway Stations.</p>
-                  <p>Live On Google Play Store:- February 5, 2018.</p>
-                </div>
-              </li>
-              <li>
-                <div class="sectionContent">
-                  <p>App <strong><a href="https://play.google.com/store/apps/details?id=com.pankajmaharshi98.swamivivekananda_biogra
-                  phy" target="_blank">Swami Vivekananda Biography</a></strong> is a Complete Bio of Swami Vivekananda. After using the app you will know about the Entire Life and Struggle of Swami Vivekananda. This app is Really Helpful to increase your Confidence and the Chances of your Success. By using this app you will EARN, Limtless Power, Confidence and Pinpoint Views on your Goal. You can BUY BEST BOOKS of Swami Vivekananda on this app. You can Watch Motivational Videos of Swami Vivekananda on this app. You can Read the 'QUOTES' of Swami Vivekananda and can Share Them to Your WhatsApp Groups. This app is COMPLETELY FREE to Download and Use.</p>
-                </div>
-              </li>
-              <li><strong><a href="https://play.google.com/store/apps/details?id=com.pankajmaharshi.onlinethela" target="_blank">“Online Thela” Android App Same to Flipkart.</a></strong>
-              </li>       
-              <li><strong><a href="https://play.google.com/store/apps/details?id=com.pankajmaharshi.safalta" target="_blank">“Safalta Ki Kahaniyan”</a></strong> Android App</li>
-            </ul>
-          </div>
+          <div class="sectionHeading">UPCOMING EVENTS</div>
+          
         </section>
     </div>
 <div class="col-xl-9 col-md-8 row">
@@ -48,7 +28,7 @@
       <div class="sectionContent card-body">
         <div class="row py-2">
           <div class="col-md-4 py-2">
-            <a href="../departments/me/src/newsletters/july_17.pdf" class="btn-block btn btn-primary btn-lg"  download>July 17</a>
+            <a href="../departments/me/src/newsletters/july_17.pdf" class="btn-block btn btn-primary btn-lg"  download>Previous</a>
           </div>
           <div class="col-md-4 py-2">
             <a href="../departments/me/src/newsletters/AUG_17.pdf" class="btn-block btn btn-primary btn-lg"  download>August 17</a></div>
@@ -98,6 +78,26 @@
           <div class="sectionSubHeading">Quadcopters</div>
           <div class="sectionContent">
             <p>3 rd year Students developed Quadcopters, RC plane and Control Line plane model during 15 days Aero modelling workshop organised in JECRC Campus. The students who participated engaged themselves effectively in all the projects and gained invaluable knowledge and Aeromodelling hands-on experience.</p>
+          </div>
+          <div class="sectionContent card-body">
+            <div class="sectionSubHeading">Pankaj Maharshi</div>
+            <ul class="sectionList">
+              <li>
+                <div class="sectionContent">
+                  <p>Made an Android App for Indian Railways named <strong><a href="https://play.google.com/store/apps/details?id=com.pankajmaharshi.railhealthkota" target="_blank">“Rail Health Kota”</a></strong>. Which is launched on 8 Feb. at Bharatpur by GM of West Central Railways Shri Girish Pillai Sir.</p>
+                  <p>Live On Google Play Store:- February 5, 2018.</p>
+                </div>
+              </li>
+              <li>
+                <div class="sectionContent">
+                  <p>App <strong><a href="https://play.google.com/store/apps/details?id=com.pankajmaharshi98.swamivivekananda_biogra
+                  phy" target="_blank">Swami Vivekananda Biography</a></strong> is a Complete Bio of Swami Vivekananda. After using the app you will know about the Entire Life and Struggle of Swami Vivekananda. </p>
+                </div>
+              </li>
+              <li><strong><a href="https://play.google.com/store/apps/details?id=com.pankajmaharshi.onlinethela" target="_blank">“Online Thela” Android App Same to Flipkart.</a></strong>
+              </li>       
+              <li><strong><a href="https://play.google.com/store/apps/details?id=com.pankajmaharshi.safalta" target="_blank">“Safalta Ki Kahaniyan”</a></strong> Android App</li>
+            </ul>
           </div>
         </div>
       </section>
