@@ -1,4 +1,4 @@
-<!-- <section class="section container">
+<section class="section container">
 	<h1 class="sectionHeading">Department faculty</h1>
 
 	
@@ -880,4 +880,3 @@
  -->
 </section>
 
- -->
