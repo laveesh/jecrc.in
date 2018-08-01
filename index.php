@@ -321,27 +321,27 @@
     <div class="row">
       <div class="col-md-4">
         <div class="col my-5 text-center bg-white advContainer">
-          Advantage 1
+          RENAISSANCE
         </div>
         <div class="col my-5 text-center bg-white advContainer">
-          Advantage 1
+          JECRC MUN
         </div>
       </div>
       <div class="col-md-4">
         <div class="col my-5 text-center bg-white advContainer">
-          Advantage 1
+          JECRC HACKATHON
         </div>
         <div class="col my-5 text-center bg-white advContainer">
-          Advantage 1
-        </div>
+          SMART INDIA HACKATHON
+        </div> 
       </div>
       <div class="col-md-4">
-        <div class="col my-5 text-center bg-white advContainer">
-          Advantage 1
-        </div>
-        <div class="col my-5 text-center bg-white advContainer">
-          Advantage 1
-        </div>
+        <!-- <div class="col my-5 text-center bg-white advContainer">
+          
+        </div> -->
+        <!-- <div class="col my-5 text-center bg-white advContainer">
+          
+        </div> -->
       </div>
     </div>
   </div>

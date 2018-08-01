@@ -2,12 +2,7 @@
 	<div class="sectionHeading">History</div>
 	<div class="sectionContent card-body px-4">
 		<p>
-			The Department of Electronics and Communication Engineering, Jaipur Engineering College and Research  was established in the year 2001The Department has  Vibrant history also, the department of ECE has been known for its outstanding strong B.Tech Program
-
-		</p>
-		<p>
-			Ranked among the prominent in India, the department has always been on a progressive path, thanks to the experienced and dedicated faculty members who have a strong commitment towards providing quality engineering education. The Department has 50 faculty members, Professors, 2 Associate Professors, 3 Assistant Professors and all the faculty are Master degree holders from various IITs, NITs and Top Instituiton among the Globe.
-
+			The department of Civil Engineering was established in 2009 and has since, developed into a centre of excellence in Civil Engineering. It is the major department having number of laboratories with a diversified variety of equipment focusing on fundamental aspects of Civil Engineering. In order to cope up with the requirement of industries, the department also have laboratories with latest technologies. Students have an open access in the laboratories to understand as well as apply their knowledge to explore their engineering skills. The department have team of highly motivated and dedicated faculty members to the cause of academics and striving to do the best in the interest of the college and the students. Most of the faculty members are actively involved in research work and regularly publishing their research papers in Journals and Conferences.
 		</p>
 	</div>
 </section>

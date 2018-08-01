@@ -5,18 +5,18 @@
 <div class="row sectionContent">
 	<div class="col-md-6 mt-4">
 				<div class="panel-body card">
-					<div class="card-header text-center"><h4>Dr. Lokesh Kuamr Bansal</h4></div>
+					<div class="card-header text-center"><h4>Akhil Maheshwari</h4></div>
 					<div class="row">
 						<div class="col-md-3 pt-1 py-1" align="center">
 							<img src="../departments/ece/src/img/people/faculty/Bansal.jpg"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: P.hd</li>
-								<li class="list-group-item"><strong>Designation</strong>: Professor & Head</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech. Structural Engg. </li>
+								<li class="list-group-item"><strong>Designation</strong>: Asst. Prof.</li>
 								<li class="list-group-item">Block-A first floor room no-10</li>
-								<li class="list-group-item">hod.ece@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 18 year</li>
+								<li class="list-group-item">akhil.ce@jecrc.ac.in</li>
+								<li class="list-group-item">Experience: 6 year</li>
 								<li class="list-group-item">Publication: 0</li>
 							</ul>
 						</div>
