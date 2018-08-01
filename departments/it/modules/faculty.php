@@ -1,4 +1,4 @@
-<!-- <section class="section container">
+<section class="section container">
 	<h1 class="sectionHeading">Department faculty</h1>
 
 	
@@ -8,7 +8,7 @@
 					<div class="card-header text-center"><h4>Mr. Sunil Kumar Jangir</h4></div>
 					<div class="row">
 						<div class="col-md-3 pt-1 py-1" align="center">
-							<img src="../departments/it/src/img/people/faculty/HOD.jpg"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+							<img src="../departments/it/src/img/people/faculty/HOD.JPG"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -55,7 +55,7 @@
 					<div class="card-header text-center"><h4>Ms. Swati Vijay</h4></div>
 					<div class="row">
 						<div class="col-md-3 pt-1 py-1" align="center">
-							<img src="../departments/it/src/img/people/faculty/swati-vijay.jpg"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+							<img src="../departments/it/src/img/people/faculty/Swati-Vijay.jpg"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -880,4 +880,3 @@
  -->
 </section>
 
- -->
