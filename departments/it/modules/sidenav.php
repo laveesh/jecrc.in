@@ -60,8 +60,6 @@
                   <a class="dropdown-item" href="it.php?section=news">News</a>
                   <a class="dropdown-item" href="it.php?section=events">Events</a>
                   <a class="dropdown-item" href="it.php?section=tech_events">Technical Events</a>
-                  <a class="dropdown-item" href="it.php?section=awards_faculty">Faculties Awards</a>
-                  <a class="dropdown-item" href="it.php?section=awards_student">Students Awards</a>
                 </div>
               </li>
               <li class="nav-item dropdown">
@@ -78,6 +76,7 @@
                   Alumni
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="it.php?section=placements">Placements</a>
                   <a class="dropdown-item" href="it.php?section=alumni">Alumni</a>
                   <a class="dropdown-item" href="it.php?section=alumni_notes">Alumni Notes</a>
                   <a class="dropdown-item" href="it.php?section=support">Support</a>
