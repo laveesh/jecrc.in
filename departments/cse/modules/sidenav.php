@@ -60,7 +60,6 @@
                   People
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="cse.php?section=people_home">Home</a>
                   <a class="dropdown-item" href="cse.php?section=faculty">Faculty</a>
                   <a class="dropdown-item" href="cse.php?section=staff">Staff</a>
                 </div>

@@ -24,7 +24,7 @@
 <div class="col-xl-9 col-md-8 row">
   <div class="col-xl-8">
     <section class="section container card">
-      <div class="sectionHeading">NEWS LETTER</div>
+      <div class="sectionHeading">NEWSLETTERS</div>
       <div class="sectionContent card-body">
         <div class="row py-2">
           <div class="col-md-4 py-2">
