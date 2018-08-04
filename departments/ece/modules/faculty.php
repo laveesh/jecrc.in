@@ -12,9 +12,9 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: P.hd</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: PhD</li>
 								<li class="list-group-item"><strong>Designation</strong>: Professor & Head</li>
-								<li class="list-group-item">Block-A first floor room no-10</li>
+								
 								<li class="list-group-item">hod.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 18 year</li>
 								<li class="list-group-item">Publication: 0</li>
@@ -35,7 +35,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Prof
-								<li class="list-group-item">Block-A first floor room no-10</li>
+								
 								<li class="list-group-item">ShrutiKalra.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 15 year</li>
 								<li class="list-group-item">Publication: 0</li>
@@ -61,7 +61,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								<li class="list-group-item">Block-A first floor room no-10</li>
+								
 								<li class="list-group-item">aniljain.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 8 year</li>
 								<li class="list-group-item">Publication: 4</li>
@@ -82,7 +82,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								<li class="list-group-item">Block-A first floor room no-10</li>
+								
 								<li class="list-group-item">deepak.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 8 year</li>
 								<li class="list-group-item">Publication: 0</li>
@@ -107,7 +107,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Associate Professor</li>
-								<li class="list-group-item">Block-A first floor room no-10</li>
+								
 								<li class="list-group-item">rajesh.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 19 year</li>
 								<li class="list-group-item">Publication: 0</li>
@@ -128,7 +128,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								<li class="list-group-item">Block-A first floor room no-10</li>
+								
 								<li class="list-group-item">ssmanaktala.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 16 year</li>
 								<li class="list-group-item">Publication: 2</li>
@@ -153,7 +153,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: P.hd</li>
 								<li class="list-group-item"><strong>Designation</strong>: Senior Assistant professor</li>
-								<li class="list-group-item">Block-A first floor room no-10</li>
+								
 								<li class="list-group-item">vinitamathur.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 10 year</li>
 								<li class="list-group-item">Publication: 0</li>
@@ -174,7 +174,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								<li class="list-group-item">Block-A first floor room no-10</li>
+								
 								<li class="list-group-item">tyagi.parul@gmail.com</li>
 								<li class="list-group-item">Experience: 13 year</li>
 								<li class="list-group-item">Publication: 0</li>
@@ -198,7 +198,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								<li class="list-group-item">Block-A first floor room no-10</li>
+								
 								<li class="list-group-item">rituvyas.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 8 year</li>
 								<li class="list-group-item">Publication: 0</li>
@@ -219,7 +219,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								<li class="list-group-item">Block-A first floor room no-10</li>
+								
 								<li class="list-group-item">Vikassharma.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 8.5 year</li>
 								<li class="list-group-item">Publication: 0.6</li>
@@ -242,7 +242,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								<li class="list-group-item">Block-A first floor room no-10</li>
+								
 								<li class="list-group-item">ashishkulshrestha.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 6 year</li>
 								<li class="list-group-item">Publication: 1</li>
@@ -263,7 +263,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								<li class="list-group-item">Block-A first floor room no-10</li>
+								
 								<li class="list-group-item">pravinkumarsharmam.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 5.5 year</li>
 								<li class="list-group-item">Publication: 0</li>
@@ -288,7 +288,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								<li class="list-group-item">Block-A first floor room no-10</li>
+								
 								<li class="list-group-item">ashutoshsharma.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 8 year</li>
 								<li class="list-group-item">Publication: 0</li>
@@ -309,7 +309,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								<li class="list-group-item">Block-A first floor room no-10</li>
+								
 								<li class="list-group-item">nehasingh.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 9 year</li>
 								<li class="list-group-item">Publication: 0</li>
@@ -334,7 +334,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation     </strong>: Assistant Professor</li>
-								<li class="list-group-item">Block-A first floor room no-10</li>
+								
 								<li class="list-group-item">rajkumarjain.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 6 year</li>
 								<li class="list-group-item">Publication: 0</li>
@@ -355,7 +355,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								<li class="list-group-item">Block-A first floor room no-10</li>
+								
 								<li class="list-group-item">vikashmishra.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 6 year</li>
 								<li class="list-group-item">Publication: 0</li>
@@ -381,7 +381,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								<li class="list-group-item">Block-A first floor room no-10</li>
+								
 								<li class="list-group-item">venimadhavsharma.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 8.5 year</li>
 								<li class="list-group-item">Publication: 0</li>
@@ -402,7 +402,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								<li class="list-group-item">Block-A first floor room no-10</li>
+								
 								<li class="list-group-item">mangilal.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 8.5 year</li>
 								<li class="list-group-item">Publication: 0.5</li>
@@ -428,7 +428,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								<li class="list-group-item">Block-A first floor room no-10</li>
+								
 								<li class="list-group-item">sidharth.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 5 year</li>
 								<li class="list-group-item">Publication: 10</li>
@@ -449,7 +449,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								<li class="list-group-item">Block-A first floor room no-10</li>
+								
 								<li class="list-group-item">honeyagarwal.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 7 year</li>
 								<li class="list-group-item">Publication: 0</li>
@@ -474,7 +474,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								<li class="list-group-item">Block-A first floor room no-10</li>
+								
 								<li class="list-group-item">jitendrasharma.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 6 year</li>
 								<li class="list-group-item">Publication: 2</li>
@@ -495,7 +495,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								<li class="list-group-item">Block-A first floor room no-10</li>
+								
 								<li class="list-group-item">sandeepdotya.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 7 year</li>
 								<li class="list-group-item">Publication: 0</li>
@@ -520,7 +520,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								<li class="list-group-item">Block-A first floor room no-10</li>
+								
 								<li class="list-group-item">rakeshkumar.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 4.5 year</li>
 								<li class="list-group-item">Publication: 0</li>
@@ -541,7 +541,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.S</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								<li class="list-group-item">Block-A first floor room no-10</li>
+								
 								<li class="list-group-item">nareshkumar.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 5 year</li>
 								<li class="list-group-item">Publication: 2.5</li>
@@ -566,7 +566,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								<li class="list-group-item">Block-A first floor room no-10</li>
+								
 								<li class="list-group-item">ankurgangwar.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 6 year</li>
 								<li class="list-group-item">Publication: 0</li>
@@ -587,7 +587,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								<li class="list-group-item">Block-A first floor room no-10</li>
+								
 								<li class="list-group-item">lokeshsharma.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 15 year</li>
 								<li class="list-group-item">Publication: 1</li>
@@ -614,7 +614,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								<li class="list-group-item">Block-A first floor room no-10</li>
+								
 								<li class="list-group-item">shivam.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 4 year</li>
 								<li class="list-group-item">Publication: 0</li>
@@ -635,7 +635,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: B.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Lecturer</li>
-								<li class="list-group-item">Block-A first floor room no-10</li>
+								
 								<li class="list-group-item">deepmala.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 3 year</li>
 								<li class="list-group-item">Publication: 0</li>
@@ -661,7 +661,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								<li class="list-group-item">Block-A first floor room no-10</li>
+								
 								<li class="list-group-item">deveshgupta.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 10 year</li>
 								<li class="list-group-item">Publication: 1</li>
@@ -683,7 +683,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								<li class="list-group-item">Block-A first floor room no-10</li>
+								
 								<li class="list-group-item">bhoopesh.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 11.5 year</li>
 								<li class="list-group-item">Publication: 1.5</li>
@@ -708,7 +708,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								<li class="list-group-item">Block-A first floor room no-10</li>
+								
 								<li class="list-group-item">teenasharma.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 7 year</li>
 								<li class="list-group-item">Publication: 0</li>
@@ -729,7 +729,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								<li class="list-group-item">Block-A first floor room no-10</li>
+								
 								<li class="list-group-item">ashishsharma.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 7 year</li>
 								<li class="list-group-item">Publication: 0</li>
@@ -755,7 +755,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								<li class="list-group-item">Block-A first floor room no-10</li>
+								
 								<li class="list-group-item">preetibarot.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 7 year</li>
 								<li class="list-group-item">Publication: 0</li>
@@ -776,7 +776,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								<li class="list-group-item">Block-A first floor room no-10</li>
+								
 								<li class="list-group-item">kritisharda.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 13 year</li>
 								<li class="list-group-item">Publication: 4</li>
@@ -800,7 +800,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								<li class="list-group-item">Block-A first floor room no-10</li>
+								
 								<li class="list-group-item">mohitrajput.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 5 year</li>
 								<li class="list-group-item">Publication: 0</li>
@@ -821,7 +821,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								<li class="list-group-item">Block-A first floor room no-10</li>
+								
 								<li class="list-group-item">shwetasharda.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 11 year</li>
 								<li class="list-group-item">Publication: 2</li>
@@ -845,7 +845,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								<li class="list-group-item">Block-A first floor room no-10</li>
+								
 								<li class="list-group-item">yogita.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 1 year</li>
 								<li class="list-group-item">Publication: 0</li>
@@ -866,7 +866,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								<li class="list-group-item">Block-A first floor room no-10</li>
+								
 								<li class="list-group-item">aapurvakaul.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 1 year</li>
 								<li class="list-group-item">Publication: 0</li>

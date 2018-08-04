@@ -2,7 +2,7 @@
 	<div class="sectionHeading">History</div>
 	<div class="sectionContent card-body px-4">
 		<p>
-			The Department of Electronics and Communication Engineering, Jaipur Engineering College and Research  was established in the year 2001The Department has  Vibrant history also, the department of ECE has been known for its outstanding strong B.Tech Program
+			The Department of Electronics and Communication Engineering, Jaipur Engineering College and Research  was established in the year 2000. The Department has  Vibrant history also, the department of ECE has been known for its outstanding strong B.Tech Program
 
 		</p>
 		<p>

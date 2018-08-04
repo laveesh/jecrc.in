@@ -9,7 +9,7 @@
   </div>
   <nav class="navbar navbar-expand-lg bg-primary mainNav">
     <div class="collapse navbar-collapse bg-primary" id="navbarSupportedContent">
-      <ul class="navbar-nav mr-auto">
+      <ul class="navbar-nav mr-auto center-nav">
         <li class="nav-item active">
           <a class="nav-link" href="../index.php">Home<span class="sr-only">(current)</span></a>
         </li>

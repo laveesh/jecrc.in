@@ -19,7 +19,7 @@
 </ol>
 <p>Candidates have to appear in the State JEE Exam apart from the qualification given above to get admission.</p>
 <p>The Institute is affiliated to Rajasthan technical universityTechnical University (RTU), Kota, Rajasthan. B.Tech course is duly approved by the All India Council for Technical Education (AICTE), Government of India.</p>
-<li><p>Jaipur Engineering College and Research Centre is affiliated to Rajasthan Technical University, Kota. So, the program curriculum is as per the scheme and syllabus described by RTU, Kota. The Curriculum maintains a balance in the composition of Basic Science, Humanities and Professional Ethical courses, Computer Programming based subjects along with Basic and Advanced branch related subjects. </p>
+<p>Jaipur Engineering College and Research Centre is affiliated to Rajasthan Technical University, Kota. So, the program curriculum is as per the scheme and syllabus described by RTU, Kota. The Curriculum maintains a balance in the composition of Basic Science, Humanities and Professional Ethical courses, Computer Programming based subjects along with Basic and Advanced branch related subjects. </p>
 <p>Below is the scheme specified by RTU for Electronics & Communication engineering:</p>
 <div class="table-responsive align-middle">
  
