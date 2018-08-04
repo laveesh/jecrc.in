@@ -70,7 +70,51 @@
 					</div>
 				</div>
 	</div>
-	
+
+	<div class="col-md-6 mt-4">
+				<div class="panel-body card">
+					<div class="card-header text-center"><h4>Mr. Jay Shankar Sharma</h4></div>
+					<div class="row">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/it/src/img/people/faculty/Jay- Shankar-Sharma.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						</div>
+						<div class="col-md-9 px-2">
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech,BE</li>
+								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
+								
+								<li class="list-group-item">jayshankarsharma.cse@jecrc.ac.in</li>
+								<li class="list-group-item">Experience: 9 years</li>
+								<li class="list-group-item">Publication:  2 <em>International</em></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+	</div>
+</div>
+
+<div class="row sectionContent">
+	<div class="col-md-6 mt-4">
+				<div class="panel-body card">
+					<div class="card-header text-center"><h4>Mr. Arihant Kumar Jain</h4></div>
+					<div class="row">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/it/src/img/people/faculty/ArihantJain.png"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						</div>
+						<div class="col-md-9 px-2">
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item"><strong>Educational Qualification</strong>:M.Tech,BE</li>
+								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
+								
+								<li class="list-group-item">arihantjain.cse@jecrc.ac.in</li>
+								<li class="list-group-item">Experience: 9 years</li>
+								<li class="list-group-item">Publication:  3 <em>International</em></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+	</div>
+
 	<div class="col-md-6 mt-4">
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Ms. Kusum Yadav</h4></div>
@@ -96,6 +140,96 @@
 
 
 <div class="row sectionContent">
+
+	<div class="col-md-6 mt-4">
+				<div class="panel-body card">
+					<div class="card-header text-center"><h4>Ms. Shikha Shrivastava</h4></div>
+					<div class="row">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/it/src/img/people/faculty/Shikha-Shrivastav.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						</div>
+						<div class="col-md-9 px-2">
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item"><strong>Educational Qualification</strong>:M.Tech, B.E</li>
+								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
+								
+								<li class="list-group-item">shikhashrivastava.it@jecrc.ac.in</li>
+								<li class="list-group-item">Experience: 8 years</li>
+								<li class="list-group-item">Publication: 4 <em>International</em> 1 <em>National</em></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+	</div>
+	<div class="col-md-6 mt-4">
+				<div class="panel-body card">
+					<div class="card-header text-center"><h4>Mr. Vishal Kumar Sagtani</h4></div>
+					<div class="row">
+						<div class="col-md-3 align-center">
+							<img src="../departments/it/src/img/people/faculty/vishal-sagtani.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						</div>
+						<div class="col-md-9 px-2">
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech, BE</li>
+								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
+								
+								<li class="list-group-item">vishalsagtani.it@jecrc.ac.in</li>
+								<li class="list-group-item">Experience: 8 Years</li>
+								<li class="list-group-item">Publication: </li>
+							</ul>
+						</div>
+					</div>
+				</div>
+	</div>
+	
+	
+</div>
+
+
+<div class="row sectionContent">
+	<div class="col-md-6 mt-4">
+				<div class="panel-body card">
+					<div class="card-header text-center"><h4>Mr. Piyush Gautam</h4></div>
+					<div class="row">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/it/src/img/people/faculty/Piyush-gautam.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						</div>
+						<div class="col-md-9 px-2">
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech,BE</li>
+								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
+								
+								<li class="list-group-item">piyushgautam.it@jecrc.ac.in</li>
+								<li class="list-group-item">Experience: 8 years</li>
+								<li class="list-group-item">Publication: 2 <em>International</em></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+	</div>
+	<div class="col-md-6 mt-4">
+				<div class="panel-body card">
+					<div class="card-header text-center"><h4>Mr. Brijesh Kumar Singh</h4></div>
+					<div class="row">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/it/src/img/people/faculty/Brijesh-Kumar-Singh.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						</div>
+						<div class="col-md-9 px-2">
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech, B.Tech</li>
+								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
+								
+								<li class="list-group-item">brijeshkumarsingh.it@jecrc.ac.in</li>
+								<li class="list-group-item">Experience: 5.5 years</li>
+								<li class="list-group-item">Publication: 5 <em>International</em> 2 <em>National</em></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+	</div>
+</div>
+
+<div class="row sectionContent">
 	<div class="col-md-6 mt-4">
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Ms. Shweta Saxena</h4></div>
@@ -117,51 +251,7 @@
 				</div>
 	</div>
 	
-	<div class="col-md-6 mt-4">
-				<div class="panel-body card">
-					<div class="card-header text-center"><h4>Ms. Shikha Shrivastava</h4></div>
-					<div class="row">
-						<div class="col-md-3 pt-1 py-1" align="center">
-							<img src="../departments/it/src/img/people/faculty/Shikha-Shrivastav.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
-						</div>
-						<div class="col-md-9 px-2">
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>:M.Tech, B.E</li>
-								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								
-								<li class="list-group-item">shikhashrivastava.it@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 8 years</li>
-								<li class="list-group-item">Publication: 4 <em>International</em> 1 <em>National</em></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-	</div>
-
-</div>
-
-
-<div class="row sectionContent">
-	<div class="col-md-6 mt-4">
-				<div class="panel-body card">
-					<div class="card-header text-center"><h4>Ms. Deepika Bansal</h4></div>
-					<div class="row">
-						<div class="col-md-3 pt-1 py-1" align="center">
-							<img src="../departments/it/src/img/people/faculty/Deepika-Bansal.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
-						</div>
-						<div class="col-md-9 px-2">
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M. tech, B. tech.</li>
-								<li class="list-group-item"><strong>Designation</strong>: Assistant professor</li>
-								
-								<li class="list-group-item">deepikabansal.it@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 2.5 years</li>
-								<li class="list-group-item">Publication:4 <em>International</em></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-	</div>
+	
 	
 	<div class="col-md-6 mt-4">
 				<div class="panel-body card">
@@ -183,7 +273,6 @@
 					</div>
 				</div>
 	</div>
-
 </div>
 
 <div class="row sectionContent">
@@ -207,66 +296,21 @@
 					</div>
 				</div>
 	</div>
-	
 	<div class="col-md-6 mt-4">
 				<div class="panel-body card">
-					<div class="card-header text-center"><h4>Mr. Piyush Gautam</h4></div>
+					<div class="card-header text-center"><h4>Ms. Deepika Bansal</h4></div>
 					<div class="row">
 						<div class="col-md-3 pt-1 py-1" align="center">
-							<img src="../departments/it/src/img/people/faculty/Piyush-gautam.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+							<img src="../departments/it/src/img/people/faculty/Deepika-Bansal.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech,BE</li>
-								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M. tech, B. tech.</li>
+								<li class="list-group-item"><strong>Designation</strong>: Assistant professor</li>
 								
-								<li class="list-group-item">piyushgautam.it@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 8 years</li>
-								<li class="list-group-item">Publication: 2 <em>International</em></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-	</div>
-
-</div>
-<div class="row sectionContent">
-	<div class="col-md-6 mt-4">
-				<div class="panel-body card">
-					<div class="card-header text-center"><h4>Mr. Vishal Kumar Sagtani</h4></div>
-					<div class="row">
-						<div class="col-md-3 align-center">
-							<img src="../departments/it/src/img/people/faculty/vishal-sagtani.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
-						</div>
-						<div class="col-md-9 px-2">
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech, BE</li>
-								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								
-								<li class="list-group-item">vishalsagtani.it@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 8 Years</li>
-								<li class="list-group-item">Publication: </li>
-							</ul>
-						</div>
-					</div>
-				</div>
-	</div>
-	
-	<div class="col-md-6 mt-4">
-				<div class="panel-body card">
-					<div class="card-header text-center"><h4>Mr. Brijesh Kumar Singh</h4></div>
-					<div class="row">
-						<div class="col-md-3 pt-1 py-1" align="center">
-							<img src="../departments/it/src/img/people/faculty/Brijesh-Kumar-Singh.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
-						</div>
-						<div class="col-md-9 px-2">
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech, B.Tech</li>
-								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								
-								<li class="list-group-item">brijeshkumarsingh.it@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 5.5 years</li>
-								<li class="list-group-item">Publication: 5 <em>International</em> 2 <em>National</em></li>
+								<li class="list-group-item">deepikabansal.it@jecrc.ac.in</li>
+								<li class="list-group-item">Experience: 2.5 years</li>
+								<li class="list-group-item">Publication:4 <em>International</em></li>
 							</ul>
 						</div>
 					</div>
@@ -276,50 +320,6 @@
 </div>
 
 
-<div class="row sectionContent">
-	<div class="col-md-6 mt-4">
-				<div class="panel-body card">
-					<div class="card-header text-center"><h4>Mr. Arihant Kumar Jain</h4></div>
-					<div class="row">
-						<div class="col-md-3 pt-1 py-1" align="center">
-							<img src="../departments/it/src/img/people/faculty/ArihantJain.png"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
-						</div>
-						<div class="col-md-9 px-2">
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>:M.Tech,BE</li>
-								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								
-								<li class="list-group-item">arihantjain.cse@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 9 years</li>
-								<li class="list-group-item">Publication:  3 <em>International</em></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-	</div>
-	
-	<div class="col-md-6 mt-4">
-				<div class="panel-body card">
-					<div class="card-header text-center"><h4>Mr. Jay Shankar Sharma</h4></div>
-					<div class="row">
-						<div class="col-md-3 pt-1 py-1" align="center">
-							<img src="../departments/it/src/img/people/faculty/Jay- Shankar-Sharma.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
-						</div>
-						<div class="col-md-9 px-2">
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech,BE</li>
-								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								
-								<li class="list-group-item">jayshankarsharma.cse@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 9 years</li>
-								<li class="list-group-item">Publication:  2 <em>International</em></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-	</div>
-
-</div>
 
 	<!-- 
 	<div class="row sectionContent">

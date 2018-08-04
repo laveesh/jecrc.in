@@ -42,17 +42,7 @@
                   <a class="dropdown-item" href="it.php?section=co_po_mapping">CO and PO Mapping</a>
                 </div>
               </li>
-              <li class="nav-item dropdown">
-                <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  Research
-                </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="it.php?section=research">Research</a>
-                  <a class="dropdown-item" href="it.php?section=publication">Publication</a>
-                  <a class="dropdown-item" href="it.php?section=research_topic1">Research Topic 1</a>
-                  <a class="dropdown-item" href="it.php?section=research_topic2">Research Topic 2</a>
-                </div>
-              </li>
+              <li class="active"><a href="it.php?section=publication">Publication<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   People
@@ -70,8 +60,6 @@
                   <a class="dropdown-item" href="it.php?section=news">News</a>
                   <a class="dropdown-item" href="it.php?section=events">Events</a>
                   <a class="dropdown-item" href="it.php?section=tech_events">Technical Events</a>
-                  <a class="dropdown-item" href="it.php?section=awards_faculty">Faculties Awards</a>
-                  <a class="dropdown-item" href="it.php?section=awards_student">Students Awards</a>
                 </div>
               </li>
               <li class="nav-item dropdown">
@@ -88,6 +76,7 @@
                   Alumni
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="it.php?section=placements">Placements</a>
                   <a class="dropdown-item" href="it.php?section=alumni">Alumni</a>
                   <a class="dropdown-item" href="it.php?section=alumni_notes">Alumni Notes</a>
                   <a class="dropdown-item" href="it.php?section=support">Support</a>
