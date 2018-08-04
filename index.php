@@ -24,7 +24,7 @@
       </div>
       <nav class="navbar navbar-expand-xl bg-primary mainNav">
         <div class="collapse navbar-collapse bg-primary" id="navbarSupportedContent">
-          <ul class="navbar-nav mr-auto">
+          <ul class="navbar-nav mr-auto center-nav">
         <li class="nav-item active">
           <a class="nav-link" href="index.php">Home<span class="sr-only">(current)</span></a>
         </li>
@@ -314,8 +314,8 @@
       </div>
     </div>
   </div>
-  <div class="container-fluid mb-1 mt-5 pt-5 pb-5 pr-5 pl-5 bg-jecrc">
-    <div class="pt-3 pb-3 pr-3 pl-3 text-center text-white advHeading">
+  <div class="container-fluid mb-1 mt-5 pt-5 pb-5 pr-5 pl-5">
+    <div class="pt-3 pb-3 pr-3 pl-3 text-center advHeading">
       <span>The JECRC ADVANTAGES</span>
     </div>
     <div class="row">
