@@ -40,7 +40,7 @@
       <section class="section container card">
         <div class="sectionHeading">STUDENT SPOTLIGHT</div>
         <div class="sectionContent card-body">
-          <h3 class="sectionHeading">GATE Toppers</h3>
+          <!-- <h3 class="sectionHeading">GATE Toppers</h3>
           <div class="row">
             <div class="col-md-6 text-center">
               <img src="../departments/ece/src/img/studentspotlight/image13.png" alt="" class="img-fluid img-thumbnail rounded-circle">
@@ -50,7 +50,7 @@
               <img src="../departments/ece/src/img/studentspotlight/image14.png" alt="" class="img-fluid img-thumbnail rounded-circle">
               <h5 class="py-2">Vishal Ranjan Prasad</h5>
             </div>
-          </div>
+          </div> -->
 
           <h3 class="sectionHeading">RTU Toppers</h3>
           <div class="row">
