@@ -72,6 +72,7 @@
                   <a class="dropdown-item" href="cse.php?section=news">News</a>
                   <a class="dropdown-item" href="cse.php?section=events">Events</a>
                   <a class="dropdown-item" href="cse.php?section=cse_hackathon">CSE Hackathon</a>
+                  <a class="dropdown-item" href="cse.php?section=sih">Smart India Hackathon</a>
                   <a class="dropdown-item" href="cse.php?section=tech_events">Technical Events</a>
                   <a class="dropdown-item" href="cse.php?section=awards_faculty">Faculties Awards</a>
                   <a class="dropdown-item" href="cse.php?section=awards_student">Students Awards</a>

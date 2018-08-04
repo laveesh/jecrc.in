@@ -27,6 +27,7 @@
 					
 			
 					<tr>
+<<<<<<< HEAD
 						<th scope="row">2</th>
 						<td>3CE2A</td>
 						<td>Civil Engineering Materials </td>
@@ -63,10 +64,35 @@
 										<li class="list-group-item">CO2: To Understand About DPC Joints Arches Lintels Etc.</li>
 										<li class="list-group-item">CO3: To Understand the Fabrication And Erection Work, Roof And Roof Covering</li>
 										<li class="list-group-item">CO4: To Understand Advanced Construction Techniques and About Equipment Management</li>
+=======
+							<th scope="row">2</th>
+							<td>3CE2A</td>
+							<td>Civil Engineering Materials </td>
+							<td>
+								<ul class="list-group list-group-flush">
+									<li class="list-group-item">CO1: Understanding the basic properties classification & uses of stone</li>
+									<li class="list-group-item">CO2: Understanding the basic properties manufacturing & uses of clay product, cement & lime</li>
+									<li class="list-group-item">CO3: Understanding the function, various test & application of mortar and plaster timber & steel</li>
+									<li class="list-group-item">CO4: Study & analyzing the concept of environmental friendly building material and miscellaneous materials such as glass, aluminum, asbestos, G.I., plastics in construction</li>
+								</ul>
+							</td>
+						</tr>
+						<tr>
+								<th scope="row">3</th>
+								<td>3CE3A</td>
+								<td>Engineering Geology </td>
+								<td>
+									<ul class="list-group list-group-flush">
+										<li class="list-group-item">CO1: Understands the concepts of general geology & knows about internal structure of earth & minerals.</li>
+										<li class="list-group-item">CO2: Understanding the concepts of petrology & know about rocks</li>
+										<li class="list-group-item">CO3: Understanding the concept of structural geology & basics of fold & faults & also to know about dip & strike problems.</li>
+										<li class="list-group-item">CO4: Basics of geophysical methods for the subsurface analysis of earth and concept of remote sensing & GIS & their applications in civil engineering</li>
+>>>>>>> 680fa3a71ea855654d406984a6b0202b049fa80d
 									</ul>
 								</td>
 							</tr>
 
+<<<<<<< HEAD
 								<tr>
 									<th scope="row">5</th>
 									<td>3CE5A</td>
@@ -77,10 +103,23 @@
 											<li class="list-group-item">CO2: To understand hydrostatics and buoyancy with practice of solving problem</li>
 											<li class="list-group-item">CO3: To understand euler equation, bernoulli equation in hydro kinematics, rotational flow practice of applications and solving problems.</li>
 											<li class="list-group-item">CO4: To understand momentum equation and flow throw pipes practice of solving problems.</li>
+=======
+							<tr>
+									<th scope="row">4</th>
+									<td>3CE4A</td>
+									<td>Construction Technology</td>
+									<td>
+										<ul class="list-group list-group-flush">
+											<li class="list-group-item">CO1: To Understand The Basic Building Requirement And Construction Techniques.</li>
+											<li class="list-group-item">CO2: To Understand About DPC Joints Arches Lintels Etc.</li>
+											<li class="list-group-item">CO3: To Understand the Fabrication And Erection Work, Roof And Roof Covering</li>
+											<li class="list-group-item">CO4: To Understand Advanced Construction Techniques and About Equipment Management</li>
+>>>>>>> 680fa3a71ea855654d406984a6b0202b049fa80d
 										</ul>
 									</td>
 								</tr>
 
+<<<<<<< HEAD
 									<tr>
 										<th scope="row">6</th>
 										<td>3CE6A</td>
@@ -252,6 +291,50 @@
 												</ul>
 											</td>
 										</tr>
+=======
+								<tr>
+										<th scope="row">5</th>
+										<td>3CE5A</td>
+										<td>Fluid Mechanics</td>
+										<td>
+											<ul class="list-group list-group-flush">
+												<li class="list-group-item">CO1: To understand important basic terms used in fluid mechanics with practices of solvig problem</li>
+												<li class="list-group-item">CO2: To understand hydrostatics and buoyancy with practice of solving problem</li>
+												<li class="list-group-item">CO3: To understand euler equation, bernoulli equation in hydro kinematics, rotational flow practice of applications and solving problems.</li>
+												<li class="list-group-item">CO4: To understand momentum equation and flow throw pipes practice of solving problems.</li>
+											</ul>
+										</td>
+									</tr>
+
+									<tr>
+											<th scope="row">6</th>
+											<td>3CE6A</td>
+											<td>Advanced Engineering Mathematics</td>
+											<td>
+												<ul class="list-group list-group-flush">
+													<li class="list-group-item">CO1: Calculate the Fourier series for standard periodic waveforms and demonstrate their understanding of the Dirichlet’s conditions by using them to evaluate infinite series. solve z transform and its difference equations</li>
+													<li class="list-group-item">CO2:  Calculate the Laplace transform of standard functions and use the techniques to solve second-order ordinary differential equations and partial differential equations.</li>
+													<li class="list-group-item">CO3: Calculate the Fourier transform of standard functions and use the techniques to solve second-order ordinary differential equations and partial differential equations.</li>
+													<li class="list-group-item">CO4: Use numerical methods to interpolate, differentiate and integrate the functions and solve first order differential equations</li>
+												</ul>
+											</td>
+										</tr>
+<!-- sem4 -->
+										<tr>
+												<th scope="row">6</th>
+												<td>3CE6A</td>
+												<td>Advanced Engineering Mathematics</td>
+												<td>
+													<ul class="list-group list-group-flush">
+														<li class="list-group-item">CO1: Calculate the Fourier series for standard periodic waveforms and demonstrate their understanding of the Dirichlet’s conditions by using them to evaluate infinite series. solve z transform and its difference equations</li>
+														<li class="list-group-item">CO2:  Calculate the Laplace transform of standard functions and use the techniques to solve second-order ordinary differential equations and partial differential equations.</li>
+														<li class="list-group-item">CO3: Calculate the Fourier transform of standard functions and use the techniques to solve second-order ordinary differential equations and partial differential equations.</li>
+														<li class="list-group-item">CO4: Use numerical methods to interpolate, differentiate and integrate the functions and solve first order differential equations</li>
+													</ul>
+												</td>
+											</tr>
+								
+>>>>>>> 680fa3a71ea855654d406984a6b0202b049fa80d
 		</tbody>
 	</table>
 </section>
