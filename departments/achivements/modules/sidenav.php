@@ -5,7 +5,7 @@
   </button>
 </div>
 <div class="container-fluid bg-primary deptHeader">
-  <span class="deptName">Our Alumni's</span>
+  <span class="deptName">Achivements</span>
 </div>
 <!-- Container for sidebar and Image Carousel -->
 <div class="container-fluid banner">
@@ -16,21 +16,19 @@
         <div class="container-fluid">
           <div class="collapse navbar-collapse" id="bs-sidebar-navbar-collapse-1">
             <ul class="nav navbar-nav flex-column">
-              <li class="active"><a href="alumni.php?section=home">JECRC Alumni<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-              <li class="active"><a href="cse.php?section=alumni">
+              <li class="active"><a href="achivements.php?section=home">Home<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              <li class="active"><a href="cse.php?section=awards_student">
                 Computer Science<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-                <li class="active"><a href="it.php?section=alumni">
+                <li class="active"><a href="it.php?section=awards_student">
                   Information Technology<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-                  <li class="active"><a href="ece.php?section=alumni">
+                  <li class="active"><a href="ece.php?section=awards_student">
                     Electronics & Communication<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-                    <li class="active"><a href="me.php?section=alumni">
-                      Mechenical Engineering<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-                      <li class="active"><a href="ee.php?section=alumni">
+                    <li class="active"><a href="me.php?section=awards_student">
+                      Mechanical Engineering<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+                      <li class="active"><a href="ee.php?section=awards_student">
                         Electrical Engineering<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-                        <li class="active"><a href="civil.php?section=alumni">
+                        <li class="active"><a href="civil.php?section=awards_student">
                           Civil Engineering<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-                        <li class="active"><a href="https://jecrc.almaconnect.com/" target="_blank">
-                          Alumni Support<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
                         </ul>
                       </div>
                     </div>

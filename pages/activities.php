@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="../src/css/font-awesome.min.css">
   <link rel="stylesheet" href="../src/css/bootstrap.css">
   <link rel="stylesheet" href="../src/css/style.css">
-  <link rel="stylesheet" href="../departments/research/src/css/research.css">
+  <link rel="stylesheet" href="../departments/activities/src/css/activities.css">
   <link rel="icon" href="../src/img/favicon.png" type="image/x-icon"/>
   <script src="../src/js/jquery.min.js"></script>
   <script src="../src/js/popper.min.js"></script>
@@ -17,12 +17,12 @@
 <body>
   <?php include '../modules/header.php'; ?>
 
-  <?php include '../departments/research/modules/sidenav.php'; ?>
+  <?php include '../departments/activities/modules/sidenav.php'; ?>
 
-  <main id="research_root">
-    <?php include '../departments/research/modules/home.php'; ?>
+  <main id="activities_root">
+    <?php include '../departments/activities/modules/home.php'; ?>
   </main>
   <?php include '../modules/footer.php'; ?>
-  <script src="../departments/research/src/js/research.js"></script>
+  <script src="../departments/activities/src/js/activities.js"></script>
 </body>
 </html>

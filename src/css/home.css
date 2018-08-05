@@ -58,7 +58,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
     font-weight: 800;
     color: #062259;
     text-transform: uppercase;
-    text-shadow: 5px 5px 5px black;
+    text-shadow: 2px 2px 2px black;
 }
 
 .advContainer {
@@ -92,4 +92,11 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
     .advHeading {
         font-size: 30px;
     }
+}
+
+
+/*JECRC Pride */
+.pride-img{
+    width: 300px;
+    height: auto;
 }
