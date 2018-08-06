@@ -55,6 +55,10 @@ p{
   font-size: 3vmin;
 }
 
+.center-nav{
+  margin: auto !important;
+}
+
 .collegeHeader #collegeAdd{
   font-size: 3vmin;
   padding-left: calc(10vh + 5px);

@@ -20,7 +20,7 @@
   <?php include '../departments/research/modules/sidenav.php'; ?>
 
   <main id="research_root">
-    <?php include '../departments/research/modules/patent.php'; ?>
+    <?php include '../departments/research/modules/home.php'; ?>
   </main>
   <?php include '../modules/footer.php'; ?>
   <script src="../departments/research/src/js/research.js"></script>
