@@ -58,9 +58,14 @@
               <h5 class="py-2">Hemant Kumar Lodha</h5>
             </div>
           </div>
+          <div class="row">
             <div class="col-md-6 text-center">
               <img src="../departments/civil/src/img/studentspotlight/image15.jpg" alt="" class="img-fluid img-thumbnail rounded-circle">
               <h5 class="py-2">Pratik Kumar Mahto</h5>
+            </div>
+            <div class="col-md-6 text-center">
+              <img src="../departments/civil/src/img/studentspotlight/image16.jpg" alt="" class="img-fluid img-thumbnail rounded-circle">
+              <h5 class="py-2">Tanu Sharma</h5>
             </div>
           </div>
 
