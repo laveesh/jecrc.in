@@ -9,4 +9,6 @@
  	<div class="col-md-12 col-sm-12"><img class="img-thumbnail" src="../departments/it/src/img/placements/logo.jpg"></div>
  	</div>
 </div>
+
 </div>
+
