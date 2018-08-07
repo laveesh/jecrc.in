@@ -1,4 +1,3 @@
-	
 	<div class="container">
 		<div class="sectionHeading">Recents events @JECRC</div>
 		<!-- <section class="section">
@@ -60,7 +59,7 @@
 			</div>
 		</section> -->
 		<section class="section">
-			<div class="sectionHeading">ROBO SOCCER</div>`
+			<div class="sectionHeading">Dexterity - "Bridge O Mania"</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
 					<div id="events_carausel2" class="carousel slide" data-ride="carousel">
@@ -109,31 +108,26 @@
 					</div>
 				</div>
 				<div class="col-md-9 col-sm-12 sectionContent px-4">
-					<p> For all those who have passion in Robotics or Sports, RENAISSANCE’18 presents robo-soccer. This competition is to show how good and swift robot of yours can be by playing soccer using it and scoring more goals.</p>
+					<p>The event here explodes the creativity of participant and his\her understanding of the structure by implementing simple theories of structure and a little mathematics. In this event ,participants have to construct a bridge of given dimensions using popsicle sticks.</p>
 					<ol class="sectionList">
-						<li><strong>Date of the event:</strong>25<sup>th</sup>Febuary 2018.</li>
-						<li><strong>Venue:</strong> Quad-angle  A-block</li>
+						<li><strong>Date of the event:</strong>25<sup>th</sup>March 2018.</li>
+						<li><strong>Venue:</strong>VIP Parking C Block (CE)</li>
 						<li><strong>Faculty Co-ordinators:</strong>
 							<ol class="sectionList">
-								<li>Mr. Vikash Mishra</li>
-								<li>Ms. Deepmala Kulshrestha</li>
-								</ol>
+								<li>Mr. Amit Mittal (9461010589)</li>
+							</ol>
 						</li>
-						<li><strong>Students Co-dinators:</strong><ol class="sectionList">
-								<li>Hardik Rathi</li>
-								<li>Juhi Garg</li>
-								<li>Anuj Goyal </li>
-								<li>Bharti</li>
-								<li>Vishal</li>
-								<li>Ankit</li>
-								</ol>
+						<li><strong>Students Co-dinators:</strong>
+							<ol class="sectionList">
+								<li>Nanu Ram Jat (8085852300)</li>
+							</ol>
 						</li>
 					</ol>
 				</div>
 			</div>
 		</section>
 		<section class="section">
-			<div class="sectionHeading">FORMULA ZERO</div>
+			<div class="sectionHeading">Zenith - "Reach Towards Sky"</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
 					<div id="events_carausel3" class="carousel slide" data-ride="carousel">
@@ -168,23 +162,17 @@
 					</div>
 				</div>
 				<div class="col-md-9 col-sm-12 sectionContent px-4">
-					<p>For all those who have passion in Robotic so far Sports, RENAISSANCE͛’18 presents Formula zero. This competition  is to show how good and swift robot of yours can be,by crossing the hurdles using it and scoring more points.</p>
+					<p>The event here explodes the creativity of participant and his\her understanding of the structure. In this event , participants have to construct a structure of roof and floor standing more or less permanently in one place provided props.</p>
 					<ol class="sectionList">
-						<li><strong>Date of the event:</strong>27<sup>th</sup>March 2018.</li>
-						<li><strong>Venue:</strong> B-Block Fountain Area</li>
+						<li><strong>Date of the event:</strong> 26<sup>th</sup>March 2018.</li>
+						<li><strong>Venue:</strong> C block VIP Parking(CE)</li>
 						<li><strong>Faculty Co-ordinators:</strong>
 							<ol class="sectionList">
-								<li>Mr. Ankur Gangwar</li>
-								<li>Mr. Neha Singh</li>
+								<li>Ms. Nida Khanam (8741813384)</li>
 								</ol>
 						</li>
 						<li><strong>Students Co-dinators:</strong><ol class="sectionList">
-								<li>Gaurav gupta</li>
-								<li>Jaya Mittal</li>
-								<li>Anshul Dhaka</li>
-								<li>Anant</li>
-								<li>Saandeep</li>
-								<li>Naman</li>
+								<li>Nitin Agarwal (8503090711)</li>
 								</ol>
 						</li>
 					</ol>
@@ -192,7 +180,7 @@
 			</div>
 		</section>
 <section class="section">
-			<div class="sectionHeading">Line Follower</div>
+			<div class="sectionHeading">Manthan</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
 					<div id="events_carausel4" class="carousel slide" data-ride="carousel">
@@ -231,23 +219,17 @@
 					</div>
 				</div>
 				<div class="col-md-9 col-sm-12 sectionContent px-4">
-					<p>For all those who have passion in Robotics or Sports, RENAISSANCE’18 presents Line follower. This competition is to show how good and swift robot of yours can be by following a line using it and scoring more points.</p>
+					<p>The event here explores the basic engineering knowledge. This event is a quiz compititon comprising of three rounds. first & second round which is a buzzer round and then a target round which will be having from yearly syllabus only.</p>
 					<ol class="sectionList">
-						<li><strong>Date of the event:</strong>8<sup>th</sup>March 2018.</li>
-						<li><strong>Venue:</strong> C-401</li>
+						<li><strong>Date of the event:</strong>26<sup>th</sup>March 2018.</li>
+						<li><strong>Venue:</strong>CG – 08, 09 (CE) C Block</li>
 						<li><strong>Faculty Co-ordinators:</strong>
 							<ol class="sectionList">
-								<li>Mr. Ankur Gangwar</li>
-								<li>Ms. Neha Singh</li>
+								<li>Mr. Pardeep Kr. Jain(7737707991)</li>
 								</ol>
 						</li>
 						<li><strong>Students Co-dinators:</strong><ol class="sectionList">
-								<li>Gaurav gupta</li>
-								<li>Jaya Mittal</li>
-								<li>Anshul Dhaka</li>
-								<li>Anant</li>
-								<li>Saandeep</li>
-								<li>Naman</li>
+								<li>Sunil Gurjar (9166489905)</li>
 								</ol>
 						</li>
 					</ol>
@@ -255,7 +237,7 @@
 			</div>
 		</section>
 		<section class="section">
-			<div class="sectionHeading">Game of Drones</div>
+			<div class="sectionHeading">Best Out Of Waste</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
 					<div id="events_carausel5" class="carousel slide" data-ride="carousel">
@@ -290,23 +272,25 @@
 					</div>
 				</div>
 				<div class="col-md-9 col-sm-12 sectionContent px-4">
-					<p>Build your Drone to travel from source to destination crossing various interruptions, hurdles, etc., along the path of journey. This is an open event for all (but should not be from any industry or a professional).</p>
+					<p>As the name itself explains "Best Out Of Waste". this is an event in which participants are suppose to make anything to their creativity from the waste products given to them. We will be providing them with the materials from which they need to make any 3D model.</p>
 					<ol class="sectionList">
-						<li><strong>Date of the event:</strong>26<sup>th</sup>March 2018.</li>
-						<li><strong>Venue:</strong> GH-Lawn</li>
+						<li><strong>Date of the event:</strong>27<sup>th</sup>March 2018.</li>
+						<li><strong>Venue:</strong>VIP Parking C Block</li>
 						<li><strong>Faculty Co-ordinators:</strong>
 							<ol class="sectionList">
-								<li >Siddharth Chaturvedi</li>
-								<li >Naresh kumar</li>
-								<li >Ashish Sharma</li>
+								<li >Mrs. Monika Sharma(9811859583)</li>
 								</ol>
-						</li>					
+						</li>
+						<li><strong>Students Co-dinators:</strong><ol class="sectionList">
+								<li>Shalini Goyal (9057458958)</li>
+							</ol>
+						</li>		
 					</ol>
 				</div>
 			</div>
 		</section>
 		<section class="section">
-			<div class="sectionHeading">TECHNOPHILIA</div>
+			<div class="sectionHeading">Cad-Darshan (Express your Cad Skill)</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
 					<div id="events_carausel6" class="carousel slide" data-ride="carousel">
@@ -349,19 +333,17 @@
 					</div>
 				</div>
 				<div class="col-md-9 col-sm-12 sectionContent px-4">
-					<p>This event is to develop research aptitude among engineering students. Future of education belongs to research. Students who want to pursue higher studies in india or abroad are very much inquisitive about  developing research aptitude . Technophilia will provide them a solid platform to begin. </p>
+					<p>The event here explores the understanding of AutoCAD. This event will be conducted in two rounds. First round comprising the questions based on basic AutoCAD knowledge followed by second round in which participants will have to draw the plan of dimensions provided. </p>
 					<ol class="sectionList">
-						<li><strong>Date of the event:</strong>26<sup>th</sup>March 2017.</li>
-						<li><strong>Venue:</strong> CAD LAB(ECE), B-BLOCK,GROUND FLOOR</li>
+						<li><strong>Date of the event:</strong>25<sup>th</sup>March 2017.</li>
+						<li><strong>Venue:</strong>CP19, 20 (CE) C Block</li>
 						<li><strong>Faculty Co-ordinators:</strong>
 							<ol class="sectionList">
-								<li>Rajesh Bhataija</li>
-								<li>S.S.Manaktala</li>
+								<li>Mr. Jitesh Kr. Jain (9829906028)</li>
 								</ol>
 						</li>
 						<li><strong>Students Co-dinators:</strong><ol class="sectionList">
-								<li>Shipra Goyal</li>
-								<li>Radhey Shyam</li>
+								<li>Kr. Avinash Aman (8441885756)</li>
 							</ol>
 						</li>
 					</ol>
@@ -369,7 +351,7 @@
 			</div>
 		</section>
 		<section class="section">
-			<div class="sectionHeading">Phoenix</div>
+			<div class="sectionHeading">Click-O-Mania (If you find it, click it) </div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
 					<div id="events_carausel7" class="carousel slide" data-ride="carousel">
@@ -412,263 +394,21 @@
 					</div>
 				</div>
 				<div class="col-md-9 col-sm-12 sectionContent px-4">
-					<p>“CASH THE ASH”, In this event students have to develop a working model from the available components of a non working or discarded device according their innovative idea. Creating is not finding of a thing but making something out of it after it is found so get your mind work to create something innovative from the ASH.  </p>
-					<ol class="sectionList">
-						<li><strong>Date of the event:</strong>26<sup>th</sup>March 2018.</li>
-						<li><strong>Venue:</strong> ECE workshop & BS-12</li>
-						<li><strong>Faculty Co-ordinators:</strong>
-							<ol class="sectionList">
-								<li>Rajesh Bhataija</li>
-								<li>S.S.Manaktala</li>
-								</ol>
-						</li>
-						<li><strong>Students Co-dinators:</strong><ol class="sectionList">
-								<li>Mr. Maneet</li>
-								<li>Mr. Giriraj</li>
-								<li>Mr. Kailash</li>
-							</ol>
-						</li>
-					</ol>
-				</div>
-			</div>
-		</section>
-<section class="section">
-			<div class="sectionHeading">Renovators</div>
-			<div class="row">
-				<div class="col-md-3 col-sm-12">
-					<div id="events_carausel8" class="carousel slide" data-ride="carousel">
-					<ol class="carousel-indicators">
-						<li data-target="#events_carausel8" data-slide-to="0" class="active"></li>
-						<li data-target="#events_carausel8" data-slide-to="1"></li>
-						<li data-target="#events_carausel8" data-slide-to="2"></li>
-						<li data-target="#events_carausel8" data-slide-to="3"></li>
-						<li data-target="#events_carausel8" data-slide-to="4"></li>
-						<li data-target="#events_carausel8" data-slide-to="5"></li>
-					</ol>
-					<div class="carousel-inner">
-						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/renovators/1.jpg" alt="renovators">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/renovators/2.jpg" alt="renovators">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/renovators/3.jpg" alt="renovators">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/renovators/4.jpg" alt="renovators">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/renovators/5.jpg" alt="renovators">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/renovators/6.jpg" alt="renovators">
-						</div>
-					</div>
-					<a class="carousel-control-prev" href="#events_carausel8" role="button" data-slide="prev">
-					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-					<span class="sr-only">Previous</span>
-					</a>
-					<a class="carousel-control-next" href="#events_carausel8" role="button" data-slide="next">
-					<span class="carousel-control-next-icon" aria-hidden="true"></span>
-					<span class="sr-only">Next</span>
-					</a>
-					</div>
-				</div>
-				<div class="col-md-9 col-sm-12 sectionContent px-4">
-					<p> Renovators is a technical event that falls right in into the core of engineering. It emphasis on the basic circuits that are involve in the course of engineering. It also disperse light onto the innovation and creativity. 
-There are 2 rounds, first about the identification of circuit elements and second about the design of already studied circuit. </p>
-					<ol class="sectionList">
-						<li><strong>Date of the event:</strong>25<sup>th</sup>March 2018.</li>
-						<li><strong>Venue:</strong>  BG-15, BG-16</li>
-						<li><strong>Faculty Co-ordinators:</strong>
-							<ol class="sectionList">
-								<li> Mr.  Deepak Sankhala</li>
-								<li> Mr. Venimadhav Sharma</li>
-								</ol>
-						</li>
-						<li><strong>Students Co-dinators:</strong><ol class="sectionList">
-								<li>Ambuj Shukla </li>
-								<li>Abhay Goyal</li>
-								<li>Anchal Agrawal</li>
-								<li> Anchal Khandelwal </li>
-								<li>Deveant Kumar </li>
-								<li>Lovey Agrawal</li>
-							</ol>
-						</li>
-					</ol>
-				</div>
-			</div>
-		</section>
-		<section class="section">
-			<div class="sectionHeading">TechnoBuzz</div>
-			<div class="row">
-				<div class="col-md-3 col-sm-12">
-					<div id="events_carausel9" class="carousel slide" data-ride="carousel">
-					<ol class="carousel-indicators">
-						<li data-target="#events_carausel9" data-slide-to="0" class="active"></li>
-						<li data-target="#events_carausel9" data-slide-to="1"></li>
-						<li data-target="#events_carausel9" data-slide-to="2"></li>
-					</ol>
-					<div class="carousel-inner">
-						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/TechnoBuzz/1.jpg" alt="TechnoBuzz">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/TechnoBuzz/2.jpg" alt="STechnoBuzz">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/TechnoBuzz/3.jpg" alt="TechnoBuzz">
-						</div>
-					</div>
-					<a class="carousel-control-prev" href="#events_carausel9" role="button" data-slide="prev">
-					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-					<span class="sr-only">Previous</span>
-					</a>
-					<a class="carousel-control-next" href="#events_carausel9" role="button" data-slide="next">
-					<span class="carousel-control-next-icon" aria-hidden="true"></span>
-					<span class="sr-only">Next</span>
-					</a>
-					</div>
-				</div>
-				<div class="col-md-9 col-sm-12 sectionContent px-4">
-					<p>Techino Buzz is a Technical poster presentation. This is the presentation of research information or an idea with an academic or professional focus on a poster. For any professional, communicating his/her idea efficiently determines his success professionally. The primary motive of this competition is to enhance the ability to deliver a visual presentation without any other audio/video aids. This event basically focuses on the creativity of the students. Here at Renaissance we provide you a platform to showcase your innovation, creativity, knowledge, and ability to tackle practical problems.</p>
+					<p>This event is a fun event,which tests the ability of time mamagement and casual knowledge about our college and civil engineering. In the event the participants will be given '5 chits' having names\description of some technical and non-technical terms,names of some places,things of our college,and will also have names of some known faculties. The participants will have to find them and click selfie in a limited time period. The participants clicking in less time will be declared the winner.</p>
 					<ol class="sectionList">
 						<li><strong>Date of the event:</strong>27<sup>th</sup>March 2018.</li>
-						<li><strong>Venue:</strong>BF-01</li>
+						<li><strong>Venue:</strong> C block VIP Parking(CE)</li>
 						<li><strong>Faculty Co-ordinators:</strong>
 							<ol class="sectionList">
-								<li>Ms. Ritu Vyas</li>
-								<li> Mr. Shivam Upadhyay</li>
+								<li>Mr. Hitesh Nagar (7792098399)</li>
 								</ol>
 						</li>
 						<li><strong>Students Co-dinators:</strong><ol class="sectionList">
-								<li>Ayush Jain </li>
-								<li>Ajay Agarwal</li>
-								<li>Ayushi Johari</li>
-								<li> Avi Goyal </li>
-								<li>Aman Khandelwal </li>
-								<li>Ashish Gupta</li>
+								<li>Mehul Chaturvedi (9471675015)</li>
 							</ol>
 						</li>
 					</ol>
 				</div>
 			</div>
 		</section>
-		<section class="section">
-			<div class="sectionHeading">Quizolic</div>
-			<div class="row">
-				<div class="col-md-3 col-sm-12">
-					<div id="events_carausel10" class="carousel slide" data-ride="carousel">
-					<ol class="carousel-indicators">
-						<li data-target="#events_carausel10" data-slide-to="0" class="active"></li>
-						<li data-target="#events_carausel10" data-slide-to="1"></li>
-						<li data-target="#events_carausel10" data-slide-to="2"></li>
-						<li data-target="#events_carausel10" data-slide-to="3"></li>
-						<li data-target="#events_carausel10" data-slide-to="4"></li>
-					</ol>
-					<div class="carousel-inner">
-						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/quizolic/1.jpg" alt="quizolic">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/quizolic/2.jpg" alt="quizolic">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/quizolic/3.jpg" alt="quizolic">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/quizolic/4.jpg" alt="quizolic">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/quizolic/5.jpg" alt="quizolic">
-						</div>
-					</div>
-					<a class="carousel-control-prev" href="#events_carausel10" role="button" data-slide="prev">
-					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-					<span class="sr-only">Previous</span>
-					</a>
-					<a class="carousel-control-next" href="#events_carausel10" role="button" data-slide="next">
-					<span class="carousel-control-next-icon" aria-hidden="true"></span>
-					<span class="sr-only">Next</span>
-					</a>
-					</div>
-				</div>
-				<div class="col-md-9 col-sm-12 sectionContent px-4">
-					<p>A Quiz Is More Than Just A Collection Of Questions In Search Of Answers. It Is A Reflection Of The Times We Live And Have Lived In. The Event Presents A Medley Of Well Gleaned Technical Questions To Test The Intellectual Capabilities. If Archie Was The First And Backrub Became Google, The Advent Of Search Engines And Internet Has Meant That Answers To Anything Are Just A Click Away.</p>
-					<ol class="sectionList">
-						<li><strong>Date of the event:</strong>27<sup>th</sup>March 2018.</li>
-						<li><strong>Venue:</strong>BF-01</li>
-						<li><strong>Faculty Co-ordinators:</strong>
-							<ol class="sectionList">
-								<li>Ms. Ritu Vyas</li>
-								<li> Mr. Shivam Upadhyay</li>
-								</ol>
-						</li>
-						<li><strong>Students Co-dinators:</strong><ol class="sectionList">
-								<li>Arushi Khandelwal </li>
-								<li>Akshansha Singhal</li>
-								<li>Bhavit Mathur</li>
-								<li> Devansh Dadich </li>
-								<li>Anubhav Khandelwal </li>
-							</ol>
-						</li>
-					</ol>
-				</div>
-			</div>
-		</section> 	
-		<section class="section">
-			<div class="sectionHeading">TECH  TAMBOLA</div>
-			<div class="row">
-				<div class="col-md-3 col-sm-12">
-					<div id="events_carausel11" class="carousel slide" data-ride="carousel">
-					<ol class="carousel-indicators">
-						<li data-target="#events_carausel11" data-slide-to="0" class="active"></li>
-						<li data-target="#events_carausel11" data-slide-to="1"></li>
-						<li data-target="#events_carausel11" data-slide-to="2"></li>
-					</ol>
-					<div class="carousel-inner">
-						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/tambola/1.jpg" alt="Tambola">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/tambola/2.jpg" alt="Tambola">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/tambola/3.jpg" alt="Tambola">
-						</div>
-					</div>
-					<a class="carousel-control-prev" href="#events_carausel11" role="button" data-slide="prev">
-					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-					<span class="sr-only">Previous</span>
-					</a>
-					<a class="carousel-control-next" href="#events_carausel11" role="button" data-slide="next">
-					<span class="carousel-control-next-icon" aria-hidden="true"></span>
-					<span class="sr-only">Next</span>
-					</a>
-					</div>
-				</div>
-				<div class="col-md-9 col-sm-12 sectionContent px-4">
-					<p>Combine your luck and your skills, solve basic mathematical equations and circuits and play Tambola. Improve your skills, solve time based questions and win exciting prizes.</p>
-					<ol class="sectionList">
-						<li><strong>Date of the event:</strong>25<sup>th</sup>March 2018.</li>
-						<li><strong>Venue:</strong></li>
-						<li><strong>Faculty Co-ordinators:</strong>
-							<ol class="sectionList">
-								<li>Mr. Ashish Sharma</li>
-								<li> Mrs. Deepmala</li>
-								</ol>
-						</li>
-						<li><strong>Students Co-dinators:</strong><ol class="sectionList">
-								<li> Peehu Choudhary</li>
-								<li>Parth Sharma</li>
-								<li>Shivali Purwar</li>
-								<li>Ramakant Rajput</li>
-								<li>Priya Bhargava </li>
-							</ol>
-						</li>
-					</ol>
-				</div>
-			</div>
-		</section> 	
 	</div>
