@@ -59,7 +59,7 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>:M.Tech, BE</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>:M.Tech, BE(Hons.)</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								
 								<li class="list-group-item">swativijay.it@jecrc.ac.in</li>
