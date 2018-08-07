@@ -9,7 +9,7 @@
   </div>
   <nav class="navbar navbar-expand-lg bg-primary mainNav">
     <div class="collapse navbar-collapse bg-primary" id="navbarSupportedContent">
-      <ul class="navbar-nav mr-auto">
+      <ul class="navbar-nav mr-auto center-nav">
         <li class="nav-item active">
           <a class="nav-link" href="../index.php">Home<span class="sr-only">(current)</span></a>
         </li>
@@ -24,7 +24,6 @@
             <a class="dropdown-item" href="administration.php">Administration</a>
             <a class="dropdown-item" href="research.php">Research</a>
             <a class="dropdown-item" href="library.php">Library</a>
-            <a class="dropdown-item" href="achivements.php">Achivements</a>
             <a class="dropdown-item" href="ibm.php">Center Of Excillenece IBM</a>
             <a class="dropdown-item" href="events.php">Events</a>
             <a class="dropdown-item" href="campus_facilities.php">Campus Facilities</a>
@@ -38,6 +37,8 @@
             <a class="dropdown-item" href="admission.php">Admission</a>
             <a class="dropdown-item" href="academics.php">Academics</a>
             <a class="dropdown-item" href="student_resources.php">Student Resources</a>
+            <a class="dropdown-item" href="achivements.php">Achivements</a>
+            <a class="dropdown-item" href="activities.php">Activities</a>
           </div>
         </li>
         <li class="nav-item dropdown">
@@ -57,7 +58,7 @@
           <a class="nav-link" href="government_schemes.php">Govt. Schemes</a>
         </li>
         <li class="nav-item active">
-          <a class="nav-link" href="tpo.php">Traning and Placements</a>
+          <a class="nav-link" href="placements.php">Traning and Placements</a>
         </li>
         <li class="nav-item active">
           <a class="nav-link" href="alumni.php">Alumni</a>

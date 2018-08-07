@@ -8,20 +8,13 @@
         <div class="sectionContent card-body px-4 mh-75">
         <marquee behavior="scroll" scrolldelay=60 scrollamount=4 direction="up" height=100%>
         <ul class="list-group list-group-flush text-primary">
-          <li class="list-group-item">
-            International Workshop On <strong>Open Source Innovations</strong>
-            <!-- <img src="../departments/ece/src/img/Events/redhat/1.jpg" alt="redhat" class="img-fluid img-thumbnail"> -->
-          </li>
-          <li class="list-group-item">
-            Informative Seminar presentations were conducted by IT departement on HCIG 
-            <!-- <img src="../departments/ece/src/img/Events/seminar-ICT/1.jpg" alt="" class="img-fluid img-thumbnail"> -->
-          </li>
-          <li class="list-group-item">
-<strong>Spy Robotic Workshop</strong>by <strong>Techinest Pvt. Ltd.</strong>on 19th August.
-          </li>
-          <li class="list-group-item">Induction Ceremony of JECRC batch 2017-21</li>
-          <li class="list-group-item">Smart India Hackathon-2017 under MHRD association with AICTE</li>
-          <li class="list-group-item">J-techtrix oraganised on April 08, 2017</li>
+          <li class="list-group-item">IT HACKATHON was conducted by IT department in November 2017</li>
+          <li class="list-group-item">IT IDEATHON was conducted by IT department in October 2017</li>
+          <li class="list-group-item">SIP-EXPO organised in November 2017</li>
+          <li class="list-group-item">Android Development Classes were taken by CAI group.</li>
+          <li class="list-group-item">Machine learning and IOT training conducted by Forks Technologies in March 2018</li>
+          <li class="list-group-item">Python and Web Development classes were taken by students.</li>
+          <li class="list-group-item">Sales Force Training conducted by Sales Force trainers for III year students.</li>
         </ul>
 </marquee>
         </div>
@@ -47,7 +40,9 @@
       <section class="section container card">
         <div class="sectionHeading">STUDENT SPOTLIGHT</div>
         <div class="sectionContent card-body">
-          <h3 class="sectionHeading">GATE Toppers</h3>
+
+          <!-- <h3 class="sectionHeading">GATE Toppers</h3>
+
           <div class="row">
             <div class="col-md-6 text-center">
               <img src="../departments/ece/src/img/studentspotlight/image13.png" alt="" class="img-fluid img-thumbnail rounded-circle">
@@ -57,22 +52,17 @@
               <img src="../departments/ece/src/img/studentspotlight/image14.png" alt="" class="img-fluid img-thumbnail rounded-circle">
               <h5 class="py-2">Vishal Ranjan Prasad</h5>
             </div>
-          </div>
+
+          </div> -->
+
 
           <h3 class="sectionHeading">RTU Toppers</h3>
           <div class="row">
-            <div class="col-md-6">
+            <div class="col-md-12">
               <ul class="list-group list-group-flush">
-                <li class="list-group-item">Ritu Daryani</li>
-                <li class="list-group-item">Jitesh Kumar</li>
-                <li class="list-group-item">Vinod Kr Gill</li>
-              </ul>
-            </div>
-            <div class="col-md-6">
-              <ul class="list-group list-group-flush">
-                <li class="list-group-item">Mukul Agarwal</li>
-                <li class="list-group-item">Rajat Garg</li>
-                <li class="list-group-item">Bhawna Soni</li>
+                <li class="list-group-item">Priya Mishra</li>
+                <li class="list-group-item">Palak Saria</li>
+                <li class="list-group-item">Garima Mathur</li>
               </ul>
             </div>
           </div>

@@ -29,6 +29,8 @@
                         Electrical Engineering<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
                         <li class="active"><a href="civil.php?section=alumni">
                           Civil Engineering<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+                        <li class="active"><a href="https://jecrc.almaconnect.com/" target="_blank">
+                          Alumni Support<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
                         </ul>
                       </div>
                     </div>

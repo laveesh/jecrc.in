@@ -1,3 +1,9 @@
+/*news section*/
+.newsContainer{
+	max-height: 100vh;
+	overflow: hidden;
+}
+
 /*UG_program TABLE*/
 .table-border{
 vertical-align: middle;
