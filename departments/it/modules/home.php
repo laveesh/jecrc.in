@@ -58,6 +58,7 @@ With every passing year the unpritdented success of IT students has been the hig
           <h3 class="sectionHeading">RTU Toppers</h3>
 
 
+
           <div class="row">
             <div class="col-md-4 text-center">
               <img src="../departments/it/src/img/studentspotlight/priya.jpg" alt="" class="img-fluid img-thumbnail rounded-circle">
