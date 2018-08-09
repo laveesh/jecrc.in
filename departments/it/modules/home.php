@@ -4,7 +4,7 @@
   <div class="row">
     <div class="col-md-3">
       <section class="section container card">
-        <div class="sectionHeading">RECENT NEWS</div>
+        <div class="sectionHeading">RitNT NEWS</div>
         <div class="sectionContent card-body px-4 mh-75">
         <marquee behavior="scroll" scrolldelay=60 scrollamount=4 direction="up" height=100%>
         <ul class="list-group list-group-flush text-primary">

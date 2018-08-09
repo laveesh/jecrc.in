@@ -45,7 +45,7 @@
 			<div class="sectionHeading">ATHLON 2018</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
-					<div id="events_carausel3" class="carousel slide" data-ride="carousel">
+					<div id="events_carausel4" class="carousel slide" data-ride="carousel">
 					<ol class="carousel-indicators">
 						<li data-target="#events_carausel3" data-slide-to="0" class="active"></li>
 						<li data-target="#events_carausel3" data-slide-to="1"></li>			
@@ -58,11 +58,11 @@
 							<img class="d-block w-100" src="../departments/it/src/img/Events/Athlon2.jpg" alt="Second slide">
 						</div>
 					</div>
-					<a class="carousel-control-prev" href="#events_carausel3" role="button" data-slide="prev">
+					<a class="carousel-control-prev" href="#events_carausel4" role="button" data-slide="prev">
 					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
 					<span class="sr-only">Previous</span>
 					</a>
-					<a class="carousel-control-next" href="#events_carausel3" role="button" data-slide="next">
+					<a class="carousel-control-next" href="#events_carausel4" role="button" data-slide="next">
 					<span class="carousel-control-next-icon" aria-hidden="true"></span>
 					<span class="sr-only">Next</span>
 					</a>
@@ -85,7 +85,7 @@
 			<div class="sectionHeading">BODHI AI</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
-					<div id="events_carausel4" class="carousel slide" data-ride="carousel">
+					<div id="events_carausel5" class="carousel slide" data-ride="carousel">
 					<ol class="carousel-indicators">
 						<li data-target="#events_carausel4" data-slide-to="0" class="active"></li>
 					</ol>
@@ -94,11 +94,11 @@
 							<img class="d-block w-100" src="../departments/it/src/img/Events/BODHI_AI.jpg" alt="induction">
 						</div>
 					</div>
-					<a class="carousel-control-prev" href="#events_carausel4" role="button" data-slide="prev">
+					<a class="carousel-control-prev" href="#events_carausel5" role="button" data-slide="prev">
 					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
 					<span class="sr-only">Previous</span>
 					</a>
-					<a class="carousel-control-next" href="#events_carausel4" role="button" data-slide="next">
+					<a class="carousel-control-next" href="#events_carausel5" role="button" data-slide="next">
 					<span class="carousel-control-next-icon" aria-hidden="true"></span>
 					<span class="sr-only">Next</span>
 					</a>
@@ -174,7 +174,6 @@
 					<ol class="carousel-indicators">
 						<li data-target="#events_carausel5" data-slide-to="0" class="active"></li>
 						<li data-target="#events_carausel5" data-slide-to="1"></li>
-						<li data-target="#events_carausel5" data-slide-to="2"></li>
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">

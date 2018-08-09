@@ -200,7 +200,7 @@ The participants gathered their research, proliferated their energies and geared
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/it/src/img/Events/Women_s_Day.jpg" alt="games-of-drones">
+							<img class="d-block w-100" src="../departments/it/src/img/Events/Women_s_Day.jpg" alt="games-of-drones">	
 						</div>
 					</div>
 					<a class="carousel-control-prev" href="#events_carausel5" role="button" data-slide="prev">
