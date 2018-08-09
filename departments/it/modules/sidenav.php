@@ -107,7 +107,7 @@
             <img src="../departments/it/src/img/Carousel/slider2.jpg" alt="Second slide">
           </div>
           <div class="carousel-item">
-            <img   src="../departments/it/src/img/Carousel/slider3.JPG" alt="Third slide">
+            <img   src="../departments/it/src/img/Carousel/slider3.jpg" alt="Third slide">
           </div>
          <!--  <div class="carousel-item">
             <img  src="../departments/ece/src/img/Carousel/slider4.jpg" alt="Fourth slide">
