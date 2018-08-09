@@ -4,7 +4,7 @@
   <div class="row">
     <div class="col-md-3">
       <section class="section container card">
-        <div class="sectionHeading">RitNT NEWS</div>
+        <div class="sectionHeading">RECENT NEWS</div>
         <div class="sectionContent card-body px-4 mh-75">
         <marquee behavior="scroll" scrolldelay=60 scrollamount=4 direction="up" height=100%>
         <ul class="list-group list-group-flush text-primary">
@@ -55,7 +55,8 @@ With every passing year the unpritdented success of IT students has been the hig
         <div class="sectionContent card-body">
 
 
-          <!-- <h3 class="sectionHeading">GATE Toppers</h3>
+          <h3 class="sectionHeading">RTU Toppers</h3>
+
 
 
           <div class="row">
@@ -73,7 +74,7 @@ With every passing year the unpritdented success of IT students has been the hig
             </div>
 
 
-          </div> -->
+          </div>
 
 
           <!-- <h3 class="sectionHeading">RTU Toppers</h3>
