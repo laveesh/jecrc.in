@@ -63,7 +63,7 @@
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								
 								<li class="list-group-item">swativijay.it@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 11 years </li>
+								<li class="list-group-item">Experience: 10 years </li>
 								<li class="list-group-item">Publication: 2 <em>International</em> 1 <em>National</em></li>
 							</ul>
 						</div>
