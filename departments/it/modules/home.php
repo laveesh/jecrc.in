@@ -55,7 +55,8 @@ With every passing year the unpritdented success of IT students has been the hig
         <div class="sectionContent card-body">
 
 
-          <h3 class="sectionHeading">RTU Toppers</h3>
+          <!-- <h3 class="sectionHeading">GATE Toppers</h3>
+
 
           <div class="row">
             <div class="col-md-4 text-center">
@@ -71,7 +72,9 @@ With every passing year the unpritdented success of IT students has been the hig
               <h5 class="py-2">Garima Mathur</h5>
             </div>
 
-          </div>
+
+          </div> -->
+
 
           <!-- <h3 class="sectionHeading">RTU Toppers</h3>
           <div class="row">
