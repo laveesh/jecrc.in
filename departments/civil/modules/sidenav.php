@@ -112,16 +112,16 @@
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="../departments/civil/src/img/Carousel/slider5.jpg" alt="First slide">
+            <img src="../departments/civil/src/img/Carousel/slider5.jpg" alt="First slide" width="1400" height="500">
           </div>
           <div class="carousel-item">
-            <img src="../departments/civil/src/img/Carousel/slider6.jpg" alt="Second slide">
+            <img src="../departments/civil/src/img/Carousel/slider6.jpg" alt="Second slide" width="1400" height="500">
           </div>
           <div class="carousel-item">
-            <img   src="../departments/civil/src/img/Carousel/slider7.jpg" alt="Third slide">
+            <img   src="../departments/civil/src/img/Carousel/slider7.jpg" alt="Third slide" width="1400" height="500">
           </div>
           <div class="carousel-item">
-            <img  src="../departments/civil/src/img/Carousel/slider8.jpg" alt="Fourth slide">
+            <img  src="../departments/civil/src/img/Carousel/slider8.jpg" alt="Fourth slide" width="1400" height="500">
           </div>
           
         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">

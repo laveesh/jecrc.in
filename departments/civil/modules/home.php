@@ -8,19 +8,31 @@
         <marquee behavior="scroll" scrolldelay=60 scrollamount=4 direction="up" height=100%>
         <ul class="list-group list-group-flush text-primary">
           <li class="list-group-item">
-            International Workshop On <strong>Open Source Innovations</strong>
+            <strong>Induction Program</strong>
+            <p>
+              <ul>
+                <li>Introduction on Civil Engineering to 1st Year Students.
+                <li>Date: Aug, 4, 2018
+                <li>Venue: A-Block Auditorium
+                <li>Conducted by: Kamlesh Kr. Choudhary, Prateek Sharma
+              </ul>
+            </p>
             <!-- <img src="../departments/ece/src/img/Events/redhat/1.jpg" alt="redhat" class="img-fluid img-thumbnail"> -->
           </li>
           <li class="list-group-item">
-            Informative Seminar presentations were conducted by ECE departement on HCIG 
-            <!-- <img src="../departments/ece/src/img/Events/seminar-ICT/1.jpg" alt="" class="img-fluid img-thumbnail"> -->
+            <strong>Training Program For 2<sup>nd</sup> Year Students</strong>
+            <p>
+              <ul>
+                <li>Various workshops on technical subjects were conducted by Ms. Nida Khanam and Mr. Narendra Sipani.
+                <li>Industrial visits by different faculty of department.
+              </ul>
+            </p>
           </li>
           <li class="list-group-item">
-<strong>Spy Robotic Workshop</strong>by <strong>Techinest Pvt. Ltd.</strong>on 19th August.
+            <strong>International Internship Program</strong>
+            <p>Mr. Yogesh Agarwal, Faculty of Civil Department, is guiding an international intern 'Ignatius Yoga Patria BP' from Indonesia for 2 month of internship.</p>
           </li>
-          <li class="list-group-item">Induction Ceremony of JECRC batch 2017-21</li>
-          <li class="list-group-item">Smart India Hackathon-2017 under MHRD association with AICTE</li>
-          <li class="list-group-item">J-techtrix oraganised on April 08, 2017</li>
+          <li class="list-group-item"><strong>Kalpit Meena, student of CE placed at BYJU's with 9 LPA</strong></li>
         </ul>
 </marquee>
         </div>
