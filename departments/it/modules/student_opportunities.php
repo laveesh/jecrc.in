@@ -1,26 +1,24 @@
 <section class="section container">
 	<div class="sectionHeading">Student Opportunities</div>
 	<div class="sectionContent">
+		<p>
+			IT industry is one of the fastest growing fields in INDIA. People from other departments are also attracted to this sparkling career genre which has produced a glut of magnificent opportunities for aspiring technicians. <br>
+Over the years, IT Department of JECRC has indulged in many ventures. <b>OSD(Organization of Student Developers)</b> group is an establishment that mainly focuses on learning nuances of web design and development through self learning. <b>PAC(Programming and Algorithm Club)</b> under the mentorship of Himanshu Dixit has been working vigorously to develop competitive programming skills in students, so as to help students participate in different coding contests and ace them. <br>
+The importance of artificial intelligence is already known to the world. The advent of deep learning has created a buzz amongst aspiring engineers. To tackle this challenge, the department has constituted <b>JAI(JECRC-Artificial Intelligence)</b>. <br>
+Several faculties in non-IT department work in areas closely related to Computer Science.  They conduct courses in their own department at the intersection of IT and other department. Our department have active courses in cryptography, information theory, computer vision, machine learning, computer architecture etc. These electives could be taken up as Department Electives or ALCs (Additional Learning Courses). <br>
+These are exciting opportunities in the world of open source – a chance to get to work on a real-world codebase with excellent developers from across the hile it’s always better to apply to dedicated internship programs, you could directly email suitable university professors or company recruiters, seeking an internship. There is a very specific way to do this, do not spam. The best strategy is to first work with a professor in the institute and gain some research experience in some area of information technology. Then, contact professors who know your college advisor or whose work is closely aligned to your advisor’s. If you have built a good rapport with your advisor, feel free to take his / her advice about this world. <br>
+Our motive to provide the students with the best opportunities has been exemplary, and our zeal to hand the students with an unprecedented amount of success is something that drives us to work and achieve more.
+
+		</p>
 		<ul class="list-group list-group-flush">
 			<li class="list-group-item">
-				<h3 class="sectionSubHeading">Renaissance</h3>
+				<h3 class="sectionSubHeading">Word from the HOD</h3>
 				<p>
-					The National level techno Cultural Fest of JECRC, Renaissance has made a niche for itself among all colleges in the region. It‟s the second largest fest of Rajasthan. It provides a versatile platform for all students to learn and explore the various dimensions of their personality and to showcase their talent. Renaissance also provides unmatchable learning and exposure to the organizing team of students in the form of team work, pressure handling and product sale and promotion.
-				</p>
-			</li>
-			<li class="list-group-item">
-				<h3 class="sectionSubHeading">
-				EMBRYO
-				</h3>
-				<p>
-					This event aimed to tap the minds of budding IT engineers. The events was like a paper presentation in the symposium which helped students to think and come up with innovative ideas, also enhancing the on stage skills of the students
-				</p>
-			</li>
-			<li class="list-group-item">
-				<h3 class="sectionSubHeading">Aashayein-The Life Saviours
-				</h3>
-				<p>
-					Aashayein, one of the eminent student initiatives of JECRC Foundation, started in Oct, 2013 has been incessantly working since last three years with the prime aim of fulfilling growing demands for fresh SDPs.
+					Your arrival in this college marks a new chapter in the story of your life. But this chapter is a bit different. The preceding chapters were largely written by others but now you have the opportunity to determine the direction of your life. A very good morning to one and all present here, I Sunil Jangir, HOD, IT extend a warm welcome to the respected dignitaries and all the students present here. <br>
+					You all are filled with hope, dreams and determination, and I assure that a few years later when you will be leaving the college, you will be fully equipped to go out into the world and make a real difference. <br>
+					I always feel very proud to say that most of our alumni are studying and working in various esteemed institutions worldwide. Some of them have got admissions in world class universities and some have got jobs in big MNCs. <br>
+					At last, I would like to say that your days will be filled with lectures, practicals, assignments, sports and culture. So it is up to you, to carve out the space to do something meaningful every day.
+	
 				</p>
 			</li>
 		</ul>

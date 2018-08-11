@@ -54,10 +54,9 @@
               </li>
               <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  News and Events
+                  Events
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="it.php?section=news">News</a>
                   <a class="dropdown-item" href="it.php?section=events">Events</a>
                   <a class="dropdown-item" href="it.php?section=tech_events">Technical Events</a>
                 </div>
@@ -108,7 +107,7 @@
             <img src="../departments/it/src/img/Carousel/slider2.jpg" alt="Second slide">
           </div>
           <div class="carousel-item">
-            <img   src="../departments/ece/src/img/Carousel/slider3.JPG" alt="Third slide">
+            <img   src="../departments/it/src/img/Carousel/slider3.jpg" alt="Third slide">
           </div>
          <!--  <div class="carousel-item">
             <img  src="../departments/ece/src/img/Carousel/slider4.jpg" alt="Fourth slide">
