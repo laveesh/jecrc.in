@@ -76,9 +76,9 @@
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="it.php?section=placements">Placements</a>
-                  <a class="dropdown-item" href="it.php?section=alumni">Alumni</a>
-                  <a class="dropdown-item" href="it.php?section=alumni_notes">Alumni Notes</a>
-                  <a class="dropdown-item" href="it.php?section=support">Support</a>
+                  <a class="dropdown-item" href="it.php?section=alumni">Buddy System</a>
+<!--                   <a class="dropdown-item" href="it.php?section=alumni_notes">Alumni Notes</a>
+                  <a class="dropdown-item" href="it.php?section=support">Support</a> -->
                 </div>
               </li>
               <li class="active"><a href="it.php?section=student_associations">Student Associations<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
