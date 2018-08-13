@@ -24,7 +24,7 @@
       </div>
       <nav class="navbar navbar-expand-xl bg-primary mainNav">
         <div class="collapse navbar-collapse bg-primary" id="navbarSupportedContent">
-          <ul class="navbar-nav mr-auto">
+          <ul class="navbar-nav mr-auto center-nav">
         <li class="nav-item active">
           <a class="nav-link" href="index.php">Home<span class="sr-only">(current)</span></a>
         </li>
@@ -39,7 +39,6 @@
             <a class="dropdown-item" href="pages/administration.php">Administration</a>
             <a class="dropdown-item" href="pages/research.php">Research</a>
             <a class="dropdown-item" href="pages/library.php">Library</a>
-            <a class="dropdown-item" href="pages/achivements.php">Achivements</a>
             <a class="dropdown-item" href="pages/ibm.php">Center Of Excillenece IBM</a>
             <a class="dropdown-item" href="pages/events.php">Events</a>
             <a class="dropdown-item" href="pages/campus_facilities.php">Campus Facilities</a>
@@ -53,6 +52,8 @@
             <a class="dropdown-item" href="pages/admission.php">Admission</a>
             <a class="dropdown-item" href="pages/academics.php">Academics</a>
             <a class="dropdown-item" href="pages/student_resources.php">Student Resources</a>
+            <a class="dropdown-item" href="pages/achivements.php">Achivements</a>
+            <a class="dropdown-item" href="pages/activities.php">Activities</a>
           </div>
         </li>
         <li class="nav-item dropdown">
@@ -72,7 +73,7 @@
           <a class="nav-link" href="pages/government_schemes.php">Govt. Schemes</a>
         </li>
         <li class="nav-item active">
-          <a class="nav-link" href="pages/tpo.php">Traning and Placements</a>
+          <a class="nav-link" href="pages/placements.php">Traning and Placements</a>
         </li>
         <li class="nav-item active">
           <a class="nav-link" href="pages/alumni.php">Alumni</a>
@@ -148,7 +149,7 @@
           <section class="section container card">
             <div class="sectionHeading">NEWS & EVENTS</div>
             <div class="sectionContent card-body px-4 newsBox">
-              <marquee direction="up" behavior="scroll" scrollamount="6" id="marq">
+              <marquee direction="up" behavior="scroll" height="500" scrollamount="6" id="marq">
               <ul class="sectionList">
                 <li class="border-bottom">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labor.</li>
                 <li class="border-bottom">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labor.</li>
@@ -282,7 +283,7 @@
               </div>
               <div class="col-12">
                 <p class="py-2">
-                  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum error, voluptate. Porro alias nihil deserunt, vel soluta laboriosam maxime autem labore ab unde, laborum, asperiores officia ullam. Asperiores cupiditate numquam in aliquid doloribus? Dignissimos pariatur vel, nam ipsa consectetur dicta saepe explicabo quasi sapiente recusandae cumque facilis iusto praesentium quod, accusamus ducimus atque modi libero nostrum non sed laudantium sint. Nesciunt, debitis et illo ullam excepturi eum ad suscipit vel modi. Velit aliquam quos aliquid tenetur consectetur veritatis dolorem omnis nam maiores quasi quia aut ducimus at, possimus vitae debitis dolore inventore voluptate sapiente! Quasi et sunt reprehenderit quibusdam porro.
+                  We are currently in the era of technology revolution, spearheaded by recent developments in engineering sciences providing sustainable solutions to various issues in different areas. The Indian engineering programs have a promising future particularly the Engineering sectors are on the threshold of becoming global players by 2020. Fragments of this newsletter will track different event and activities  that are taking place in the department. I extend my best wishes to all those who contributed to Ujjwalam and I am confident that the interaction will be a source of inspiration to the young talent budding in the college, who would be the educationists, technocrats and researchers of tomorrow. They would shoulder the responsibility of bringing in the desired innovations in their fields, leading to the advancement of the country.
                 </p>
               </div>
             </div>
@@ -306,7 +307,6 @@
                 <p class="py-2">
                   I wish for the institute and department to progress further with an ever increasing pace, and staunch support by the endeavors of all. Let us make JECRC a synonym for knowledge. Best wishes! 
                 </p>
-                <p class="text-right font-weight-bold pr-3">V.K. Chandna <br>Principal</p>
               </div>
             </div>
           </section>
@@ -314,35 +314,17 @@
       </div>
     </div>
   </div>
-  <div class="container-fluid mb-1 mt-5 pt-5 pb-5 pr-5 pl-5 bg-jecrc">
-    <div class="pt-3 pb-3 pr-3 pl-3 text-center text-white advHeading">
-      <span>The JECRC ADVANTAGES</span>
+  <div class="container-fluid mb-1 pt-5 pb-5 pr-5 pl-5">
+    <div class="pt-3 pb-3 pr-3 pl-3 text-center advHeading">
+      <span>OUR PRIDE</span>
     </div>
-    <div class="row">
-      <div class="col-md-4">
-        <div class="col my-5 text-center bg-white advContainer">
-          RENAISSANCE
-        </div>
-        <div class="col my-5 text-center bg-white advContainer">
-          JECRC MUN
-        </div>
-      </div>
-      <div class="col-md-4">
-        <div class="col my-5 text-center bg-white advContainer">
-          JECRC HACKATHON
-        </div>
-        <div class="col my-5 text-center bg-white advContainer">
-          SMART INDIA HACKATHON
-        </div> 
-      </div>
-      <div class="col-md-4">
-        <!-- <div class="col my-5 text-center bg-white advContainer">
-          
-        </div> -->
-        <!-- <div class="col my-5 text-center bg-white advContainer">
-          
-        </div> -->
-      </div>
+    <div class="d-flex flex-row justify-content-center flex-wrap">
+      <div class="mx-5 my-3 shadow"><a href="https://innovate.mygov.in/sih2018/" target="_blank"><img class="pride-img" src="src/img/pride/sih.png" alt="jecrc pride"></a></div>
+      <div class="mx-5 my-3 shadow"><a href="https://www.jecrchackathon.in/" target="_blank"><img class="pride-img" src="src/img/pride/jecrchack.png" alt="jecrc pride"></a></div>
+      <div class="mx-5 my-3 shadow"><a href="http://jecrcrenaissance.in/" target="_blank"><img class="pride-img" src="src/img/pride/renaissance.png" alt="jecrc pride"></a></div>
+      <div class="mx-5 my-3 shadow"><a href="https://www.facebook.com/tedxjecrc/?ref=br_rs" target="_blank"><img class="pride-img" src="src/img/pride/tedx.png" alt="jecrc pride"></a></div>
+      <div class="mx-5 my-3 shadow"><a href="http://www.iceteas.in/" target="_blank"><img class="pride-img" src="src/img/pride/iceteas.png" alt="jecrc pride"></a></div>
+      <div class="mx-5 my-3 shadow"><a href="http://jecrcmun.co.in" target="_blank"><img class="pride-img" src="src/img/pride/mun.png" alt="jecrc pride"></a></div>
     </div>
   </div>
   <!-- Footer -->
@@ -352,14 +334,14 @@
         <div class="col-md-4">
           <h4>Important Links:</h4>
           <ul class="list-styling">
-            <li><a href="#">demo link</a></li>
-            <li><a href="#">demo link</a></li>
-            <li><a href="#">demo link</a></li>
-            <li><a href="#">demo link</a></li>
-          </ul>
+            <li><a target="_blank" href="http://jecrcrenaissance.in/">Renaissance 2018</a></li>
+            <li><a target="_blank" href="http://jecrcmun.co.in">Jecrc Mun 2018</a></li>
+            <li><a target="_blank" href="http://www.iceteas.in/">ICETEAS Confrence</a></li>
+            <li><a target="_blank" href="http://www.jecrcconference.in/">JECRC Confrences</a></li>
+            <li><a target="_blank" href="http://codedocs.org">Jecrc Coding Community</a></li>        </ul>
         </div>
         <div class="col-md-4">
-          <h4>Recruitments 2018</h4>
+          <h4><a href="pages/administration.php?section=recruitments">Recruitments 2018</a></h4>
         </div>
         <div class="col-md-4">
           <h4>Contact Us</h4>

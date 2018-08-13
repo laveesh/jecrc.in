@@ -109,23 +109,19 @@
           <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
           <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
           <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
-          <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="../departments/civil/src/img/Carousel/slider1.jpg" alt="First slide">
+            <img src="../departments/civil/src/img/Carousel/slider1.JPG" alt="First slide">
           </div>
           <div class="carousel-item">
-            <img src="../departments/civil/src/img/Carousel/slider2.jpg" alt="Second slide">
+            <img src="../departments/civil/src/img/Carousel/slider2.JPG" alt="Second slide">
           </div>
           <div class="carousel-item">
-            <img   src="../departments/civil/src/img/Carousel/slider3.JPG" alt="Third slide">
+            <img   src="../departments/civil/src/img/Carousel/slider3.jpg" alt="Third slide">
           </div>
           <div class="carousel-item">
-            <img  src="../departments/civil/src/img/Carousel/slider4.jpg" alt="Fourth slide">
-          </div>
-          <div class="carousel-item">
-            <img  src="../departments/civil/src/img/Carousel/slider5.jpg" alt="Fifth slide">
+            <img  src="../departments/civil/src/img/Carousel/slider4.JPG" alt="Fourth slide">
           </div>
           
         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">

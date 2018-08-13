@@ -20,6 +20,7 @@
               <li class="active"><a href="administration.php?section=manual">Operation Manual<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="active"><a href="administration.php?section=anti_ragging">Anti-Ragging Guidelines<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="active"><a href="administration.php?section=recruitments">Recruitments 2018<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              <li class="active"><a href="administration.php?section=norms">Recruitment Norms<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
             	</ul>
       				</li>
       			</ul>

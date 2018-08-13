@@ -12,7 +12,6 @@
 		</p>
 </div>
 
-
 <div class="sectionContent">
 	<ul class="sectionList">
 				<li><strong>Degree year:</strong>2006-2010</li>
