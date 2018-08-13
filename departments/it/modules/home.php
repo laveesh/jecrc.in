@@ -53,6 +53,22 @@ With every passing year the unpritdented success of IT students has been the hig
       <section class="section container card">
         <div class="sectionHeading">STUDENT SPOTLIGHT</div>
         <div class="sectionContent card-body">
+          <h3 class="sectionHeading">GATE Toppers</h3>
+
+
+
+          <div class="row">
+            <div class="col-md-6 text-center">
+              <img src="../departments/it/src/img/studentspotlight/pankaj.jpeg" alt="" class="img-fluid img-thumbnail rounded-circle">
+              <h5 class="py-2">Pankaj Soni</h5>
+            </div>
+            <div class="col-md-6 text-center">
+              <img src="../departments/it/src/img/studentspotlight/kamakhya.jpeg" alt="" class="img-fluid img-thumbnail rounded-circle">
+              <h5 class="py-2">Kamakhya Bansal</h5>
+            </div>
+            
+          </div>
+
 
 
           <h3 class="sectionHeading">RTU Toppers</h3>
