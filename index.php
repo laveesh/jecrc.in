@@ -149,7 +149,7 @@
           <section class="section container card">
             <div class="sectionHeading">NEWS & EVENTS</div>
             <div class="sectionContent card-body px-4 newsBox">
-              <marquee direction="up" behavior="scroll" scrollamount="6" id="marq">
+              <marquee direction="up" behavior="scroll" height="500" scrollamount="6" id="marq">
               <ul class="sectionList">
                 <li class="border-bottom">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labor.</li>
                 <li class="border-bottom">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labor.</li>

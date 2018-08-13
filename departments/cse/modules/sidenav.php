@@ -51,8 +51,6 @@
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="cse.php?section=research">Research</a>
                   <a class="dropdown-item" href="cse.php?section=publication">Publication</a>
-                  <a class="dropdown-item" href="cse.php?section=research_topic1">Research Topic 1</a>
-                  <a class="dropdown-item" href="cse.php?section=research_topic2">Research Topic 2</a>
                 </div>
               </li>
               <li class="nav-item dropdown">

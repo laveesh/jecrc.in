@@ -26,22 +26,15 @@
     </div>
     <div class="col-md-6">
       <section class="section container card">
-        <div class="sectionHeading">NEWS LETTER - THE HORIZON</div>
+        <div class="sectionHeading">NEWS LETTER - CSE SCOOP</div>
         <div class="sectionContent card-body">
-          The area of Computer Science and Engineering deals with not only Theory of Computation and Design of Computational Systems, but also new engineering trends in software and hardware technology. A good technologist with this specialization is expected to
-          possess excellent analytical ability, mathematical aptitude, problem solving skills and a logical mind. The Computer Science and Engineering Department at JSS is affiliated to Uttar Pradesh Technical University, Lucknow and endeavours to provide
-          an environment where students can grow into Computer Engineers of tomorrow possessing all these necessary attributes. Academic standards are high and students have an opportunity to learn from experienced and well-qualified faculty members.
-          The classroom sessions are reinforced through practical sessions, projects, workshops and many other co-curricular activities. Industrial interaction is promoted through various MOUs with companies like IBM, SAP and Nokia resulting in increased
-          employability of students.
+          <iframe src="https://docs.google.com/gview?url=https://jecrcwebsite.herokuapp.com/departments/cse/src/pdf/CSESCOOP.pdf&embedded=true" class="embed-doc" frameborder="0"></iframe> 
+          <p class="px-2 pt-1">
+            The area of Computer Science and Engineering deals with not only Theory of Computation and Design of Computational Systems, but also new engineering trends in software and hardware technology. A good technologist with this specialization is expected to possess excellent analytical ability, mathematical aptitude, problem solving skills and a logical mind. The Computer Science and Engineering Department at JECRC College is affiliated to Rajasthan Technical University, Kota and endeavours to provide an environment where students can grow into Computer Engineers of tomorrow possessing all these necessary attributes. Academic standards are high and students have an opportunity to learn from experienced and well-qualified faculty members. The classroom sessions are reinforced through practical sessions, projects, workshops and many other co-curricular activities. Industrial interaction is promoted through various MOUs with companies like Accenture, TCS, and Pinnacle resulting in increased employability of students.
+
+          </p>
         </div>
-        <div class="sectionHeading">NEW HEADING</div>
-        <div class="sectionContent card-body">
-          The area of Computer Science and Engineering deals with not only Theory of Computation and Design of Computational Systems, but also new engineering trends in software and hardware technology. A good technologist with this specialization is expected to
-          possess excellent analytical ability, mathematical aptitude, problem solving skills and a logical mind. The Computer Science and Engineering Department at JSS is affiliated to Uttar Pradesh Technical University, Lucknow and endeavours to provide
-          an environment where students can grow into Computer Engineers of tomorrow possessing all these necessary attributes. Academic standards are high and students have an opportunity to learn from experienced and well-qualified faculty members.
-          The classroom sessions are reinforced through practical sessions, projects, workshops and many other co-curricular activities. Industrial interaction is promoted through various MOUs with companies like IBM, SAP and Nokia resulting in increased
-          employability of students.
-        </div>
+        
       </section>
     </div>
     <div class="col-md-3">
