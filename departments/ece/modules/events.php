@@ -49,10 +49,10 @@
 				</div>
 				<div class="col-md-9 col-sm-12 sectionContent px-4">
 					<ol class="sectionList">
-						<li><strong>Date of the event:</strong><sup></sup></li>
+						
 						<li><strong>Venue:</strong> Auditorium</li>
-						<li><strong>Objectives:</strong></li>
-						<li><strong>Outcome:</strong></li>
+						
+						
 					</ol>
 				</div>
 			</div>
@@ -83,10 +83,10 @@
 				<div class="col-md-9 col-sm-12 sectionContent px-4 ">
 					<p>Informative Seminar presentations were conducted by ECE department on HCIG program, aimed for Engineering students, where participants get trained & certified by Huawei on multiple leading ICT technologies such as Wireless (2G, 3G, LTE), Core network</p>
 					<ol class="sectionList">
-						<li><strong>Date of the event:</strong><sup></sup></li>
-						<li><strong>Venue:</strong></li>
+						
+						
 						<li><strong>Objectives:</strong>For Engineering students get trained & certified by Huawei on multiple leading ICT technologies such as Wireless (2G, 3G, LTE), Core network</li>
-						<li><strong>Guests of Honour at the event:</strong></li>
+						
 					</ol>
 				</div>
 			</div>
@@ -127,7 +127,7 @@
 						<li><strong>Date of the event:</strong>19<sup>th</sup>August 2017</li>
 						<li><strong>Venue:</strong>B-Block</li>
 						<li><strong>Objectives:</strong>To introduce the significance and emergence Spy Robotics</li>
-						<li><strong>Outcome:</strong></li>
+						
 					</ol>
 				</div>
 			</div>
@@ -162,7 +162,7 @@
 				<div class="col-md-9 col-sm-12 sectionContent px-4">
 					<p>It was a historic moment for JECRC, as we welcomed the Chairman AICTE, Dr. Anil Sahasrabudhe  and Director AICTE, Dr. Manpreet Singh Manna for  Induction Ceremony of JECRC Batch 2017-21. More than 1500 people attended this event . On this occasion, meritorious students were felicitated  for their achievements</p>
 					<ol class="sectionList">
-						<li><strong>Date of the event:</strong><sup></sup></li>
+						
 						<li><strong>Venue:</strong> Central Lawn</li>
 						<li><strong>Guests of Honour at the event:</strong> The Chairman AICTE,Dr. Anil Sahasrabudhe and The Director AICTE, Dr. Manpreet Singh Manna</li>
 					</ol>

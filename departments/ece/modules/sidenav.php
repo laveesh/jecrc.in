@@ -35,9 +35,9 @@
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="ece.php?section=academics">Academics</a>
                   <a class="dropdown-item" href="ece.php?section=student_opportunities">Student Opportunities</a>
-                  <a class="dropdown-item" href="ece.php?section=ug_program">Under Graduate Program</a>
-                  <a class="dropdown-item" href="ece.php?section=program_outcomes">Program Outcomes</a>
-                  <a class="dropdown-item" href="ece.php?section=program_edu_obj">Program Education Objective</a>
+                  <a class="dropdown-item" href="ece.php?section=ug_program">Under Graduate Programme</a>
+                  <a class="dropdown-item" href="ece.php?section=program_outcomes">Programme Outcomes</a>
+                  <a class="dropdown-item" href="ece.php?section=program_edu_obj">Programme Education Objective</a>
                   <a class="dropdown-item" href="ece.php?section=course_outcomes">Course Outcomes</a>
                   <a class="dropdown-item" href="ece.php?section=co_po_mapping">CO and PO Mapping</a>
                 </div>
