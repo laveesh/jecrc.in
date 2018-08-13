@@ -1,5 +1,5 @@
 <section class="section container">
-	<div class="sectionHeading">Program Education Outcomes</div>
+	<div class="sectionHeading">Program Educational Outcomes</div>
 	<div class="sectionContent">
 		<ul class="list-group list-group-flush">
 			<li class="list-group-item py-4"><strong>1. </strong>To provide students with the fundamentals of Engineering Sciences with more emphasis in Information Technology by way of analyzing and exploiting engineering challenges.</li>
