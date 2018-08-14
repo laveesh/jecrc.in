@@ -111,6 +111,16 @@
           <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
           <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
           <li data-target="#carouselExampleIndicators" data-slide-to="7"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="8"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="9"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="10"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="11"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="12"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="13"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="14"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="15"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="16"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="17"></li>
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
@@ -119,9 +129,6 @@
           <div class="carousel-item">
             <img src="../departments/me/src/img/Carousel/slider2.jpg" alt="Second slide">
           </div>
-          <!-- <div class="carousel-item">
-            <img   src="../departments/me/src/img/Carousel/slider3.JPG" alt="Third slide">
-          </div> -->
           <div class="carousel-item">
             <img  src="../departments/me/src/img/Carousel/slider4.jpg" alt="Fourth slide">
           </div>
@@ -136,6 +143,36 @@
           </div>
           <div class="carousel-item">
             <img  src="../departments/me/src/img/Carousel/slider8.jpg" alt="Eighth slide">
+          </div>
+          <div class="carousel-item">
+            <img  src="../departments/me/src/img/Carousel/slider9.jpg" alt="Eighth slide">
+          </div>
+          <div class="carousel-item">
+            <img  src="../departments/me/src/img/Carousel/slider10.jpg" alt="Eighth slide">
+          </div>
+          <div class="carousel-item">
+            <img  src="../departments/me/src/img/Carousel/slider11.jpg" alt="Eighth slide">
+          </div>
+          <div class="carousel-item">
+            <img  src="../departments/me/src/img/Carousel/slider12.jpg" alt="Eighth slide">
+          </div>
+          <div class="carousel-item">
+            <img  src="../departments/me/src/img/Carousel/slider13.jpg" alt="Eighth slide">
+          </div>
+          <div class="carousel-item">
+            <img  src="../departments/me/src/img/Carousel/slider14.jpg" alt="Eighth slide">
+          </div>
+          <div class="carousel-item">
+            <img  src="../departments/me/src/img/Carousel/slider15.jpg" alt="Eighth slide">
+          </div>
+          <div class="carousel-item">
+            <img  src="../departments/me/src/img/Carousel/slider16.jpg" alt="Eighth slide">
+          </div>
+          <div class="carousel-item">
+            <img  src="../departments/me/src/img/Carousel/slider17.jpg" alt="Eighth slide">
+          </div>
+          <div class="carousel-item">
+            <img  src="../departments/me/src/img/Carousel/slider18.jpg" alt="Eighth slide">
           </div>
         </div>
         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
