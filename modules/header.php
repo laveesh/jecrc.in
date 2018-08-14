@@ -48,7 +48,7 @@
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
             <a class="dropdown-item" href="cse.php">Computer Science</a>
             <a class="dropdown-item" href="it.php">Information Technology</a>
-            <a class="dropdown-item" href="ece.php">Electronics and Communication</a>
+            <a class="dropdown-item" href="ece.php">Electronics and Communication<br>Engineering</a>
             <a class="dropdown-item" href="ee.php">Electrical Engineering</a>
             <a class="dropdown-item" href="me.php">Mechanical Engineering</a>
             <a class="dropdown-item" href="civil.php">Civil Engineering</a>
