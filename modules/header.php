@@ -55,22 +55,10 @@
           </div>
         </li>
         <li class="nav-item active">
-          <a class="nav-link" href="government_schemes.php">Govt. Schemes</a>
-        </li>
-        <li class="nav-item active">
           <a class="nav-link" href="placements.php">Traning and Placements</a>
         </li>
         <li class="nav-item active">
           <a class="nav-link" href="alumni.php">Alumni</a>
-        </li>
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            Downloads
-          </a>
-          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="#">College Newsletter</a>
-            <a class="dropdown-item" href="#">Department Newsletter</a>
-          </div>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">

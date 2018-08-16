@@ -31,8 +31,6 @@
               <li class="active"><a href="about.php?section=history">History<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="active"><a href="about.php?section=functionaries">Important Functionaries<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="active"><a href="about.php?section=brochure-jecrc">Brochure JECRC<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-              <li class="active"><a href="about.php?section=brochure-ju">Brochure JU<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-              <li class="active"><a href="about.php?section=nirf">National Institute Ranking<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
             	</ul>
       				</li>
       			</ul>
