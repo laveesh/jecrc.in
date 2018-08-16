@@ -31,9 +31,9 @@
                   <a class="dropdown-item" href="placements.php?section=2006_08">2006 - 2008</a>
                 </div>
               </li>
+              <li class="active"><a href="placements.php?section=initiatives">Student Development Initiatives<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
             	</ul>
-      				</li>
-      			</ul>
+      				
       		</div>
       	</div>
       </div>
