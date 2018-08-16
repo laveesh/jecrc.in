@@ -24,37 +24,37 @@
           <div class="row justify-content-center">
             <div class="col-md-6 text-center">
               <img src="../departments/me/src/img/toppers/shaym.jpg" alt="" class="img-fluid img-thumbnail rounded-circle">
-              <h5 class="py-2">Shyam Pratap Singh Rathore (828)</h5>
+              <h5 class="py-2">Shyam Pratap Singh Rathore (82.8%)</h5>
             </div>
             <div class="col-md-6 text-center">
               <img src="../departments/me/src/img/toppers/arpit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle">
-              <h5 class="py-2">Ajay Sharma (805)</h5>
+              <h5 class="py-2">Ajay Sharma (80.5%)</h5>
             </div>
             <div class="col-md-6 text-center">
               <img src="../departments/me/src/img/toppers/ajay.jpg" alt="" class="img-fluid img-thumbnail rounded-circle">
-              <h5 class="py-2">Arpit Kasliwal (805)</h5>
+              <h5 class="py-2">Arpit Kasliwal (80.5%)</h5>
             </div>
           </div>
           <div class="sectionSubHeading text-center">5th Semester</div>
           <div class="row justify-content-center">
             <div class="col-md-6 text-center">
               <img src="../departments/me/src/img/toppers/.jpg" alt="" class="img-fluid img-thumbnail rounded-circle">
-              <h5 class="py-2">Krishankant Gupta (812)</h5>
+              <h5 class="py-2">Krishankant Gupta (81.2%)</h5>
             </div>
             <div class="col-md-6 text-center">
               <img src="../departments/me/src/img/toppers/prashant.jpg" alt="" class="img-fluid img-thumbnail rounded-circle">
-              <h5 class="py-2">Prashant Kumar (806)</h5>
+              <h5 class="py-2">Prashant Kumar (80.6%)</h5>
             </div>
           </div>
           <div class="sectionSubHeading text-center">8th Semester</div>
           <div class="row justify-content-center">
             <div class="col-md-6 text-center">
               <img src="../departments/me/src/img/toppers/vaibhav.jpg" alt="" class="img-fluid img-thumbnail rounded-circle">
-              <h5 class="py-2">Vaibhav Vyash (846)</h5>
+              <h5 class="py-2">Vaibhav Vyash (84.6%)</h5>
             </div>
             <div class="col-md-6 text-center">
               <img src="../departments/me/src/img/toppers/arun.jpg" alt="" class="img-fluid img-thumbnail rounded-circle">
-              <h5 class="py-2">Arun Shringi (824)</h5>
+              <h5 class="py-2">Arun Shringi (82.4%)</h5>
             </div>
           </div>
         </section>
@@ -133,7 +133,7 @@
                       <span class="sr-only">Next</span>
                     </a>
                   </div>
-                  <p>Final year Students have achieved a new feat in the field of innovation and technology by developing the cost open source 3D printer, which create three dimensional solid object from a digital file. The creation of a 3D-printed object is achieved using additive processes</p>
+                  <p>Final year Students have achieved a new feat in the field of innovation and technology by developing the cost open source 3D printer, which create three dimensional solid object from a digital file.</p>
                 </div>
                 <div class="sectionSubHeading">Quadcopters</div>
                 <div class="sectionContent">
@@ -163,7 +163,7 @@
                       <span class="sr-only">Next</span>
                     </a>
                   </div>
-                  <p>3 rd year Students developed Quadcopters, RC plane and Control Line plane model during 15 days Aero modelling workshop organised in JECRC Campus. The students who participated engaged themselves effectively in all the projects and gained invaluable knowledge and Aeromodelling hands-on experience.</p>
+                  <p>3 rd year Students developed Quadcopters, RC plane and Control Line plane model during 15 days Aero modelling workshop organised in JECRC Campus.</p>
                 </div>
                 <div class="sectionContent card-body">
                   <div class="sectionSubHeading">Pankaj Maharshi</div>
