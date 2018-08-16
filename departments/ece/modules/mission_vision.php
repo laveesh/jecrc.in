@@ -14,6 +14,5 @@
       <li class="list-group-item py-3">To make students responsive towards the ethical, social, environmental and economic context for the society.
       </li>
     </ol>
-
   </div>
 </section>
