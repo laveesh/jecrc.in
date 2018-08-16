@@ -16,7 +16,7 @@
 							
 							<li class="list-group-item">hod.ece@jecrc.ac.in</li>
 							<li class="list-group-item">Experience (in years): 18 </li>
-							<li class="list-group-item">Publication(s): 14</li>
+							<li class="list-group-item">Publication(s): 24</li>
 						</ul>
 					</div>
 				</div>

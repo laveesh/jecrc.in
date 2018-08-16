@@ -48,29 +48,17 @@
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
             <a class="dropdown-item" href="cse.php">Computer Science</a>
             <a class="dropdown-item" href="it.php">Information Technology</a>
-            <a class="dropdown-item" href="ece.php">Electronics and Communication</a>
+            <a class="dropdown-item" href="ece.php">Electronics and Communication<br>Engineering</a>
             <a class="dropdown-item" href="ee.php">Electrical Engineering</a>
             <a class="dropdown-item" href="me.php">Mechanical Engineering</a>
             <a class="dropdown-item" href="civil.php">Civil Engineering</a>
           </div>
         </li>
         <li class="nav-item active">
-          <a class="nav-link" href="government_schemes.php">Govt. Schemes</a>
-        </li>
-        <li class="nav-item active">
           <a class="nav-link" href="placements.php">Traning and Placements</a>
         </li>
         <li class="nav-item active">
           <a class="nav-link" href="alumni.php">Alumni</a>
-        </li>
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            Downloads
-          </a>
-          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="#">College Newsletter</a>
-            <a class="dropdown-item" href="#">Department Newsletter</a>
-          </div>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">

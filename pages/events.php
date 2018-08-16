@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="../src/css/font-awesome.min.css">
   <link rel="stylesheet" href="../src/css/bootstrap.css">
   <link rel="stylesheet" href="../src/css/style.css">
-  <link rel="stylesheet" href="../departments/about/src/css/about.css">
+  <link rel="stylesheet" href="../departments/events/src/css/events.css">
   <link rel="icon" href="../src/img/favicon.png" type="image/x-icon"/>
   <script src="../src/js/jquery.min.js"></script>
   <script src="../src/js/popper.min.js"></script>
@@ -17,12 +17,12 @@
 <body>
   <?php include '../modules/header.php'; ?>
 
-  <?php include '../departments/about/modules/sidenav.php'; ?>
+  <?php include '../departments/events/modules/sidenav.php'; ?>
 
-  <main id="about_root">
-    <?php include '../departments/about/modules/home.php'; ?>
+  <main id="events_root">
+    <?php include '../departments/events/modules/home.php'; ?>
   </main>
   <?php include '../modules/footer.php'; ?>
-  <script src="../departments/about/src/js/about.js"></script>
+  <script src="../departments/events/src/js/events.js"></script>
 </body>
 </html>
