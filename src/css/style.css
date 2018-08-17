@@ -223,7 +223,7 @@ nav.sidebar, .main {
   nav.sidebar a {
     padding-right: 13px;
   }
-  nav.sidebar .navbar-collapse, nav.sidebar .container-fluid {
+  nav.sidebar .navbar-collapse, nav.sidebar .contgeNainer-fluid {
     /*allows nav box to use 100% width*/
     padding: 0 0px 0 0px;
   }
@@ -306,7 +306,7 @@ section {
 }
 
 .banner .imageCarousel .carousel-item img {
-  width: 77vw;
+  width: 70vw;
   height: auto;
   border-radius: 15px;
   box-shadow: 2px 5px 5px grey;
@@ -450,7 +450,6 @@ section {
 .section {
   padding: 1%;
   box-shadow: 2px 2px 5px grey;
-  margin-top: 3%;
   margin-bottom: 3%;
 }
 
@@ -491,3 +490,9 @@ section {
   height: 100px;
 }
 /*-------------------------*/
+
+
+.overflow-y-scroll{
+  overflow-y: scroll;
+  max-height: 220px;
+}

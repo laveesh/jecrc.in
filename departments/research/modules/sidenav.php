@@ -17,7 +17,6 @@
           <div class="collapse navbar-collapse" id="bs-sidebar-navbar-collapse-1">
             <ul class="nav navbar-nav flex-column">
               <li class="active"><a href="research.php?section=home">Home<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-              <li class="active"><a href="research.php?section=patent">Patents<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="active"><a href="cse.php?section=research">
                 Computer Science<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
                 <li class="active"><a href="it.php?section=research">

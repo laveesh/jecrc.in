@@ -4,7 +4,7 @@
   <div class="row">
     <div class="col-md-3">
       <section class="section container card">
-        <div class="sectionHeading">RitNT NEWS</div>
+        <div class="sectionHeading">RECENT NEWS</div>
         <div class="sectionContent card-body px-4 mh-75">
         <marquee behavior="scroll" scrolldelay=60 scrollamount=4 direction="up" height=100%>
         <ul class="list-group list-group-flush text-primary">
@@ -53,9 +53,27 @@ With every passing year the unpritdented success of IT students has been the hig
       <section class="section container card">
         <div class="sectionHeading">STUDENT SPOTLIGHT</div>
         <div class="sectionContent card-body">
+          <h3 class="sectionHeading">GATE Toppers</h3>
+
+
+
+          <div class="row">
+            <div class="col-md-6 text-center">
+              <img src="../departments/it/src/img/studentspotlight/pankaj.jpeg" alt="" class="img-fluid img-thumbnail rounded-circle">
+              <h5 class="py-2">Pankaj Soni</h5>
+            </div>
+            <div class="col-md-6 text-center">
+              <img src="../departments/it/src/img/studentspotlight/kamakhya.jpeg" alt="" class="img-fluid img-thumbnail rounded-circle">
+              <h5 class="py-2">Kamakhya Bansal</h5>
+            </div>
+            
+          </div>
+
 
 
           <h3 class="sectionHeading">RTU Toppers</h3>
+
+
 
           <div class="row">
             <div class="col-md-4 text-center">
@@ -71,7 +89,9 @@ With every passing year the unpritdented success of IT students has been the hig
               <h5 class="py-2">Garima Mathur</h5>
             </div>
 
+
           </div>
+
 
           <!-- <h3 class="sectionHeading">RTU Toppers</h3>
           <div class="row">

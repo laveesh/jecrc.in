@@ -88,21 +88,6 @@
 					<ol class="sectionList">
 						<li><strong>Date of the event:</strong>27<sup>th</sup>March 2018.</li>
 						<li><strong>Venue:</strong>Labs A-Block</li>
-						<li><strong>Faculty Co-ordinators:</strong>
-							<ol class="sectionList">
-								<li></li>
-								<li></li>
-								</ol>
-						</li>
-						<li><strong>Students Co-dinators:</strong><ol class="sectionList">
-								<li></li>
-								<li></li>
-								<li> </li>
-								<li></li>
-								<li></li>
-								<li></li>
-								</ol>
-						</li>
 					</ol>
 				</div>
 			</div>
@@ -139,7 +124,7 @@ The participants gathered their research, proliferated their energies and geared
 					<ol class="sectionList">
 						<li><strong>Date of the event:</strong>25<sup>th</sup>March 2018.</li>
 						<li><strong>Venue:</strong> A-Block</li>
-						<li><strong>Faculty Co-ordinators:</strong>
+						<!-- <li><strong>Faculty Co-ordinators:</strong>
 							<ol class="sectionList">
 								<li></li>
 								<li></li>
@@ -153,7 +138,7 @@ The participants gathered their research, proliferated their energies and geared
 								<li></li>
 								<li></li>
 								</ol>
-						</li>
+						</li> -->
 					</ol>
 				</div>
 			</div>
@@ -186,7 +171,7 @@ The participants gathered their research, proliferated their energies and geared
 					<ol class="sectionList">
 						<li><strong>Date of the event:</strong>26<sup>th</sup>March 2018.</li>
 						<li><strong>Venue:</strong> A - Block</li>
-						<li><strong>Faculty Co-ordinators:</strong>
+						<!-- <li><strong>Faculty Co-ordinators:</strong>
 							<ol class="sectionList">
 								<li></li>
 								<li></li>
@@ -200,7 +185,7 @@ The participants gathered their research, proliferated their energies and geared
 								<li></li>
 								<li></li>
 								</ol>
-						</li>
+						</li> -->
 					</ol>
 				</div>
 			</div>
@@ -215,7 +200,7 @@ The participants gathered their research, proliferated their energies and geared
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/it/src/img/Events/Women_s_Day.jpg" alt="games-of-drones">
+							<img class="d-block w-100" src="../departments/it/src/img/Events/Women_s_Day.jpg" alt="games-of-drones">	
 						</div>
 					</div>
 					<a class="carousel-control-prev" href="#events_carausel5" role="button" data-slide="prev">
@@ -237,14 +222,8 @@ Full-Stack Ninja (For Front and Back end both time: 6hrs)
 </p>
 					<ol class="sectionList">
 						<li><strong>Date of the event:</strong>28<sup>th</sup>March 2018.</li>
-						<li><strong>Venue:</strong> GH-Lawn</li>
-						<li><strong>Faculty Co-ordinators:</strong>
-							<ol class="sectionList">
-								<li ></li>
-								<li ></li>
-								<li ></li>
-								</ol>
-						</li>					
+						<li><strong>Venue:</strong> C-Block</li>
+										
 					</ol>
 				</div>
 			</div>
@@ -282,17 +261,7 @@ Consisting of three rounds, this competition observed a massive participation fr
 					<ol class="sectionList">
 						<li><strong>Date of the event:</strong>26<sup>th</sup>March 2017.</li>
 						<li><strong>Venue:</strong> C - Block, Seminar Hall</li>
-						<li><strong>Faculty Co-ordinators:</strong>
-							<ol class="sectionList">
-								<li></li>
-								<li></li>
-								</ol>
-						</li>
-						<li><strong>Students Co-dinators:</strong><ol class="sectionList">
-								<li></li>
-								<li></li>
-							</ol>
-						</li>
+						
 					</ol>
 				</div>
 			</div>

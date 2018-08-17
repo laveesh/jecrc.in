@@ -237,8 +237,8 @@
 						<li><strong>Venue:</strong> C-401</li>
 						<li><strong>Faculty Co-ordinators:</strong>
 							<ol class="sectionList">
-								<li>Mr. Ankur Gangwar</li>
-								<li>Ms. Neha Singh</li>
+								<li>Dr. Vinita Mathur</li>
+								<li>Ms. Patul Tyagi</li>
 								</ol>
 						</li>
 						<li><strong>Students Co-dinators:</strong><ol class="sectionList">
@@ -353,7 +353,7 @@
 					<ol class="sectionList">
 						<li><strong>Date of the event:</strong>26<sup>th</sup>March 2017.</li>
 						<li><strong>Venue:</strong> CAD LAB(ECE), B-BLOCK,GROUND FLOOR</li>
-						<li><strong>Faculty Co-ordinators:</strong>
+						<li><strong>Faculty Co-ordinators:</strong>qu
 							<ol class="sectionList">
 								<li>Rajesh Bhataija</li>
 								<li>S.S.Manaktala</li>
@@ -539,7 +539,7 @@ There are 2 rounds, first about the identification of circuit elements and secon
 						<li><strong>Faculty Co-ordinators:</strong>
 							<ol class="sectionList">
 								<li>Ms. Ritu Vyas</li>
-								<li> Mr. Shivam Upadhyay</li>
+								<li> Ms. Shivam Upadhyay</li>
 								</ol>
 						</li>
 						<li><strong>Students Co-dinators:</strong><ol class="sectionList">
@@ -602,7 +602,7 @@ There are 2 rounds, first about the identification of circuit elements and secon
 						<li><strong>Faculty Co-ordinators:</strong>
 							<ol class="sectionList">
 								<li>Ms. Ritu Vyas</li>
-								<li> Mr. Shivam Upadhyay</li>
+								<li> Ms. Shivam Upadhyay</li>
 								</ol>
 						</li>
 						<li><strong>Students Co-dinators:</strong><ol class="sectionList">
@@ -652,7 +652,7 @@ There are 2 rounds, first about the identification of circuit elements and secon
 					<p>Combine your luck and your skills, solve basic mathematical equations and circuits and play Tambola. Improve your skills, solve time based questions and win exciting prizes.</p>
 					<ol class="sectionList">
 						<li><strong>Date of the event:</strong>25<sup>th</sup>March 2018.</li>
-						<li><strong>Venue:</strong></li>
+						
 						<li><strong>Faculty Co-ordinators:</strong>
 							<ol class="sectionList">
 								<li>Mr. Ashish Sharma</li>

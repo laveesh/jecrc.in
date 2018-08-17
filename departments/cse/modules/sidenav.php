@@ -41,7 +41,6 @@
                   <a class="dropdown-item" href="cse.php?section=program_edu_obj">Program Education Objective</a>
                   <a class="dropdown-item" href="cse.php?section=course_outcomes">Course Outcomes</a>
                   <a class="dropdown-item" href="cse.php?section=co_po_mapping">CO and PO Mapping</a>
-                  <a class="dropdown-item" href="cse.php?section=curriculum">Structure Curriculum</a>
                 </div>
               </li>
               <li class="nav-item dropdown">
@@ -51,8 +50,6 @@
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="cse.php?section=research">Research</a>
                   <a class="dropdown-item" href="cse.php?section=publication">Publication</a>
-                  <a class="dropdown-item" href="cse.php?section=research_topic1">Research Topic 1</a>
-                  <a class="dropdown-item" href="cse.php?section=research_topic2">Research Topic 2</a>
                 </div>
               </li>
               <li class="nav-item dropdown">

@@ -13,7 +13,7 @@
 					Education (AICTE), to meet the growing requirement
 					of practical design engineers in the country and
 					abroad. The greatest asset of the department is its
-					highlyaa motivated and learned faculty. The available
+					highly motivated and learner faculty. The available
 					diversity of expertise of the faculty with the support
 					of the other technical staff prepares the students to
 					work in the global multicultural environment. The
@@ -32,7 +32,7 @@
 					for a better society.
 				</p>
 				<p class="text-right pr-2"><strong>
-					Dr. Lokesh Bansal<br/>
+					Dr. Lokesh Kumar Bansal<br/>
 					Program Co-ordinator, ECE
 				</strong></p>
 			</div>
