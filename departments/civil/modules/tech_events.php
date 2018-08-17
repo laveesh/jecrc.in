@@ -10,32 +10,19 @@
 						<li data-target="#events_carausel2" data-slide-to="1"></li>
 						<li data-target="#events_carausel2" data-slide-to="2"></li>
 						<li data-target="#events_carausel2" data-slide-to="3"></li>
-						<li data-target="#events_carausel2" data-slide-to="4"></li>
-						<li data-target="#events_carausel2" data-slide-to="5"></li>
-						<li data-target="#events_carausel2" data-slide-to="6"></li>
-						<li data-target="#events_carausel2" data-slide-to="7"></li>
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/robosoccer/1.jpg" alt="First slide">
+							<img class="d-block w-100" src="../departments/civil/src/img/Events/bridge-o-mania/1.jpg" alt="First slide">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/robosoccer/2.jpg" alt="Second slide">
+							<img class="d-block w-100" src="../departments/civil/src/img/Events/bridge-o-mania/2.jpg" alt="Second slide">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/robosoccer/3.jpg" alt="Third slide">
+							<img class="d-block w-100" src="../departments/civil/src/img/Events/bridge-o-mania/3.jpg" alt="Third slide">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/robosoccer/4.jpg" alt="Fourth slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/robosoccer/5.jpg" alt="Fifth slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/robosoccer/6.jpg" alt="Sixth slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/robosoccer/7.jpg" alt="Seventh slide">
+							<img class="d-block w-100" src="../departments/civil/src/img/Events/bridge-o-mania/4.jpg" alt="Fourth slide">
 						</div>
 					</div>
 					<a class="carousel-control-prev" href="#events_carausel2" role="button" data-slide="prev">
@@ -77,19 +64,23 @@
 						<li data-target="#events_carausel3" data-slide-to="1"></li>
 						<li data-target="#events_carausel3" data-slide-to="2"></li>
 						<li data-target="#events_carausel3" data-slide-to="3"></li>
+						<li data-target="#events_carausel3" data-slide-to="4"></li>
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/formula-zero/1.jpg" alt="formula-zer">
+							<img class="d-block w-100" src="../departments/civil/src/img/Events/zenith/1.jpg" alt="zenith">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/formula-zero/2.jpg" alt="formula-zero">
+							<img class="d-block w-100" src="../departments/civil/src/img/Events/zenith/2.jpg" alt="zenith">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/formula-zero/3.jpg" alt="formula-zer">
+							<img class="d-block w-100" src="../departments/civil/src/img/Events/zenith/3.jpg" alt="zenith">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/formula-zero/4.jpg" alt="formula-zero">
+							<img class="d-block w-100" src="../departments/civil/src/img/Events/zenith/4.jpg" alt="zenith">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/civil/src/img/Events/zenith/5.jpg" alt="zenith">
 						</div>
 					</div>
 					<a class="carousel-control-prev" href="#events_carausel3" role="button" data-slide="prev">
@@ -130,23 +121,19 @@
 						<li data-target="#events_carausel4" data-slide-to="1"></li>
 						<li data-target="#events_carausel4" data-slide-to="2"></li>
 						<li data-target="#events_carausel4" data-slide-to="3"></li>
-						<li data-target="#events_carausel4" data-slide-to="4"></li>
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/line-follower/1.jpg" alt="line-follower">
+							<img class="d-block w-100" src="../departments/civil/src/img/Events/manthan/1.jpg" alt="manthan">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/line-follower/2.jpg" alt="line-followere">
+							<img class="d-block w-100" src="../departments/civil/src/img/Events/manthan/2.jpg" alt="manthane">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/line-follower/3.jpg" alt="line-follower">
+							<img class="d-block w-100" src="../departments/civil/src/img/Events/manthan/3.jpg" alt="manthan">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/line-follower/4.jpg" alt="line-follower">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/line-follower/5.jpg" alt="line-follower">
+							<img class="d-block w-100" src="../departments/civil/src/img/Events/manthan/4.jpg" alt="manthan">
 						</div>
 					</div>
 					<a class="carousel-control-prev" href="#events_carausel4" role="button" data-slide="prev">
@@ -186,20 +173,16 @@
 						<li data-target="#events_carausel5" data-slide-to="0" class="active"></li>
 						<li data-target="#events_carausel5" data-slide-to="1"></li>
 						<li data-target="#events_carausel5" data-slide-to="2"></li>
-						<li data-target="#events_carausel5" data-slide-to="3"></li>
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/drones/1.jpg" alt="games-of-drones">
+							<img class="d-block w-100" src="../departments/civil/src/img/Events/best-out-of-waste/1.jpg" alt="Best out of waste">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/drones/2.jpg" alt="games-of-dronese">
+							<img class="d-block w-100" src="../departments/civil/src/img/Events/best-out-of-waste/2.jpg" alt="Best out of waste">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/drones/3.jpg" alt="games-of-drones">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/drones/4.jpg" alt="games-of-drones">
+							<img class="d-block w-100" src="../departments/civil/src/img/Events/best-out-of-waste/3.jpg" alt="Best out of waste">
 						</div>
 					</div>
 					<a class="carousel-control-prev" href="#events_carausel5" role="button" data-slide="prev">
@@ -238,29 +221,13 @@
 					<ol class="carousel-indicators">
 						<li data-target="#events_carausel6" data-slide-to="0" class="active"></li>
 						<li data-target="#events_carausel6" data-slide-to="1"></li>
-						<li data-target="#events_carausel6" data-slide-to="2"></li>
-						<li data-target="#events_carausel6" data-slide-to="3"></li>
-						<li data-target="#events_carausel6" data-slide-to="4"></li>
-						<li data-target="#events_carausel6" data-slide-to="5"></li>
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/technophilia/1.jpg" alt="Technophilia">
+							<img class="d-block w-100" src="../departments/civil/src/img/Events/cad/1.jpg" alt="cad">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/technophilia/2.jpg" alt="Technophilia">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/technophilia/3.jpg" alt="Technophilia">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/technophilia/4.jpg" alt="Technophilia">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/technophilia/5.jpg" alt="Technophilia">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/technophilia/6.jpg" alt="Technophilia">
+							<img class="d-block w-100" src="../departments/civil/src/img/Events/cad/2.jpg" alt="cad">
 						</div>
 					</div>
 					<a class="carousel-control-prev" href="#events_carausel6" role="button" data-slide="prev">
@@ -299,29 +266,17 @@
 					<ol class="carousel-indicators">
 						<li data-target="#events_carausel7" data-slide-to="0" class="active"></li>
 						<li data-target="#events_carausel7" data-slide-to="1"></li>
-						<li data-target="#events_carausel7" data-slide-to="3"></li>
-						<li data-target="#events_carausel7" data-slide-to="4"></li>
-						<li data-target="#events_carausel7" data-slide-to="5"></li>
-						<li data-target="#events_carausel7" data-slide-to="6"></li>
+						<li data-target="#events_carausel7" data-slide-to="2"></li>
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/phoenix/1.jpg" alt="Phoenix">
+							<img class="d-block w-100" src="../departments/civil/src/img/Events/click-o-mania/1.jpg" alt="click-o-mania">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/phoenix/2.jpg" alt="Phoenix">
+							<img class="d-block w-100" src="../departments/civil/src/img/Events/click-o-mania/2.jpg" alt="click-o-mania">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/phoenix/3.jpg" alt="Phoenix">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/phoenix/4.jpg" alt="Phoenix">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/phoenix/5.jpg" alt="Phoenix">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/phoenix/6.jpg" alt="Phoenix">
+							<img class="d-block w-100" src="../departments/civil/src/img/Events/click-o-mania/3.jpg" alt="click-o-mania">
 						</div>
 					</div>
 					<a class="carousel-control-prev" href="#events_carausel7" role="button" data-slide="prev">
