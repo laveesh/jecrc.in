@@ -67,15 +67,6 @@
           </ul>
           </div>
         </div>
-        <div class="sectionHeading">Scholarship by Google</div>
-        <div class="card">
-          <img src="../departments/cse/src/img/studentspotlight/aditya.png" alt="" class="card-img-top">
-          <div class="card-body">
-            <p class="card-text">
-              Aditya Agarwal(III Year) have selected for Google India Scholarship in front end development on 23rd March 2018. This is a full time nanodegree program by Udacity.
-            </p>
-          </div>
-        </div>
       </section>
     </div>
   </div>

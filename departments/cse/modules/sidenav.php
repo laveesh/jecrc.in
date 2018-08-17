@@ -41,7 +41,6 @@
                   <a class="dropdown-item" href="cse.php?section=program_edu_obj">Program Education Objective</a>
                   <a class="dropdown-item" href="cse.php?section=course_outcomes">Course Outcomes</a>
                   <a class="dropdown-item" href="cse.php?section=co_po_mapping">CO and PO Mapping</a>
-                  <a class="dropdown-item" href="cse.php?section=curriculum">Structure Curriculum</a>
                 </div>
               </li>
               <li class="nav-item dropdown">

@@ -17,7 +17,7 @@
         </div>
       </section>
       <section class="section container card">
-        <div class="sectionHeading">STUDENT SPOTLIGHT</div>
+        
         <div class="sectionContent card-body">
           <div class="sectionHeading">RTU Toppers</div>
           <div class="sectionSubHeading text-center">3rd Semester</div>
@@ -62,7 +62,7 @@
       <div class="col-xl-9 col-md-8 row">
         <div class="col-xl-8">
           <section class="section container card">
-            <div class="sectionHeading">NEWSLETTERS</div>
+            <div class="sectionHeading">THE NEWSLETTER- E.MECHZINE</div>
             <div class="sectionContent card-body">
               <div class="row py-2">
                 <div class="col-md-4 py-2">
@@ -79,7 +79,7 @@
                     <a href="../departments/me/src/newsletters/nov_17.pdf" class="btn-block btn btn-primary btn-lg"  download>November 17</a>
                   </div>
                   <div class="col-md-4 py-2">
-                    <a href="../departments/me/src/newsletters/e_machzine.pdf" class="btn-block btn btn-primary btn-lg"  download>E mechzine</a>
+                    <a href="../departments/me/src/newsletters/e_machzine.pdf" class="btn-block btn btn-success btn-lg"  download>E mechzine</a>
                   </div>
                   <div class="col-md-4 py-2">
                     <a href="../departments/me/src/newsletters/january_18.pdf" class="btn-block btn btn-primary btn-lg"  download>January 18</a>
@@ -93,7 +93,7 @@
                     <a href="../departments/me/src/newsletters/april_18.pdf" class="btn-block btn btn-primary btn-lg"  download>April 18</a>
                   </div>
                   <div class="col-md-4 py-2">
-                    <a href="../departments/me/src/newsletters/jan-jun18.pdf" class="btn-block btn btn-primary btn-lg"  download>January 18</a>
+                    <a href="../departments/me/src/newsletters/jan-jun18.pdf" class="btn-block btn btn-primary btn-lg"  download>June 18</a>
                   </div>
                 </div>
               </div>

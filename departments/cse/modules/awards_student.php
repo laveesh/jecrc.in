@@ -66,7 +66,7 @@
 	<div class="sectionContent card my-3">
 		<h3 class="card-header text-center">Other achivements</h3>
 		<ul class="list-group list-group-flush">
-			<li class="list-group-item">Aditya Agarwal(III Year) have selected for Google India Scholarship in front end development on 23rd March 2018. This is a full time nanodegree program by Udacity.</li>
+			<li class="list-group-item">Aditya Agarwal(III Year) has been selected for Google India Scholarship in front end development on 23rd March 2018. This is a full time nanodegree program by Udacity.</li>
 			<li class="list-group-item">Sakshi Gupta (IV Year) placed in Byjus with the highest package of 9 lakh. She also secured 90.44 percentile in CAT and 90.41 percentile in XAT.</li>
 			<li class="list-group-item">Rakest Prajapat (IV Year) selected in Cricket Team of RTU Kota for National West Zone (All India Inter University, Bhopal).</li>
 			<li class="list-group-item">Tejasv Kulshrestha, Vaishali Agarwal, Utkarsh Mundra and Shrishti Jain (IV Year) won First Prize in JECRC HACKATHON 1.0, Jan 2018.</li>

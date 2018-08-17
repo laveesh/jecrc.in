@@ -118,17 +118,12 @@
           <li data-target="#carouselExampleIndicators" data-slide-to="12"></li>
           <li data-target="#carouselExampleIndicators" data-slide-to="13"></li>
           <li data-target="#carouselExampleIndicators" data-slide-to="14"></li>
-          <li data-target="#carouselExampleIndicators" data-slide-to="15"></li>
-          <li data-target="#carouselExampleIndicators" data-slide-to="16"></li>
-          <li data-target="#carouselExampleIndicators" data-slide-to="17"></li>
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
             <img src="../departments/me/src/img/Carousel/slider1.jpg" alt="First slide">
           </div>
-          <div class="carousel-item">
-            <img  src="../departments/me/src/img/Carousel/slider8.jpg" alt="Eighth slide">
-          </div>
+          
           <div class="carousel-item">
             <img  src="../departments/me/src/img/Carousel/slider9.jpg" alt="Eighth slide">
           </div>
@@ -143,14 +138,13 @@
           </div>
 
           <div class="carousel-item">
-            <img  src="../departments/me/src/img/Carousel/slider5.jpg" alt="Fifth slide">
-          </div>
-        
-          <div class="carousel-item">
             <img  src="../departments/me/src/img/Carousel/slider11.jpg" alt="Eighth slide">
           </div>
           <div class="carousel-item">
             <img  src="../departments/me/src/img/Carousel/slider12.jpg" alt="Eighth slide">
+          </div>
+          <div class="carousel-item">
+            <img  src="../departments/me/src/img/Carousel/slider8.jpg" alt="Eighth slide">
           </div>
           <div class="carousel-item">
             <img  src="../departments/me/src/img/Carousel/slider13.jpg" alt="Eighth slide">

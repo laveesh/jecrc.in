@@ -4,22 +4,24 @@
 
 <div class="sectionContent">
 	<ul class="sectionList">
-				<li><strong>Degree year:</strong>2006-2010</li>
-				<li><strong>Deepak</strong></li>
+				<li><strong>Degree year:</strong>2015-2019</li>
+				<li><strong>Aditya Pokharna,Microsoft
+</strong></li>
 	</ul>
 		<p>
-			"Along with building strong fundamentals in Computer Science, I also got hundreds of opportunities to build life skills like effective writing, public speaking, people and project management and leadership, all of which have been very useful in my career so far. My class- mates were confident and smart and added great value to my learning in the classroom. Because of the CS and Math skills I built at JSS, and the support of the faculty by way of strong recommendation letters, I got an admit to the Masters program in Computer Science at the State University of New York at Stony Brook. After finishing my Masters degree, I got a job at Microsoft Corp as a Software Development Engineer."
+			"Here at JECRC you get profound knowledge and adequate exposure to the latest technology in industry. Knowledgeable and passionate teachers always encourage and are ready to help whenever needed. The college emphasizes not only on theoretical but also the practical aspect of learning and education by conducting seminars and workshops in the campus and provides with an environment which motivates  the students to keep thriving and work hard relentlessly."
 		</p>
 </div>
 
 
 <div class="sectionContent">
 	<ul class="sectionList">
-				<li><strong>Degree year:</strong>2006-2010</li>
-				<li><strong>Deepak</strong></li>
+				
+				<li><strong>Utkarsh nagpal (Entrepreneur)</strong></li>
+				<li><strong>Heal Nectar</strong></li>
 	</ul>
 		<p>
-			"Along with building strong fundamentals in Computer Science, I also got hundreds of opportunities to build life skills like effective writing, public speaking, people and project management and leadership, all of which have been very useful in my career so far. My class- mates were confident and smart and added great value to my learning in the classroom. Because of the CS and Math skills I built at JSS, and the support of the faculty by way of strong recommendation letters, I got an admit to the Masters program in Computer Science at the State University of New York at Stony Brook. After finishing my Masters degree, I got a job at Microsoft Corp as a Software Development Engineer."
+			"My dream of becoming an entrepreneur and running a business which is doing fairly well currently wouldn’t have been possible without the support of college. My faculty and mentors helped me in maintaining good academic record and learning about business at the same time. Sessions with flourished and upcoming entrepreneurs and extensive research guidance helped in getting an idea of real world and the competition."
 		</p>
 </div>
 </div>
