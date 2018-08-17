@@ -49,8 +49,6 @@
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="civil.php?section=research">Research</a>
                   <a class="dropdown-item" href="civil.php?section=publication">Publication</a>
-                  <a class="dropdown-item" href="civil.php?section=research_topic1">Research Topic 1</a>
-                  <a class="dropdown-item" href="civil.php?section=research_topic2">Research Topic 2</a>
                 </div>
               </li>
               <li class="nav-item dropdown">
@@ -64,10 +62,9 @@
               </li>
               <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  News and Events
+                  Events
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="civil.php?section=news">News</a>
                   <a class="dropdown-item" href="civil.php?section=events">Events</a>
                   <a class="dropdown-item" href="civil.php?section=tech_events">Technical Events</a>
                   <a class="dropdown-item" href="civil.php?section=awards_faculty">Faculties Awards</a>

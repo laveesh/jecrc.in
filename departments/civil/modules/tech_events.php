@@ -1,63 +1,5 @@
 	<div class="container">
 		<div class="sectionHeading">Recents events @JECRC</div>
-		<!-- <section class="section">
-			<div class="sectionHeading">ROBOWAR</div>
-			<div class="row">
-				<div class="col-md-3 col-sm-12">
-					<div id="events_carausel" class="carousel slide" data-ride="carousel">
-					<ol class="carousel-indicators">
-						<li data-target="#events_carausel" data-slide-to="0" class="active"></li>
-						<li data-target="#events_carausel" data-slide-to="1"></li>
-						<li data-target="#events_carausel" data-slide-to="2"></li>
-					</ol>
-					<div class="carousel-inner">
-						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image1.jpg" alt="First slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image2.jpg" alt="Second slide">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/Image3.jpg" alt="Third slide">
-						</div>
-					</div>
-					<a class="carousel-control-prev" href="#events_carausel" role="button" data-slide="prev">
-					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-					<span class="sr-only">Previous</span>
-					</a>
-					<a class="carousel-control-next" href="#events_carausel" role="button" data-slide="next">
-					<span class="carousel-control-next-icon" aria-hidden="true"></span>
-					<span class="sr-only">Next</span>
-					</a>
-					</div>
-				</div>
-				<div class="col-md-9 col-sm-12 sectionContent px-4">
-					<p>This competition is to show how long robot of yours can withstand in the arena fighting the other robot. Teams
-							must build a manually controlled machine which can withstand the other robot in the arena.
-							The bot can be wired or wireless. In case the participants use wireless mechanism, they must use dual
-							frequency remote.</p>
-					<ol class="sectionList">
-						<li><strong>Date of the event:</strong>27<sup>th</sup>Febuary 2018.</li>
-						<li><strong>Venue:</strong> HAWAMAHAL</li>
-						<li><strong>Faculty Co-ordinators:</strong>
-							<ol class="sectionList">
-								<li>Vikas Sharma</li>
-								<li>Devesh Gupta</li>
-								</ol>
-						</li>
-						<li><strong>Students Co-dinators:</strong><ol class="sectionList">
-								<li>Harish Sharma</li>
-								<li>Chirag maheshwari</li>
-								<li>Gourav goyal</li>
-								<li>Chaitanya</li>
-								<li>Rishabh jain</li>
-								<li>Raghuveer</li>
-								</ol>
-						</li>
-					</ol>
-				</div>
-			</div>
-		</section> -->
 		<section class="section">
 			<div class="sectionHeading">Dexterity - "Bridge O Mania"</div>
 			<div class="row">
@@ -95,7 +37,6 @@
 						<div class="carousel-item">
 							<img class="d-block w-100" src="../departments/ece/src/img/Events/robosoccer/7.jpg" alt="Seventh slide">
 						</div>
-
 					</div>
 					<a class="carousel-control-prev" href="#events_carausel2" role="button" data-slide="prev">
 					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
