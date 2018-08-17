@@ -4,7 +4,7 @@
     <div class="col-md-3">
       <section class="section container card">
         <div class="sectionHeading">RECENT NEWS</div>
-        <div class="sectionContent card-body px-4 mh-75">
+        <div class="sectionContent card-body px-4 mh-50">
         <marquee behavior="scroll" scrolldelay=60 scrollamount=4 direction="up" height=100%>
         <ul class="list-group list-group-flush text-primary">
           <li class="list-group-item">
@@ -34,7 +34,7 @@
           </li>
           <li class="list-group-item"><strong>Kalpit Meena, student of CE placed at BYJU's with 9 LPA</strong></li>
         </ul>
-</marquee>
+        </marquee>
         </div>
       </section>
     </div>
@@ -86,14 +86,14 @@
           <div class="row">
             <div class="col-md-6">
               <ul class="list-group list-group-flush">
-                <li class="list-group-item"> Mohit Sharma</li>
-                <li class="list-group-item">Manan Bishnoi</li>
+                <li class="list-group-item text-center"> Mohit Sharma</li>
+                <li class="list-group-item text-center">Manan Bishnoi</li>
               </ul>
             </div>
             <div class="col-md-6">
               <ul class="list-group list-group-flush">
-                <li class="list-group-item"> Durgesh Kumar</li>
-                <li class="list-group-item">Chandan Kumar Chandra</li>
+                <li class="list-group-item text-center"> Durgesh Kumar</li>
+                <li class="list-group-item text-center">Chandan Kumar Chandra</li>
               </ul>
             </div>
           </div>
