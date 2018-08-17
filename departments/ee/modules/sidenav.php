@@ -34,7 +34,7 @@
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="ee.php?section=academics">Academics</a>
-                  <a class="dropdown-item" href="ee.php?section=student_opportunities">Student Opportunities</a>
+                  
                   <a class="dropdown-item" href="ee.php?section=ug_program">Under Graduate Program</a>
                   <a class="dropdown-item" href="ee.php?section=program_outcomes">Program Outcomes</a>
                   <a class="dropdown-item" href="ee.php?section=program_edu_obj">Program Education Objective</a>
@@ -49,8 +49,7 @@
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="ee.php?section=research">Research</a>
                   <a class="dropdown-item" href="ee.php?section=publication">Publication</a>
-                  <a class="dropdown-item" href="ee.php?section=research_topic1">Research Topic 1</a>
-                  <a class="dropdown-item" href="ee.php?section=research_topic2">Research Topic 2</a>
+               
                 </div>
               </li>
               <li class="nav-item dropdown">
@@ -67,7 +66,6 @@
                   News and Events
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="ee.php?section=news">News</a>
                   <a class="dropdown-item" href="ee.php?section=events">Events</a>
                   <a class="dropdown-item" href="ee.php?section=tech_events">Technical Events</a>
                   <a class="dropdown-item" href="ee.php?section=awards_faculty">Faculties Awards</a>

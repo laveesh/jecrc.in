@@ -325,7 +325,7 @@
 <div class="row sectionContent">
 	<div class="col-md-6 mt-4">
 				<div class="panel-body card">
-					<div class="card-header text-center"><h4>Mr. Rvita Saraswat </h4></div>
+					<div class="card-header text-center"><h4>Ms. Ravita Saraswat </h4></div>
 					<div class="row">
 						<div class="col-md-3 pt-1 py-1" align="center">
 							<img src="../departments/ee/src/img/people/faculty/Raj.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
