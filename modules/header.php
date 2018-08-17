@@ -24,9 +24,7 @@
             <a class="dropdown-item" href="administration.php">Administration</a>
             <a class="dropdown-item" href="research.php">Research</a>
             <a class="dropdown-item" href="library.php">Library</a>
-            <a class="dropdown-item" href="ibm.php">Center Of Excillenece IBM</a>
             <a class="dropdown-item" href="events.php">Events</a>
-            <a class="dropdown-item" href="campus_facilities.php">Campus Facilities</a>
           </div>
         </li>
         <li class="nav-item dropdown">
@@ -35,8 +33,6 @@
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
             <a class="dropdown-item" href="admission.php">Admission</a>
-            <a class="dropdown-item" href="academics.php">Academics</a>
-            <a class="dropdown-item" href="student_resources.php">Student Resources</a>
             <a class="dropdown-item" href="achivements.php">Achivements</a>
             <a class="dropdown-item" href="activities.php">Activities</a>
           </div>
@@ -55,31 +51,13 @@
           </div>
         </li>
         <li class="nav-item active">
-          <a class="nav-link" href="government_schemes.php">Govt. Schemes</a>
-        </li>
-        <li class="nav-item active">
           <a class="nav-link" href="placements.php">Traning and Placements</a>
         </li>
         <li class="nav-item active">
           <a class="nav-link" href="alumni.php">Alumni</a>
         </li>
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            Downloads
-          </a>
-          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="#">College Newsletter</a>
-            <a class="dropdown-item" href="#">Department Newsletter</a>
-          </div>
-        </li>
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            Contact Us
-          </a>
-          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="contact_details.php">Contact Details</a>
-            <a class="dropdown-item" href="how_to_reach.php">How to reach ?</a>
-          </div>
+        <li class="nav-item active">
+          <a class="nav-link" href="alumni.php">Contact Us</a>
         </li>
       </ul>
     </div>

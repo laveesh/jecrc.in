@@ -16,10 +16,11 @@
         <div class="container-fluid">
           <div class="collapse navbar-collapse" id="bs-sidebar-navbar-collapse-1">
             <ul class="nav navbar-nav flex-column">
-              <li class="active"><a href="alumni.php?section=home">JECRC Alumni<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              <li class="active"><a href="alumni.php?section=home">
+                Alumni Connect<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="active"><a href="cse.php?section=alumni">
                 Computer Science<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-                <li class="active"><a href="it.php?section=alumni">
+                <li class="active"><a href="it.php?section=placements">
                   Information Technology<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
                   <li class="active"><a href="ece.php?section=alumni">
                     Electronics & Communication<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>

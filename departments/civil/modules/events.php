@@ -1,7 +1,7 @@
 <div class="container">
 		<div class="sectionHeading">Recents events @JECRC</div>
 		<section class="section">
-			<div class="sectionHeading">ANTI RAGGING SEMINAR </div>
+			<div class="sectionHeading">Sewage Treatment Plant </div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
 					<div id="events_carausel" class="carousel slide" data-ride="carousel">
@@ -49,16 +49,16 @@
 				</div>
 				<div class="col-md-9 col-sm-12 sectionContent px-4">
 					<ol class="sectionList">
-						<li><strong>Date of the event:</strong>7<sup>th</sup> Sept 2017, Thursday</li>
-						<li><strong>Venue:</strong>JECRC AUDITORIUM </li>
-						<li><strong>Objectives:</strong>Aware the students about anti ragging regulations </li>
-						<li><strong>Guests of Honour at the event:</strong>Sh. P.K. Tiwari</li>
+						<li><strong>Date of the event:</strong>2<sup>nd</sup> August 2018</li>
+						<li><strong>Venue:</strong> Sewage Treatment Plant-Delawas, Pratap Nagar, Jaipur</li>
+						<li><strong>Objectives:</strong>The purpose of the visit was to familiarize the students with the procedure of municipal waste water treatment and reuse</li>
+						<li><strong>Outcomes:</strong>STP Delawas has treatment capacity of 62.5 MLD and was established with an objective to follow the wastewater disposal standard set by RSPCB/CPCB.
 					</ol>
 				</div>
 			</div>
 		</section>
 		<section class="section">
-			<div class="sectionHeading"> ICT based Short Term Course on GPS, GIS and Remote Sensing technology</div>
+			<div class="sectionHeading"> Jantar Mantar Visit</div>
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
 					<div id="events_carausel2" class="carousel slide" data-ride="carousel">
@@ -81,13 +81,48 @@
 					</div>
 				</div>
 				<div class="col-md-9 col-sm-12 sectionContent px-4 ">
-					<p>Informative Seminar presentations were conducted by ECE department on HCIG program, aimed for Engineering students, where participants get trained & certified by Huawei on multiple leading ICT technologies such as Wireless (2G, 3G, LTE), Core network</p>
+					
 					<ol class="sectionList">
-						<li><strong>Date of the event:</strong>11<sup>th</sup> September 2017 to 13 <sup>th</sup> September 2017</li>
-						<li><strong>Venue:</strong>JECRC Sitapura, Jaipur </li>
-						<li><strong>Objectives:</strong>Understanding of remote sensing GPS and GIS  for civil engineers</li>
+						<li><strong>Date of the event:</strong>26<sup>th</sup> February 2018</li>
+						<li><strong>Venue:</strong>Jantar Mantar, Jaipur</li>
+						<li><strong>Objectives:</strong>The study of these monuments includes all their aspects, namely- historical, scientific and mathematical.</li>
+						<li><strong>Outcome:</strong> As a part of the scientific aspect of the monuments and observatories, 120 students of civil branch went on this trip. The details of the historical monument Jantar Mantar, which is also an important part of our country’s scientific heritage, were explained to the students by the guide.</li>
 					</ol>
 				</div>
 			</div>
 		</section>
+		<section class="section">
+			<div class="sectionHeading"> J-Techtrix</div>
+			<div class="row">
+				<div class="col-md-3 col-sm-12">
+					<div id="events_carausel2" class="carousel slide" data-ride="carousel">
+					<ol class="carousel-indicators">
+						<li data-target="#events_carausel2" data-slide-to="0" class="active"></li>
+					</ol>
+					<div class="carousel-inner">
+						<div class="carousel-item active">
+							<img class="d-block w-100" src="../departments/ece/src/img/Events/seminar-ICT/1.jpg" alt="ICT">
+						</div>
+					</div>
+					<a class="carousel-control-prev" href="#events_carausel2" role="button" data-slide="prev">
+					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+					<span class="sr-only">Previous</span>
+					</a>
+					<a class="carousel-control-next" href="#events_carausel2" role="button" data-slide="next">
+					<span class="carousel-control-next-icon" aria-hidden="true"></span>
+					<span class="sr-only">Next</span>
+					</a>
+					</div>
+				</div>
+				<div class="col-md-9 col-sm-12 sectionContent px-4 ">
+					<p> J-Techtrix was organized for B. Tech students of all years on April 08, 2017 during 9:00 AM to 4:00 PM. The objective of this exhibition was ‘The project-based learning’ (beyond the syllabus). It provided a platform to the students to learn various experimental as well as theoretical aspects of various physical phenomena of science and technology.</p>
+					<ol class="sectionList">
+						<li><strong>Date of the event:</strong>8<sup>th</sup> April 2018</li>
+						<li><strong>Venue:</strong>C-Block, JECRC FOUNDATION</li>
+						<li><strong>Objectives:</strong> To introduce students to the project-based learning(beyond the syllabus).</li>
+					</ol>
+				</div>
+			</div>
+		</section>
+
 	</div>
