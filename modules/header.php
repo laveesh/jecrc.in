@@ -57,7 +57,7 @@
           <a class="nav-link" href="alumni.php">Alumni</a>
         </li>
         <li class="nav-item active">
-          <a class="nav-link" href="alumni.php">Contact Us</a>
+          <a class="nav-link" href="contact.php">Contact Us</a>
         </li>
       </ul>
     </div>
