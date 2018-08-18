@@ -30,7 +30,7 @@
     </div>
     <div class="col-md-6">
       <section class="section container card">
-            <div class="sectionHeading">THE NEWSLETTER- E.MECHZINE</div>
+            <div class="sectionHeading">THE NEWSLETTER- TESLA</div>
             <div class="sectionContent card-body">
               <div class="row py-2">
                 <div class="col-md-4 py-2">
