@@ -38,7 +38,7 @@
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
             <a class="dropdown-item" href="pages/administration.php">Administration</a>
             <a class="dropdown-item" href="pages/research.php">Research</a>
-            <a class="dropdown-item" href="pages/library.php">Library</a>
+            <!-- <a class="dropdown-item" href="pages/library.php">Library</a> -->
                 <a class="dropdown-item" href="pages/events.php">Events</a>
               </div>
             </li>
@@ -94,7 +94,7 @@
           <ol class="carousel-indicators">
             <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+            <!-- <li data-target="#carouselExampleIndicators" data-slide-to="2"></li> -->
             <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
           </ol>
@@ -108,10 +108,10 @@
             <div class="carousel-item">
               <img   src="src/img/Carousel/slider3.jpg" alt="Third slide">
             </div>
-            <div class="carousel-item">
+<!--             <div class="carousel-item">
               <img  src="src/img/Carousel/slider2.jpg" alt="Fourth slide">
             </div>
-            <div class="carousel-item">
+ -->            <div class="carousel-item">
               <img  src="src/img/Carousel/slider5.jpg" alt="Fifth slide">
             </div>
           </div>
@@ -148,12 +148,14 @@
           <div class="sectionHeading">NEWS & EVENTS</div>
           <div class="sectionContent px-4">
             <marquee direction="up" behavior="scroll" height="500" scrollamount="6" id="marq">
-            <ul class="sectionList">
-              <li class="border-bottom">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labor.</li>
-              <li class="border-bottom">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labor.</li>
-              <li class="border-bottom">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labor.</li>
-              <li class="border-bottom">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labor.</li>
-              <li class="border-bottom">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labor.</li>
+            <ul class="sectionList list-group">
+              <li class="list-group-item">JMAG Edition-9 released.</li>
+              <li class="list-group-item">Sh. Anil Agarwal, Chairman, Vedanta Resources Plc @ JECRC</li>
+              <li class="list-group-item">700 Placements in 2 Days with 2 Companies</li>
+              <li class="list-group-item">Induction Day for Batch 2015-19</li>
+              <li class="list-group-item">JMAG Edition-7 released.</li>
+              <li class="list-group-item">Anti-Ragging Initiative</li>
+              <li class="list-group-item">NIRF Engineering</li>
             </ul>
             </marquee>
           </div>
