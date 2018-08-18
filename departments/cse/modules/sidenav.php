@@ -82,7 +82,7 @@
                   Infrastructure
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="cse.php?section=labs">Laboratory</a>
+                  <!-- <a class="dropdown-item" href="cse.php?section=labs">Laboratory</a> -->
                   <a class="dropdown-item" href="cse.php?section=library">Library</a>
                 </div>
               </li>
