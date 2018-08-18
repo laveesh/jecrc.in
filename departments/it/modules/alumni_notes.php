@@ -1,6 +1,6 @@
 <div class="container section">
 
-<div class="sectionHeading">ALUMNI NOTES</div>
+<div class="sectionHeading">Alumni Feedbacks</div>
 
 <div class="sectionContent">
 	<ul class="sectionList">

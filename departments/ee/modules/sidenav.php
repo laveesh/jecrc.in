@@ -87,7 +87,7 @@
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="ee.php?section=alumni">Alumni</a>
-                  <a class="dropdown-item" href="ee.php?section=alumni_notes">Alumni Notes</a>
+                  <a class="dropdown-item" href="ee.php?section=alumni_notes">Alumni Feedbacks</a>
                   <a class="dropdown-item" href="ee.php?section=support">Support</a>
                 </div>
               </li>
