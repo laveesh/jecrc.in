@@ -282,7 +282,7 @@
 					<div class="card-header text-center"><h4>Mr. Vishnu Dutt Sharma</h4></div>
 					<div class="row">
 						<div class="col-md-3 pt-1 py-1" align="center">
-							<img src="../departments/ee/src/img/people/faculty/Ashutosh.JPG"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+							<img src="../departments/ee/src/img/people/faculty/vishnu.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -303,7 +303,7 @@
 					<div class="card-header text-center"><h4>Mr. L. Senthil</h4></div>
 					<div class="row">
 						<div class="col-md-3 pt-1 py-1" align="center">
-							<img src="../departments/ee/src/img/people/faculty/Neha.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+							<img src="../departments/ee/src/img/people/faculty/senthil.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -328,7 +328,7 @@
 					<div class="card-header text-center"><h4>Ms. Ravita Saraswat </h4></div>
 					<div class="row">
 						<div class="col-md-3 pt-1 py-1" align="center">
-							<img src="../departments/ee/src/img/people/faculty/Raj.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+							<img src="../departments/ee/src/img/people/faculty/ravita.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -349,7 +349,7 @@
 					<div class="card-header text-center"><h4>Dr. Sandeep Vyas</h4></div>
 					<div class="row">
 						<div class="col-md-3 pt-1 py-1" align="center">
-							<img src="../departments/ee/src/img/people/faculty/Vikash.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+							<img src="../departments/ee/src/img/people/faculty/sandeepvyas.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -375,7 +375,7 @@
 					<div class="card-header text-center"><h4>Ms. Sonali Chadha </h4></div>
 					<div class="row">
 						<div class="col-md-3 pt-1 py-1" align="center">
-							<img src="../departments/ee/src/img/people/faculty/Venimadhav.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+							<img src="../departments/ee/src/img/people/faculty/sonali.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
