@@ -8,7 +8,7 @@
 					<div class="card-header text-center"><h4>Monika Sharma</h4></div>
 					<div class="row">
 						<div class="col-md-3 pt-1 py-1" align="center">
-							<img src="../departments/civil/src/img/people/faculty/monika.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+							<img src="../departments/civil/src/img/people/faculty/monika.JPG"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -100,7 +100,7 @@
 					<div class="card-header text-center"><h4>Hetram Sharma </h4></div>
 					<div class="row">
 						<div class="col-md-3 pt-1 py-1" align="center">
-							<img src="../departments/civil/src/img/people/faculty/hetram.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+							<img src="../departments/civil/src/img/people/faculty/hetram.JPG"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -120,7 +120,7 @@
 					<div class="card-header text-center"><h4>Prateek Kumar Sharma</h4></div>
 					<div class="row">
 						<div class="col-md-3 pt-1 py-1" align="center">
-							<img src="../departments/civil/src/img/people/faculty/prateek.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+							<img src="../departments/civil/src/img/people/faculty/prateek.JPG"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -252,7 +252,7 @@
 					<div class="card-header text-center"><h4>Anuradha Singh</h4></div>
 					<div class="row">
 						<div class="col-md-3 pt-1 py-1" align="center">
-							<img src="../departments/civil/src/img/people/faculty/anuradha.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+							<img src="../departments/civil/src/img/people/faculty/anuradha.JPG"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -276,7 +276,7 @@
 					<div class="card-header text-center"><h4>Shilpa Thakur</h4></div>
 					<div class="row">
 						<div class="col-md-3 pt-1 py-1" align="center">
-							<img src="../departments/civil/src/img/people/faculty/shilpa.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+							<img src="../departments/civil/src/img/people/faculty/shilpa.JPG"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
@@ -386,7 +386,7 @@
 					<div class="card-header text-center"><h4>Shivangni Khandelwal</h4></div>
 					<div class="row">
 						<div class="col-md-3 pt-1 py-1" align="center">
-							<img src="../departments/civil/src/img/people/faculty/shivangni.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+							<img src="../departments/civil/src/img/people/faculty/shivangni.JPG"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
