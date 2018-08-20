@@ -223,7 +223,7 @@
 	</div>
 
 </div>
-
+<div class="row section-content">
 	<div class="col-md-6 mt-4">
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Nida Khanam</h4></div>
@@ -243,8 +243,6 @@
 					</div>
 				</div>
 	</div>
-
-</div>
 
 
 	<div class="col-md-6 mt-4">
@@ -268,6 +266,8 @@
 	</div>
 
 </div>
+
+
 
 
 <div class="row sectionContent">
