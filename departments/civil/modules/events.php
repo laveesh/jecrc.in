@@ -7,34 +7,10 @@
 					<div id="events_carausel" class="carousel slide" data-ride="carousel">
 					<ol class="carousel-indicators">
 						<li data-target="#events_carausel" data-slide-to="0" class="active"></li>
-						<li data-target="#events_carausel" data-slide-to="1"></li>
-						<li data-target="#events_carausel" data-slide-to="2"></li>
-						<li data-target="#events_carausel" data-slide-to="3"></li>
-						<li data-target="#events_carausel" data-slide-to="4"></li>
-						<li data-target="#events_carausel" data-slide-to="5"></li>
-						<li data-target="#events_carausel" data-slide-to="6"></li>
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/redhat/1.jpg" alt="redhat">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/redhat/2.jpg" alt="redhat">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/redhat/3.jpg" alt="redhat">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/redhat/4.jpg" alt="redhat">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/redhat/5.jpg" alt="redhat">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/redhat/6.jpg" alt="redhat">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/redhat/7.jpg" alt="redhat">
+							<img class="d-block w-100" src="../departments/civil/src/img/Events/stp/1.jpeg" alt="STP">
 						</div>
 					</div>
 					<a class="carousel-control-prev" href="#events_carausel" role="button" data-slide="prev">
@@ -64,10 +40,14 @@
 					<div id="events_carausel2" class="carousel slide" data-ride="carousel">
 					<ol class="carousel-indicators">
 						<li data-target="#events_carausel2" data-slide-to="0" class="active"></li>
+						<li data-target="#events_carausel2" data-slide-to="1" class="active"></li>
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/seminar-ICT/1.jpg" alt="ICT">
+							<img class="d-block w-100" src="../departments/civil/src/img/Events/jantar-mantar/1.jpg" alt="redhat">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/civil/src/img/Events/jantar-mantar/2.jpg" alt="redhat">
 						</div>
 					</div>
 					<a class="carousel-control-prev" href="#events_carausel2" role="button" data-slide="prev">
@@ -98,10 +78,14 @@
 					<div id="events_carausel2" class="carousel slide" data-ride="carousel">
 					<ol class="carousel-indicators">
 						<li data-target="#events_carausel2" data-slide-to="0" class="active"></li>
+						<li data-target="#events_carausel2" data-slide-to="1"></li>
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/ece/src/img/Events/seminar-ICT/1.jpg" alt="ICT">
+							<img class="d-block w-100" src="../departments/civil/src/img/Events/j-techtrix/1.jpg" alt="redhat">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/civil/src/img/Events/j-techtrix/2.jpg" alt="redhat">
 						</div>
 					</div>
 					<a class="carousel-control-prev" href="#events_carausel2" role="button" data-slide="prev">

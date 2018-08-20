@@ -34,7 +34,7 @@
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="civil.php?section=academics">Academics</a>
-                  <a class="dropdown-item" href="civil.php?section=student_opportunities">Student Opportunities</a>
+                  <!-- <a class="dropdown-item" href="civil.php?section=student_opportunities">Student Opportunities</a> -->
                   <a class="dropdown-item" href="civil.php?section=ug_program">Under Graduate Program</a>
                   <a class="dropdown-item" href="civil.php?section=program_outcomes">Program Outcomes</a>
                   <a class="dropdown-item" href="civil.php?section=program_edu_obj">Program Education Objective</a>
