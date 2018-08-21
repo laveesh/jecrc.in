@@ -1,5 +1,5 @@
 <div class="container card section">
-<div class="sectionHeading">Undergraduate Program</div>
+<!-- <div class="sectionHeading">Undergraduate Program</div>
 <div class="card-body sectionContent">
     <p>The objective of Department of CE for the undergraduate programe is:</p>
         <ol>
@@ -23,7 +23,7 @@
     </ol>
 
     <p>Candidates have to appear in the State JEE Exam apart from the qualification given above to get admission.</p>
-    <p>The Institute is affiliated to Rajasthan technical University Technical University (RTU), Kota, Rajasthan. B.Tech course is duly approved by the All India Council for Technical Education (AICTE), Government of India.</p>
+    <p>The Institute is affiliated to Rajasthan technical University Technical University (RTU), Kota, Rajasthan. B.Tech course is duly approved by the All India Council for Technical Education (AICTE), Government of India.</p> -->
 
     	<iframe src="https://docs.google.com/gview?url=https://jecrcwebsite.herokuapp.com/departments/civil/src/pdf/ugprog.pdf&embedded=true" class="embed-doc" frameborder="0"></iframe>
 </div>
