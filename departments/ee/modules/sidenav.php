@@ -65,15 +65,7 @@
                   <a class="dropdown-item" href="ee.php?section=staff">Technical Staff</a>
                 </div>
               </li>
-              <li class="nav-item dropdown">
-                <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  Events
-                </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="ee.php?section=tech_events">Technical Events</a>
-                  
-                </div>
-              </li>
+              <li class="active"><a href="ee.php?section=tech_events">Events<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   Awards/Achivements
