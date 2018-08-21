@@ -9,18 +9,17 @@
         <marquee behavior="scroll" scrolldelay=60 scrollamount=4 direction="up" height=100%>
         <ul class="list-group list-group-flush">
             <li class="list-group-item text-success">1.When the pain of ordering medicines online was lowered by our students
-              <img src="../departments/ee/src/img/news/image1.png" alt="news image" class="img-fluid img-thumbnail">
+              
             </li>
             <li class="list-group-item text-primary">2.Department of Electrical Engineering conducted 14 days induction program for 3rd semester students in which Guest lecture and motivation lecture have been conducted.
-              <img src="../departments/ee/src/img/news/image3.jpg" alt="news image" class="img-fluid img-thumbnail">
-            </li>
+                          </li>
 
             <li class="list-group-item text-primary">3.A SARAS DAIRY PLANT Industrial Visit was conducted for 5th semester 
-              <img src="../departments/ee/src/img/news/image2.jpg" alt="news image" class="img-fluid img-thumbnail">
+              
             </li>
   
             <li class="list-group-item text-primary">4.An Industrial visit to RVPNL  Jaipur was conducted for 7th semester
-              <img src="../departments/ee/src/img/news/image4.jpg" alt="news image" class="img-fluid img-thumbnail">
+              
             </li>
             
           </ul>

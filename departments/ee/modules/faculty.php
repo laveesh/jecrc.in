@@ -18,9 +18,10 @@
 								<li class="list-group-item">ashoksingh.ee@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 18 year</li>
 								<li class="list-group-item">Publication: 1</li>
+								<li class="list-group-item">Research:</li>
 							</ul>
 						</div>
-					</div>
+					</div>		
 				</div>
 	</div>
 	
@@ -39,6 +40,7 @@
 								<li class="list-group-item">atulkulshrestha.ee@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 15 year</li>
 								<li class="list-group-item">Publication: 1</li>
+								<li class="list-group-item">Research:</li>
 							</ul>
 						</div>
 					</div>
@@ -65,6 +67,7 @@
 								<li class="list-group-item">ramsingh.ee@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 8 year</li>
 								<li class="list-group-item">Publication: 0</li>
+								<li class="list-group-item">Research:</li>
 							</ul>
 						</div>
 					</div>
@@ -86,6 +89,7 @@
 								<li class="list-group-item">rahulkumar.ee@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 8 year</li>
 								<li class="list-group-item">Publication: 1</li>
+								<li class="list-group-item">Research:</li>
 							</ul>
 						</div>
 					</div>
@@ -111,6 +115,7 @@
 								<li class="list-group-item">sunilsharma.ee@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 19 year</li>
 								<li class="list-group-item">Publication: 0</li>
+								<li class="list-group-item">Research:</li>
 							</ul>
 						</div>
 					</div>
@@ -132,6 +137,7 @@
 								<li class="list-group-item">yazushasharma.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 16 year</li>
 								<li class="list-group-item">Publication: 1</li>
+								<li class="list-group-item">Research:</li>
 							</ul>
 						</div>
 					</div>
@@ -157,6 +163,7 @@
 								<li class="list-group-item">geetikamathur.ee@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 10 year</li>
 								<li class="list-group-item">Publication: 8</li>
+								<li class="list-group-item">Research:</li>
 							</ul>
 						</div>
 					</div>
@@ -178,6 +185,7 @@
 								<li class="list-group-item">gopaltiwari@gmail.com</li>
 								<li class="list-group-item">Experience: 13 year</li>
 								<li class="list-group-item">Publication: 0</li>
+								<li class="list-group-item">Research:</li>
 							</ul>
 						</div>
 					</div>
@@ -202,6 +210,7 @@
 								<li class="list-group-item">mans=ishmpal.ee@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 8 year</li>
 								<li class="list-group-item">Publication: 2</li>
+								<li class="list-group-item">Research:</li>
 							</ul>
 						</div>
 					</div>
@@ -223,6 +232,7 @@
 								<li class="list-group-item">Vikassharma.ee@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 8.5 year</li>
 								<li class="list-group-item">Publication: 2</li>
+								<li class="list-group-item">Research:</li>
 							</ul>
 						</div>
 					</div>
@@ -246,6 +256,7 @@
 								<li class="list-group-item">poonamgupta.ee@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 6 year</li>
 								<li class="list-group-item">Publication: 0</li>
+								<li class="list-group-item">Research:</li>
 							</ul>
 						</div>
 					</div>
@@ -267,6 +278,7 @@
 								<li class="list-group-item">pravinkusheilendra.ee@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 5.5 year</li>
 								<li class="list-group-item">Publication: 2</li>
+								<li class="list-group-item">Research:</li>
 							</ul>
 						</div>
 					</div>
@@ -292,6 +304,7 @@
 								<li class="list-group-item">vishnuduttsharma.ee@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 8 year</li>
 								<li class="list-group-item">Publication: 1</li>
+								<li class="list-group-item">Research:</li>
 							</ul>
 						</div>
 					</div>
@@ -313,6 +326,7 @@
 								<li class="list-group-item">senthilakshmanan.ee@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 9 year</li>
 								<li class="list-group-item">Publication: 4</li>
+								<li class="list-group-item">Research:</li>
 							</ul>
 						</div>
 					</div>
@@ -338,6 +352,7 @@
 								<li class="list-group-item">ravita.ee@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 6 year</li>
 								<li class="list-group-item">Publication: 0</li>
+								<li class="list-group-item">Research:</li>
 							</ul>
 						</div>
 					</div>
@@ -359,6 +374,7 @@
 								<li class="list-group-item">dr.sandeepvyas.ee@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 6 year</li>
 								<li class="list-group-item">Publication: 3</li>
+								<li class="list-group-item">Research:</li>
 							</ul>
 						</div>
 					</div>
@@ -385,6 +401,7 @@
 								<li class="list-group-item">chadhasonali.ee@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 8.5 year</li>
 								<li class="list-group-item">Publication: 0</li>
+								<li class="list-group-item">Research:</li>
 							</ul>
 						</div>
 					</div>
