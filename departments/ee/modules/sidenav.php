@@ -94,7 +94,7 @@
                   <a class="dropdown-item" href="ee.php?section=support">Alumni Support</a>
                 </div>
               </li>
-              <li class="active"><a href="ee.php?section=student_associations">Placements<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              <li class="active"><a href="ee.php?section=placements">Placements<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               
               <li class="active"><a href="ee.php?section=student_associations">Clubs<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
                 </ul>
