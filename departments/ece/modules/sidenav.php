@@ -22,9 +22,10 @@
                   About
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="ece.php?section=history">About US</a>
                   <a class="dropdown-item" href="ece.php?section=history">History</a>
-                  <a class="dropdown-item" href="ece.php?section=mission_vision">Mission and Vision</a>
-                  <a class="dropdown-item" href="ece.php?section=hod_message">HoD's Message</a>
+                  <a class="dropdown-item" href="ece.php?section=mission_vision">Vision and Mission</a>
+                  <a class="dropdown-item" href="ece.php?section=hod_message">Program Coordinator's Message</a>
                   <a class="dropdown-item" href="ece.php?section=contact">Contact Us</a>
                 </div>
               </li>
@@ -34,10 +35,11 @@
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="ece.php?section=academics">Academics</a>
-                  <a class="dropdown-item" href="ece.php?section=student_opportunities">Student Opportunities</a>
+                  
                   <a class="dropdown-item" href="ece.php?section=ug_program">Under Graduate Program</a>
                   <a class="dropdown-item" href="ece.php?section=program_outcomes">Program Outcomes</a>
                   <a class="dropdown-item" href="ece.php?section=program_edu_obj">Program Education Objective</a>
+                  <a class="dropdown-item" href="ece.php?section=student_opportunities">Program Specific Outcomes</a>
                   <a class="dropdown-item" href="ece.php?section=course_outcomes">Course Outcomes</a>
                   <a class="dropdown-item" href="ece.php?section=co_po_mapping">CO and PO Mapping</a>
                 </div>
@@ -46,27 +48,28 @@
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   Research
                 </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="ece.php?section=research">Research</a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown"> 
                   <a class="dropdown-item" href="ece.php?section=publication">Publication</a>
+                  <a class="dropdown-item" href="ece.php?section=research">Projects</a>
                 </div>
               </li>
               <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  People
-                </a>
+                  Faculty & Staff                </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="ece.php?section=faculty">Faculty</a>
-                  <a class="dropdown-item" href="ece.php?section=staff">Staff</a>
+                  <a class="dropdown-item" href="ece.php?section=staff">Technical Staff</a>
                 </div>
               </li>
-              <li class="nav-item dropdown">
+             
+                <li class="active"><a href="ece.php?section=tech_events">Events<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+                
+                <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  Events
+                  Awards/Achievements
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="ece.php?section=events">Events</a>
-                  <a class="dropdown-item" href="ece.php?section=tech_events">Technical Events</a>
                   <a class="dropdown-item" href="ece.php?section=awards_faculty">Faculties Awards</a>
                   <a class="dropdown-item" href="ece.php?section=awards_student">Students Awards</a>
                 </div>
@@ -86,10 +89,11 @@
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="ece.php?section=alumni">Alumni</a>
-                  <a class="dropdown-item" href="ece.php?section=support">Support</a>
+                  <a class="dropdown-item" href="ece.php?section=support">Alumni Support</a>
                 </div>
               </li>
-              <li class="active"><a href="ece.php?section=student_associations">Student Associations<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              <li class="active"><a href="ece.php?section=placements">Placements<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              <li class="active"><a href="ece.php?section=student_associations">Clubs<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
       					</ul>
       				</li>
       			</ul>

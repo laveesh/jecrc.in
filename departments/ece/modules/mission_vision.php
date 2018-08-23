@@ -1,5 +1,5 @@
 <section class="section container card">
-  <div class="sectionHeading">Mission and Vision</div>
+  <div class="sectionHeading">Vision and Mission</div>
   <div class="sectionContent card-body">
     <h3 class="sectionSubHeading">Vision</h3>
     <p>To contribute through excellence in scientific and technical education, teaching and research in Electronics and Communication Engineering & to meet the needs of global industry.
