@@ -1,11 +1,10 @@
-<!-- COMPUTER SCIENCE HOME PAGE -->
-<div class="container-fluid">
+<section class="section container-fluid">
   <div class="row">
     <div class="col-md-3">
-      <section class="section container card">
-        <div class="sectionHeading">RECENT NEWS</div>
-        <div class="sectionContent card-body px-4">
-          <marquee behavior="scroll" scrolldelay=60 scrollamount=4 direction="up" height=100%>
+      <div class="sectionHeading">RECENT NEWS</div>
+      <div class="h-section card sectionContent container">
+        <div class="card-body">
+                    <marquee behavior="scroll" scrolldelay=60 scrollamount=4 direction="up" height=100%>
           <ul class="list-group list-group-flush text-primary">
             <li class="list-group-item">
               International Workshop On <strong>Open Source Innovations</strong>
@@ -22,27 +21,35 @@
           </ul>
           </marquee>
         </div>
-      </section>
+      
     </div>
+      </div>
+
     <div class="col-md-6">
-      <section class="section container card">
-        <div class="sectionHeading">NEWS LETTER - CSE SCOOP</div>
+      <div class="sectionHeading">NEWS LETTER - CSE SCOOP</div>
+      <div class="section container card h-section">
         <div class="sectionContent card-body">
-          <iframe src="https://docs.google.com/gview?url=https://jecrcwebsite.herokuapp.com/departments/cse/src/pdf/CSESCOOP.pdf&embedded=true" class="embed-doc" frameborder="0"></iframe> 
-          <p class="px-2 pt-1">
+          <div class="owl-carousel owl-theme py-2 px-2">
+    <div class="item"><img src="../departments/cse/src/img/newsletters/Vol-1issue1.jpg" alt="" class="img-thumbnail"></div>
+    <div class="item"><img src="../departments/cse/src/img/newsletters/Vol-1issue1.jpg" alt="" class="img-thumbnail"></div>
+    <div class="item"><img src="../departments/cse/src/img/newsletters/Vol-1issue1.jpg" alt="" class="img-thumbnail"></div>
+    
+</div>
+ <p class="px-2 pt-2">
             The area of Computer Science and Engineering deals with not only Theory of Computation and Design of Computational Systems, but also new engineering trends in software and hardware technology. A good technologist with this specialization is expected to possess excellent analytical ability, mathematical aptitude, problem solving skills and a logical mind. The Computer Science and Engineering Department at JECRC College is affiliated to Rajasthan Technical University, Kota and endeavours to provide an environment where students can grow into Computer Engineers of tomorrow possessing all these necessary attributes. Academic standards are high and students have an opportunity to learn from experienced and well-qualified faculty members. The classroom sessions are reinforced through practical sessions, projects, workshops and many other co-curricular activities. Industrial interaction is promoted through various MOUs with companies like Accenture, TCS, and Pinnacle resulting in increased employability of students.
 
           </p>
         </div>
-        
-      </section>
+      </div>
     </div>
+   
     <div class="col-md-3">
-      <section class="section container-fluid card">
-        <div class="sectionHeading">STUDENT SPOTLIGHT</div>
-        <div class="sectionHeading">Gate Qualifiers</div>
-        <div class="row">
-          <div class="col-md-6">
+      <div class="sectionHeading">STUDENT SPOTLIGHT</div>
+      <div class="section h-section card container">
+        <div class="card-body sectionContent">
+          <div class="sectionHeading">Gate Qualifiers</div>
+        <div class="container">
+          
             <ul class="list-group list-group-flush">
           <li class="list-group-item">Apurvi Mansinghka</li>
           <li class="list-group-item">Akshay vijayvargiya</li>
@@ -52,11 +59,7 @@
           <li class="list-group-item">Kapil Khandelwal</li>
           <li class="list-group-item">Divaker Soni</li>
           <li class="list-group-item">Rohit Mathur</li>
-        </ul>
-          </div>
-          <div class="col-md-6">
-            <ul class="list-group list-group-flush">
-            <li class="list-group-item">Rohit Kumar Gupta</li>
+          <li class="list-group-item">Rohit Kumar Gupta</li>
             <li class="list-group-item">Mayank Prasad</li>
             <li class="list-group-item">Sakshi Singhal</li>
             <li class="list-group-item">Prakhar Garg</li>
@@ -64,10 +67,65 @@
             <li class="list-group-item">Mohit Kumawat</li>
             <li class="list-group-item">Vinod Kumar</li>
             <li class="list-group-item">Suryanshi Adaniya</li>
-          </ul>
-          </div>
+        </ul>
+          
         </div>
-      </section>
+        </div>
+      </div>
     </div>
   </div>
-</div>
+</section>
+
+<section class="section container-fluid px-3">
+	<div class="sectionHeading">ACADMICS TOPPERS</div>
+	<div class="row">
+		<div class="col-md-6 text-center border-right">
+			<div class="sectionHeading">Odd Semester</div>
+			<div class="row justify-content-center">
+				<div class="col-md-6 col-sm-6">
+					<img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle">
+					<p class="text-center">Arpit Sharma</p>
+				</div>
+				<div class="col-md-6 col-sm-6">
+					<img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle">
+					<p class="text-center">Arpit Sharma</p>
+				</div>
+				<div class="col-md-6 col-sm-6">
+					<img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle">
+					<p class="text-center">Arpit Sharma</p>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-6 text-center">
+			<div class="sectionHeading">Even Semester</div>
+			<div class="row justify-content-center">
+				<div class="col-md-6 col-sm-6">
+					<img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle">
+					<p class="text-center">Arpit Sharma</p>
+				</div>
+				<div class="col-md-6 col-sm-6">
+					<img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle">
+					<p class="text-center">Arpit Sharma</p>
+				</div>
+				<div class="col-md-6 col-sm-6">
+					<img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle">
+					<p class="text-center">Arpit Sharma</p>
+				</div>
+			</div>
+		</div>
+		
+	</div>
+</section>
+
+
+
+
+<script>
+  $('.owl-carousel').owlCarousel({
+    loop:false,
+    margin:10,
+    nav:true,
+    items: 3 
+    
+})
+</script>
