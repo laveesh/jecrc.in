@@ -18,6 +18,9 @@
             <li class="list-group-item">Induction Ceremony of JECRC batch 2017-21</li>
             <li class="list-group-item">Smart India Hackathon-2017 under MHRD association with AICTE</li>
             <li class="list-group-item">J-techtrix oraganised on April 08, 2017</li>
+            <li class="list-group-item">J-techtrix oraganised on April 08, 2017</li>
+            <li class="list-group-item">J-techtrix oraganised on April 08, 2017</li>
+            <li class="list-group-item">J-techtrix oraganised on April 08, 2017</li>
           </ul>
           </marquee>
         </div>
