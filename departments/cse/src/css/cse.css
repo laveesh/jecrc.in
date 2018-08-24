@@ -37,3 +37,8 @@ margin-right: 10px;
   max-height: 550px;
   overflow-y: scroll;
 }
+
+.topper{
+  width: 200px;
+  height: 200px;
+}

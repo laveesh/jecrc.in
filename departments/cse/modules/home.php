@@ -86,15 +86,15 @@
 			<div class="sectionHeading">Odd Semester</div>
 			<div class="row justify-content-center">
 				<div class="col-md-6 col-sm-6">
-					<img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle">
+					<img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
 					<p class="text-center">Arpit Sharma</p>
 				</div>
 				<div class="col-md-6 col-sm-6">
-					<img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle">
+					<img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
 					<p class="text-center">Arpit Sharma</p>
 				</div>
 				<div class="col-md-6 col-sm-6">
-					<img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle">
+					<img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
 					<p class="text-center">Arpit Sharma</p>
 				</div>
 			</div>
