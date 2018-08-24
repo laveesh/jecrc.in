@@ -17,7 +17,7 @@
       <div class="collegeHeader container-fluid bg-primary text-white">
         <a href="index.php"><img src="src/img/jecrclogo.png" id="jecrcLogo" alt="JECRC"></a>
         <span id="collegeName">Jaipur Engineering College And Research Center</span>
-        <div id="collegeUni">Affilated to Rajasthan Technical University, Kota (REAP CODE: 020)</div>
+        <div id="collegeUni">Approved by AICTE & Affilated to Rajasthan Technical University, Kota</div>
         <div id="collegeAdd">
           Shri Ram ki Nangal, via Sitapura RIICO, Tonk Road, Sukhpuria, Bambala, Jaipur, Rajasthan 302022
         </div>
@@ -161,7 +161,7 @@
           <div class="sectionContent card-body">
             <div class="col-12" style="text-align: center;">
               <img src="src/img/people/principal.jpg" class="rounded-circle img-responsive faculty-img" alt="principle">
-              <h3 class="py-1">V.K. Chandna</h3>
+              <h3 class="py-1">Dr. V.K. Chandna</h3>
               <h4 class="py-1">Principal</h4>
             </div>
             <div class="sectionContent overflow-y-scroll">
@@ -182,7 +182,7 @@
           <div class="sectionContent card-body">
             <div class="col-12" style="text-align: center;">
               <img src="src/img/people/arpit.jpg" class="rounded-circle img-responsive faculty-img" alt="principle">
-              <h3 class="py-1">Arpit Agarwal</h3>
+              <h3 class="py-1">Shri Arpit Agarwal</h3>
               <h4 class="py-1">Director</h4>
             </div>
             <div class="col-12 sectionContent overflow-y-scroll">

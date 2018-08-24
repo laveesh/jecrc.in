@@ -22,9 +22,10 @@
                   About
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="civil.php?section=about">About</a>
                   <a class="dropdown-item" href="civil.php?section=history">History</a>
-                  <a class="dropdown-item" href="civil.php?section=mission_vision">Mission and Vision</a>
-                  <a class="dropdown-item" href="civil.php?section=hod_message">HoD's Message</a>
+                  <a class="dropdown-item" href="civil.php?section=mission_vision">Vision and Mission</a>
+                  <a class="dropdown-item" href="civil.php?section=hod_message">Programme Coordinator's Message</a>
                   <a class="dropdown-item" href="civil.php?section=contact">Contact Us</a>
                 </div>
               </li>
@@ -34,10 +35,11 @@
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="civil.php?section=academics">Academics</a>
-                  <a class="dropdown-item" href="civil.php?section=student_opportunities">Student Opportunities</a>
+                  <!-- <a class="dropdown-item" href="civil.php?section=student_opportunities">Student Opportunities</a> -->
                   <a class="dropdown-item" href="civil.php?section=ug_program">Under Graduate Program</a>
                   <a class="dropdown-item" href="civil.php?section=program_outcomes">Program Outcomes</a>
                   <a class="dropdown-item" href="civil.php?section=program_edu_obj">Program Education Objective</a>
+                  <a class="dropdown-item" href="civil.php?section=program_edu_obj">Program Specific Objective</a>
                   <a class="dropdown-item" href="civil.php?section=course_outcomes">Course Outcomes</a>
                   <a class="dropdown-item" href="civil.php?section=co_po_mapping">CO and PO Mapping</a>
                 </div>
@@ -47,7 +49,7 @@
                   Research
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="civil.php?section=research">Research</a>
+                  <a class="dropdown-item" href="civil.php?section=research">Projects</a>
                   <a class="dropdown-item" href="civil.php?section=publication">Publication</a>
                 </div>
               </li>
@@ -57,10 +59,11 @@
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="civil.php?section=faculty">Faculty</a>
-                  <a class="dropdown-item" href="civil.php?section=staff">Staff</a>
+                  <a class="dropdown-item" href="civil.php?section=staff">Technical Staff</a>
                 </div>
               </li>
-              <li class="nav-item dropdown">
+              <li class="active"><a href="civil.php?section=tech_events">Events<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              <!-- <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   Events
                 </a>
@@ -70,7 +73,7 @@
                   <a class="dropdown-item" href="civil.php?section=awards_faculty">Faculties Awards</a>
                   <a class="dropdown-item" href="civil.php?section=awards_student">Students Awards</a>
                 </div>
-              </li>
+              </li> -->
               <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   Infrastructure
@@ -90,6 +93,16 @@
                   <a class="dropdown-item" href="civil.php?section=support">Support</a>
                 </div>
               </li>
+              <li class="nav-item dropdown">
+                <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Awards/Achievements
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="civil.php?section=events">Events</a>
+                  <a class="dropdown-item" href="civil.php?section=awards_faculty">Faculties Awards</a>
+                  <a class="dropdown-item" href="civil.php?section=awards_student">Students Awards</a>
+                </div>
+              </li> 
               <li class="active"><a href="civil.php?section=student_associations">Student Associations<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
       					</ul>
       				</li>

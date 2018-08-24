@@ -2,7 +2,7 @@
 	<div class="sectionHeading">HOD's Message</div>
 	<div class="row card-body flex-row">
 		<div class="col-md-4">
-				<img src="../departments/ece/src/img/people/faculty/.jpg" alt="hod image" class="card-img-top">
+				<img src="../departments/civil/src/img/hod.JPG" alt="hod image" class="card-img-top">
 		</div>
 		<div class="col-md-8">
 			<div class="card-block mt-2">
