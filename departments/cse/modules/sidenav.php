@@ -37,7 +37,7 @@
                   <a class="dropdown-item" href="cse.php?section=academics">Academics</a>
                   <a class="dropdown-item" href="cse.php?section=ug_program">Under Graduate Program</a>
                   <a class="dropdown-item" href="cse.php?section=program_outcomes">Programme Outcomes</a>
-                  <a class="dropdown-item" href="cse.php?section=program_edu_obj">Programme Educational Objective</a>
+                  <a class="dropdown-item" href="cse.php?section=program_edu_obj">Programme Educational Objectives</a>
                   <a class="dropdown-item" href="cse.php?section=program_spec_outcomes">Programme Specific  Outcomes</a>
                   <a class="dropdown-item" href="cse.php?section=course_outcomes">Course Outcomes</a>
                   <a class="dropdown-item" href="cse.php?section=co_po_mapping">CO and PO Mapping</a>
