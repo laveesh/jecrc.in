@@ -4,3 +4,6 @@ $ ( document ).ready(() => {
     var url="../departments/ece/modules/"+id+".php"
     $('#ece_root').load(url);
 });
+$(document).ready(function(){
+  $(".owl-carousel").owlCarousel();
+});
