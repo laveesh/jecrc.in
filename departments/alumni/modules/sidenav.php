@@ -16,22 +16,31 @@
         <div class="container-fluid">
           <div class="collapse navbar-collapse" id="bs-sidebar-navbar-collapse-1">
             <ul class="nav navbar-nav flex-column">
-              <li class="active"><a href="alumni.php?section=home">JECRC Alumni<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-              <li class="active"><a href="cse.php?section=alumni">
-                Computer Science<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-                <li class="active"><a href="it.php?section=alumni">
-                  Information Technology<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-                  <li class="active"><a href="ece.php?section=alumni">
-                    Electronics & Communication<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-                    <li class="active"><a href="me.php?section=alumni">
-                      Mechenical Engineering<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-                      <li class="active"><a href="ee.php?section=alumni">
-                        Electrical Engineering<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-                        <li class="active"><a href="civil.php?section=alumni">
-                          Civil Engineering<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-                        <li class="active"><a href="https://jecrc.almaconnect.com/" target="_blank">
-                          Alumni Support<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-                        </ul>
+             
+              <li class="nav-item dropdown">
+                <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Awards & Recognization
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="alumni.php?section=distinguished_award">JECRC Distinguished Alumni Award</a>
+                  <a class="dropdown-item" href="alumni.php?section=star_awards">JECRC Star Achievers Award</a>
+                  <a class="dropdown-item" href="alumni.php?section=trail_blazers">JECRC TRAIL Blazers Award</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                 Events & Activities
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="alumni.php?section=match">Alumni vs Faculty Match</a>
+                  <a class="dropdown-item" href="alumni.php?section=hangout">Hangout Session</a>
+                  <a class="dropdown-item" href="alumni.php?section=panel_discussion">Panel Discussion</a>
+                  </div>
+                  </li>
+                  <li class="active"><a href="alumni.php?section=mentorship">
+                Mentorship Module<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+                <li class="active"><a href="alumni.php?section=visionmission">
+                Vision & Mission<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>          </ul>
                       </div>
                     </div>
                   </div>
