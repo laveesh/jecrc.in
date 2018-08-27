@@ -22,9 +22,10 @@
                   About
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="it.php?section=history">About Us</a>
                   <a class="dropdown-item" href="it.php?section=history">History</a>
-                  <a class="dropdown-item" href="it.php?section=mission_vision">Mission and Vision</a>
-                  <a class="dropdown-item" href="it.php?section=hod_message">HoD's Message</a>
+                  <a class="dropdown-item" href="it.php?section=mission_vision">Vision and Mission</a>
+                  <a class="dropdown-item" href="it.php?section=hod_message">Program Coordinator's Message</a>
                   <a class="dropdown-item" href="it.php?section=contact">Contact Us</a>
                 </div>
               </li>
@@ -38,6 +39,7 @@
                   <a class="dropdown-item" href="it.php?section=ug_program">Under Graduate Program</a>
                   <a class="dropdown-item" href="it.php?section=program_outcomes">Program Outcomes</a>
                   <a class="dropdown-item" href="it.php?section=program_edu_obj">Program Education Objective</a>
+                  <a class="dropdown-item" href="it.php?section=program_edu_obj">Program Specific Outcomes</a>
                   <a class="dropdown-item" href="it.php?section=course_outcomes">Course Outcomes</a>
                   <a class="dropdown-item" href="it.php?section=co_po_mapping">CO and PO Mapping</a>
                 </div>
