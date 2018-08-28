@@ -17,7 +17,7 @@
 				<td>
 					<ul class="list-group list-group-flush">
 						<li class="list-group-item">CO-1 To identify the main elements in Computer Integrated Manufacturing Systems.</li>
-						<li class="list-group-item">CO-2To apply the knowledge of Computer Aided Process Planning (CAPP), features, Group Technology and data exchange in Manufacturing Processes.</li>
+						<li class="list-group-item">CO-2 To apply the knowledge of Computer Aided Process Planning (CAPP), features, Group Technology and data exchange in Manufacturing Processes.</li>
 						<li class="list-group-item">CO-3 To analyse the process product models with CAM tools and CNC machines with Collaborative Engineering</li>
 					</ul>
 				</td>
