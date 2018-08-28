@@ -266,7 +266,7 @@
 						<li class="list-group-item">CO-1 To identify the best machining process for machining of particular material among the conventional and unconventional machining process.</li>
 						<li class="list-group-item">CO-2 To describe the mechanism of metal removal of various unconventional machining processes.</li>
 						<li class="list-group-item">CO-3 To explain the effect of unconventional machining condition on MRR and surface roughness.</li>
-						<li class="list-group-item">CO-4 To categorise nano and micromachining processes and their industrial applications.</li>
+						<li class="list-group-item">CO-4 To categorize nano and micro-machining processes and their industrial applications.</li>
 					</ul>
 				</td>
 			</tr>

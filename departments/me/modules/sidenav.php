@@ -22,10 +22,10 @@
                   About
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="me.php?section=history">About</a>
+                  <a class="dropdown-item" href="me.php?section=about">About</a>
                   <a class="dropdown-item" href="me.php?section=history">History</a>
                   <a class="dropdown-item" href="me.php?section=mission_vision">Vision And Mission</a>
-                  <a class="dropdown-item" href="me.php?section=hod_message">Programme Cordinator's Message</a>
+                  <a class="dropdown-item" href="me.php?section=program_coordinators_message">Programme Coordinator's Message</a>
                   <a class="dropdown-item" href="me.php?section=contact">Contact Us</a>
 
                 </div>
@@ -68,7 +68,7 @@
               <li class="active"><a href="me.php?section=tech_events">Events<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  Awards/Achivements
+                  Awards/Achievements
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="me.php?section=events">Events</a>

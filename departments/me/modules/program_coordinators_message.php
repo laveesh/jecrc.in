@@ -1,5 +1,5 @@
 <section class="section container card">
-	<div class="sectionHeading">Program Co-Ordinator's Message</div>
+	<div class="sectionHeading">Programme Coordinator's Message</div>
 	<div class="panel-body card">
 					<div class="row">
 						<div class="col-md-4 py-3" align="center">

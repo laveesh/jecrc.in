@@ -252,7 +252,7 @@
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
-							<li class="list-group-item"><strong>Educational Qualification</strong>: P.hd (Persuing)</li>
+							<li class="list-group-item"><strong>Educational Qualification</strong>: P.hd (Pursuing)</li>
 							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 							
 							<li class="list-group-item">manmohan.me@jecrc.ac.in</li>
@@ -293,7 +293,7 @@
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
-							<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech. (Persuing)</li>
+							<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech. (Pursuing)</li>
 							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 							
 							<li class="list-group-item">raviyadav.me@jecrc.ac.in</li>
@@ -314,7 +314,7 @@
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
-							<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech. (Persuing)</li>
+							<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech. (Pursuing)</li>
 							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 							
 							<li class="list-group-item">ravijangid.me@jecrc.ac.in</li>
@@ -334,7 +334,7 @@
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
-							<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech. (Persuing)</li>
+							<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech. (Pursuing)</li>
 							<li class="list-group-item"><strong>Designation     </strong>: Faculty</li>
 							
 							<li class="list-group-item">nitinchhabra.me@jecrc.ac.in</li>
@@ -355,7 +355,7 @@
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
-							<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech. (Persuing)</li>
+							<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech. (Pursuing)</li>
 							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 							
 							<li class="list-group-item">dilipprajapati.me@jecrc.ac.in</li>
@@ -375,7 +375,7 @@
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
-							<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech. (Persuing)</li>
+							<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech. (Pursuing)</li>
 							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 							
 							<li class="list-group-item">jetu.gupta.me@jecrc.ac.in</li>
@@ -532,14 +532,14 @@
 		</div>
 		<div class="col-md-6 mt-4">
 			<div class="panel-body card">
-				<div class="card-header text-center"><h4>Mr. Nikhl Jain </h4></div>
+				<div class="card-header text-center"><h4>Mr. Nikhil Jain </h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
 						<img src="../departments/me/src/img/people/faculty/nikhil.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
-							<li class="list-group-item"><strong>Educational Qualification</strong>: P.hd (Persuing)</li>
+							<li class="list-group-item"><strong>Educational Qualification</strong>: P.hd (Pursuing)</li>
 							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 							
 							<li class="list-group-item">nikhiljain981.me@jecrc.ac.in</li>

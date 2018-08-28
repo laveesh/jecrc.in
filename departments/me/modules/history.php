@@ -5,13 +5,13 @@
 		</p>
 		<p>The Department currently offers Under Graduate program B. Tech. Mechanical Engineering. Department have well balanced academics and industrial experience faculty members and well equipped laboratory expose students to correlate theoretical concept in the practical work.
 		</p>
-		<p>In 2018, Centre of Excellence establish collaborated with CADD CENTRE promote high quality education by providing state-of-the-art and emerging technologies in the academy as well as industry with the objective of nurturing highly engineering professionals.The department is always motivating students to participate in the various technical/social activities held inside/outside the institute to develop their dynamic personality and leadership quality.
+		<p>In 2018, Center of Excellence establish collaborated with CADD CENTRE promote high quality education by providing state-of-the-art and emerging technologies in the academy as well as industry with the objective of nurturing highly engineering professionals.The department is always motivating students to participate in the various technical/social activities held inside/outside the institute to develop their dynamic personality and leadership quality.
 		</p>
 		<p>
 			<ul class="sectionList">
-			<li><strong>Moonriders(Est. 2009) :</strong> Moonriders is a student club in which students work on the automobiles , takes part in different national level compititions.</li>
+			<li><strong>Moonriders(Est. 2009) :</strong> Moonriders is a student club in which students work on the automobiles , takes part in different national level competition.</li>
 			<li><strong>Aashayein(Est. 2013) :</strong> Aashayein is a student club which work for the patients or people who need blood ,SDP . they conducts the blood donation camp in the campus.</li>
-			<li><strong>Abhudhya :</strong> Is the cluster of social groups at jecrc which work for the development of the less fortunate sections of the society by providing free education ,medical care,stationary,etc.</li>
+			<li><strong>Abhudhya :</strong> Is the cluster of social groups at JECRC which work for the development of the less fortunate sections of the society by providing free education ,medical care,stationary,etc.</li>
 			</ul>
 			</p>
 	</div>
