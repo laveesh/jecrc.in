@@ -808,5 +808,109 @@
 				</div>
 			</div>
 		</div>
+
+		<div class="col-md-6 mt-4">
+			<div class="panel-body card">
+				<div class="card-header text-center"><h4>Mr. Neeraj Saini</h4></div>
+				<div class="row">
+					<div class="col-md-3 pt-1 py-1" align="center">
+						<img src="../departments/me/src/img/people/faculty/NEERAJ_SAINI.png"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+					</div>
+					<div class="col-md-9 px-2">
+						<ul class="list-group list-group-flush">
+							<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech., Ph.D(Purs.)</li>
+							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
+							<li class="list-group-item">neerajsaini.engg@gmail.com</li>
+							<li class="list-group-item"><Strong>Research Area:</strong>Railways transportation, operations research, operations management, supply chain management</li>
+							<li class="list-group-item">Experience: 1.5 years</li>
+							<!-- <li class="list-group-item">Publication: 01</li> -->
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-6 mt-4">
+			<div class="panel-body card">
+				<div class="card-header text-center"><h4>Mr. Devesh Kumar </h4></div>
+				<div class="row">
+					<div class="col-md-3 pt-1 py-1" align="center">
+						<img src="../departments/me/src/img/people/faculty/DEVESH_KUMAR.png"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+					</div>
+					<div class="col-md-9 px-2">
+						<ul class="list-group list-group-flush">
+							<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech., Ph.D(Purs.)</li>
+							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
+							
+							<li class="list-group-item">deveshmech19@gmail.com</li>
+							<li class="list-group-item"><Strong>Research Area:</strong>Materials Science and High Entropy Alloys</li>
+							<li class="list-group-item">Experience: 1.5 years</li>
+							<!-- <li class="list-group-item">Publication: 01</li> -->
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-6 mt-4">
+			<div class="panel-body card">
+				<div class="card-header text-center"><h4>Dr. Fauzia Siddiqui</h4></div>
+				<div class="row">
+					<div class="col-md-3 pt-1 py-1" align="center">
+						<img src="../departments/me/src/img/people/faculty/FAUZIA_SIDDIQUI.png"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+					</div>
+					<div class="col-md-9 px-2">
+						<ul class="list-group list-group-flush">
+							<li class="list-group-item"><strong>Educational Qualification</strong>: Ph.D </li>
+							<li class="list-group-item"><strong>Designation</strong>: Professor</li>
+							
+							<li class="list-group-item">fauzia.hoda@gmail.com</li>
+							<li class="list-group-item"><Strong>Research Area:</strong>Industrial and Production, Total Quality Management, Flexible Systems, Supply Chain Management, Manufacturing practices</li>
+							<li class="list-group-item">Experience: 16+ years</li>
+							<!-- <li class="list-group-item">Publication: 03</li> -->
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-6 mt-4">
+			<div class="panel-body card">
+				<div class="card-header text-center"><h4>Mr. Ravindra Kumar</h4></div>
+				<div class="row">
+					<div class="col-md-3 pt-1 py-1" align="center">
+						<img src="../departments/me/src/img/people/faculty/RAVINDRA_KUMAR.png"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+					</div>
+					<div class="col-md-9 px-2">
+						<ul class="list-group list-group-flush">
+							<li class="list-group-item"><strong>Educational Qualification</strong>: Ph.D.</li>
+							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
+							
+							<li class="list-group-item">kumarravindramahto@gmail.com</li>
+							<li class="list-group-item"><Strong>Research Area:</strong>Thermal Engineering</li>
+							<li class="list-group-item">Experience: 3 years</li>
+							<!-- <li class="list-group-item">Publication: 01</li> -->
+						</ul>
+					</div>
+				</div>
+			</div>  
+		</div> 
+		<div class="col-md-6 mt-4">
+			<div class="panel-body card">
+				<div class="card-header text-center"><h4>Dr. Rishi Pareek</h4></div>
+				<div class="row">
+					<div class="col-md-3 pt-1 py-1" align="center">
+						<img src="../departments/me/src/img/people/faculty/RISHI_PAREEK.png"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+					</div>
+					<div class="col-md-9 px-2">
+						<ul class="list-group list-group-flush">
+							<li class="list-group-item"><strong>Educational Qualification</strong>: Ph.D</li>
+							<li class="list-group-item"><strong>Designation</strong>: Associate Professor</li>
+							
+							<li class="list-group-item">rishi.pareek@yahoo.com</li>
+							<li class="list-group-item"><Strong>Research Area:</strong>Renewable Energy, I.C. Engines and Automobile Engineering</li>
+							<li class="list-group-item">Experience: 4 years</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
 	</div>
 </section>
