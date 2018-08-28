@@ -4,3 +4,6 @@ $ ( document ).ready(() => {
     var url="../departments/civil/modules/"+id+".php"
     $('#civil_root').load(url);
 });
+$(document).ready(function(){
+  $(".owl-carousel").owlCarousel();
+});
