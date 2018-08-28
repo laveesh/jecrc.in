@@ -890,7 +890,7 @@
 						</ul>
 					</div>
 				</div>
-			</div>
+			</div>  
 		</div> 
 		<div class="col-md-6 mt-4">
 			<div class="panel-body card">
