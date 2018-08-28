@@ -3,27 +3,62 @@
 	<div class="card-body sectionContent">
 <p>The department has been provided with following laboratories and workshops fully equipped
 with equipment and machinery as prescribed in the syllabus.</p>
-<ul style="list-style-type: none;" class="sectionList">
-<li>Electronic Devices Circuit Lab</li>
-<li>Electronics Circuit Lab</li>
-<li>Pulse Digital Circuits Lab</li>
-<li>Analog Communication Lab</li>
-<li>Linear IC Applications Lab</li>
-<li>Microprocessors Microcontrollers Lab</li>
-<li>Digital Communication Lab</li>
-<li>Micro Processors Lab</li>
-<li>ECAD Lab</li>
-<li>Digital Signal Processing Lab</li>
-<li>Microwave Optical Communications Lab</li>
-</ul>
 <div class="images"> 
-	<div class="row">
-	<div class="col-md-6 col-sm-12"><img class="img-thumbnail" src="../departments/ece/src/img/labs/cadLab1.jpg"></div>
- 	<div class="col-md-6 col-sm-12"><img class="img-thumbnail" src="../departments/ece/src/img/labs/cadLab2.jpg"></div>
+	<div class="row my-2">
+	<div class="col-md-6 col-sm-12"><img class="img-thumbnail" src="../departments/civil/src/img/labs/anm.JPG">
+	Application of Numerical Methods
+	</div>
+ 	<div class="col-md-6 col-sm-12"><img class="img-thumbnail" src="../departments/civil/src/img/labs/cem.JPG">
+	 Civil Engineering Materials Lab
+	</div>
  	</div>
- 	<div class="row">
-  	<div class="col-md-6 col-sm-12"><img class="img-thumbnail" src="../departments/ece/src/img/labs/de_lab.jpg"></div>
-   	<div class="col-md-6 col-sm-12"><img class="img-thumbnail" src="../departments/ece/src/img/labs/edc_lab.jpg"></div>
+ 	<div class="row my-2">
+  	<div class="col-md-6 col-sm-12"><img class="img-thumbnail" src="../departments/civil/src/img/labs/cabd.JPG">
+	  Computer Aided Building Design
+	</div>
+   	<div class="col-md-6 col-sm-12"><img class="img-thumbnail" src="../departments/civil/src/img/labs/ct.JPG">
+	   Concrete Technology
+	</div>
+   	</div>
+ 	<div class="row my-2">
+  	<div class="col-md-6 col-sm-12"><img class="img-thumbnail" src="../departments/civil/src/img/labs/eel.JPG">
+	  Environmental Engineering Lab
+	</div>
+   	<div class="col-md-6 col-sm-12"><img class="img-thumbnail" src="../departments/civil/src/img/labs/fml.JPG">
+	   Fluid Mechanics Lab
+	</div>
+   	</div>
+ 	<div class="row my-2">
+  	<div class="col-md-6 col-sm-12"><img class="img-thumbnail" src="../departments/civil/src/img/labs/gl.JPG">
+	  Geology Lab
+	</div>
+   	<div class="col-md-6 col-sm-12"><img class="img-thumbnail" src="../departments/civil/src/img/labs/gel.JPG">
+	   Geotechnical Engineering Lab
+	</div>
+   	</div>
+ 	<div class="row my-2">
+  	<div class="col-md-6 col-sm-12"><img class="img-thumbnail" src="../departments/civil/src/img/labs/hml.JPG">
+	  Hydraulic Machines Lab
+	</div>
+   	<div class="col-md-6 col-sm-12"><img class="img-thumbnail" src="../departments/civil/src/img/labs/mtl.JPG">
+	   Material Testing Lab
+	</div>
+   	</div>
+ 	<div class="row my-2">
+  	<div class="col-md-6 col-sm-12"><img class="img-thumbnail" src="../departments/civil/src/img/labs/ssd.JPG">
+	  Steel Structures Design
+	</div>
+   	<div class="col-md-6 col-sm-12"><img class="img-thumbnail" src="../departments/civil/src/img/labs/sel.JPG">
+	   Structural Engineering Lab
+	</div>
+   	</div>
+ 	<div class="row my-2">
+  	<div class="col-md-6 col-sm-12"><img class="img-thumbnail" src="../departments/civil/src/img/labs/sl1.jpg">
+	  Surveying Lab-I
+	</div>
+   	<div class="col-md-6 col-sm-12"><img class="img-thumbnail" src="../departments/civil/src/img/labs/sl2.jpg">
+	   Surveying Lab-II
+	</div>
    	</div>
 </div>
 </section>

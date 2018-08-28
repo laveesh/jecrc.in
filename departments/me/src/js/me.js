@@ -4,3 +4,6 @@ $ ( document ).ready(() => {
     var url="../departments/me/modules/"+id+".php"
     $('#me_root').load(url);
 });
+$(document).ready(function(){
+  $(".owl-carousel").owlCarousel();
+});

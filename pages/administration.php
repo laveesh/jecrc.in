@@ -10,9 +10,10 @@
   <link rel="stylesheet" href="../src/css/style.css">
   <link rel="stylesheet" href="../departments/administration/src/css/administration.css">
   <link rel="icon" href="../src/img/favicon.png" type="image/x-icon"/>
-  <script src="../src/js/jquery.min.js"></script>
-  <script src="../src/js/popper.min.js"></script>
-  <script src="../src/js/bootstrap.min.js"></script>
+
+<link rel="stylesheet" href="../src/css/owl.carousel.min.css">
+<link rel="stylesheet" href="../src/css/owl.theme.default.min.css">
+<script src="../src/js/jquery.min.js"></script>
 </head>
 <body>
   <?php include '../modules/header.php'; ?>
@@ -20,9 +21,12 @@
   <?php include '../departments/administration/modules/sidenav.php'; ?>
 
   <main id="administration_root">
-    <?php include '../departments/administration/modules/home.php'; ?>
+    <?php include '../departments/administration/modules/anti_ragging.php'; ?>
   </main>
   <?php include '../modules/footer.php'; ?>
   <script src="../departments/administration/src/js/administration.js"></script>
+  
+  <script src="../src/js/popper.min.js"></script>
+  <script src="../src/js/bootstrap.min.js"></script><script src="../src/js/owl.carousel.min.js"></script>
 </body>
 </html>

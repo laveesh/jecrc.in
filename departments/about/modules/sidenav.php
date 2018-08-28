@@ -22,14 +22,16 @@
                   Explore the college
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="about.php?section=building_map">Buildings Map</a>
                   <a class="dropdown-item" href="about.php?section=interactive_map">Interactive Map</a>
                   <a class="dropdown-item" href="about.php?section=facilities">Facilities</a>
                 </div>
               </li>
               <li class="active"><a href="about.php?section=mission_vision">Mission and Vision<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="active"><a href="about.php?section=history">History<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-              <li class="active"><a href="about.php?section=functionaries">Important Functionaries<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              <!-- <li class="active"><a href="about.php?section=functionaries">Board of Directors<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li> -->
+              <li class="active"><a href="about.php?section=heirarchy">Governing Bodies<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+
+              <li class="active"><a href="../departments/about/src/pdf/jecrc-brochure.pdf" target="_blank">Brochure JECRC<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
             	</ul>
       				</li>
       			</ul>

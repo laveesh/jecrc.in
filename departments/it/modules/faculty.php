@@ -71,26 +71,6 @@
 				</div>
 	</div>
 
-	<div class="col-md-6 mt-4">
-				<div class="panel-body card">
-					<div class="card-header text-center"><h4>Mr. Jay Shankar Sharma</h4></div>
-					<div class="row">
-						<div class="col-md-3 pt-1 py-1" align="center">
-							<img src="../departments/it/src/img/people/faculty/Jay- Shankar-Sharma.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
-						</div>
-						<div class="col-md-9 px-2">
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech,BE</li>
-								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								
-								<li class="list-group-item">jayshankarsharma.cse@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 9 years</li>
-								<li class="list-group-item">Publication:  2 <em>International</em></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-	</div>
 </div>
 
 <div class="row sectionContent">
