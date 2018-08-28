@@ -891,7 +891,7 @@
 					</div>
 				</div>
 			</div>
-		</div>
+		</div> 
 		<div class="col-md-6 mt-4">
 			<div class="panel-body card">
 				<div class="card-header text-center"><h4>Dr. Rishi Pareek</h4></div>
