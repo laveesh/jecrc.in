@@ -52,7 +52,7 @@
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown"> 
                   <a class="dropdown-item" href="me.php?section=publication">Publication</a>
-                   <a class="dropdown-item" href="me.php?section=research">Projects</a>
+                   <a class="dropdown-item" href="me.php?section=projects">Projects</a>
                
                 </div>
               </li>
