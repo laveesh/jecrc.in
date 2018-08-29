@@ -66,6 +66,9 @@
               </div>
             </li>
             <li class="nav-item active">
+               <a class="nav-link" href="initiatives.php">Initiatives</a>
+            </li>
+            <li class="nav-item active">
               <a class="nav-link" href="pages/placements.php">Traning and Placements</a>
             </li>
             <li class="nav-item active">
@@ -74,6 +77,15 @@
             <li class="nav-item active">
               <a class="nav-link" href="pages/contact.php">Contact Us</a>
             </li>
+              <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Download
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="#">Admission Form</a>
+                <a class="dropdown-item" href="#">Library Form</a>
+              </div>
+            </li>
           </ul>
         </div>
       </nav>
@@ -81,7 +93,6 @@
     <button class="navbar-toggler navbar-light bg-light"  id="icon" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span><i class="fa fa-home"></i></span>
     </button>
-    <!-- ---------------------- -->
     <div class="container-fluid text-center homeBanner">
       <div class="imageCarousel bg-primary py-3">
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -301,7 +312,6 @@
             </div>
           </div>
         </footer>
-        <!-- ---------------------------- -->
         <script src="src/js/jquery.min.js"></script>
         <script src="src/js/popper.min.js"></script>
         <script src="src/js/bootstrap.min.js"></script>
