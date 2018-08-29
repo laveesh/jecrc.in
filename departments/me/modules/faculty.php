@@ -35,8 +35,8 @@
 							<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech.</li>
 							<li class="list-group-item"><strong>Designation</strong>: Director Placement Cell(Outset)</li>
 							<li class="list-group-item">utpalchakravarty.me@jecrc.ac.in</li>
-							
-							<li class="list-group-item">Experience: 16 years</li>
+							<li class="list-group-item"><Strong>Research Area:</strong>Industrial and Logistics</li>
+							<li class="list-group-item">Experience: 29 years(Industrial) and 18 years(Teaching)</li>
 							
 						</ul>
 					</div>
@@ -97,7 +97,7 @@
 							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 							
 							<li class="list-group-item">manishshrivastava.me@jecrc.ac.in</li>
-							<li class="list-group-item"><Strong>Research Area:</strong> HR</li>
+							<li class="list-group-item"><Strong>Research Area:</strong> Human Resources(Industrial)</li>
 							<li class="list-group-item">Experience: 22 years</li>
 							<li class="list-group-item">Publication: 02</li>
 						</ul>
@@ -204,7 +204,7 @@
 							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 							
 							<li class="list-group-item">yogeshdubey.me@jecrc.ac.in</li>
-							
+							<li class="list-group-item"><Strong>Research Area:</strong>Manufacturing System Engineering</li>
 							<li class="list-group-item">Experience: 06 years</li>
 							
 						</ul>
@@ -225,7 +225,7 @@
 							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 							
 							<li class="list-group-item">rajendragupta.me@jecrc.ac.in</li>
-							
+							<li class="list-group-item"><Strong>Research Area:</strong>Manufacturing System Engineering</li>
 							<li class="list-group-item">Experience: 10 years</li>
 							
 						</ul>
@@ -256,7 +256,7 @@
 		</div>
 		<div class="col-md-6 mt-4">
 			<div class="panel-body card">
-				<div class="card-header text-center"><h4>Mr. Man Mohan Sidh</h4></div>
+				<div class="card-header text-center"><h4>Mr. ManMohan Sidh</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
 						<img src="../departments/me/src/img/people/faculty/Manmohan.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
@@ -267,7 +267,7 @@
 							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 							
 							<li class="list-group-item">manmohan.me@jecrc.ac.in</li>
-							
+							<li class="list-group-item"><Strong>Research Area:</strong>Supply Chain Management</li>
 							<li class="list-group-item">Experience: 02 years</li>
 							<li class="list-group-item">Publication: 5</li>
 						</ul>
@@ -461,7 +461,7 @@
 							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 							
 							<li class="list-group-item">akhilvijay.me@jecrc.ac.in</li>
-							
+							<li class="list-group-item"><Strong>Research Area:</strong> Supply Chain Management</li>
 							<li class="list-group-item">Experience: 6 years</li>
 							
 						</ul>
@@ -504,7 +504,7 @@
 							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 							
 							<li class="list-group-item">dayalsinghrathore.me@jecrc.ac.in</li>
-							
+							<li class="list-group-item"><Strong>Research Area:</strong>TIG and MIG Welding process</li>
 							<li class="list-group-item">Experience: 6 years</li>
 							
 						</ul>
@@ -525,7 +525,7 @@
 							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 							
 							<li class="list-group-item">gauravjain.me@jecrc.ac.in</li>
-							<li class="list-group-item"><Strong>Research Area:</strong> Industrial Engineerignn</li>
+							<li class="list-group-item"><Strong>Research Area:</strong> Industrial Engineering</li>
 							<li class="list-group-item">Experience: 02 years</li>
 							
 						</ul>
@@ -696,7 +696,7 @@
 							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 							
 							<li class="list-group-item">tejbahadur.me@jecrc.ac.in</li>
-							
+							<li class="list-group-item"><Strong>Research Area:</strong>Biomass Gasification</li>
 							<li class="list-group-item">Experience: 03 years</li>
 							
 						</ul>
