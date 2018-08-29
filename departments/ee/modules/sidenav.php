@@ -122,15 +122,14 @@
             <img src="../departments/ee/src/img/Carousel/slider2.jpg" alt="Second slide">
           </div>
           <div class="carousel-item">
-            <img   src="../departments/ee/src/img/Carousel/slider3.JPG" alt="Third slide">
+            <img   src="../departments/ee/src/img/Carousel/slider3.jpg" alt="Third slide">
           </div>
           <div class="carousel-item">
             <img  src="../departments/ee/src/img/Carousel/slider4.jpg" alt="Fourth slide">
           </div>
           <div class="carousel-item">
             <img  src="../departments/ee/src/img/Carousel/slider5.jpg" alt="Fifth slide">
-          </div>
-          
+          </div>      
         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
           <span class="carousel-control-prev-icon" aria-hidden="true"></span>
           <span class="sr-only">Previous</span>

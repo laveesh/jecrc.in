@@ -266,12 +266,12 @@
           <span>OUR PRIDE</span>
         </div>
         <div class="d-flex flex-row justify-content-center flex-wrap">
-          <div class="mx-5 my-3 shadow"><a href="https://innovate.mygov.in/sih2018/" target="_blank"><img class="pride-img" src="src/img/pride/sih.png" alt="jecrc pride"></a></div>
-          <div class="mx-5 my-3 shadow"><a href="https://www.jecrchackathon.in/" target="_blank"><img class="pride-img" src="src/img/pride/jecrchack.png" alt="jecrc pride"></a></div>
+          <div class="mx-5 my-3 shadow"><a href="https://innovate.mygov.in/sih2018/" target="_blank"><img class="pride-img" src="src/img/pride/sih.jpg" alt="jecrc pride"></a></div>
+          <div class="mx-5 my-3 shadow"><a href="https://www.jecrchackathon.in/" target="_blank"><img class="pride-img" src="src/img/pride/jecrchack.jpg" alt="jecrc pride"></a></div>
           <div class="mx-5 my-3 shadow"><a href="http://jecrcrenaissance.in/" target="_blank"><img class="pride-img" src="src/img/pride/renaissance.png" alt="jecrc pride"></a></div>
-          <div class="mx-5 my-3 shadow"><a href="https://www.facebook.com/tedxjecrc/?ref=br_rs" target="_blank"><img class="pride-img" src="src/img/pride/tedx.png" alt="jecrc pride"></a></div>
-          <div class="mx-5 my-3 shadow"><a href="http://www.iceteas.in/" target="_blank"><img class="pride-img" src="src/img/pride/iceteas.png" alt="jecrc pride"></a></div>
-          <div class="mx-5 my-3 shadow"><a href="http://jecrcmun.co.in" target="_blank"><img class="pride-img" src="src/img/pride/mun.png" alt="jecrc pride"></a></div>
+          <div class="mx-5 my-3 shadow"><a href="https://www.facebook.com/tedxjecrc/?ref=br_rs" target="_blank"><img class="pride-img" src="src/img/pride/tedx.jpg" alt="jecrc pride"></a></div>
+          <div class="mx-5 my-3 shadow"><a href="http://www.iceteas.in/" target="_blank"><img class="pride-img" src="src/img/pride/iceteas.jpg" alt="jecrc pride"></a></div>
+          <div class="mx-5 my-3 shadow"><a href="http://jecrcmun.co.in" target="_blank"><img class="pride-img" src="src/img/pride/mun.jpg" alt="jecrc pride"></a></div>
         </div>
       </div>
       <!-- Footer -->
