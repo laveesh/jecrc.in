@@ -1,7 +1,7 @@
 <div class="container">
-	<div class="sectionHeading">Recents events @JECRC</div>
+	<div class="sectionHeading">Computer Science Events</div>
 	<section class="section">
-		<div class="sectionHeading">Embroyo</div>`
+		<div class="sectionHeading">Embroyo</div>
 		<div class="row">
 			<div class="col-md-3 col-sm-12">
 				<div id="events_carausel2" class="carousel slide" data-ride="carousel">
