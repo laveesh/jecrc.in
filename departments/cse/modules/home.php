@@ -33,9 +33,9 @@
       <div class="section container card h-section">
         <div class="sectionContent card-body">
           <div class="owl-carousel owl-theme py-2 px-2">
-    <div class="item"><img src="../departments/cse/src/img/newsletters/Vol-1issue1.jpg" alt="" class="img-thumbnail"></div>
-    <div class="item"><img src="../departments/cse/src/img/newsletters/Vol-1issue1.jpg" alt="" class="img-thumbnail"></div>
-    <div class="item"><img src="../departments/cse/src/img/newsletters/Vol-1issue1.jpg" alt="" class="img-thumbnail"></div>
+    <div class="item"><img src="../departments/cse/src/img/newsletters/csescoop.PNG" alt="" class="img-thumbnail"></div>
+   <!--  <div class="item"><img src="../departments/cse/src/img/newsletters/Vol-1issue1.jpg" alt="" class="img-thumbnail"></div>
+    <div class="item"><img src="../departments/cse/src/img/newsletters/Vol-1issue1.jpg" alt="" class="img-thumbnail"></div> -->
     
 </div>
  <p class="px-2 pt-2">
@@ -140,7 +140,8 @@
     loop:false,
     margin:10,
     nav:true,
-    items: 3 
+    items: 3,
+    center: true
     
 })
 </script>
