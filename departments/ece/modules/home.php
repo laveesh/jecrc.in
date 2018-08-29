@@ -84,10 +84,10 @@
           </p>
         </div>
       </section>
-      <section class="section container card">
+      <!-- <section class="section container card">
           <div class="sectionHeading">Latest Newsletter</div>
           <iframe src="https://docs.google.com/gview?url=https://jecrcwebsite.herokuapp.com/departments/ece/src/newsletters/Ujjwalam Vol2 Issue1.pdf&embedded=true" class="embed-doc me-newsletter" frameborder="0"></iframe>
-      </section>
+      </section> -->
 
     </div>
     <div class="col-md-3">
