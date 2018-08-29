@@ -1,5 +1,5 @@
 <section class="section container card">
-  <div class="sectionHeading">Contact</div>
+  <div class="sectionHeading">Anti-Ragging Committie</div>
   <div class="sectionContent card-body">
   	<table class="table table-bordered table-sm">
 		<thead class="thead-light">
@@ -60,10 +60,16 @@
 				<td>9982603534</td>
 			</tr>
 			<tr>
-				<td>7.</td>
-				<td>Ms. Sanjay Raghav</td>
-				<td>Warden Girls Hostel</td>
-				<td>9982603534</td>
+				<td>9.</td>
+				<td>Sh. PK Gupta</td>
+				<td>Chief Warden/CAO</td>
+				<td>9982682475</td>
+			</tr>
+			<tr>
+				<td>10.</td>
+				<td>Sh. Ashok Sharma</td>
+				<td>Warden Boys Hostel</td>
+				<td>9982682914</td>
 			</tr>
 	</table>	
   </div>
