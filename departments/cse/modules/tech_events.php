@@ -1,15 +1,7 @@
 <div class="container">
-	<div class="sectionHeading">Recents events @JECRC</div>
+	<div class="sectionHeading">Computer Science Events</div>
 	<section class="section">
-		<div class="sectionHeading">JAVALETS</div>
-		<div class="sectionContent">
-			<p>
-				A coding competition Java Lets involving the concepts of Java programming language was organized on March 25, 2018. The event observed a massive participation from different colleges also. Hackerearth evaluated the results on the basis of complexities and time of submission for the solutions of all the submissions.
-			</p>
-		</div>
-	</section>
-	<section class="section">
-		<div class="sectionHeading">Embroyo</div>`
+		<div class="sectionHeading">Embroyo</div>
 		<div class="row">
 			<div class="col-md-3 col-sm-12">
 				<div id="events_carausel2" class="carousel slide" data-ride="carousel">
@@ -135,6 +127,14 @@
 		</div>
 	</section>
 	<section class="section">
+		<div class="sectionHeading">JAVALETS</div>
+		<div class="sectionContent">
+			<p>
+				A coding competition Java Lets involving the concepts of Java programming language was organized on March 25, 2018. The event observed a massive participation from different colleges also. Hackerearth evaluated the results on the basis of complexities and time of submission for the solutions of all the submissions.
+			</p>
+		</div>
+	</section>
+	<section class="section">
 		<div class="sectionHeading">TECH PROBE</div>
 		<div class="sectionContent">
 			<p>
@@ -238,6 +238,19 @@
 		</div>
 	</section>
 	<section class="section">
+		<div class="sectionHeading">Workshop on Big Data</div>
+		<div class="row sectionContent">
+			<div class="col-md-4">
+				<img src="../departments/cse/src/img/Events/bigdata/Picture1.png" alt="" class="img-thumbnail img-fluid">
+			</div>
+				<div class="col-md-8">
+					<p class="px-3 py-2">
+						A workshop was conducted on Oct. 28, 2017 by Mr. Vimal Daga, Chief Technical Officer, Linux World Informatics Pvt. Ltd. Mr. Vimal Daga shared knowledge of Big Data with the participants to bridge the gap between academics and industry. Since every digital process and social media are generating Big Data all the times, and thus Big Data is arriving at an alarming rate, thus Mr. Vimal Daga enlightened the students with the strategies to handle large amount of data. 70 students from JECRC registered for the workshop. 
+					</p>
+				</div>
+			</div>
+	</section>
+	<section class="section">
 		<div class="sectionHeading">EDC/IIPC Workshop </div>
 		<div class="sectionContent">
 			<p>
@@ -264,17 +277,5 @@
 			</p>
 		</div>
 	</section>
-	<section class="section">
-		<div class="sectionHeading">Workshop on Big Data</div>
-		<div class="row sectionContent">
-			<div class="col-md-4">
-				<img src="../departments/cse/src/img/Events/bigdata/Picture1.png" alt="" class="img-thumbnail img-fluid">
-			</div>
-				<div class="col-md-8">
-					<p class="px-3 py-2">
-						A workshop was conducted on Oct. 28, 2017 by Mr. Vimal Daga, Chief Technical Officer, Linux World Informatics Pvt. Ltd. Mr. Vimal Daga shared knowledge of Big Data with the participants to bridge the gap between academics and industry. Since every digital process and social media are generating Big Data all the times, and thus Big Data is arriving at an alarming rate, thus Mr. Vimal Daga enlightened the students with the strategies to handle large amount of data. 70 students from JECRC registered for the workshop. 
-					</p>
-				</div>
-			</div>
-	</section>
+	
 </div>

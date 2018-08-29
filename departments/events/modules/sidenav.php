@@ -5,7 +5,7 @@
   </button>
 </div>
 <div class="container-fluid bg-primary deptHeader">
-  <span class="deptName">events Us</span>
+  <span class="deptName">Events</span>
 </div>
 <!-- Container for sidebar and Image Carousel -->
 <div class="container-fluid banner">
@@ -16,11 +16,11 @@
           <div class="container-fluid">
       		<div class="collapse navbar-collapse" id="bs-sidebar-navbar-collapse-1">
       			<ul class="nav navbar-nav flex-column">
-              <li class="active"><a href="events.php?section=iceteas">Iceteas<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-              
+              <li class="active"><a href="events.php?section=home">Home<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              <li class="active"><a href="events.php?section=iceteas">ICETEAS<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>              
               <li class="active"><a href="events.php?section=jhack">JECRC Hackathon<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="active"><a href="events.php?section=sih">SIH 2018<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-              <li class="active"><a href="events.php?section=functionaries">Important Functionaries<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              <li class="active"><a href="events.php?section=confrences">Confrences at JECRC<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
             	</ul>
       				</li>
       			</ul>

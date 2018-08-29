@@ -1,5 +1,5 @@
 <section class="section container card">
-	<div class="sectionHeading">History</div>
+	<div class="sectionHeading">ABOUT</div>
 	<div class="sectionContent card-body px-4">
 		<p>
 			Department of Electrical Engineering, JECRC was established in year 2000. It offers B.Tech in

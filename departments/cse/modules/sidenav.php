@@ -24,8 +24,8 @@
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="cse.php?section=about">About</a>
                   <a class="dropdown-item" href="cse.php?section=history">History</a>
-                  <a class="dropdown-item" href="cse.php?section=mission_vision">Mission and Vision</a>
-                  <a class="dropdown-item" href="cse.php?section=hod_message">HoD's Message</a>
+                  <a class="dropdown-item" href="cse.php?section=mission_vision">Vision and Mission</a>
+                  <a class="dropdown-item" href="cse.php?section=hod_message">Program Coordinator's Message</a>
                   <a class="dropdown-item" href="cse.php?section=contact">Contact Us</a>
                 </div>
               </li>
@@ -35,13 +35,12 @@
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="cse.php?section=academics">Academics</a>
-                  <a class="dropdown-item" href="cse.php?section=student_opportunities">Student Opportunities</a>
                   <a class="dropdown-item" href="cse.php?section=ug_program">Under Graduate Program</a>
-                  <a class="dropdown-item" href="cse.php?section=program_outcomes">Program Outcomes</a>
-                  <a class="dropdown-item" href="cse.php?section=program_edu_obj">Program Education Objective</a>
+                  <a class="dropdown-item" href="cse.php?section=program_outcomes">Programme Outcomes</a>
+                  <a class="dropdown-item" href="cse.php?section=program_edu_obj">Programme Educational Objectives</a>
+                  <a class="dropdown-item" href="cse.php?section=program_spec_outcomes">Programme Specific  Outcomes</a>
                   <a class="dropdown-item" href="cse.php?section=course_outcomes">Course Outcomes</a>
                   <a class="dropdown-item" href="cse.php?section=co_po_mapping">CO and PO Mapping</a>
-                  <a class="dropdown-item" href="cse.php?section=curriculum">Structure Curriculum</a>
                 </div>
               </li>
               <li class="nav-item dropdown">
@@ -49,37 +48,36 @@
                   Research
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="cse.php?section=research">Research</a>
                   <a class="dropdown-item" href="cse.php?section=publication">Publication</a>
-                  <a class="dropdown-item" href="cse.php?section=research_topic1">Research Topic 1</a>
-                  <a class="dropdown-item" href="cse.php?section=research_topic2">Research Topic 2</a>
+                  <a class="dropdown-item" href="cse.php?section=projects">Projects</a>
                 </div>
               </li>
               <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  People
+                  Faculty and Staff
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="cse.php?section=faculty">Faculty</a>
-                  <a class="dropdown-item" href="cse.php?section=staff">Staff</a>
+                  <a class="dropdown-item" href="cse.php?section=staff">Technical Staff</a>
                 </div>
               </li>
               <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  News and Events
+                  Events
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="cse.php?section=news">News</a>
-                  <a class="dropdown-item" href="cse.php?section=events">Events</a>
+                  <a class="dropdown-item" href="cse.php?section=tech_events">Events</a>
+                  
                   <a class="dropdown-item" href="cse.php?section=cse_hackathon">CSE Hackathon</a>
                   <a class="dropdown-item" href="cse.php?section=sih">Smart India Hackathon</a>
-                  <a class="dropdown-item" href="cse.php?section=tech_events">Technical Events</a>
-                  <a class="dropdown-item" href="cse.php?section=awards_faculty">Faculties Awards</a>
-                  <a class="dropdown-item" href="cse.php?section=awards_student">Students Awards</a>
-
-
                 </div>
               </li>
+              <li class="nav-item dropdown">
+                <a href="cse.php?section=events">
+                Awards & Achivements
+                </a>
+              </li>
+
               <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   Infrastructure
@@ -94,12 +92,33 @@
                   Alumni
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="cse.php?section=alumni">Alumni</a>
-                  <a class="dropdown-item" href="cse.php?section=alumni_notes">Alumni Notes</a>
+                  <a class="dropdown-item" href="cse.php?section=alumni">Alumni Notes</a>
                   <a class="dropdown-item" href="cse.php?section=support">Support</a>
                 </div>
               </li>
-              <li class="active"><a href="cse.php?section=student_associations">Student Associations<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              <li class="nav-item">
+                <a href="cse.php?section=placements">
+                Placements
+                </a>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Clubs
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="cse.php?section=codedocs">CodeDocs</a>
+                  <a class="dropdown-item" href="cse.php?section=cai">CAI</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Feedback Forms    
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="#">Form 1</a>
+                  <a class="dropdown-item" href="#">Form 2</a>
+                </div>
+              </li>
       					</ul>
       				</li>
       			</ul>

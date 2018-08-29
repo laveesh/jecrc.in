@@ -1,5 +1,5 @@
 <section class="section container card">
-	<div class="sectionHeading">Program Co-Ordinator's Message</div>
+	<div class="sectionHeading">Programme Coordinator's Message</div>
 	<div class="panel-body card">
 					<div class="row">
 						<div class="col-md-4 py-3" align="center">
@@ -11,7 +11,9 @@
 							</p>
 							<p class="text-right pr-2"><strong>
 								 Dr. M.P. Singh<br />
-								Program Co-ordinator, ME
+								Program Coordinator, ME
+								<br>	
+								Sitting BT-20
 							</strong></p>
 						</div>
 					</div>

@@ -5,7 +5,7 @@
   </button>
 </div>
 <div class="container-fluid bg-primary deptHeader">
-  <span class="deptName">Department of Electronics And Communication</span>
+  <span class="deptName">Department of Electronics and Communication Engineering</span>
 </div>
 <!-- Container for sidebar and Image Carousel -->
 <div class="container-fluid banner">
@@ -35,7 +35,7 @@
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="ece.php?section=academics">Academics</a>
-                  
+
                   <a class="dropdown-item" href="ece.php?section=ug_program">Under Graduate Program</a>
                   <a class="dropdown-item" href="ece.php?section=program_outcomes">Program Outcomes</a>
                   <a class="dropdown-item" href="ece.php?section=program_edu_obj">Program Education Objective</a>
@@ -48,7 +48,7 @@
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   Research
                 </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown"> 
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="ece.php?section=publication">Publication</a>
                   <a class="dropdown-item" href="ece.php?section=research">Projects</a>
                 </div>
@@ -61,9 +61,9 @@
                   <a class="dropdown-item" href="ece.php?section=staff">Technical Staff</a>
                 </div>
               </li>
-             
+
                 <li class="active"><a href="ece.php?section=tech_events">Events<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-                
+
                 <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   Awards/Achievements
@@ -153,7 +153,7 @@
             <img  src="../departments/ece/src/img/Carousel/slider11.jpg" alt="Eleventh slide">
           </div>
 
-          
+
         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
           <span class="carousel-control-prev-icon" aria-hidden="true"></span>
           <span class="sr-only">Previous</span>

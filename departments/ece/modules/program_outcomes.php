@@ -1,5 +1,5 @@
 <section class="section container">
-	<div class="sectionHeading">Program Outcomes</div>
+	<div class="sectionHeading">Programme Outcomes</div>
 	<div class="sectionContent">
 		<ul class="list-group list-group-flush">
 			<li class="list-group-item py-4"><strong>1. Engineering knowledge: </strong>	Engineering knowledge: Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex electronics and communication engineering problems.</li>

@@ -1,9 +1,18 @@
 <div class="container section" >
-<div class="sectionHeading">ALUMNI</div>
+<div class="sectionHeading">BUDDY SYSTEM</div>
 
-<p class="sectionContent pt-4" >One of the major goals of the department is to develop interaction with its alumni both within the country as well as abroad. To intensify this interaction alumni meets are held once a year with the aim to bridge the gap between institute and its alumni. Our students have always made us proud. Almost all our students get placed in reputed companies such as Infosys, Tech-Mahindra, HCL, Birlasoft, Adobe and many more; and continue to grow after employment.</p>
+<p class="sectionContent pt-4" >The successful alumni of our department always contribute towards the development of the new budding engineers in each and every way possible. We have started a buddy system for the final year students in which each final year student has been assigned a mentor who is presently working in MNC and were graduated in between 2010-2017. A total of 66 mentors have been assigned to the students so far as the no of eligible students is 51. These mentors take interviews of their mentees once a week and give them feedback. Also, various alumni sessions are organised where alumni share their preparation strategies and solve queries of the students. In this way, the passouts help the current students so that they can also excel in their respective fields.
+</p>
 
 <p class="sectionContent	">
-	Many of our alumni also choose to go for higher studies in premier institutions. These include top business schools such as IIM's, IBS (Hyderabad), NITIE (Mumbai), Symbiosis (Pune) and FMS (New Delhi). for MBA and top engineering colleges such as IISc, IIT's JNU; i.etc. for M.Tech in India. Our Students also pursue their higher studies in foreign universities such as Stony Brook University, New York(USA), University of Texas, Arlington, etc.
+	We have assigned each student a mentor who is presently working in  MNC and were graduated in between 2010-2017 .   These mentors take interviews of their mentees once a week and give them feedback. This feedback along with the questions asked in the interview is posted on the whatsapp group for the rest of the students.
 </p>
+
+<div class="images"> 
+	<div class="row">
+	<div class="col-md-6 col-sm-12"><img class="img-thumbnail" src="../departments/it/src/img/alumni/buddy1.jpg"></div>
+ 	<div class="col-md-6 col-sm-12"><img class="img-thumbnail" src="../departments/it/src/img/alumni/buddy2.jpg"></div>
+ 	</div>
+ 	
+</div>
 </div>

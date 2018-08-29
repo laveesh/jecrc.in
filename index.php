@@ -93,7 +93,6 @@
     <button class="navbar-toggler navbar-light bg-light"  id="icon" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span><i class="fa fa-home"></i></span>
     </button>
-    <!-- ---------------------- -->
     <div class="container-fluid text-center homeBanner">
       <div class="imageCarousel bg-primary py-3">
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -313,7 +312,6 @@
             </div>
           </div>
         </footer>
-        <!-- ---------------------------- -->
         <script src="src/js/jquery.min.js"></script>
         <script src="src/js/popper.min.js"></script>
         <script src="src/js/bootstrap.min.js"></script>

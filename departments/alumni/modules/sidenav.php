@@ -52,7 +52,7 @@
                   </div>
                   </li>
                 <li class="active"><a href="alumni.php?section=visionmission">
-                Vision & Mission<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>   
+                Vision & Mission<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
                 <li class="active"><a href="alumni.php?section=contact">
                 Contact<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>       </ul>
                       </div>

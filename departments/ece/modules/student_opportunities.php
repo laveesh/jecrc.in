@@ -1,13 +1,12 @@
 <section id="StudentOpportunities" class="container card section">
 	<div class="sectionHeading">Student Opportunities</div>
 	<div class="card-body sectionContent">
-<p>Our main goal is to make open doors for the undergraduates to understand their Skill and
-potential. To advance the knowledge for the innovative and social devlpoement of the society.
-To reinforce the connection amongst the scholarly world and industry.
+<p>The main goal of department is to make open doors for the undergraduates to understand their skill and
+potential to advance the knowledge for the innovative and social devlpoement of the society and to reinforce the connection amongst the scholarly world and industry.
 </p>
 <p>
-There is several opportunity in the market for Electronics and communication enginners. They
-are jus lag behind in Skills, aptitude and the training. The Entry Level package for the Freshers
+There is several opportunity in the market for Electronics and communication engineers. They
+are jus lag behind in skills, aptitude and the training. The Entry Level package for the Freshers
 starts with 2.5 to 3.5 lakh per annum. But the Brilliant students with their outstanding
 knowledge in the Field of Embedded System, VLSI design and Communication technology can
 go far beyond average package.

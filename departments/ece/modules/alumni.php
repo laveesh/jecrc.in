@@ -10,9 +10,9 @@
 					</div>
 					<div class="col-md-9 px-2">
 						<div class="sectionContent">
-							<p>Success Story: Initial year of my professional life in Bangalore as a Research Scientist, I have been involved in developing Electronic Warfare (EW) Suite for Fighter Aircraft. We have successfully developed the EW Suite for India&#39;s First Indigenous Fighter Aircraft LCA Tejas. Further, after transfer to Dehradun, I have been given responsibility of design &amp; development of Software Defined Radios (SDR) for Indian Navy. We have developed SDRs of various form factors, so that it can used at different platforms used in Navy. This work is in final stage of completion.</p>
+							<p>Success Story: Initial year of my professional life in Bangalore as a Research Scientist, I have been involved in developing Electronic Warfare (EW) Suite for Fighter Aircraft. We have successfully developed the EW Suite for India&#39;s First Indigenous Fighter Aircraft LCA Tejas. Further, after transfer to Dehradun, I have been given responsibility of design and development of Software Defined Radios (SDR) for Indian Navy. We have developed SDRs of various form factors, so that it can used at different platforms used in Navy. This work is in final stage of completion.</p>
 							<p>
-							Message to Juniors: Hello Friends, Keep your aim high and fix it as soon as possible. All your effort during the college time should be in the direction to achieve the final Aim. Make a balance in professional &amp; personal life. If you have any hobby, keep it alive and spend some time for it also. It gives you joy &amp; satisfaction in life. Never get dishearten due to failure. Just restart with new energy &amp; move ahead.</p>
+							Message to Juniors: Hello Friends, Keep your aim high and fix it as soon as possible. All your effort during the college time should be in the direction to achieve the final Aim. Make a balance in professional and personal life. If you have any hobby, keep it alive and spend some time for it also. It gives you joy and satisfaction in life. Never get dishearten due to failure. Just restart with new energy and move ahead.</p>
 						</div>
 					</div>
 				</div>

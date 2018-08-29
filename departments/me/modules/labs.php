@@ -82,11 +82,8 @@
                         <li>STUDY OF INVERSION OF BOUBLE SLIDE CHAIN (3 MODEL)</li>
                         <li>STUDY OF VARIOUS CAM AND FLOWER (5MODELS)</li>
                         <li>VARIOUS TYPES OF DYNOMERS
-                            <ol>
-                                <li>PRONY BRAKE DY NO</li>
-                                <li>ROPE BRAKE DYNO</li>
-                            </ol>
-                        </li>
+                        <li>PRONY BRAKE DY NO</li>
+                        <li>ROPE BRAKE DYNO</li>
                         <li>BAND BRAKE</li>
                         <li>INERNAL EXPANDING</li>
                         <li>CONE CLUTCH</li>

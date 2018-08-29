@@ -98,7 +98,7 @@
           <div class="row">
             <div class="col-md-6 text-center">
               <img src="../departments/ece/src/img/studentspotlight/image13.png" alt="" class="img-fluid img-thumbnail rounded-circle">
-              <h5 class="py-2">Jagdeesh Sirvi</h5>
+              <h5 class="py-2">Vinod Kr Gill</h5>
             </div>
             <div class="col-md-6 text-center">
               <img src="../departments/ece/src/img/studentspotlight/image14.png" alt="" class="img-fluid img-thumbnail rounded-circle">
@@ -111,7 +111,7 @@
               <ul class="list-group list-group-flush">
                 <li class="list-group-item">Ritu Daryani</li>
                 <li class="list-group-item">Jitesh Kumar</li>
-                <li class="list-group-item">Vinod Kr Gill</li>
+                <li class="list-group-item">Jagdeesh Sirvi</li>
               </ul>
             </div>
             <div class="col-md-6">

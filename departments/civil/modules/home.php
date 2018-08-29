@@ -4,53 +4,53 @@
     <div class="col-md-3">
       <section class="section container card">
         <div class="sectionHeading">RECENT NEWS</div>
-        <div class="sectionContent card-body px-4 mh-75">
+        <div class="sectionContent card-body px-4 mh-50">
         <marquee behavior="scroll" scrolldelay=60 scrollamount=4 direction="up" height=100%>
         <ul class="list-group list-group-flush text-primary">
           <li class="list-group-item">
-            International Workshop On <strong>Open Source Innovations</strong>
+            <strong>Induction Program</strong>
+            <p>
+              <ul>
+                <li>Introduction on Civil Engineering to 1st Year Students.
+                <li>Date: Aug, 4, 2018
+                <li>Venue: A-Block Auditorium
+                <li>Conducted by: Kamlesh Kr. Choudhary, Prateek Sharma
+              </ul>
+            </p>
             <!-- <img src="../departments/ece/src/img/Events/redhat/1.jpg" alt="redhat" class="img-fluid img-thumbnail"> -->
           </li>
           <li class="list-group-item">
-            Informative Seminar presentations were conducted by ECE departement on HCIG 
-            <!-- <img src="../departments/ece/src/img/Events/seminar-ICT/1.jpg" alt="" class="img-fluid img-thumbnail"> -->
+            <strong>Training Program For 2<sup>nd</sup> Year Students</strong>
+            <p>
+              <ul>
+                <li>Various workshops on technical subjects were conducted by Ms. Nida Khanam and Mr. Narendra Sipani.
+                <li>Industrial visits by different faculty of department.
+              </ul>
+            </p>
           </li>
           <li class="list-group-item">
-<strong>Spy Robotic Workshop</strong>by <strong>Techinest Pvt. Ltd.</strong>on 19th August.
+            <strong>International Internship Program</strong>
+            <p>Mr. Yogesh Agarwal, Faculty of Civil Department, is guiding an international intern 'Ignatius Yoga Patria BP' from Indonesia for 2 month of internship.</p>
           </li>
-          <li class="list-group-item">Induction Ceremony of JECRC batch 2017-21</li>
-          <li class="list-group-item">Smart India Hackathon-2017 under MHRD association with AICTE</li>
-          <li class="list-group-item">J-techtrix oraganised on April 08, 2017</li>
+          <li class="list-group-item"><strong>Kalpit Meena, student of CE placed at BYJU's with 9 LPA</strong></li>
         </ul>
-</marquee>
+        </marquee>
         </div>
       </section>
     </div>
     <div class="col-md-6">
       <section class="section container card">
-        <div class="sectionHeading">NEWS LETTER - THE UJJWALAM</div>
+        <div class="sectionHeading">NEWS LETTER - CUNSTRUCTO</div>
         <div class="sectionContent card-body">
           <div class="row">
-            <div class="col-md-4 py-2"><a href="../departments/ece/src/newsletters/Ujjwalam Vol-1Issue 1.pdf" class="btn btn-block btn-lg btn-primary" download>Vol-1 Issue-1</a></div>
-            <div class="col-md-4 py-2"><a href="../departments/ece/src/newsletters/Ujjwalam vol_1 issue_2.pdf" class="btn btn-block btn-lg btn-primary" download>Vol-1 Issue-2</a></div>
-            <div class="col-md-4 py-2"><a href="../departments/ece/src/newsletters/Ujjwalam Vol2 Issue1.pdf" class="btn btn-block btn-lg btn-primary" download>Vol-2 Issue-1</a></div>
+            <div class="col-md-4 py-2"><a href="../departments/civil/src/newsletters/constructo-1.pdf" class="btn btn-block btn-lg btn-primary" download>Constructo Vol-1</a></div>
+            <div class="col-md-4 py-2"><a href="../departments/civil/src/newsletters/constructo-2.pdf" class="btn btn-block btn-lg btn-primary" download>Constructo Vol-2</a></div>
+            <div class="col-md-4 py-2"><a href="../departments/civil/src/newsletters/constructo-3.pdf" class="btn btn-block btn-lg btn-primary" download>Constructo Vol-3</a></div>
           </div>
           <hr>
           <p class="py-2 px-3">
-                      The Departments of Electronics & Communication Engineering
-                is the major department involving number of
-          laboratories with a diversified variety of equipment being the core
-          branch and with laboratories focusing on fundamental aspects of
-          Electronics & Communication Engineering. In
-          order to cope up with the requirement of industries, the department also
-          have laboratories with latest technologies. Students have an open access in
-          the laboratories, to understand as well as apply their knowledge to explore
-          their engineering skills. The department have team of highly motivated
-          and dedicated faculty members to the cause of academics and striving to do
-          the best in the interest of the college and the students. Most of the faculty
-          members are actively involved in research work and regularly publishing
-          their research papers in Journals and Conferences.
-
+            Department of  Civil Engineering was established in year 2007. Department offers Bachelor of Technology degree with an intake of 150 students. We have well qualified and dedicated faculty and staff members. The dedication and hard work of the faculty and staff members have given fruitful results with our students securing ranks at University examination consistently.
+            Department have well equipped laboratories. A separate CENTRE OF EXCELLENECE has been established which give the opportunity to the students to work on the software’s such as  <strong>AutoCAD</strong>, <strong>Stadpro</strong>, <strong>C</strong>  etc. A wide selection of projects, seminars and training facilities besides technical visits to industrial enterprises and specialized lectures from industry specialists generates enormous potential and confidence among the students enabling them to independently handle the life size problems in their engineering careers.Many MoU’s are signed with various industries offering opportunity to the students to learn working culture of industry. The Department also has a well-established workshop for training in Moulding,  Smithy, Carpentry, Welding, Fitting and Machine tools.
           </p>
         </div>
       </section>
@@ -62,34 +62,42 @@
           <h3 class="sectionHeading">GATE Toppers</h3>
           <div class="row">
             <div class="col-md-6 text-center">
-              <img src="../departments/ece/src/img/studentspotlight/image13.png" alt="" class="img-fluid img-thumbnail rounded-circle">
-              <h5 class="py-2">Jagdeesh Sirvi</h5>
+              <img src="../departments/civil/src/img/studentspotlight/image13.JPG" alt="" class="img-fluid img-thumbnail rounded-circle">
+              <h5 class="py-2">Tushar Aggrawal</h5>
             </div>
             <div class="col-md-6 text-center">
-              <img src="../departments/ece/src/img/studentspotlight/image14.png" alt="" class="img-fluid img-thumbnail rounded-circle">
-              <h5 class="py-2">Vishal Ranjan Prasad</h5>
+              <img src="../departments/civil/src/img/studentspotlight/image14.JPG" alt="" class="img-fluid img-thumbnail rounded-circle">
+              <h5 class="py-2">Hemant Kumar Lodha</h5>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-6 text-center">
+              <img src="../departments/civil/src/img/studentspotlight/image15.JPG" alt="" class="img-fluid img-thumbnail rounded-circle">
+              <h5 class="py-2">Pratik Kumar Mahto</h5>
+            </div>
+            <div class="col-md-6 text-center">
+              <img src="../departments/civil/src/img/studentspotlight/image16.JPG" alt="" class="img-fluid img-thumbnail rounded-circle">
+              <h5 class="py-2">Tanu Sharma</h5>
             </div>
           </div>
 
           <h3 class="sectionHeading">RTU Toppers</h3>
+          <div class="container-fluid"><div class="row"><div class="col text-center list-group-item">Tanu <br> Sharma</div></div></div>
           <div class="row">
             <div class="col-md-6">
               <ul class="list-group list-group-flush">
-                <li class="list-group-item">Ritu Daryani</li>
-                <li class="list-group-item">Jitesh Kumar</li>
-                <li class="list-group-item">Vinod Kr Gill</li>
+                <li class="list-group-item text-center"> Mohit Sharma</li>
+                <li class="list-group-item text-center">Manan Bishnoi</li>
               </ul>
             </div>
             <div class="col-md-6">
               <ul class="list-group list-group-flush">
-                <li class="list-group-item">Mukul Agarwal</li>
-                <li class="list-group-item">Rajat Garg</li>
-                <li class="list-group-item">Bhawna Soni</li>
+                <li class="list-group-item text-center"> Durgesh Kumar</li>
+                <li class="list-group-item text-center">Chandan Kumar Chandra</li>
               </ul>
             </div>
           </div>
         </div>
-
       </section>
     </div>
   </div>
