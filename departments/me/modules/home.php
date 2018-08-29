@@ -19,11 +19,12 @@
       <section class="section container card">
         
         <div class="sectionContent card-body">
-          <div class="sectionHeading">RTU Toppers</div>
+          <div class="sectionHeading">Academic Toppers</div>
           <div class="sectionSubHeading text-center">3rd Semester</div>
+          <hr>
           <div class="row justify-content-center">
             <div class="col-md-6 text-center">
-              <img src="../departments/me/src/img/toppers/shaym.jpg" alt="" class="img-fluid img-thumbnail rounded-circle">
+              <img src="../departments/me/src/img/toppers/shyam.jpg" alt="" class="img-fluid img-thumbnail rounded-circle">
               <h5 class="py-2">Shyam Pratap Singh Rathore (82.8%)</h5>
             </div>
             <div class="col-md-6 text-center">
@@ -35,10 +36,12 @@
               <h5 class="py-2">Arpit Kasliwal (80.5%)</h5>
             </div>
           </div>
+          <hr>
           <div class="sectionSubHeading text-center">5th Semester</div>
+          <hr>
           <div class="row justify-content-center">
             <div class="col-md-6 text-center">
-              <img src="../departments/me/src/img/toppers/.jpg" alt="" class="img-fluid img-thumbnail rounded-circle">
+              <img src="../departments/me/src/img/toppers/krishnakant.jpg" alt="" class="img-fluid img-thumbnail rounded-circle">
               <h5 class="py-2">Krishankant Gupta (81.2%)</h5>
             </div>
             <div class="col-md-6 text-center">
@@ -46,7 +49,9 @@
               <h5 class="py-2">Prashant Kumar (80.6%)</h5>
             </div>
           </div>
+          <hr>
           <div class="sectionSubHeading text-center">8th Semester</div>
+          <hr>
           <div class="row justify-content-center">
             <div class="col-md-6 text-center">
               <img src="../departments/me/src/img/toppers/vaibhav.jpg" alt="" class="img-fluid img-thumbnail rounded-circle">

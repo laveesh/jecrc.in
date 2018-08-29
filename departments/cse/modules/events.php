@@ -428,38 +428,7 @@
 
 <section class="section container">
 	<div class="sectionHeading">Student Awards and Achivements</div>
-	<div class="card sectionContent my-3">
-		<div class="card-body">
-			<h3 class="card-header text-center">Gate 2018 Qualifiers</h3>
-			<div class="row">
-				<div class="col-md-6">
-					<ul class="list-group list-group-flush">
-						<li class="list-group-item">Apurvi Mansinghka</li>
-						<li class="list-group-item">Akshay vijayvargiya</li>
-						<li class="list-group-item">Amandeep Goyal</li>
-						<li class="list-group-item">Ekansh Kushwah</li>
-						<li class="list-group-item">Anushree Jain</li>
-						<li class="list-group-item">Kapil Khandelwal</li>
-						<li class="list-group-item">Divaker Soni</li>
-						<li class="list-group-item">Rohit Mathur</li>
-					</ul>
-				</div>
-				<div class="col-md-6">
-					<ul class="list-group list-group-flush">
-						<li class="list-group-item">Rohit Kumar Gupta</li>
-						<li class="list-group-item">Mayank Prasad</li>
-						<li class="list-group-item">Sakshi Singhal</li>
-						<li class="list-group-item">Prakhar Garg</li>
-						<li class="list-group-item">Nikhil Gupta</li>
-						<li class="list-group-item">Mohit Kumawat</li>
-						<li class="list-group-item">Vinod Kumar</li>
-						<li class="list-group-item">Suryanshi Adaniya</li>
-					</ul>
-				</div>
-			</div>
-		</div>
-	</div>
-	<div class="sectionContent card my-3">
+		<div class="sectionContent card my-3">
 		<img src="../departments/cse/src/img/awards/student/jindadil.jpg" class="card-img-top">
 		<div class="card-body">
 			<p class="card-text">

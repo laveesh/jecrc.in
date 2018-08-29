@@ -1,5 +1,5 @@
 <section class="section container">
-	<div class="sectionHeading">UNDERGRADUATE PTROGRAMME</div>
+	<div class="sectionHeading">Undergraduate Programme</div>
 	<div class="sectionContent">
 		<iframe src="https://docs.google.com/gview?url=https://jecrcwebsite.herokuapp.com/departments/cse/src/pdf/CS-new-scheme-rtu-updated.pdf&embedded=true" class="embed-doc" frameborder="0"></iframe>   
 	</div>
