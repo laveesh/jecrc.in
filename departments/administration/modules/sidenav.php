@@ -14,16 +14,19 @@
     <div class="col-sm-2 sidebarContainer">
       <div class="navbar navbar-expand-sm bg-primary sidebar" role="navigation">
           <div class="container-fluid">
-      		<div class="collapse navbar-collapse" id="bs-sidebar-navbar-collapse-1">
-      			<ul class="nav navbar-nav flex-column">
+          <div class="collapse navbar-collapse" id="bs-sidebar-navbar-collapse-1">
+            <ul class="nav navbar-nav flex-column">
               <li class="active"><a href="administration.php?section=anti_ragging">Anti-Ragging Guidelines<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="active"><a href="administration.php?section=recruitments">Recruitments 2018<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="active"><a href="administration.php?section=norms">Recruitment Norms<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-            	</ul>
-      				</li>
-      			</ul>
-      		</div>
-      	</div>
+              <li class="active"><a href="administration.php?section=heirarchy">Hierarchy<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              <li class="active"><a href="administration.php?section=gov_bodies">Governing Bodies<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+               <li class="active"><a href="administration.php?section=antiragging">Anti-Ragging Committee<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
       </div>
     </div>
     <!-- Image Carousel -->
