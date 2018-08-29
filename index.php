@@ -7,8 +7,11 @@
     <title>JECRC</title>
     <link rel="stylesheet" href="src/css/font-awesome.min.css">
     <link rel="stylesheet" href="src/css/bootstrap.css">
+    <link rel="stylesheet" href="src/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="src/css/owl.theme.default.min.css">
     <link rel="stylesheet" href="src/css/style.css">
     <link rel="stylesheet" href="src/css/home.css">
+    
     <link rel="icon" href="src/img/favicon.png" type="image/x-icon"/>
   </head>
   <body>
@@ -241,25 +244,59 @@
     </div>
     <div class="container-fluid shadow my-3 card">
       <div class="sectionHeading">Photo Gallery</div>
-      <div class="sectionContent px-4 gallery-cont">
-        <marquee direction="right" behavior="alternate" scrollamount="10">
-        <img src="src/img/gallery/1.jpg" alt="img-1" class="gallery-img mx-3">
-        <img src="src/img/gallery/2.jpg" alt="img-2" class="gallery-img mx-3">
-        <img src="src/img/gallery/3.jpg" alt="img-3" class="gallery-img mx-3">
-        <img src="src/img/gallery/4.jpg" alt="img-4" class="gallery-img mx-3">
-        <img src="src/img/gallery/5.jpg" alt="img-5" class="gallery-img mx-3">
-        <img src="src/img/gallery/6.jpg" alt="img-6" class="gallery-img mx-3">
-        <img src="src/img/gallery/7.jpg" alt="img-7" class="gallery-img mx-3">
-        <img src="src/img/gallery/8.jpg" alt="img-8" class="gallery-img mx-3">
-        <img src="src/img/gallery/9.jpg" alt="img-9" class="gallery-img mx-3">
-        <img src="src/img/gallery/10.jpg" alt="img-10" class="gallery-img mx-3">
-        <img src="src/img/gallery/11.jpg" alt="img-11" class="gallery-img mx-3">
-        <img src="src/img/gallery/12.jpg" alt="img-12" class="gallery-img mx-3">
-        <img src="src/img/gallery/13.jpg" alt="img-13" class="gallery-img mx-3">
-        <img src="src/img/gallery/14.jpg" alt="img-14" class="gallery-img mx-3">
-        <img src="src/img/gallery/15.jpg" alt="img-15" class="gallery-img mx-3">
-        <img src="src/img/gallery/16.jpg" alt="img-16" class="gallery-img mx-3">
-        </marquee>
+      <div class="sectionContent px-4">
+        
+        <div class="owl-carousel owl-theme">
+          <div class="item">
+            <img src="src/img/gallery/1.jpg" alt="img-1" class="gallery-img mx-3">
+          </div>
+          <div class="item">
+            <img src="src/img/gallery/2.jpg" alt="img-2" class="gallery-img mx-3">
+          </div>
+          <div class="item">
+            <img src="src/img/gallery/3.jpg" alt="img-3" class="gallery-img mx-3">
+          </div>
+          <div class="item">
+            <img src="src/img/gallery/4.jpg" alt="img-4" class="gallery-img mx-3">
+          </div>
+          <div class="item">
+            <img src="src/img/gallery/5.jpg" alt="img-5" class="gallery-img mx-3">
+          </div>
+          <div class="item">
+            <img src="src/img/gallery/6.jpg" alt="img-6" class="gallery-img mx-3">
+          </div>
+          <div class="item">
+            <img src="src/img/gallery/7.jpg" alt="img-7" class="gallery-img mx-3">
+          </div>
+          <div class="item">
+            <img src="src/img/gallery/8.jpg" alt="img-8" class="gallery-img mx-3">
+          </div>
+          <div class="item">
+            <img src="src/img/gallery/9.jpg" alt="img-9" class="gallery-img mx-3">
+          </div>
+          <div class="item">
+            <img src="src/img/gallery/10.jpg" alt="img-10" class="gallery-img mx-3">
+          </div>
+          <div class="item">
+            <img src="src/img/gallery/11.jpg" alt="img-11" class="gallery-img mx-3">
+          </div>
+          <div class="item">
+            <img src="src/img/gallery/12.jpg" alt="img-12" class="gallery-img mx-3">
+          </div>
+          <div class="item">
+            <img src="src/img/gallery/13.jpg" alt="img-13" class="gallery-img mx-3">
+          </div>
+          <div class="item">
+            <img src="src/img/gallery/14.jpg" alt="img-14" class="gallery-img mx-3">
+          </div>
+          <div class="item">
+            <img src="src/img/gallery/15.jpg" alt="img-15" class="gallery-img mx-3">
+          </div>
+          <div class="item">
+            <img src="src/img/gallery/16.jpg" alt="img-16" class="gallery-img mx-3">
+          </div>
+        </div>
+        
       </div>
       <div class="container-fluid mb-1 pt-5 pb-5 pr-5 pl-5">
         <div class="pb-3 pr-3 pl-3 text-center advHeading">
@@ -317,6 +354,7 @@
         <script src="src/js/jquery.min.js"></script>
         <script src="src/js/popper.min.js"></script>
         <script src="src/js/bootstrap.min.js"></script>
+        <script src="src/js/owl.carousel.min.js"></script>
         <script>
         $("marquee").hover(function () {
         this.stop();
@@ -324,5 +362,37 @@
         this.start();
         });
         </script>
+        <script>
+  $('.owl-carousel').owlCarousel({
+    loop:true,
+    margin:20,
+    nav:false,
+    responsiveClass: true,
+    responsive:{
+      0:{
+        items: 1,
+        dots: false
+      },
+      500:{
+        items: 2
+      },
+      700:{
+        items: 3
+      },
+      900:{
+        items: 4
+      },
+      1200:{
+        items: 5
+      }
+    },
+    autoplay:true,
+    autoplayTimeout: 3000,
+    autoplayHoverPause: true,
+    responsiveRefreshRate: 100
+
+    
+});
+</script>
       </body>
     </html>
