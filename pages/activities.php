@@ -21,7 +21,7 @@
   <?php include '../departments/activities/modules/sidenav.php'; ?>
 
   <main id="activities_root">
-    <?php include '../departments/activities/modules/home.php'; ?>
+    
   </main>
   <?php include '../modules/footer.php'; ?>
   <script src="../departments/activities/src/js/activities.js"></script>

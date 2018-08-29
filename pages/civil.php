@@ -21,7 +21,7 @@
   <?php include '../departments/civil/modules/sidenav.php'; ?>
 
   <main id="civil_root">
-    <?php include '../departments/civil/modules/home.php'; ?>
+    
   </main>
 
   <?php include '../modules/footer.php'; ?>

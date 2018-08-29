@@ -32,17 +32,17 @@
               <a class="nav-link" href="index.php">Home<span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item active">
-              <a class="nav-link" href="pages/about.php">About<span class="sr-only">(current)</span></a>
+              <a class="nav-link" href="pages/about.php?section=home">About<span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 College
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="pages/administration.php">Administration</a>
-                <a class="dropdown-item" href="pages/research.php">Research</a>
+                <a class="dropdown-item" href="pages/administration.php?section=anti_ragging">Administration</a>
+                <a class="dropdown-item" href="pages/research.php?section=home">Research</a>
                 <!-- <a class="dropdown-item" href="pages/library.php">Library</a> -->
-                <a class="dropdown-item" href="pages/events.php">Events</a>
+                <a class="dropdown-item" href="pages/events.php?section=home">Events</a>
               </div>
             </li>
             <li class="nav-item dropdown">
@@ -50,9 +50,9 @@
                 Students
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="pages/admission.php">Admission</a>
-                <a class="dropdown-item" href="pages/achivements.php">Achivements</a>
-                <a class="dropdown-item" href="pages/activities.php">Activities</a>
+                <a class="dropdown-item" href="pages/admission.php?section=home">Admission</a>
+                <a class="dropdown-item" href="pages/achivements.php?section=home">Achivements</a>
+                <a class="dropdown-item" href="pages/activities.php?section=home">Activities</a>
               </div>
             </li>
             <li class="nav-item dropdown">
@@ -60,22 +60,22 @@
                 Courses Offered
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="pages/cse.php">Computer Science</a>
-                <a class="dropdown-item" href="pages/it.php">Information Technology</a>
-                <a class="dropdown-item" href="pages/ece.php">Electronics and Communication Engineering</a>
-                <a class="dropdown-item" href="pages/ee.php">Electrical Engineering</a>
-                <a class="dropdown-item" href="pages/me.php">Mechanical Engineering</a>
-                <a class="dropdown-item" href="pages/civil.php">Civil Engineering</a>
+                <a class="dropdown-item" href="pages/cse.php?section=home">Computer Science</a>
+                <a class="dropdown-item" href="pages/it.php?section=home">Information Technology</a>
+                <a class="dropdown-item" href="pages/ece.php?section=home">Electronics and Communication Engineering</a>
+                <a class="dropdown-item" href="pages/ee.php?section=home">Electrical Engineering</a>
+                <a class="dropdown-item" href="pages/me.php?section=home">Mechanical Engineering</a>
+                <a class="dropdown-item" href="pages/civil.php?section=home">Civil Engineering</a>
               </div>
             </li>
             <li class="nav-item active">
-              <a class="nav-link" href="initiatives.php">Initiatives</a>
+              <a class="nav-link" href="initiatives.php?section=home">Initiatives</a>
             </li>
             <li class="nav-item active">
-              <a class="nav-link" href="pages/placements.php">Traning and Placements</a>
+              <a class="nav-link" href="pages/placements.php?section=home">Traning and Placements</a>
             </li>
             <li class="nav-item active">
-              <a class="nav-link" href="pages/alumni.php">Alumni</a>
+              <a class="nav-link" href="pages/alumni.php?section=home">Alumni</a>
             </li>
             <li class="nav-item active">
               <a class="nav-link" href="pages/contact.php">Contact Us</a>
