@@ -1,8 +1,12 @@
 <div class="container card section">
 <div class="sectionHeading">Undergraduate Program</div>
 <div class="card-body sectionContent">
-<p >Bachelor of Technology in Mechinical Engineering or B.Tech. (ME) is a full time under graduate programme, affiliated to Rajasthan Technical University, with a total duration 4 years, each year comprising of two semesters. It is one of the most sought after programme. All admissions to this programme are through Rajasthan Engineering Admission Process(REAP).</p>
+<p >Bachelor of Technology in Mechanical Engineering or B.Tech. (ME) is a full time under graduate programme, affiliated to Rajasthan Technical University, with a total duration 4 years, each year comprising of two semesters. It is one of the most sought after programme. All admissions to this programme are through Rajasthan Engineering Admission Process(REAP).</p>
 <p >The course curriculum includes core courses along with professional as well as open elective courses. Courses from humanities, and social, basic and engineering sciences are also given due weightage as per standard norms.</p>
+</div>
+	<iframe src="../departments/me/src/pdf/RTU_Scheme_ME.pdf" class="embeded-doc me-newsletter" frameborder="0"></iframe>
+<!-- 
+
 <h4 class="sectionSubHeading">Programme Educational Objectives</h4>
 <ol class="sectionList">
 <li>To provide students with the fundamentals of Engineering Sciences with
@@ -66,5 +70,5 @@ technological change.</li>
 <li>An ability to apply foundation of Computer Science and Engineering, algorithmic principles and theory in designing and modeling computation based systems.</li>
 <li>The ability to demonstrate software development skills.</li>
 </ol>
-</div>
+</div> -->
 </div>
