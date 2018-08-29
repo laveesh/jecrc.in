@@ -22,23 +22,23 @@
           Shri Ram ki Nangal, via Sitapura RIICO, Tonk Road, Sukhpuria, Bambala, Jaipur, Rajasthan 302022
         </div>
       </div>
-      <nav class="navbar navbar-expand-xl bg-primary mainNav">
-    <div class="collapse navbar-collapse bg-primary" id="navbarSupportedContent">
-      <ul class="navbar-nav mr-auto center-nav">
-        <li class="nav-item active">
-          <a class="nav-link" href="index.php">Home<span class="sr-only">(current)</span></a>
-        </li>
-        <li class="nav-item active">
-          <a class="nav-link" href="pages/about.php">About<span class="sr-only">(current)</span></a>
-        </li>
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            College
-          </a>
-          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="pages/administration.php">Administration</a>
-            <a class="dropdown-item" href="pages/research.php">Research</a>
-            <!-- <a class="dropdown-item" href="pages/library.php">Library</a> -->
+      <nav class="navbar navbar-expand-lg bg-primary mainNav">
+        <div class="collapse navbar-collapse bg-primary" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto center-nav">
+            <li class="nav-item active">
+              <a class="nav-link" href="index.php">Home<span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item active">
+              <a class="nav-link" href="pages/about.php">About<span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                College
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="pages/administration.php">Administration</a>
+                <a class="dropdown-item" href="pages/research.php">Research</a>
+                <!-- <a class="dropdown-item" href="pages/library.php">Library</a> -->
                 <a class="dropdown-item" href="pages/events.php">Events</a>
               </div>
             </li>
@@ -66,7 +66,7 @@
               </div>
             </li>
             <li class="nav-item active">
-               <a class="nav-link" href="initiatives.php">Initiatives</a>
+              <a class="nav-link" href="initiatives.php">Initiatives</a>
             </li>
             <li class="nav-item active">
               <a class="nav-link" href="pages/placements.php">Traning and Placements</a>
@@ -77,7 +77,7 @@
             <li class="nav-item active">
               <a class="nav-link" href="pages/contact.php">Contact Us</a>
             </li>
-              <li class="nav-item dropdown">
+            <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Download
               </a>
@@ -113,10 +113,10 @@
             <div class="carousel-item">
               <img   src="src/img/Carousel/slider3.jpg" alt="Third slide">
             </div>
-<!--             <div class="carousel-item">
+            <!--             <div class="carousel-item">
               <img  src="src/img/Carousel/slider2.jpg" alt="Fourth slide">
             </div>
- -->            <div class="carousel-item">
+            -->            <div class="carousel-item">
               <img  src="src/img/Carousel/slider5.jpg" alt="Fifth slide">
             </div>
           </div>
@@ -147,13 +147,14 @@
         </ul>
       </div>
     </div>
-    <div class="container-fluid row">
+    <div class="container-fluid">
+      <div class="row">
       <div class="col-lg-4 col-sm-12">
-        <div class="card py-2 px-2 mx-2 my-2 shadow newsBox">
+        <div class="card py-2 px-2 my-2 shadow newsBox">
           <div class="sectionHeading">NEWS & EVENTS</div>
           <div class="sectionContent px-4">
             <marquee direction="up" behavior="scroll" height="500" scrollamount="6" id="marq">
-            <ul class="sectionList list-group">
+            <ul class="sectionList list-group news">
               <li class="list-group-item">JMAG Edition-9 released.</li>
               <li class="list-group-item">Sh. Anil Agarwal, Chairman, Vedanta Resources Plc @ JECRC</li>
               <li class="list-group-item">700 Placements in 2 Days with 2 Companies</li>
@@ -203,6 +204,7 @@
             </div>
           </div>
         </div>
+      </div>
       </div>
     </div>
     <div class="container-fluid shadow my-3 card">
