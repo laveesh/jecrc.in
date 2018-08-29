@@ -21,7 +21,7 @@
   <?php include '../departments/alumni/modules/sidenav.php'; ?>
 
   <main id="alumni_root">
-    <?php include '../departments/alumni/modules/home.php'; ?>
+    
   </main>
   <?php include '../modules/footer.php'; ?>
   <script src="../departments/alumni/src/js/alumni.js"></script>
