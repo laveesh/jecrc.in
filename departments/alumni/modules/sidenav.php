@@ -16,7 +16,19 @@
         <div class="container-fluid">
           <div class="collapse navbar-collapse" id="bs-sidebar-navbar-collapse-1">
             <ul class="nav navbar-nav flex-column">
-             
+              <li class="nav-item dropdown">
+                <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Mentorship Module
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="alumni.php?section=placement">Placement Assistance</a>
+                  <a class="dropdown-item" href="alumni.php?section=mentorship">Online Mentorship Model</a>
+                  <a class="dropdown-item" href="alumni.php?section=judge_panel">Judgemental Panel</a>
+                  <a class="dropdown-item" href="alumni.php?section=qa_tips">Q/A Tips for interview</a>
+                  <a class="dropdown-item" href="alumni.php?section=exchange_prog">Opportunity Exchange Program</a>
+                  <a class="dropdown-item" href="alumni.php?section=high_study">Higher Studies</a>
+                </div>
+              </li>
               <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   Awards & Recognization
@@ -32,15 +44,17 @@
                  Events & Activities
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="alumni.php?section=match">Alumni vs Faculty Match</a>
+                  <a class="dropdown-item" href="alumni.php?section=chap_meet">Chapter's Meet</a>
                   <a class="dropdown-item" href="alumni.php?section=hangout">Hangout Session</a>
+                  <a class="dropdown-item" href="alumni.php?section=startup">Startup Event</a>
+                  <a class="dropdown-item" href="alumni.php?section=match">Renessaince Event</a>
                   <a class="dropdown-item" href="alumni.php?section=panel_discussion">Panel Discussion</a>
                   </div>
                   </li>
-                  <li class="active"><a href="alumni.php?section=mentorship">
-                Mentorship Module<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
                 <li class="active"><a href="alumni.php?section=visionmission">
-                Vision & Mission<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>          </ul>
+                Vision & Mission<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>   
+                <li class="active"><a href="alumni.php?section=contact">
+                Contact<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>       </ul>
                       </div>
                     </div>
                   </div>
