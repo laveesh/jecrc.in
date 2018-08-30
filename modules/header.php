@@ -54,7 +54,7 @@
               <a class="nav-link" href="initiatives.php?section=home">Initiatives</a>
             </li>
             <li class="nav-item active">
-              <a class="nav-link" href="placements.php?section=home">Traning and Placements</a>
+              <a class="nav-link" href="placements.php?section=home">Training and Placements</a>
             </li>
             <li class="nav-item active">
               <a class="nav-link" href="alumni.php?section=home">Alumni</a>
