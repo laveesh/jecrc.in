@@ -9,36 +9,12 @@
 </div>
 <!-- Container for sidebar and Image Carousel -->
 <div class="container-fluid banner">
-  <div class="row">
-    <!-- Sidebar -->
-    <div class="col-sm-2 sidebarContainer">
-      <div class="navbar navbar-expand-sm bg-primary sidebar" role="navigation">
-        <div class="container-fluid">
-          <div class="collapse navbar-collapse" id="bs-sidebar-navbar-collapse-1">
-            <ul class="nav navbar-nav flex-column">
-              <li class="active"><a href="research.php?section=home">Home<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-              <li class="active"><a href="cse.php?section=research">
-                Computer Science<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-                <li class="active"><a href="it.php?section=research">
-                  Information Technology<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-                  <li class="active"><a href="ece.php?section=research">
-                    Electronics & Communication<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-                    <li class="active"><a href="me.php?section=publication">
-                      Mechanical Engineering<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-                      <li class="active"><a href="ee.php?section=research">
-                        Electrical Engineering<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-                        <li class="active"><a href="civil.php?section=research">
-                          Civil Engineering<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-                        </ul>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <!-- Image Carousel -->
-                <div class="col-sm-10 imageCarousel">
-                  <?php include "../modules/imageCarousel.php" ?>
-                </div>
-              </div>
+  <div class="row">   
+    <!-- Image Carousel -->
+     <div class="col-sm-12 imageCarousel">
+       <?php include "../modules/imageCarousel.php" ?>
+      </div>
+  </div>
             </div>
             <script type="text/javascript">
             function htmlbodyHeightUpdate(){
