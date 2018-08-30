@@ -1,10 +1,10 @@
 <!-- COMPUTER SCIENCE HOME PAGE -->
-<div class="container-fluid">
+<section class=" section container-fluid">
   <div class="row">
     <div class="col-xl-3 col-md-4">
       <section class="section container card">
         <div class="sectionHeading">RECENT NEWS</div>
-        <div class="sectionContent card-body px-4">
+        <div class="sectionContent card-body h-section px-4">
           <marquee behavior="scroll" direction="up" scrollamount=7 scrolldelay=100>
           <ul class="list-group list-group-flush">
             <li class="list-group-item text-success">1.Moonrider News –our five  students are participating in virtual round for SAE competition on  july 13 at Chitkara university Punjab
@@ -12,6 +12,11 @@
             <li class="list-group-item text-primary">2. Department of mechanical engineering conducted 14 days induction program for 3rd semester students in which Industrial visit , Guest lecture and motivation lecture have been conducted.
               <img src="../departments/me/src/img/news/image1.jpg" alt="news image" class="img-fluid img-thumbnail">
             </li>
+            <li class="list-group-item text-success">3. Final year Students have achieved a new feat in the field of innovation and technology by developing the cost open source 3D printer, which create three dimensional solid object from a digital file.
+              <img src="../departments/me/src/img/studentSpotlight/5.jpg" alt="3D-Printer" class="img-fluid img-thumbnail"></li>
+            <li class="list-group-item text-primary">4. 3 rd year Students developed Quadcopters, RC plane and Control Line plane model during 15 days Aero modelling workshop organised in JECRC Campus.
+              <img src="../departments/me/src/img/studentSpotlight/1.jpg" alt="3D-Printer" class="img-fluid img-thumbnail"></li>
+            <li class="list-group-item text-success">5. Pankaj Maharshi made an Android App for Indian Railways named “Rail Health Kota”. Which is launched on 8 Feb. at Bharatpur by GM of West Central Railways Shri Girish Pillai Sir.</li>
           </ul>
           </marquee>
         </div>
@@ -46,108 +51,44 @@
           
         </div>
         </div>
-          <!-- <div class="sectionSubHeading text-center">3rd Semester</div>
-          <hr>
-          <div class="row justify-content-center">
-            <div class="col-md-6 text-center">
-              <img src="../departments/me/src/img/toppers/shyam.jpg" alt="" class="img-fluid img-thumbnail rounded-circle">
-              <h5 class="py-2">Shyam Pratap Singh Rathore (82.8%)</h5>
-            </div>
-            <div class="col-md-6 text-center">
-              <img src="../departments/me/src/img/toppers/arpit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle">
-              <h5 class="py-2">Ajay Sharma (80.5%)</h5>
-            </div>
-            <div class="col-md-6 text-center">
-              <img src="../departments/me/src/img/toppers/ajay.jpg" alt="" class="img-fluid img-thumbnail rounded-circle">
-              <h5 class="py-2">Arpit Kasliwal (80.5%)</h5>
-            </div>
-          </div>
-          <hr>
-          <div class="sectionSubHeading text-center">5th Semester</div>
-          <hr>
-          <div class="row justify-content-center">
-            <div class="col-md-6 text-center">
-              <img src="../departments/me/src/img/toppers/krishnakant.jpg" alt="" class="img-fluid img-thumbnail rounded-circle">
-              <h5 class="py-2">Krishankant Gupta (81.2%)</h5>
-            </div>
-            <div class="col-md-6 text-center">
-              <img src="../departments/me/src/img/toppers/prashant.jpg" alt="" class="img-fluid img-thumbnail rounded-circle">
-              <h5 class="py-2">Prashant Kumar (80.6%)</h5>
-            </div>
-          </div>
-          <hr>
-          <div class="sectionSubHeading text-center">8th Semester</div>
-          <hr>
-          <div class="row justify-content-center">
-            <div class="col-md-6 text-center">
-              <img src="../departments/me/src/img/toppers/vaibhav.jpg" alt="" class="img-fluid img-thumbnail rounded-circle">
-              <h5 class="py-2">Vaibhav Vyash (84.6%)</h5>
-            </div>
-            <div class="col-md-6 text-center">
-              <img src="../departments/me/src/img/toppers/arun.jpg" alt="" class="img-fluid img-thumbnail rounded-circle">
-              <h5 class="py-2">Arun Shringi (82.4%)</h5>
-            </div>
-          </div> -->
+         
         </section>
       </div> 
-      <div class="col-xl-9 col-md-8 row">
+      <div class="col-xl-9 col-md-8 row" id="me-fix">
         <div class="col-xl-8">
           <section class="section container card">
-            <div class="sectionHeading">THE NEWSLETTER- E.MECHZINE</div>
+            <div class="sectionHeading" >NEWSLETTER- E.MECHZINE</div>
             <div class="sectionContent card-body owl-carousel owl-theme py-2 px-2 owl-loaded owl-drag py-2 px-2">
               <div class="item"><a href="../departments/me/src/newsletters/e_machzine.pdf" download><img src="../departments/me/src/img/newsletters/E_MECHZINE.jpg" alt=E-Mechzine class="img-thumbnail"></a></div>
               <div class="item"><a href="../departments/me/src/newsletters/july_18.pdf" download><img src="../departments/me/src/img/newsletters/july2018.jpg" alt="july2018" class="img-thumbnail"></a></div>
               <div class="item"><a href="../departments/me/src/newsletters/april_18.pdf" download><img src="../departments/me/src/img/newsletters/april2018.jpg" alt="april2018" class="img-thumbnail"></a></div>
                <div class="item"> <a href="../departments/me/src/newsletters/march18.pdf" download><img src="../departments/me/src/img/newsletters/march2018.jpg" alt="march2018" class="img-thumbnail"></a></div>
-              <div class="item"><img src="../departments/me/src/img/newsletters/feb2018.jpg" alt="feb2018" class="img-thumbnail"></div>
+              <div class="item"><a href="../departments/me/src/newsletters/feb18.pub" download><img src="../departments/me/src/img/newsletters/feb2018.jpg" alt="feb2018" class="img-thumbnail"></a></div>
               <div class="item"><a href="../departments/me/src/newsletters/january_18.pdf" download><img src="../departments/me/src/img/newsletters/jan2018.jpg" alt="jan2018" class="img-thumbnail"></a></div>
                <div class="item"><a href="../departments/me/src/newsletters/nov_17.pdf" download><img src="../departments/me/src/img/newsletters/nov2017.jpg" alt="nov2017" class="img-thumbnail"></a>  </div>
               <div class="item"><a href="../departments/me/src/newsletters/october_17.pdf" download><img src="../departments/me/src/img/newsletters/oct2017.jpg" alt="oct2017" class="img-thumbnail"></a></div>
               <div class="item"><a href="../departments/me/src/newsletters/Sept_17.pdf" download><img src="../departments/me/src/img/newsletters/sept2017.jpg" alt="sept2017" class="img-thumbnail"></a></div>
                <div class="item"> <a href="../departments/me/src/newsletters/AUG_17.pdf" download><img src="../departments/me/src/img/newsletters/aug2017.jpg" alt="aug2017" class="img-thumbnail"></a></div>
               <div class="item"><a href="../departments/me/src/newsletters/july_17.pdf" download><img src="../departments/me/src/img/newsletters/july2017.jpg" alt="july2017" class="img-thumbnail"></a></div>
-             <!--  <div class="row py-2">
-                <div class="col-md-4 py-2">
-                  <a href="../departments/me/src/newsletters/AUG_17.pdf" download>Previous</a></div>
-                  <div class="col-md-4 py-2">
-                    <a href="../departments/me/src/newsletters/Sept_17.pdf" download>Sept 17</a>
-                  </div>
-                  <div class="col-md-4 py-2">
-                    <a href="../departments/me/src/newsletters/october_17.pdf" download>October 17</a>
-                  </div>
-                </div>
-                <div class="row py-2">
-                  <div class="col-md-4 py-2">
-                    <a href="../departments/me/src/newsletters/nov_17.pdf" download>November 17</a>
-                  </div>
-                  <div class="col-md-4 py-2">
-                    <a href="../departments/me/src/newsletters/e_machzine.pdf" class="btn-block btn btn-success btn-lg"  download>E mechzine</a>
-                  </div>
-                  <div class="col-md-4 py-2">
-                    <a href="../departments/me/src/newsletters/january_18.pdf" download>January 18</a>
-                  </div>
-                </div>
-                <div class="row py-2">
-                  <div class="col-md-4 py-2">
-                    <a href="../departments/me/src/newsletters/march18.pdf" download>March 18</a>
-                  </div>
-                  <div class="col-md-4 py-2">
-                    <a href="../departments/me/src/newsletters/april_18.pdf" download>April 18</a>
-                  </div>
-                  <div class="col-md-4 py-2">
-                    <a href="../departments/me/src/newsletters/jan-jun18.pdf" download>June 18</a>
-                  </div>
-                </div> -->
               </div>
             </section>
             
             <section class="section container card">
-              <div class="sectionHeading">Latest Newsletter</div>
-              <iframe src="https://docs.google.com/gview?url=https://jecrcwebsite.herokuapp.com/departments/me/src/newsletters/july_18.pdf&embedded=true" class="embed-doc me-newsletter" frameborder="0"></iframe>
+                
+              
             </section>
-            <section class="section container-fluid px-3">
+
+          </div>
+          <div class="col-xl-4">
+             <section class="section container card">
+            <div class="sectionHeading">UPCOMING EVENTS</div>
+            <div class="col-12">
+              <a href="../departments/me/src/img/calender/calender.jpg" target="_blank"><img src="../departments/me/src/img/calender/calender.png" alt="calender" class="img-fluid"></a>
+            </div>
+          </section>
+              <section class="section container-fluid h-section px-3">
   <div class="sectionHeading">ACADMICS TOPPERS</div>
-  <div class="row">
+ <!--  <div class="row">
     <div class="col-md-6 text-center border-right">
       <div class="sectionHeading">Odd Semester</div>
       <div class="row justify-content-center">
@@ -189,12 +130,35 @@
       </div>
     </div>
     
-  </div>
-</section>
+  </div> -->
+   <div class="sectionSubHeading text-center">3rd Semester</div>
+          <hr>
+          <div class="row justify-content-center">
+            <div class="col-md-6 text-center">
+              <img src="../departments/me/src/img/toppers/shyam.jpg" alt="" class="img-fluid img-thumbnail rounded-circle">
+              <h5 class="py-2">Shyam Pratap Singh Rathore (82.8%)</h5>
+            </div>
           </div>
-          <div class="col-xl-4">
-            <section class="section container card">
-              <div class="sectionHeading">INNOVATIONS</div>
+          <hr>
+          <div class="sectionSubHeading text-center">5th Semester</div>
+          <hr>
+          <div class="row justify-content-center">
+            <div class="col-md-6 text-center">
+              <img src="../departments/me/src/img/toppers/krishnakant.jpg" alt="" class="img-fluid img-thumbnail rounded-circle">
+              <h5 class="py-2">Krishankant Gupta (81.2%)</h5>
+            </div>
+          </div>
+          <hr>
+          <div class="sectionSubHeading text-center">8th Semester</div>
+          <hr>
+          <div class="row justify-content-center">
+            <div class="col-md-6 text-center">
+              <img src="../departments/me/src/img/toppers/vaibhav.jpg" alt="" class="img-fluid img-thumbnail rounded-circle">
+              <h5 class="py-2">Vaibhav Vyash (84.6%)</h5>
+            </div>
+          </div>
+</section>
+              <!-- <div class="sectionHeading">INNOVATIONS</div>
               <div class="sectionContent card-body">
                 <div class="sectionSubHeading">3D Printer</div>
                 <div class="sectionContent">
@@ -270,18 +234,11 @@
                   <li><strong><a href="https://play.google.com/store/apps/details?id=com.pankajmaharshi.safalta" target="_blank">“Safalta Ki Kahaniyan”</a></strong></li>
                 </ul>
               </div>
-            </div>
-          </section>
-          <section class="section container card">
-            <div class="sectionHeading">UPCOMING EVENTS</div>
-            <div class="col-12">
-              <a href="../departments/me/src/img/calender/calender.jpg" target="_blank"><img src="../departments/me/src/img/calender/calender.png" alt="calender" class="img-fluid"></a>
-            </div>
-          </section>
+            </div> -->
         </div>
       </div>
     </div>
-  </div>
+  </section>
 
   <script>
   $('.owl-carousel').owlCarousel({
