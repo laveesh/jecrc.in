@@ -16,8 +16,8 @@
     <header>
       <div class="collegeHeader container-fluid bg-primary text-white">
         <a href="index.php"><img src="src/img/jecrclogo.png" id="jecrcLogo" alt="JECRC"></a>
-        <span id="collegeName">Jaipur Engineering College And Research Center</span>
-        <div id="collegeUni">Approved by AICTE & Affilated to Rajasthan Technical University, Kota</div>
+        <span id="collegeName">Jaipur Engineering College And Research Centre</span>
+        <div id="collegeUni">Approved by AICTE & Affiliated to Rajasthan Technical University, Kota</div>
         <div id="collegeAdd">
           Shri Ram ki Nangal, via Sitapura RIICO, Tonk Road, Sukhpuria, Bambala, Jaipur, Rajasthan 302022
         </div>
@@ -57,7 +57,7 @@
                 Courses Offered
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="pages/cse.php">Computer Science</a>
+                <a class="dropdown-item" href="pages/cse.php">Computer Science & Engineering</a>
                 <a class="dropdown-item" href="pages/it.php">Information Technology</a>
                 <a class="dropdown-item" href="pages/ece.php">Electronics and Communication Engineering</a>
                 <a class="dropdown-item" href="pages/ee.php">Electrical Engineering</a>
@@ -69,7 +69,7 @@
                <a class="nav-link" href="initiatives.php">Initiatives</a>
             </li>
             <li class="nav-item active">
-              <a class="nav-link" href="pages/placements.php">Traning and Placements</a>
+              <a class="nav-link" href="pages/placements.php">Training and Placements</a>
             </li>
             <li class="nav-item active">
               <a class="nav-link" href="pages/alumni.php">Alumni</a>
@@ -279,15 +279,15 @@
             <div class="col-md-4">
               <ul class="list-styling">
                 <li><a target="_blank" href="http://jecrcrenaissance.in/">Renaissance 2018</a></li>
-                <li><a target="_blank" href="http://jecrcmun.co.in">Jecrc Mun 2018</a></li>
-                <li><a target="_blank" href="http://www.iceteas.in/">ICETEAS Confrence</a></li>
+                <li><a target="_blank" href="http://jecrcmun.co.in">JECRC MUN 2018</a></li>
+                <li><a target="_blank" href="http://www.iceteas.in/">ICETEAS Conference</a></li>
               </ul>
             </div>
             <div class="col-md-4">
               <ul class="list-styling">
                 <li><a href="../pages/administration.php?section=recruitments">Recruitments 2018</a></li>
-                <li><a target="_blank" href="http://www.jecrcconference.in/">JECRC Confrences</a></li>
-                <li><a target="_blank" href="http://codedocs.org">Jecrc Coding Community</a></li>
+                <li><a target="_blank" href="http://www.jecrcconference.in/">JECRC Conferences</a></li>
+                <li><a target="_blank" href="http://codedocs.org">JECRC Coding Community</a></li>
               </ul>
               <h4></h4>
             </div>
