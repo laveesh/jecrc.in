@@ -23,7 +23,7 @@
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <a class="dropdown-item" href="administration.php?section=anti_ragging">Administration</a>
                 <a class="dropdown-item" href="research.php?section=home">Research</a>
-                <!-- <a class="dropdown-item" href="library.php">Library</a> -->
+                <a class="dropdown-item" href="library.php?section=home">Library</a>
                 <a class="dropdown-item" href="events.php?section=home">Events</a>
               </div>
             </li>

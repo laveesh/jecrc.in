@@ -17,6 +17,8 @@
       		<div class="collapse navbar-collapse" id="bs-sidebar-navbar-collapse-1">
       			<ul class="nav navbar-nav flex-column">
               <li class="active"><a href="placements.php?section=home">Home<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              <li class="active"><a href="placements.php?section=visionmission">Vision and Mission<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              <li class="active"><a href="placements.php?section=facilities">Center for Deep Learning<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="active"><a href="placements.php?section=tie_ups">Industrial Liaisons<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="active"><a href="placements.php?section=companies_list">Companies List<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="nav-item dropdown">
@@ -35,7 +37,6 @@
 
               <li class="active"><a href="placements.php?section=career_development">Career Development Center<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="active"><a href="placements.php?section=enterprenurship">Entrepreneurship Ecosystem<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-              <li class="active"><a href="placements.php?section=visionmission">Vision and Mission<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
             	</ul>
       				
       		</div>

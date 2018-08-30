@@ -11,7 +11,6 @@
     <link rel="stylesheet" href="src/css/owl.theme.default.min.css">
     <link rel="stylesheet" href="src/css/style.css">
     <link rel="stylesheet" href="src/css/home.css">
-
     <link rel="icon" href="src/img/favicon.png" type="image/x-icon"/>
   </head>
   <body>
@@ -41,7 +40,7 @@
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <a class="dropdown-item" href="pages/administration.php?section=anti_ragging">Administration</a>
                 <a class="dropdown-item" href="pages/research.php?section=home">Research</a>
-                <!-- <a class="dropdown-item" href="pages/library.php">Library</a> -->
+                <a class="dropdown-item" href="pages/library.php?section=home">Library</a>
                 <a class="dropdown-item" href="pages/events.php?section=home">Events</a>
               </div>
             </li>
@@ -151,62 +150,65 @@
     </div>
     <div class="container-fluid">
       <div class="row">
-      <div class="col-lg-4 col-sm-12">
-        <div class="card py-2 px-2 my-2 shadow newsBox">
-          <div class="sectionHeading">NEWS & EVENTS</div>
-          <div class="sectionContent px-4">
-            <marquee direction="up" behavior="scroll" height="500" scrollamount="6" id="marq">
-            <ul class="sectionList list-group news">
-              <li class="list-group-item">JMAG Edition-9 released.</li>
-              <li class="list-group-item">Sh. Anil Agarwal, Chairman, Vedanta Resources Plc @ JECRC</li>
-              <li class="list-group-item">700 Placements in 2 Days with 2 Companies</li>
-              <li class="list-group-item">Induction Day for Batch 2015-19</li>
-              <li class="list-group-item">JMAG Edition-7 released.</li>
-              <li class="list-group-item">Anti-Ragging Initiative</li>
-              <li class="list-group-item">NIRF Engineering</li>
-            </ul>
-            </marquee>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-4 col-sm-12">
-        <div class="card py-2 px-2 mx-2 my-2 shadow msgBox">
-          <div class="sectionHeading">PRINCIPAL'S MESSAGE</div>
-          <div class="sectionContent card-body">
-            <div class="col-12" style="text-align: center;">
-              <img src="src/img/people/principal.jpg" class="rounded-circle img-responsive faculty-img" alt="principle">
-              <h3 class="py-1">Dr. V.K. Chandna</h3>
-              <h4 class="py-1">Principal</h4>
-            </div>
-            <div class="sectionContent overflow-y-scroll">
-              <p>Jaipur Engineering College and Research Centre (JECRC) Jaipur is recognized as one of the best technical institute in the Rajasthan and is adopting the process of change that demands quality outcome-based     education. The vision of the institute is to become an institute of Excellence in imparting outcome based    education, providing facilities to the students to get placement in reputed companies, providing platform to the students for overall self-development that includes ethics, moral values etc. and develop research aptitude through project based learning.</p>
-              <p>In the process of implementing Outcome Based Education (OBE) the faculty members are measuring the progress and competencies of the student as they go through a course in each Semester and are being assessed against pre-defined targets.</p>
-              <p>Engineers are the wealth of the nation and excellence in all disciplines is the present requirement of the country for its sustained economic growth to compete globally. Nearly seventeen years ago, the founders of JECRC embarked on a journey to educate and nurture the finest engineers. It gives me immense to share that JECRC is contributing to the growth of nation by providing outcome based education to their students and nurturing them to compete at the global level.</p>
-              <p>The faculty and technical staff members are committed to cater professional as well as research driven   project based learning to the students and accordingly the teaching-learning process is tuned so as to    fulfill their career growth in the prevalent emerging technology. Different programs have resulted in    overall growth and penetration of students in varied dimensions be it research, innovation, entrepreneurs, educationists or even as sports person and bureaucrats etc.</p>
-              <p>With the support of qualified, dedicated and hardworking faculty, the institute has achieved enviable    ranking in a short span and I have no doubts that with this pace, the institute will relentlessly march    ahead of other eminent institutes at the national level. Let’s give our best and make this institute a    modern temple of outcome based learning through our diligence, devotion and dedication.</p>
-              <p>All the credit goes to outstanding reputation and dedication of the Institute for all these years, under the able guidance of visionary Shri Amit Agrawal and Shri Arpit Agrawal, Directors of the JECRC Foundation.</p>
-              <strong>Wishing you all the best!</strong>
+        <div class="col-lg-4 col-sm-12">
+          <div class="card py-2 px-2 my-2 shadow newsBox">
+            <div class="sectionHeading">NEWS & EVENTS</div>
+            <div class="sectionContent px-4">
+              <marquee direction="up" behavior="scroll" height="500" scrollamount="6" id="marq">
+              <ul class="sectionList list-group news">
+                <li class="list-group-item">JMAG Edition-9 released.</li>
+                <li class="list-group-item">Sh. Anil Agarwal, Chairman, Vedanta Resources Plc @ JECRC</li>
+                <li class="list-group-item">700 Placements in 2 Days with 2 Companies</li>
+                <li class="list-group-item">Induction Day for Batch 2015-19</li>
+                <li class="list-group-item">JMAG Edition-7 released.</li>
+                <li class="list-group-item">Anti-Ragging Initiative</li>
+                <li class="list-group-item">NIRF Engineering</li>
+              </ul>
+              </marquee>
             </div>
           </div>
         </div>
-      </div>
-      <div class="col-lg-4 col-sm-12">
-        <div class="card py-2 px-2 mx-2 my-2 shadow newsBox">
-          <div class="sectionHeading">DIRECTOR'S MESSAGE</div>
-          <div class="sectionContent card-body">
-            <div class="col-12" style="text-align: center;">
-              <img src="src/img/people/arpit.jpg" class="rounded-circle img-responsive faculty-img" alt="principle">
-              <h3 class="py-1">Shri Arpit Agarwal</h3>
-              <h4 class="py-1">Director</h4>
-            </div>
-            <div class="col-12 sectionContent overflow-y-scroll">
-              <p class="py-2">
-                We are currently in the era of technology revolution, spearheaded by recent developments in engineering sciences providing sustainable solutions to various issues in different areas. The Indian engineering programs have a promising future particularly the Engineering sectors are on the threshold of becoming global players by 2020. Fragments of this newsletter will track different event and activities  that are taking place in the department. I extend my best wishes to all those who contributed to Ujjwalam and I am confident that the interaction will be a source of inspiration to the young talent budding in the college, who would be the educationists, technocrats and researchers of tomorrow. They would shoulder the responsibility of bringing in the desired innovations in their fields, leading to the advancement of the country.
-              </p>
+        <div class="col-lg-4 col-sm-12">
+          <div class="card py-2 px-2 mx-2 my-2 shadow msgBox">
+            <div class="sectionHeading">PRINCIPAL'S MESSAGE</div>
+            <div class="sectionContent card-body">
+              <div class="col-12" style="text-align: center;">
+                <img src="src/img/people/principal.jpg" class="rounded-circle img-responsive faculty-img" alt="principle">
+                <h3 class="py-1">Dr. V.K. Chandna</h3>
+                <h4 class="py-1">Principal</h4>
+              </div>
+              <div class="sectionContent overflow-y-scroll">
+                <p>Jaipur Engineering College and Research Centre (JECRC) Jaipur is recognized as one of the best technical institute in the Rajasthan and is adopting the process of change that demands quality outcome-based     education. The vision of the institute is to become an institute of Excellence in imparting outcome based    education, providing facilities to the students to get placement in reputed companies, providing platform to the students for overall self-development that includes ethics, moral values etc. and develop research aptitude through project based learning.</p>
+                <p>In the process of implementing Outcome Based Education (OBE) the faculty members are measuring the progress and competencies of the student as they go through a course in each Semester and are being assessed against pre-defined targets.</p>
+                <p>Engineers are the wealth of the nation and excellence in all disciplines is the present requirement of the country for its sustained economic growth to compete globally. Nearly seventeen years ago, the founders of JECRC embarked on a journey to educate and nurture the finest engineers. It gives me immense to share that JECRC is contributing to the growth of nation by providing outcome based education to their students and nurturing them to compete at the global level.</p>
+                <p>The faculty and technical staff members are committed to cater professional as well as research driven   project based learning to the students and accordingly the teaching-learning process is tuned so as to    fulfill their career growth in the prevalent emerging technology. Different programs have resulted in    overall growth and penetration of students in varied dimensions be it research, innovation, entrepreneurs, educationists or even as sports person and bureaucrats etc.</p>
+                <p>With the support of qualified, dedicated and hardworking faculty, the institute has achieved enviable    ranking in a short span and I have no doubts that with this pace, the institute will relentlessly march    ahead of other eminent institutes at the national level. Let’s give our best and make this institute a    modern temple of outcome based learning through our diligence, devotion and dedication.</p>
+                <p>All the credit goes to outstanding reputation and dedication of the Institute for all these years, under the able guidance of visionary Shri Amit Agrawal and Shri Arpit Agrawal, Directors of the JECRC Foundation.</p>
+                <strong>Wishing you all the best!</strong>
+              </div>
             </div>
           </div>
         </div>
-      </div>
+        <div class="col-lg-4 col-sm-12">
+          <div class="card py-2 px-2 mx-2 my-2 shadow newsBox">
+            <div class="sectionHeading">DIRECTOR'S MESSAGE</div>
+            <div class="sectionContent card-body">
+              <div class="col-12" style="text-align: center;">
+                <img src="src/img/people/arpit.jpg" class="rounded-circle img-responsive faculty-img" alt="principle">
+                <h3 class="py-1">Shri Arpit Agarwal</h3>
+                <h4 class="py-1">Director</h4>
+              </div>
+              <div class="col-12 sectionContent overflow-y-scroll">
+                
+                <p class="py-2">Welcome to JECRC Foundation. At JECRC Foundation we are committed to ensure holistic development of our engineers who are going to be at the leadership positions in the coming years. We inspire our engineers to build their own world and a life based on power of knowledge coupled with strength of traditional wisdom unleashing the countless opportunities to become leaders pushing the frontiers of Science and Technology to embark on an enduring development journey. The learning at JECRC Foundation ignites an irrepressible will to win backed by contemporary innovative ideas and global outlook.</p>
+                <p class="py-2">Our aim is to train our engineers to be project leaders, communicators, problem solvers and ethical citizens of a global community. We offer our students a rich educational experience, an experience that marries intellectual rigor and cross-disciplinary breadth in an intimate, student-centered environment as part of our commitment to engineering education innovation and interdisciplinary research. Research is an integral part of this experience. Our close collaborations with Industry leaders like TCS,Accenture,Intel etc.Hands-on research and project-based activities provide our students with extensive laboratory and design experience, as well as close interaction with exceptional faculty at the forefront of their fields.</p>
+                <p class="py-2">Through dynamic and innovative curricula, a teamwork approach and leadership-building experiences, JECRC students gain vital communication and critical-thinking skills. Through Zarurat program, many of our students participate in community outreach programs.</p>
+                <p class="py-2">Our talented and diverse faculty, who are among the most honored nationwide and have memberships and fellowships in various professional bodies and societies, as mentors constantly shape up the students to realize their true potential and nurture them consistently to realize their unexplored abilities and hidden talents.</p>
+                <p class="py-2">Here you will discover not only engineering excellence, but also a campus alive with round-the-clock ,Cultural, artistic, and intellectual activity. I can assure you that being with JECRC Foundation; you will find yourself better positioned than ever to address the grand challenges of the coming century.</p>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
     <div class="container-fluid shadow my-3 card">
@@ -244,7 +246,6 @@
     <div class="container-fluid shadow my-3 card">
       <div class="sectionHeading">Photo Gallery</div>
       <div class="sectionContent px-4">
-
         <div class="owl-carousel owl-theme">
           <div class="item">
             <img src="src/img/gallery/1.jpg" alt="img-1" class="gallery-img mx-3">
@@ -295,7 +296,6 @@
             <img src="src/img/gallery/16.jpg" alt="img-16" class="gallery-img mx-3">
           </div>
         </div>
-
       </div>
       <div class="container-fluid mb-1 pt-5 pb-5 pr-5 pl-5">
         <div class="pb-3 pr-3 pl-3 text-center advHeading">
@@ -308,6 +308,10 @@
           <div class="mx-5 my-3 shadow"><a href="https://www.facebook.com/tedxjecrc/?ref=br_rs" target="_blank"><img class="pride-img" src="src/img/pride/tedx.jpg" alt="jecrc pride"></a></div>
           <div class="mx-5 my-3 shadow"><a href="http://www.iceteas.in/" target="_blank"><img class="pride-img" src="src/img/pride/iceteas.jpg" alt="jecrc pride"></a></div>
           <div class="mx-5 my-3 shadow"><a href="http://jecrcmun.co.in" target="_blank"><img class="pride-img" src="src/img/pride/mun.jpg" alt="jecrc pride"></a></div>
+          <div class="mx-5 my-3 shadow"><a href="http://http://www.jecrcconference.in/" target="_blank"><img class="pride-img" src="src/img/pride/jecrcconf.png" alt="jecrc confrences"></a></div>
+          <div class="mx-5 my-3 shadow"><a href="#" target="_blank"><img class="pride-img" src="src/img/pride/mou.png" alt="mou"></a></div>
+          <div class="mx-5 my-3 shadow"><a href="#" target="_blank"><img class="pride-img" src="src/img/pride/abhyudaya.png" alt="mou"></a></div>
+          <div class="mx-5 my-3 shadow"><a href="#" target="_blank"><img class="pride-img" src="src/img/pride/spirituallab.png" alt="mou">
         </div>
       </div>
       <!-- Footer -->
@@ -362,36 +366,34 @@
         });
         </script>
         <script>
-  $('.owl-carousel').owlCarousel({
-    loop:true,
-    margin:20,
-    nav:false,
-    responsiveClass: true,
-    responsive:{
-      0:{
+        $('.owl-carousel').owlCarousel({
+        loop:true,
+        margin:20,
+        nav:false,
+        responsiveClass: true,
+        responsive:{
+        0:{
         items: 1,
         dots: false
-      },
-      500:{
+        },
+        500:{
         items: 2
-      },
-      700:{
+        },
+        700:{
         items: 3
-      },
-      900:{
+        },
+        900:{
         items: 4
-      },
-      1200:{
+        },
+        1200:{
         items: 5
-      }
-    },
-    autoplay:true,
-    autoplayTimeout: 3000,
-    autoplayHoverPause: true,
-    responsiveRefreshRate: 100
-
-
-});
-</script>
+        }
+        },
+        autoplay:true,
+        autoplayTimeout: 3000,
+        autoplayHoverPause: true,
+        responsiveRefreshRate: 100
+        });
+        </script>
       </body>
     </html>
