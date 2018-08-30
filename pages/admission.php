@@ -14,6 +14,7 @@
 <link rel="stylesheet" href="../src/css/owl.carousel.min.css">
 <link rel="stylesheet" href="../src/css/owl.theme.default.min.css">
 <script src="../src/js/jquery.min.js"></script>
+  <script src="../departments/admission/src/js/admission.js"></script>
 </head>
 <body>
   <?php include '../modules/header.php'; ?>
@@ -24,7 +25,6 @@
     
   </main>
   <?php include '../modules/footer.php'; ?>
-  <script src="../departments/admission/src/js/admission.js"></script>
   
   <script src="../src/js/popper.min.js"></script>
   <script src="../src/js/bootstrap.min.js"></script><script src="../src/js/owl.carousel.min.js"></script>

@@ -14,7 +14,8 @@
     <link rel="stylesheet" href="../src/css/owl.theme.default.min.css">
     <script src="../src/js/jquery.min.js"></script>
     <script src="../src/js/popper.min.js"></script>
-    <script src="../src/js/bootstrap.min.js"></script><script src="../src/js/owl.carousel.min.js"></script>
+    <script src="../src/js/bootstrap.min.js"></script>
+    <script src="../src/js/owl.carousel.min.js"></script>
     <script src="../departments/cse/src/js/cse.js"></script>
   </head>
   <body>

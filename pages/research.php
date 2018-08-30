@@ -12,7 +12,11 @@
   <link rel="icon" href="../src/img/favicon.png" type="image/x-icon"/>
 
 <link rel="stylesheet" href="../src/css/owl.carousel.min.css">
-
+<script src="../src/js/jquery.min.js"></script>
+    <script src="../src/js/popper.min.js"></script>
+    <script src="../src/js/bootstrap.min.js"></script>
+    <script src="../src/js/owl.carousel.min.js"></script>
+  <script src="../departments/research/src/js/research.js"></script>
 <body>
   <?php include '../modules/header.php'; ?>
 
@@ -22,9 +26,5 @@
     
   </main>
   <?php include '../modules/footer.php'; ?>
-  <script src="../departments/research/src/js/research.js"></script>
-  
-  <script src="../src/js/popper.min.js"></script>
-  <script src="../src/js/bootstrap.min.js"></script><script src="../src/js/owl.carousel.min.js"></script>
 </body>
 </html>
