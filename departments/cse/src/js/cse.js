@@ -4,3 +4,6 @@ $ ( document ).ready(() => {
     var url="../departments/cse/modules/"+id+".php"
     $('#cse_root').load(url);
 });
+$(document).ready(function(){
+  $(".owl-carousel").owlCarousel();
+});

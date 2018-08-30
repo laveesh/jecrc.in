@@ -232,7 +232,7 @@
                     </ol>
                     <div class="carousel-inner">
                       <div class="carousel-item active">
-                        <img class="d-block w-100" src="../departments/me/src/img/studentSpotlight/3.png" alt="First slide">
+                        <img class="d-block w-100" src="../departments/me/src/img/studentSpotlight/3.jpg" alt="First slide">
                       </div>
                       <div class="carousel-item">
                         <img class="d-block w-100" src="../departments/me/src/img/studentSpotlight/2.jpg" alt="First slide">
@@ -275,7 +275,7 @@
           <section class="section container card">
             <div class="sectionHeading">UPCOMING EVENTS</div>
             <div class="col-12">
-              <a href="../departments/me/src/img/calender/calender.png" target="_blank"><img src="../departments/me/src/img/calender/calender.png" alt="calender" class="img-fluid"></a>
+              <a href="../departments/me/src/img/calender/calender.jpg" target="_blank"><img src="../departments/me/src/img/calender/calender.png" alt="calender" class="img-fluid"></a>
             </div>
           </section>
         </div>

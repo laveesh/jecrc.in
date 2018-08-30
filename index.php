@@ -7,8 +7,11 @@
     <title>JECRC</title>
     <link rel="stylesheet" href="src/css/font-awesome.min.css">
     <link rel="stylesheet" href="src/css/bootstrap.css">
+    <link rel="stylesheet" href="src/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="src/css/owl.theme.default.min.css">
     <link rel="stylesheet" href="src/css/style.css">
     <link rel="stylesheet" href="src/css/home.css">
+
     <link rel="icon" href="src/img/favicon.png" type="image/x-icon"/>
   </head>
   <body>
@@ -22,24 +25,24 @@
           Shri Ram ki Nangal, via Sitapura RIICO, Tonk Road, Sukhpuria, Bambala, Jaipur, Rajasthan 302022
         </div>
       </div>
-      <nav class="navbar navbar-expand-xl bg-primary mainNav">
-    <div class="collapse navbar-collapse bg-primary" id="navbarSupportedContent">
-      <ul class="navbar-nav mr-auto center-nav">
-        <li class="nav-item active">
-          <a class="nav-link" href="index.php">Home<span class="sr-only">(current)</span></a>
-        </li>
-        <li class="nav-item active">
-          <a class="nav-link" href="pages/about.php">About<span class="sr-only">(current)</span></a>
-        </li>
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            College
-          </a>
-          <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-            <a class="dropdown-item" href="pages/administration.php">Administration</a>
-            <a class="dropdown-item" href="pages/research.php">Research</a>
-            <!-- <a class="dropdown-item" href="pages/library.php">Library</a> -->
-                <a class="dropdown-item" href="pages/events.php">Events</a>
+      <nav class="navbar navbar-expand-lg bg-primary mainNav">
+        <div class="collapse navbar-collapse bg-primary" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto center-nav">
+            <li class="nav-item active">
+              <a class="nav-link" href="index.php">Home<span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item active">
+              <a class="nav-link" href="pages/about.php?section=home">About<span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                College
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="pages/administration.php?section=anti_ragging">Administration</a>
+                <a class="dropdown-item" href="pages/research.php?section=home">Research</a>
+                <!-- <a class="dropdown-item" href="pages/library.php">Library</a> -->
+                <a class="dropdown-item" href="pages/events.php?section=home">Events</a>
               </div>
             </li>
             <li class="nav-item dropdown">
@@ -47,9 +50,9 @@
                 Students
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="pages/admission.php">Admission</a>
-                <a class="dropdown-item" href="pages/achivements.php">Achivements</a>
-                <a class="dropdown-item" href="pages/activities.php">Activities</a>
+                <a class="dropdown-item" href="pages/admission.php?section=home">Admission</a>
+                <a class="dropdown-item" href="pages/achivements.php?section=home">Achivements</a>
+                <a class="dropdown-item" href="pages/activities.php?section=home">Activities</a>
               </div>
             </li>
             <li class="nav-item dropdown">
@@ -66,24 +69,23 @@
               </div>
             </li>
             <li class="nav-item active">
-               <a class="nav-link" href="initiatives.php">Initiatives</a>
+              <a class="nav-link" href="initiatives.php?section=home">Initiatives</a>
             </li>
             <li class="nav-item active">
               <a class="nav-link" href="pages/placements.php">Training and Placements</a>
             </li>
             <li class="nav-item active">
-              <a class="nav-link" href="pages/alumni.php">Alumni</a>
+              <a class="nav-link" href="pages/alumni.php?section=home">Alumni</a>
             </li>
             <li class="nav-item active">
               <a class="nav-link" href="pages/contact.php">Contact Us</a>
             </li>
-              <li class="nav-item dropdown">
+            <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Download
+                Downloads
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="#">Admission Form</a>
-                <a class="dropdown-item" href="#">Library Form</a>
+                <a class="dropdown-item" href="src/pdf/ApplicationForm.pdf" target="_blank">Bonafide Form</a>
               </div>
             </li>
           </ul>
@@ -113,10 +115,10 @@
             <div class="carousel-item">
               <img   src="src/img/Carousel/slider3.jpg" alt="Third slide">
             </div>
-<!--             <div class="carousel-item">
+            <!--             <div class="carousel-item">
               <img  src="src/img/Carousel/slider2.jpg" alt="Fourth slide">
             </div>
- -->            <div class="carousel-item">
+            -->            <div class="carousel-item">
               <img  src="src/img/Carousel/slider5.jpg" alt="Fifth slide">
             </div>
           </div>
@@ -147,13 +149,14 @@
         </ul>
       </div>
     </div>
-    <div class="container-fluid row">
+    <div class="container-fluid">
+      <div class="row">
       <div class="col-lg-4 col-sm-12">
-        <div class="card py-2 px-2 mx-2 my-2 shadow newsBox">
+        <div class="card py-2 px-2 my-2 shadow newsBox">
           <div class="sectionHeading">NEWS & EVENTS</div>
           <div class="sectionContent px-4">
             <marquee direction="up" behavior="scroll" height="500" scrollamount="6" id="marq">
-            <ul class="sectionList list-group">
+            <ul class="sectionList list-group news">
               <li class="list-group-item">JMAG Edition-9 released.</li>
               <li class="list-group-item">Sh. Anil Agarwal, Chairman, Vedanta Resources Plc @ JECRC</li>
               <li class="list-group-item">700 Placements in 2 Days with 2 Companies</li>
@@ -204,6 +207,7 @@
           </div>
         </div>
       </div>
+      </div>
     </div>
     <div class="container-fluid shadow my-3 card">
       <div class="sectionHeading">Outcome based education</div>
@@ -239,37 +243,71 @@
     </div>
     <div class="container-fluid shadow my-3 card">
       <div class="sectionHeading">Photo Gallery</div>
-      <div class="sectionContent px-4 gallery-cont">
-        <marquee direction="right" behavior="alternate" scrollamount="10">
-        <img src="src/img/gallery/1.jpg" alt="img-1" class="gallery-img mx-3">
-        <img src="src/img/gallery/2.jpg" alt="img-2" class="gallery-img mx-3">
-        <img src="src/img/gallery/3.jpg" alt="img-3" class="gallery-img mx-3">
-        <img src="src/img/gallery/4.jpg" alt="img-4" class="gallery-img mx-3">
-        <img src="src/img/gallery/5.jpg" alt="img-5" class="gallery-img mx-3">
-        <img src="src/img/gallery/6.jpg" alt="img-6" class="gallery-img mx-3">
-        <img src="src/img/gallery/7.jpg" alt="img-7" class="gallery-img mx-3">
-        <img src="src/img/gallery/8.jpg" alt="img-8" class="gallery-img mx-3">
-        <img src="src/img/gallery/9.jpg" alt="img-9" class="gallery-img mx-3">
-        <img src="src/img/gallery/10.jpg" alt="img-10" class="gallery-img mx-3">
-        <img src="src/img/gallery/11.jpg" alt="img-11" class="gallery-img mx-3">
-        <img src="src/img/gallery/12.jpg" alt="img-12" class="gallery-img mx-3">
-        <img src="src/img/gallery/13.jpg" alt="img-13" class="gallery-img mx-3">
-        <img src="src/img/gallery/14.jpg" alt="img-14" class="gallery-img mx-3">
-        <img src="src/img/gallery/15.jpg" alt="img-15" class="gallery-img mx-3">
-        <img src="src/img/gallery/16.jpg" alt="img-16" class="gallery-img mx-3">
-        </marquee>
+      <div class="sectionContent px-4">
+
+        <div class="owl-carousel owl-theme">
+          <div class="item">
+            <img src="src/img/gallery/1.jpg" alt="img-1" class="gallery-img mx-3">
+          </div>
+          <div class="item">
+            <img src="src/img/gallery/2.jpg" alt="img-2" class="gallery-img mx-3">
+          </div>
+          <div class="item">
+            <img src="src/img/gallery/3.jpg" alt="img-3" class="gallery-img mx-3">
+          </div>
+          <div class="item">
+            <img src="src/img/gallery/4.jpg" alt="img-4" class="gallery-img mx-3">
+          </div>
+          <div class="item">
+            <img src="src/img/gallery/5.jpg" alt="img-5" class="gallery-img mx-3">
+          </div>
+          <div class="item">
+            <img src="src/img/gallery/6.jpg" alt="img-6" class="gallery-img mx-3">
+          </div>
+          <div class="item">
+            <img src="src/img/gallery/7.jpg" alt="img-7" class="gallery-img mx-3">
+          </div>
+          <div class="item">
+            <img src="src/img/gallery/8.jpg" alt="img-8" class="gallery-img mx-3">
+          </div>
+          <div class="item">
+            <img src="src/img/gallery/9.jpg" alt="img-9" class="gallery-img mx-3">
+          </div>
+          <div class="item">
+            <img src="src/img/gallery/10.jpg" alt="img-10" class="gallery-img mx-3">
+          </div>
+          <div class="item">
+            <img src="src/img/gallery/11.jpg" alt="img-11" class="gallery-img mx-3">
+          </div>
+          <div class="item">
+            <img src="src/img/gallery/12.jpg" alt="img-12" class="gallery-img mx-3">
+          </div>
+          <div class="item">
+            <img src="src/img/gallery/13.jpg" alt="img-13" class="gallery-img mx-3">
+          </div>
+          <div class="item">
+            <img src="src/img/gallery/14.jpg" alt="img-14" class="gallery-img mx-3">
+          </div>
+          <div class="item">
+            <img src="src/img/gallery/15.jpg" alt="img-15" class="gallery-img mx-3">
+          </div>
+          <div class="item">
+            <img src="src/img/gallery/16.jpg" alt="img-16" class="gallery-img mx-3">
+          </div>
+        </div>
+
       </div>
       <div class="container-fluid mb-1 pt-5 pb-5 pr-5 pl-5">
         <div class="pb-3 pr-3 pl-3 text-center advHeading">
           <span>OUR PRIDE</span>
         </div>
         <div class="d-flex flex-row justify-content-center flex-wrap">
-          <div class="mx-5 my-3 shadow"><a href="https://innovate.mygov.in/sih2018/" target="_blank"><img class="pride-img" src="src/img/pride/sih.png" alt="jecrc pride"></a></div>
-          <div class="mx-5 my-3 shadow"><a href="https://www.jecrchackathon.in/" target="_blank"><img class="pride-img" src="src/img/pride/jecrchack.png" alt="jecrc pride"></a></div>
+          <div class="mx-5 my-3 shadow"><a href="https://innovate.mygov.in/sih2018/" target="_blank"><img class="pride-img" src="src/img/pride/sih.jpg" alt="jecrc pride"></a></div>
+          <div class="mx-5 my-3 shadow"><a href="https://www.jecrchackathon.in/" target="_blank"><img class="pride-img" src="src/img/pride/jecrchack.jpg" alt="jecrc pride"></a></div>
           <div class="mx-5 my-3 shadow"><a href="http://jecrcrenaissance.in/" target="_blank"><img class="pride-img" src="src/img/pride/renaissance.png" alt="jecrc pride"></a></div>
-          <div class="mx-5 my-3 shadow"><a href="https://www.facebook.com/tedxjecrc/?ref=br_rs" target="_blank"><img class="pride-img" src="src/img/pride/tedx.png" alt="jecrc pride"></a></div>
-          <div class="mx-5 my-3 shadow"><a href="http://www.iceteas.in/" target="_blank"><img class="pride-img" src="src/img/pride/iceteas.png" alt="jecrc pride"></a></div>
-          <div class="mx-5 my-3 shadow"><a href="http://jecrcmun.co.in" target="_blank"><img class="pride-img" src="src/img/pride/mun.png" alt="jecrc pride"></a></div>
+          <div class="mx-5 my-3 shadow"><a href="https://www.facebook.com/tedxjecrc/?ref=br_rs" target="_blank"><img class="pride-img" src="src/img/pride/tedx.jpg" alt="jecrc pride"></a></div>
+          <div class="mx-5 my-3 shadow"><a href="http://www.iceteas.in/" target="_blank"><img class="pride-img" src="src/img/pride/iceteas.jpg" alt="jecrc pride"></a></div>
+          <div class="mx-5 my-3 shadow"><a href="http://jecrcmun.co.in" target="_blank"><img class="pride-img" src="src/img/pride/mun.jpg" alt="jecrc pride"></a></div>
         </div>
       </div>
       <!-- Footer -->
@@ -315,6 +353,7 @@
         <script src="src/js/jquery.min.js"></script>
         <script src="src/js/popper.min.js"></script>
         <script src="src/js/bootstrap.min.js"></script>
+        <script src="src/js/owl.carousel.min.js"></script>
         <script>
         $("marquee").hover(function () {
         this.stop();
@@ -322,5 +361,37 @@
         this.start();
         });
         </script>
+        <script>
+  $('.owl-carousel').owlCarousel({
+    loop:true,
+    margin:20,
+    nav:false,
+    responsiveClass: true,
+    responsive:{
+      0:{
+        items: 1,
+        dots: false
+      },
+      500:{
+        items: 2
+      },
+      700:{
+        items: 3
+      },
+      900:{
+        items: 4
+      },
+      1200:{
+        items: 5
+      }
+    },
+    autoplay:true,
+    autoplayTimeout: 3000,
+    autoplayHoverPause: true,
+    responsiveRefreshRate: 100
+
+
+});
+</script>
       </body>
     </html>
