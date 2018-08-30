@@ -1,5 +1,5 @@
 <section class="section container card">
-  <div class="sectionHeading">Mission and Vision</div>
+  <div class="sectionHeading">Vision and Mission</div>
   <div class="sectionContent card-body">
     <h3 class="sectionSubHeading">Vision</h3>
     <p><em>To establish outcome based excellence in teaching, learning and commitment to support IT Industry.</em>

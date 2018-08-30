@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="src/css/owl.theme.default.min.css">
     <link rel="stylesheet" href="src/css/style.css">
     <link rel="stylesheet" href="src/css/home.css">
-    
+
     <link rel="icon" href="src/img/favicon.png" type="image/x-icon"/>
   </head>
   <body>
@@ -19,8 +19,8 @@
     <header>
       <div class="collegeHeader container-fluid bg-primary text-white">
         <a href="index.php"><img src="src/img/jecrclogo.png" id="jecrcLogo" alt="JECRC"></a>
-        <span id="collegeName">Jaipur Engineering College And Research Center</span>
-        <div id="collegeUni">Approved by AICTE & Affilated to Rajasthan Technical University, Kota</div>
+        <span id="collegeName">Jaipur Engineering College And Research Centre</span>
+        <div id="collegeUni">Approved by AICTE & Affiliated to Rajasthan Technical University, Kota</div>
         <div id="collegeAdd">
           Shri Ram ki Nangal, via Sitapura RIICO, Tonk Road, Sukhpuria, Bambala, Jaipur, Rajasthan 302022
         </div>
@@ -60,19 +60,19 @@
                 Courses Offered
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="pages/cse.php?section=home">Computer Science</a>
-                <a class="dropdown-item" href="pages/it.php?section=home">Information Technology</a>
-                <a class="dropdown-item" href="pages/ece.php?section=home">Electronics and Communication Engineering</a>
-                <a class="dropdown-item" href="pages/ee.php?section=home">Electrical Engineering</a>
-                <a class="dropdown-item" href="pages/me.php?section=home">Mechanical Engineering</a>
-                <a class="dropdown-item" href="pages/civil.php?section=home">Civil Engineering</a>
+                <a class="dropdown-item" href="pages/cse.php">Computer Science & Engineering</a>
+                <a class="dropdown-item" href="pages/it.php">Information Technology</a>
+                <a class="dropdown-item" href="pages/ece.php">Electronics and Communication Engineering</a>
+                <a class="dropdown-item" href="pages/ee.php">Electrical Engineering</a>
+                <a class="dropdown-item" href="pages/me.php">Mechanical Engineering</a>
+                <a class="dropdown-item" href="pages/civil.php">Civil Engineering</a>
               </div>
             </li>
             <li class="nav-item active">
               <a class="nav-link" href="initiatives.php?section=home">Initiatives</a>
             </li>
             <li class="nav-item active">
-              <a class="nav-link" href="pages/placements.php?section=home">Traning and Placements</a>
+              <a class="nav-link" href="pages/placements.php?section=home">Training and Placements</a>
             </li>
             <li class="nav-item active">
               <a class="nav-link" href="pages/alumni.php?section=home">Alumni</a>
@@ -244,7 +244,7 @@
     <div class="container-fluid shadow my-3 card">
       <div class="sectionHeading">Photo Gallery</div>
       <div class="sectionContent px-4">
-        
+
         <div class="owl-carousel owl-theme">
           <div class="item">
             <img src="src/img/gallery/1.jpg" alt="img-1" class="gallery-img mx-3">
@@ -295,7 +295,7 @@
             <img src="src/img/gallery/16.jpg" alt="img-16" class="gallery-img mx-3">
           </div>
         </div>
-        
+
       </div>
       <div class="container-fluid mb-1 pt-5 pb-5 pr-5 pl-5">
         <div class="pb-3 pr-3 pl-3 text-center advHeading">
@@ -317,15 +317,15 @@
             <div class="col-md-4">
               <ul class="list-styling">
                 <li><a target="_blank" href="http://jecrcrenaissance.in/">Renaissance 2018</a></li>
-                <li><a target="_blank" href="http://jecrcmun.co.in">Jecrc Mun 2018</a></li>
-                <li><a target="_blank" href="http://www.iceteas.in/">ICETEAS Confrence</a></li>
+                <li><a target="_blank" href="http://jecrcmun.co.in">JECRC MUN 2018</a></li>
+                <li><a target="_blank" href="http://www.iceteas.in/">ICETEAS Conference</a></li>
               </ul>
             </div>
             <div class="col-md-4">
               <ul class="list-styling">
                 <li><a href="../pages/administration.php?section=recruitments">Recruitments 2018</a></li>
-                <li><a target="_blank" href="http://www.jecrcconference.in/">JECRC Confrences</a></li>
-                <li><a target="_blank" href="http://codedocs.org">Jecrc Coding Community</a></li>
+                <li><a target="_blank" href="http://www.jecrcconference.in/">JECRC Conferences</a></li>
+                <li><a target="_blank" href="http://codedocs.org">JECRC Coding Community</a></li>
               </ul>
               <h4></h4>
             </div>
@@ -390,7 +390,7 @@
     autoplayHoverPause: true,
     responsiveRefreshRate: 100
 
-    
+
 });
 </script>
       </body>
