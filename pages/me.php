@@ -21,7 +21,7 @@
   <?php include '../departments/me/modules/sidenav.php'; ?>
 
   <main id="me_root">
-    <?php include '../departments/me/modules/home.php'; ?>
+    
   </main>
 
   <?php include '../modules/footer.php'; ?>

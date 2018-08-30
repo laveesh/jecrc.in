@@ -21,7 +21,7 @@
   <?php include '../departments/admission/modules/sidenav.php'; ?>
 
   <main id="admission_root">
-    <?php include '../departments/admission/modules/home.php'; ?>
+    
   </main>
   <?php include '../modules/footer.php'; ?>
   <script src="../departments/admission/src/js/admission.js"></script>

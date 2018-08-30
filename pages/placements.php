@@ -21,7 +21,7 @@
   <?php include '../departments/placements/modules/sidenav.php'; ?>
 
   <main id="placements_root">
-    <?php include '../departments/placements/modules/home.php'; ?>
+    
   </main>
   <?php include '../modules/footer.php'; ?>
   <script src="../departments/placements/src/js/placements.js"></script>

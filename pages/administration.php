@@ -21,7 +21,7 @@
   <?php include '../departments/administration/modules/sidenav.php'; ?>
 
   <main id="administration_root">
-    <?php include '../departments/administration/modules/anti_ragging.php'; ?>
+    
   </main>
   <?php include '../modules/footer.php'; ?>
   <script src="../departments/administration/src/js/administration.js"></script>

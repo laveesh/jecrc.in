@@ -21,7 +21,7 @@
   <?php include '../departments/achivements/modules/sidenav.php'; ?>
 
   <main id="achivements_root">
-    <?php include '../departments/achivements/modules/home.php'; ?>
+    
   </main>
   <?php include '../modules/footer.php'; ?>
   <script src="../departments/achivements/src/js/achivements.js"></script>

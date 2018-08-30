@@ -21,7 +21,7 @@
   <?php include '../departments/library/modules/sidenav.php'; ?>
 
   <main id="library_root">
-    <?php include '../departments/library/modules/home.php'; ?>
+    
   </main>
   <?php include '../modules/footer.php'; ?>
   <script src="../departments/library/src/js/library.js"></script>

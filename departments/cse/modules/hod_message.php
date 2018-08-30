@@ -3,7 +3,7 @@
 	<div class="panel-body card">
 					<div class="row">
 						<div class="col-md-4 py-3" align="center">
-							<img src="../departments/cse/src/img/people/faculty/DrBhavnaSharma.jpg" class="img-responsive rounded-circle" alt="faculty-image">
+							<img src="../departments/cse/src/img/people/faculty/drbhavnasharma.jpg" class="img-responsive rounded-circle" alt="faculty-image">
 						</div>
 						<div class="col-md-8 px-4 py-3">
 							<p>
