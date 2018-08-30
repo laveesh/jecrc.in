@@ -1,8 +1,8 @@
 <header>
   <div class="collegeHeader container-fluid bg-primary text-white">
     <a href="../index.php"><img src="../src/img/jecrclogo.png" id="jecrcLogo" alt="JECRC"></a>
-      <span id="collegeName">Jaipur Engineering College And Research Center</span>
-      <div id="collegeUni">Affilated to Rajasthan Technical University, Kota (REAP CODE: 020)</div>
+      <span id="collegeName">Jaipur Engineering College And Research Centre</span>
+      <div id="collegeUni">Affiliated to Rajasthan Technical University, Kota (REAP CODE: 020)</div>
       <div id="collegeAdd">
         Shri Ram ki Nangal, via Sitapura RIICO, Tonk Road, Sukhpuria, Bambala, Jaipur, Rajasthan 302022
       </div>
