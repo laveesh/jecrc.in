@@ -1,5 +1,5 @@
 <div class="container">
-		<div class="sectionHeading">Recents events @JECRC</div>
+		<div class="sectionHeading">Recents events @CIVIL</div>
 		<section class="section">
 			<div class="sectionHeading">Sewage Treatment Plant </div>
 			<div class="row">

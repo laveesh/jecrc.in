@@ -17,9 +17,17 @@
       		<div class="collapse navbar-collapse" id="bs-sidebar-navbar-collapse-1">
       			<ul class="nav navbar-nav flex-column">
               <li class="active"><a href="admission.php?section=home">Home<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-              <li class="active"><a href="admission.php?section=ug_program">UG Program<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-              <li class="active"><a href="admission.php?section=college_fees">College Fees Structure<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-              <li class="active"><a href="admission.php?section=hostel_fees">Hostel Fees Structure<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              <li class="active"><a href="admission.php?section=college_fee">College Fees Structure<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              <li class="active"><a href="admission.php?section=hostel_fee">Hostel Fees Structure<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+               <li class="nav-item dropdown">
+                <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Notice
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="admission.php?section=college_fees">College Fee</a>
+                  <a class="dropdown-item" href="admission.php?section=hostel_fees">Hostel Fee</a>
+                </div>
+              </li>
             	</ul>
       				</li>
       			</ul>

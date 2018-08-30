@@ -1,114 +1,129 @@
-
-<!-- COMPUTER SCIENCE HOME PAGE -->
-<div class="container-fluid">
+<section class="section container-fluid">
   <div class="row">
     <div class="col-md-3">
-      <section class="section container card">
-        <div class="sectionHeading">RECENT NEWS</div>
-        <div class="sectionContent card-body px-4 mh-75">
-        <marquee behavior="scroll" scrolldelay=60 scrollamount=4 direction="up" height=100%>
-        <ul class="list-group list-group-flush">
-            <li class="list-group-item text-success">1.When the pain of ordering medicines online was lowered by our students
-              
+      <div class="sectionHeading">RECENT NEWS</div>
+      <div class="h-section card sectionContent container">
+        <div class="card-body">
+                    <marquee behavior="scroll" scrolldelay=60 scrollamount=4 direction="up" height=100%>
+          <ul class="list-group list-group-flush text-primary">
+            <li class="list-group-item">
+              When the pain of ordering medicines online was lowered by our students
             </li>
-            <li class="list-group-item text-primary">2.Department of Electrical Engineering conducted 14 days induction program for 3rd semester students in which Guest lecture and motivation lecture have been conducted.
-                          </li>
-
-            <li class="list-group-item text-primary">3.A SARAS DAIRY PLANT Industrial Visit was conducted for 5th semester 
-              
+            <li class="list-group-item">
+              Department of Electrical Engineering conducted 14 days induction program for 3rd semester students in which Guest lecture and motivation lecture have been conducted.
             </li>
-  
-            <li class="list-group-item text-primary">4.An Industrial visit to RVPNL  Jaipur was conducted for 7th semester
-              
+            <li class="list-group-item">
+             A SARAS DAIRY PLANT Industrial Visit was conducted for 5th semester 
             </li>
-            
+            <li class="list-group-item">An Industrial visit to RVPNL  Jaipur was conducted for 7th semester</li>
+          
           </ul>
           </marquee>
         </div>
-      </section>
+      
     </div>
+      </div>
+
     <div class="col-md-6">
-      <section class="section container card">
-            <div class="sectionHeading">THE NEWSLETTER- TESLA</div>
-            <div class="sectionContent card-body">
-              <div class="row py-2">
-                <div class="col-md-4 py-2">
-                  <a href="../departments/ee/src/newsletters/july17.pdf" class="btn-block btn btn-primary btn-lg"  download>Previous</a></div>
-                  <div class="col-md-4 py-2">
-                    <a href="../departments/ee/src/newsletters/august17.pdf" class="btn-block btn btn-primary btn-lg"  download>August 17</a>
-                  </div>
-                  <div class="col-md-4 py-2">
-                    <a href="../departments/ee/src/newsletters/sep17.pdf" class="btn-block btn btn-primary btn-lg"  download>September 17</a>
-                  </div>
-                </div>
-                <div class="row py-2">
-                  <div class="col-md-4 py-2">
-                    <a href="../departments/ee/src/newsletters/oct2017.pdf" class="btn-block btn btn-primary btn-lg"  download>October 17</a>
-                  </div>
-                  <div class="col-md-4 py-2">
-                    <a href="../departments/ee/src/newsletters/NOV2017.pdf" class="btn-block btn btn-success btn-lg"  download>November 17</a>
-                  </div>
-                  <div class="col-md-4 py-2">
-                    <a href="../departments/ee/src/newsletters/jan18.pdf" class="btn-block btn btn-primary btn-lg"  download>January 18</a>
-                  </div>
-                </div>
-                <div class="row py-2">
-                  <div class="col-md-4 py-2">
-                    <a href="../departments/ee/src/newsletters/Feb18.pdf" class="btn-block btn btn-primary btn-lg" download>Febuary 18</a>
-                  </div>
-                  <div class="col-md-4 py-2">
-                    <a href="../departments/ee/src/newsletters/march18.pdf" class="btn-block btn btn-primary btn-lg"  download>March 18</a>
-                  </div>
-                  <div class="col-md-4 py-2">
-                    <a href="../departments/ee/src/newsletters/april18.pdf" class="btn-block btn btn-primary btn-lg"  download>April 18</a>
-                  </div>
-                  <div class="col-md-4 py-2">
-                    <a href="../departments/ee/src/newsletters/july18.pdf" class="btn-block btn btn-primary btn-lg"  download>July 18</a>
-                  </div>
-                </div>
-              </div>
-            </section>
-
-       <section class="section container card">
-        <div class="sectionHeading">Latest Newsletter</div>
-        <iframe src="https://docs.google.com/gview?url=https://jecrcwebsite.herokuapp.com/departments/ee/src/newsletters/july18.pdf&embedded=true" class="embed-doc me-newsletter" frameborder="0"></iframe>
-    </section>
-    </div>
-    <div class="col-md-3">
-      <section class="section container card">
-        <div class="sectionHeading">STUDENT SPOTLIGHT</div>
+      <div class="sectionHeading">NEWS LETTER - ee SCOOP</div>
+      <div class="section container card h-section">
         <div class="sectionContent card-body">
-          <h3 class="sectionHeading">GATE Toppers</h3>
-          <div class="row">
-            <div class="col-md-6 text-center">
-              
-              <h5 class="py-2">Shubham Khaitan (2017)</h5>
-            </div>
-            <div class="col-md-6 text-center">
-              
-              <h5 class="py-2">Uttam Kumar (2018)</h5>
-            </div>
-          </div>
+          <div class="owl-carousel owl-theme py-2 px-2">
+    <div class="item"><img src="../departments/ee/src/img/newsletters/Vol-1issue1.jpg" alt="" class="img-thumbnail"></div>
+    <div class="item"><img src="../departments/ee/src/img/newsletters/Vol-1issue1.jpg" alt="" class="img-thumbnail"></div>
+    <div class="item"><img src="../departments/ee/src/img/newsletters/Vol-1issue1.jpg" alt="" class="img-thumbnail"></div>
+    
+</div>
+ <p class="px-2 pt-2">
+            The area of Computer Science and Engineering deals with not only Theory of Computation and Design of Computational Systems, but also new engineering trends in software and hardware technology. A good technologist with this specialization is expected to possess excellent analytical ability, mathematical aptitude, problem solving skills and a logical mind. The Computer Science and Engineering Department at JECRC College is affiliated to Rajasthan Technical University, Kota and endeavours to provide an environment where students can grow into Computer Engineers of tomorrow possessing all these necessary attributes. Academic standards are high and students have an opportunity to learn from experienced and well-qualified faculty members. The classroom sessions are reinforced through practical sessions, projects, workshops and many other co-curricular activities. Industrial interaction is promoted through various MOUs with companies like Accenture, TCS, and Pinnacle resulting in increased employability of students.
 
-          <h3 class="sectionHeading">RTU Toppers</h3>
-          <div class="row">
-            <div class="col-md-6">
-              <ul class="list-group list-group-flush">
-                <li class="list-group-item">Kritika Khandelwal</li>
-                <li class="list-group-item">Kapil Mittal</li>
-                <li class="list-group-item">Shubham Bansal</li>
-              </ul>
-            </div>
-            <div class="col-md-6">
-              <ul class="list-group list-group-flush">
-                <li class="list-group-item">Shubham Agarwal</li>
-                <li class="list-group-item">Sapndeep Pareek</li>
-              </ul>
-            </div>
-          </div>
+          </p>
         </div>
-
-      </section>
+      </div>
+    </div>
+   
+    <div class="col-md-3">
+      <div class="sectionHeading">STUDENT SPOTLIGHT</div>
+      <div class="section h-section card container">
+        <div class="card-body sectionContent">
+          <div class="sectionHeading">Gate Qualifiers</div>
+        <div class="container">
+          
+            <ul class="list-group list-group-flush">
+          <li class="list-group-item">Shubham Khaitan</li>
+          <li class="list-group-item">Uttam Kumar </li>
+         
+        </ul>
+          
+        </div>
+        </div>
+      </div>
     </div>
   </div>
-</div>
+</section>
+
+<section class="section container-fluid px-3">
+  <div class="sectionHeading">ACADMICS TOPPERS</div>
+  <div class="row">
+    <div class="col-md-6 text-center border-right">
+      <div class="sectionHeading">Odd Semester</div>
+      <div class="row justify-content-center">
+        <div class="col-md-6">
+          <img src="../departments/ee/src/img/rtu_toppers/pic.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
+          <p class="text-center">Arpit Sharma</p>
+        </div>
+        <div class="col-md-6">
+          <img src="../departments/ee/src/img/rtu_toppers/pic.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
+          <p class="text-center">Arpit Sharma</p>
+        </div>
+      </div>
+      <div class="row justify-content-center">
+        <div class="col-md-6">
+          <img src="../departments/ee/src/img/rtu_toppers/pic.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
+          <p class="text-center">Arpit Sharma</p>
+        </div>
+        <div class="col-md-6">
+          <img src="../departments/ee/src/img/rtu_toppers/pic.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
+          <p class="text-center">Arpit Sharma</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-6 text-center">
+      <div class="sectionHeading">Even Semester</div>
+      <div class="row justify-content-center">
+        <div class="col-md-6">
+          <img src="../departments/ee/src/img/rtu_toppers/pic.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
+          <p class="text-center">Arpit Sharma</p>
+        </div>
+        <div class="col-md-6">
+          <img src="../departments/ee/src/img/rtu_toppers/pic.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
+          <p class="text-center">Arpit Sharma</p>
+        </div>
+      </div>
+      <div class="row justify-content-center">
+        <div class="col-md-6">
+          <img src="../departments/ee/src/img/rtu_toppers/pic.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
+          <p class="text-center">Arpit Sharma</p>
+        </div>
+        <div class="col-md-6">
+          <img src="../departments/ee/src/img/rtu_toppers/pic.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
+          <p class="text-center">Arpit Sharma</p>
+        </div>
+      </div>
+    </div>
+    
+  </div>
+</section>
+
+
+
+
+<script>
+  $('.owl-carousel').owlCarousel({
+    loop:false,
+    margin:10,
+    nav:true,
+    items: 3 
+    
+})
+</script>

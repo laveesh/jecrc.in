@@ -11,10 +11,10 @@
   <link rel="stylesheet" href="../departments/about/src/css/about.css">
   <link rel="icon" href="../src/img/favicon.png" type="image/x-icon"/>
 
-<link rel="stylesheet" href="../src/css/owl.carousel.min.css">
-<link rel="stylesheet" href="../src/css/owl.theme.default.min.css">
 <script src="../src/js/jquery.min.js"></script>
-</head>
+    <script src="../src/js/popper.min.js"></script>
+    <script src="../src/js/bootstrap.min.js"></script>
+  </head>
 <body>
   <?php include '../modules/header.php'; ?>
     <section class="section container">
@@ -67,8 +67,6 @@ Tonk Road, Jaipur-302 022</p>
     </section>
 
   <?php include '../modules/footer.php'; ?>
-  
-  <script src="../src/js/popper.min.js"></script>
-  <script src="../src/js/bootstrap.min.js"></script><script src="../src/js/owl.carousel.min.js"></script>
+
 </body>
 </html>

@@ -14,6 +14,10 @@
 <link rel="stylesheet" href="../src/css/owl.carousel.min.css">
 <link rel="stylesheet" href="../src/css/owl.theme.default.min.css">
 <script src="../src/js/jquery.min.js"></script>
+    <script src="../src/js/popper.min.js"></script>
+    <script src="../src/js/bootstrap.min.js"></script>
+    <script src="../src/js/owl.carousel.min.js"></script>
+    <script src="../departments/it/src/js/it.js"></script>
 </head>
 <body>
   <?php include '../modules/header.php'; ?>
@@ -21,14 +25,9 @@
   <?php include '../departments/it/modules/sidenav.php'; ?>
 
   <main id="it_root">
-    <?php include '../departments/it/modules/home.php'; ?>
+    
   </main>
 
   <?php include '../modules/footer.php'; ?>
-  
-  <script src="../src/js/popper.min.js"></script>
-  <script src="../src/js/bootstrap.min.js"></script><script src="../src/js/owl.carousel.min.js"></script>
-    <script src="../departments/it/src/js/it.js"></script>
-
 </body>
 </html>
