@@ -33,8 +33,11 @@
                 </div>
               </li>
               <li class="active"><a href="placements.php?section=initiatives">Student Development Initiatives<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+<<<<<<< HEAD
+=======
               <li class="active"><a href="placements.php?section=career_development">Career Development Center<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="active"><a href="placements.php?section=enterprenurship">Entrepreneurship Ecosystem<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+>>>>>>> 91fd63e30e35642ff9c3e8f17d40666e0dea144d
             	</ul>
       				
       		</div>

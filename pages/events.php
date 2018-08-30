@@ -28,5 +28,7 @@
     
   </main>
   <?php include '../modules/footer.php'; ?>
+
+  <script src="../departments/events/src/js/events.js"></script>
 </body>
 </html>
