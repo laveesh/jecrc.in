@@ -615,7 +615,7 @@
 							<li class="list-group-item">Experience: 08 years</li>
 							<li class="list-group-item">Publication: 01</li>
 						</ul>
-					</div> 
+					</div>  
 				</div>
 			</div>
 		</div>
