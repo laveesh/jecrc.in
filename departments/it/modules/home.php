@@ -37,8 +37,9 @@
     
 </div>
  <p class="px-2 pt-2">
-            The INFORMATION TECHNOLOGY department of JECRC Foundation has been on the pinnacle of all major achievements and developments in the field of computer sciences over the past few years. The incorrigible focus on developing fundamental and intellectual knowledge amongst the students through outcome based excellence in teaching has been exemplary.
-The department regularly arranges seminar, guest lectures and workshops by industry experts for students and staff. The department’s dedication towards it’s students has always set new benchmarks for other departments, by bringing in leading IT industries such as INFOSYS, TCS, MICROSOFT, AMDOCS, ACCENTURE, COGNIZANT, Thought works and NATIONAL ENTREPRENEURSHIP NETWORK AND signing MOU’S with them to promote INDUSTRY-INSTITUTE interaction.<br/>
+            The area of Information technology (IT) deals with the use of computers to store, retrieve, transmit, and manipulate data or information in the context of various fields.There are multiple and lucrative positions available in the information technology industry. It is one of the fastest growing employment industries in the world. <br/>
+Over the years, the department of IT at JECRC Foundation has created an aura for its innovative short-term courses through continuing education. The department has always provided such environment in which new ideas, research and scholarship flourish and from which the innovators of tomorrow emerge.
+Through rigorous coursework and by providing an understanding of the needs of industry, we aim towards new technological trends as well as industrial interactions. <br/  >
 With every passing year the unpritdented success of IT students has been the highlight of the placement drives happening in the campus. Every year almost 20% of final year students secure admission for higher studies at renowned universities abroad and institutes of repute in India. The upsurge in the number of entrepreneurs from the campus in ritnt times has been really promising and their endeavors have really been galvanizing the students to take up start-up projects and achieve success.
 
           </p>
