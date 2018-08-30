@@ -7,7 +7,7 @@
 				<div class="card-header text-center"><h4>DR. Bhavna Sharma</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/DrBhavnaSharma.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/cse/src/img/people/faculty/drbhavnasharma.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -27,7 +27,7 @@
 				<div class="card-header text-center"><h4>Dr. Vijay Singh Rathore</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/DrVijaySinghRathore.png"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/cse/src/img/people/faculty/drvijaysinghrathore.jpg"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -67,7 +67,7 @@
 				<div class="card-header text-center"><h4>Dr. Neelam Chaplot</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/NeelamChaplot.jpg"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/cse/src/img/people/faculty/neelamchaplot.jpg"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -88,7 +88,7 @@
 				<div class="card-header text-center"><h4>Dr. Nilam Choudhary</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/DrNilamChoudhary.png"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/cse/src/img/people/faculty/drnilamchoudhary.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -129,7 +129,7 @@
 				<div class="card-header text-center"><h4>Dr. Sanjay Gaur</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/DrSanjayGaur.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/cse/src/img/people/faculty/drsanjaygaur.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -149,7 +149,7 @@
 				<div class="card-header text-center"><h4>Mr. Mukesh Agrawal</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/MukeshAgarwal.png"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/cse/src/img/people/faculty/mukeshagarwal.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -170,7 +170,7 @@
 				<div class="card-header text-center"><h4>Ms. Manju Vyas</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/ManjuVyas.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/cse/src/img/people/faculty/manjuvyas.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -190,7 +190,7 @@
 				<div class="card-header text-center"><h4>Mr. Sachin Gupta</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/SachinGupta.png"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/cse/src/img/people/faculty/sachingupta.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -211,7 +211,7 @@
 				<div class="card-header text-center"><h4>Ms. C.Jeba Nega Cheltha</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/Jeba.png"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/cse/src/img/people/faculty/jeba.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -252,7 +252,7 @@
 				<div class="card-header text-center"><h4>Mr. Arihant Kumar Jain</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/ArihantJain.png"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/cse/src/img/people/faculty/arihantjain.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -272,7 +272,7 @@
 				<div class="card-header text-center"><h4>Mr. Abhishek Dixit</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/cse/src/img/people/faculty/abhishekdixit.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -293,7 +293,7 @@
 				<div class="card-header text-center"><h4>Ms. Geetika Gautam</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/GeetikaGautam.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/cse/src/img/people/faculty/geetikagautam.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -313,7 +313,7 @@
 				<div class="card-header text-center"><h4>Ms. Hemlata Soni </h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/HemlataSoni.JPEG"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/cse/src/img/people/faculty/hemlatasoni.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -334,7 +334,7 @@
 				<div class="card-header text-center"><h4>Ms. Richa Upadhyay</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/RichaUpadhyay.png"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/cse/src/img/people/faculty/richaupadhyay.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -354,7 +354,7 @@
 				<div class="card-header text-center"><h4>Mr. Shashi Kant Singh </h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/shashikantsingh.png"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/cse/src/img/people/faculty/shashikantsingh.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -375,7 +375,7 @@
 				<div class="card-header text-center"><h4>Ms. Seema yadav</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/SeemaYadav.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/cse/src/img/people/faculty/seemayadav.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -395,7 +395,7 @@
 				<div class="card-header text-center"><h4>Ms. Priya Gupta </h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/PriyaGupta.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/cse/src/img/people/faculty/priyagupta.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -416,7 +416,7 @@
 				<div class="card-header text-center"><h4>Mr. Ankur Raj</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/AnkurRaj.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/cse/src/img/people/faculty/ankurraj.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -436,7 +436,7 @@
 				<div class="card-header text-center"><h4>Ms. Geerija Lavania </h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/GeerijaLavania.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/cse/src/img/people/faculty/geerijalavania.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -457,7 +457,7 @@
 				<div class="card-header text-center"><h4>Mr. Mohit Jain</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/MOHITJAIN.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/cse/src/img/people/faculty/mohitjain.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -477,7 +477,7 @@
 				<div class="card-header text-center"><h4>Mr. Kirti Choudhary </h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/KirtiChoudhary.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/cse/src/img/people/faculty/kirtichoudhary.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -518,7 +518,7 @@
 				<div class="card-header text-center"><h4>Mr. Geet Kalani </h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/GeetKalani.png"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/cse/src/img/people/faculty/geetkalani.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -539,7 +539,7 @@
 				<div class="card-header text-center"><h4>Ms. Priyanka Mitra</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/PriyankaMitra.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/cse/src/img/people/faculty/priyankamitra.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -559,7 +559,7 @@
 				<div class="card-header text-center"><h4>Ms. Saroj Agrawal</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/SarojAgarwal.png"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/cse/src/img/people/faculty/sarojagarwal.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -580,7 +580,7 @@
 				<div class="card-header text-center"><h4>Mr. Ashish Amreria</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/AshishAmeria.png"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/cse/src/img/people/faculty/ashishameria.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -600,7 +600,7 @@
 				<div class="card-header text-center"><h4>Dr. Satish Kulhari</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/VijayLaxmi.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/cse/src/img/people/faculty/vijaylaxmi.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -621,7 +621,7 @@
 				<div class="card-header text-center"><h4>Ms. Garima Ojha</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/GarimaOjha.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/cse/src/img/people/faculty/garimaojha.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -641,7 +641,7 @@
 				<div class="card-header text-center"><h4>Ms. Uma Maheshwari  </h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/UmaMaheswari.png"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/cse/src/img/people/faculty/umamaheswari.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -662,7 +662,7 @@
 				<div class="card-header text-center"><h4>Mr. Kanishk Jain</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/Kanishkjain.png"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/cse/src/img/people/faculty/kanishkjain.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -682,7 +682,7 @@
 				<div class="card-header text-center"><h4>Ms. Shikha Maheshwari  </h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/ShikhaMaheshwari.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/cse/src/img/people/faculty/shikhamaheshwari.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -703,7 +703,7 @@
 				<div class="card-header text-center"><h4>Ms. Anima Sharma</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/AnimaSharma.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/cse/src/img/people/faculty/animasharma.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -723,7 +723,7 @@
 				<div class="card-header text-center"><h4>Mr. Rajan Kumar Jha </h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/RajanJha.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/cse/src/img/people/faculty/rajanjha.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -744,7 +744,7 @@
 				<div class="card-header text-center"><h4>Mr. Amit Mithal</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/AmitMithal.JPG"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/cse/src/img/people/faculty/amitmithal.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -764,7 +764,7 @@
 				<div class="card-header text-center"><h4>Ms. Richa Sharma  </h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/RichaSharma.png"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/cse/src/img/people/faculty/richasharma.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -785,7 +785,7 @@
 				<div class="card-header text-center"><h4>Mr. Gajendra Kumar Sharma</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/GajendraSharma.png"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/cse/src/img/people/faculty/gajendrasharma.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -805,7 +805,7 @@
 				<div class="card-header text-center"><h4>Mr. Prahlad Kumar Sharma </h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/PrahladSharma.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/cse/src/img/people/faculty/prahladsharma.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -826,7 +826,7 @@
 				<div class="card-header text-center"><h4>Mr. Shailesh Arrawatia</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/ShaileshArrawatia.png"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/cse/src/img/people/faculty/shailesharrawatia.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
@@ -866,7 +866,7 @@
 				<div class="card-header text-center"><h4>Mr. Jay Shankar Sharma</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/Jay- Shankar-Sharma.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/cse/src/img/people/faculty/jayshankarsharma.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">

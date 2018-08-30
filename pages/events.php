@@ -21,7 +21,7 @@
   <?php include '../departments/events/modules/sidenav.php'; ?>
 
   <main id="events_root">
-    <?php include '../departments/events/modules/home.php'; ?>
+    
   </main>
   <?php include '../modules/footer.php'; ?>
   <script src="../departments/events/src/js/events.js"></script>

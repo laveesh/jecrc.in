@@ -103,7 +103,7 @@
                   <a class="dropdown-item" href="civil.php?section=awards_student">Students Awards</a>
                 </div>
               </li> 
-              <li class="active"><a href="civil.php?section=student_associations">Student Associations<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              <li class="active"><a href="civil.php?section=clubs">Clubs<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
       					</ul>
       				</li>
       			</ul>

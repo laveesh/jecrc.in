@@ -21,7 +21,7 @@
     <?php include '../modules/header.php'; ?>
     <?php include '../departments/cse/modules/sidenav.php'; ?>
     <main id="cse_root">
-      <?php include '../departments/cse/modules/home.php'; ?>
+      
     </main>
     <?php include '../modules/footer.php'; ?>
   </body>

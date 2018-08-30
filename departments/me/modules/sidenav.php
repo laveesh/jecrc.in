@@ -37,7 +37,7 @@
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="me.php?section=academics">Academics</a>
                   
-                  <a class="dropdown-item" href="me.php?section=ug_program">Under Graduate Program</a>
+                  <a class="dropdown-item" href="me.php?section=ug_program">Undergraduate Program</a>
                   <a class="dropdown-item" href="me.php?section=program_outcomes">Program Outcomes</a>
                   <a class="dropdown-item" href="me.php?section=program_edu_obj">Program Education Objective</a>
                   <a class="dropdown-item" href="me.php?section=pso">Program Specific Outcomes</a>
@@ -58,7 +58,7 @@
               </li>
               <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  Faculty And Staff
+                  Faculty and Staff
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="me.php?section=faculty">Faculty</a>
@@ -68,7 +68,7 @@
               <li class="active"><a href="me.php?section=tech_events">Events<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  Awards/Achievements
+                  Awards & Achievements
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="me.php?section=events">Events</a>
