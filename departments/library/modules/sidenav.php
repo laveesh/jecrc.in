@@ -19,33 +19,14 @@
               <li class="active"><a href="library.php?section=home">JECRC Library<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  People
-                </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="library.php?section=librarian">Chief Librarian</a>
-                  <a class="dropdown-item" href="library.php?section=staff">Staff</a>
-                </div>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   Resources
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="library.php?section=collection">Collection</a>
                   <a class="dropdown-item" href="library.php?section=e_resources">E-Resources</a>
-                  <a class="dropdown-item" href="library.php?section=open_sources">Open Sources</a>
                 </div>
               </li>
-              <li class="nav-item dropdown">
-                <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  Guidelines
-                </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="library.php?section=service">Service</a>
-                  <a class="dropdown-item" href="library.php?section=rules">Rules & Regulations</a>
-                  <a class="dropdown-item" href="library.php?section=timings">Library Timings</a>
-                </div>
-              </li>
+              <li class="active"><a href="library.php?section=rules">Rules and Regulations<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="active"><a href="library.php?section=contact">Contact<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
             </ul>
           </div>
