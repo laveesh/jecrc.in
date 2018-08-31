@@ -122,7 +122,7 @@
               Irshad Ali Ansari
           </div>
           <div class="card-body">
-            Prateek
+            image
           </div>
           <div class="card-footer">
               84.3% (3<sup>rd</sup> Semester)
@@ -148,7 +148,7 @@
               Kapil Dev Agarwal
           </div>
           <div class="card-body">
-            Prateek
+            image
           </div>
           <div class="card-footer">
               83.2% (5<sup>th</sup> Semester)
@@ -161,7 +161,7 @@
             Pankaj Kumar <span>(College Topper)</span>
           </div>
           <div class="card-body">
-            Prateek
+            image
           </div>
           <div class="card-footer">
             87.2% (6<sup>th</sup> Semester)
@@ -174,7 +174,7 @@
               Mahesh Kumar Patel
           </div>
           <div class="card-body">
-            Prateek
+            image
           </div>
           <div class="card-footer">
             85.7% (7<sup>th</sup> Semester)
