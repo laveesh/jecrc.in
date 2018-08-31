@@ -59,7 +59,8 @@
           <section class="section container card">
             <div class="sectionHeading" >NEWSLETTER- E.MECHZINE</div>
             <div class="sectionContent card-body owl-carousel owl-theme py-2 px-2 owl-loaded owl-drag py-2 px-2">
-              <div class="item"><a href="../departments/me/src/newsletters/e_machzine.pdf" download><img src="../departments/me/src/img/newsletters/E_MECHZINE.jpg" alt=E-Mechzine class="img-thumbnail"></a></div>
+              <div class="item"><a href="../departments/me/src/newsletters/jan-jun18.pdf" download><img src="../departments/me/src/img/newsletters/jan-june18.png" alt=E-Mechzine class="img-thumbnail"></a></div>
+              <div class="item"><a href="../departments/me/src/newsletters/july_dec17.pdf" download><img src="../departments/me/src/img/newsletters/july_dec17.png" alt=E-Mechzine class="img-thumbnail"></a></div>
               <div class="item"><a href="../departments/me/src/newsletters/july_18.pdf" download><img src="../departments/me/src/img/newsletters/july2018.jpg" alt="july2018" class="img-thumbnail"></a></div>
               <div class="item"><a href="../departments/me/src/newsletters/april_18.pdf" download><img src="../departments/me/src/img/newsletters/april2018.jpg" alt="april2018" class="img-thumbnail"></a></div>
                <div class="item"> <a href="../departments/me/src/newsletters/march18.pdf" download><img src="../departments/me/src/img/newsletters/march2018.jpg" alt="march2018" class="img-thumbnail"></a></div>
