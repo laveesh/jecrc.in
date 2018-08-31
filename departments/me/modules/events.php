@@ -1,4 +1,4 @@
-	<div class="container">
+	<section class="container section card">
 		<div class="sectionHeading">Recents events @JECRC</div>
 		<!-- 1 -->
 		<section class="section">
@@ -37,7 +37,6 @@
 						<li><strong>Date of the event:</strong>8<sup>th</sup>July 2017.</li>
 						<li><strong>Venue:</strong>IIT, Delhi</li>
 						<li><strong>Objective/s:</strong> Dr. Manish Srivastava has participated one day seminar in “MOBILITY XPERT TALK” at IIT Delhi on 08th Jul 2017. Event was organised by ISIE India. Intellectuals and various speakers from different parts of the country participated in the event.</li>
-						<li><strong>Outcome:</strong></li>
 						 
 					</ol>
 				</div>	
@@ -80,7 +79,6 @@
 						<li><strong>Date of the event:</strong>10-14<sup>th</sup>July 2017.</li>
 						<li><strong>Venue:</strong>IIT, Roorkee</li>
 						<li><strong>Objective/s:</strong>QIP Short Term Course  on “Enhancing Yield in Metal Casting”</li>
-						<li><strong>Outcome:</strong></li>
 						
 					</ol>
 				</div>
@@ -178,11 +176,11 @@
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
 					<div id="events_carausel4" class="carousel slide" data-ride="carousel">
-					<ol class="carousel-indicators">
-						<li data-target="#events_carausel4" data-slide-to="0" class="active"></li>
+					<!-- <ol class="carousel-indicators"> -->
+						<!-- <li data-target="#events_carausel4" data-slide-to="0" class="active"></li> -->
 						<!-- <li data-target="#events_carausel4" data-slide-to="1"></li> -->
 						<!-- <li data-target="#events_carausel4" data-slide-to="2"></li> -->
-					</ol>
+					<!-- </ol> -->
 					<div class="carousel-inner">
 						<div class="carousel-item active">
 							<img class="d-block w-100" src="../departments/me/src/img/meEvents/optimisation.png" alt="First slide">
@@ -194,22 +192,22 @@
 							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image3.png" alt="Third slide">
 						</div>-->
 					</div>
-					<a class="carousel-control-prev" href="#events_carausel4" role="button" data-slide="prev">
+					<!-- <a class="carousel-control-prev" href="#events_carausel4" role="button" data-slide="prev">
 					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
 					<span class="sr-only">Previous</span>
 					</a>
 					<a class="carousel-control-next" href="#events_carausel4" role="button" data-slide="next">
 					<span class="carousel-control-next-icon" aria-hidden="true"></span>
 					<span class="sr-only">Next</span>
-					</a>
+					</a> -->
 					</div>
 				</div>
 				<div class="col-md-9 col-sm-12 sectionContent">
 					<ol class="sectionList">
-						<li><strong>Date of the event:</strong><sup></sup></li>
-						<li><strong>Venue:</strong>Poornima University</li>
-						<li><strong>Objective/s:</strong></li>
-						<li><strong>Outcome:</strong></li>
+						<!-- <li><strong>Date of the event:</strong><sup></sup></li> -->
+						<strong>Venue:</strong>Poornima University
+						<!-- <li><strong>Objective/s:</strong></li> -->
+						<!-- <li><strong>Outcome:</strong></li> -->
 						 
 					</ol>
 				</div>
@@ -225,13 +223,14 @@
 						<li data-target="#events_carausel5" data-slide-to="0" class="active"></li>
 						<li data-target="#events_carausel5" data-slide-to="1"></li>
 						<li data-target="#events_carausel5" data-slide-to="2"></li>
+						<li data-target="#events_carausel5" data-slide-to="3"></li>
 					</ol>
 					<div class="carousel-inner">
 						<div class="carousel-item active">
 							<img class="d-block w-100" src="../departments/me/src/img/people/faculty/M.P.SINGH.jpg" alt="First slide">
 						</div>
 						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/me/src/img//people/faculty/Manish.jpg" alt="Second slide">
+							<img class="d-block w-100" src="../departments/me/src/img//people/faculty/Manish.png" alt="Second slide">
 						</div>
 						<div class="carousel-item">
 							<img class="d-block w-100" src="../departments/me/src/img/people/faculty/Kuldeep.jpg" alt="Third slide">
@@ -335,7 +334,6 @@
 						<li><strong>Date of the event:</strong>29<sup>th</sup>September 2017.</li>
 						<li><strong>Venue:</strong>Radharamn Engg. College, Bhopal</li>
 						<li><strong>Objective/s:</strong>A team of 18 students of Moonriders visited Radharamn Engg. College, Bhopal from 29/9/17-5/10/17.</li>
-						<li><strong>Outcome:</strong></li>
 						
 					</ol>
 				</div>
@@ -383,7 +381,6 @@
 						<!-- Objective -->
 						<li><strong>Objective/s:</strong>This year various teams  represented college in IKC Season 2, which is 2nd season of a National level Go-Kart event hosted by SAE (Society of Automotive Engineers). Virtual Round was the first round of IKC Season 2 and was conducted online  where teams from nationwide participated and presented a prototype of their respective models and the Computer Aided Design of karts. The final rounds of event was hosted at Kolhapur  under SAE. Team Moonriders was competent with other national level teams and performed very well. This event was held from 11.01.18 to 15.01.18 </li>
 						<!-- Outcome -->
-						<li><strong>Outcome:</strong></li>
 						<!-- Guest -->
 						 
 					</ol>
@@ -542,9 +539,12 @@
 						<!-- Objective -->
 						<li><strong>Objective/s:</strong>International conference have been organized on April 6-7, 2018 at Jaipur Engineering College and Research Center, Jaipur. The conferences have been collectively organized by the Department of Mechanical Engineering, Department of Information and Technology, Department of Electronics and Communication, and Department of Mathematics. The idea was to provide a common platform for researchers to learn and explore different dimensions with the motive to find solutions for the common good of the society.</li>
 						<!-- Outcome -->
-						<li><strong>Outcome:</strong></li>
+						<li><strong>Special Guests:</strong></li>
 						<!-- Guest -->
-						 the event:</strong> Prof. (Dr.) Noe. G. Alba-Baena from University of Texas; Shri GunjanSaxena, General Manager in BSNL, Jaipur; Prof. (Dr.) Deepak Garg from Bennett University; Prof. (Dr.) Rajesh Kumar Tiwari from RVS College of Engg and Technology, Jamshedpur; Prof. (Dr.) Peeyush Chandra Retd. Professor of Mathematics from IIT Kanpur; Prof. (Dr.) MeghanshuVashista from Department of Mechanical Engg, IIT BHU; Prof. (Dr.) PurshotamChaturani, Retd. Professor of Mathematics from IIT Bombay, along with Mr.Amit and Arpit Agrawal Director JECRC foundation and Prof V.K.Chandna,Principal JECRC,Jaipur </li>
+						 <ul>
+					<li>Prof. (Dr.) Noe. G. Alba-Baena from University of Texas</li>  <li>Shri GunjanSaxena, General Manager in BSNL, Jaipur</li>  <li>Prof. (Dr.) Deepak Garg from Bennett University</li>  <li>Prof. (Dr.) Rajesh Kumar Tiwari from RVS College of Engg and Technology, Jamshedpur</li>  <li>Prof. (Dr.) Peeyush Chandra Retd. Professor of Mathematics from IIT Kanpur</li>  <li>Prof. (Dr.) MeghanshuVashista from Department of Mechanical Engg, IIT BHU</li>  <li>Prof. (Dr.) PurshotamChaturani, Retd. Professor of Mathematics from IIT Bombay, along with Mr.Amit and Arpit Agrawal Director JECRC foundation </li>  <li>Prof V.K.Chandna,Principal JECRC,Jaipur </li>  
+						</ul>
+						</li>
 					</ol>
 				</div>
 			</div>
@@ -591,7 +591,6 @@
 						<!-- Objective -->
 						<li><strong>Objective/s:</strong>The FDP based on mathematical modelling and optimization of industrial problems, is of an interdisciplinary nature and aimed to equip the participants with the concepts of techniques and their applicability in various disciplines, through interaction with experts in this field. Faculty, researchers, research scholars and industry personnel interested in applying these techniques in their area of interest shall be benefited by participation. The objective of this FDP was also to provide a platform for interaction and exchange of ideas on recent trends in the field of mathematical modelling and optimization, and its applications in various fields of engineering and sciences.</li>
 						<!-- Outcome -->
-						<li><strong>Outcome:</strong></li>
 						<!-- Guest -->
 						 
 					</ol>
@@ -655,4 +654,4 @@
 			</div>
 		</section>
 
-	</div>
+	</section>
