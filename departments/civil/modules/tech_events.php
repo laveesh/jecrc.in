@@ -36,7 +36,7 @@
 					</div>
 				</div>
 				<div class="col-md-9 col-sm-12 sectionContent px-4">
-					<p>The event here explodes the creativity of participant and his\her understanding of the structure by implementing simple theories of structure and a little mathematics. In this event ,participants have to construct a bridge of given dimensions using popsicle sticks.</p>
+					<p>The event here explodes the creativity of participant and his/her understanding of the structure by implementing simple theories of structure and a little mathematics. In this event ,participants have to construct a bridge of given dimensions using popsicle sticks.</p>
 					<ol class="sectionList">
 						<li><strong>Date of the event:</strong>25<sup>th</sup>March 2018.</li>
 						<li><strong>Venue:</strong>VIP Parking C Block (CE)</li>
