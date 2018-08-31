@@ -3,13 +3,13 @@
 		<div class="sectionHeading">Recents events @JECRC</div>
 		
 		<section class="section">
-			<div class="sectionHeading">J- TECHTRIX  - REDIFINE THE POSSIBLE</div>`
+			<div class="sectionHeading">J- TECHTRIX  - REDEFINE THE POSSIBLE</div>`
 			<div class="row">
 				<div class="col-md-3 col-sm-12">
 					<img class="d-block w-100" src="../departments/ee/src/img/Tech_Events/image1.jpg" alt="Induction Ceremony">
 				</div>
 				<div class="col-md-9 col-sm-12 sectionContent px-4">
-					<p> With an endeavour to promote scientific attitude among the fanatic young minds, this project exhibition focuses on encouraging the innovations within them. The key objective is to bring out the hidden talents and inculcate technical knowledge in students.</p>
+					<p> With an endeavor to promote scientific attitude among the fanatic young minds, this project exhibition focuses on encouraging the innovations within them. The key objective is to bring out the hidden talents and inculcate technical knowledge in students.</p>
 					<ol class="sectionList">
 						<li><strong>Date of the event:</strong>17<sup>th</sup>March 2018.</li>
 						<li><strong>Faculty Co-ordinators:</strong>
@@ -40,7 +40,7 @@
 								<li>Mr. Manish Pal</li>
 								</ol>
 						</li>
-						<li><strong>Students Co-dinators:</strong><ol class="sectionList">
+						<li><strong>Students Coordinators:</strong><ol class="sectionList">
 								<li>Rohit kumar gupta
 </li>
 								<li>Jaya Mittal</li>
@@ -74,7 +74,7 @@
 								<li>Ms. Shailendra Shrivastava</li>
 								</ol>
 						</li>
-						<li><strong>Students Co-dinators:</strong><ol class="sectionList">
+						<li><strong>Students Coordinators:</strong><ol class="sectionList">
 								<li>Nikhil Sahu</li>
 								<li>Hemant Singh</li>
 								<li>Mahendra Khedia</li>
@@ -105,7 +105,7 @@
 								
 								</ol>
 						</li>
-						<li><strong>Students Co-dinators:</strong><ol class="sectionList">
+						<li><strong>Students Coordinators:</strong><ol class="sectionList">
 								<li>Nikhil Bindal</li>
 								<li>Devesh Gupta</li>
 								<li>Somya Paliwal</li>

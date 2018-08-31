@@ -13,18 +13,19 @@
     <!-- Sidebar -->
     <div class="col-sm-2 sidebarContainer">
       <div class="navbar navbar-expand-sm bg-primary sidebar" role="navigation">
-          <div class="container-fluid">
-      		<div class="collapse navbar-collapse" id="bs-sidebar-navbar-collapse-1">
-      			<ul class="nav navbar-nav flex-column">
+        <div class="container-fluid">
+          <div class="collapse navbar-collapse" id="bs-sidebar-navbar-collapse-1">
+            <ul class="nav navbar-nav flex-column">
               <li class="active"><a href="it.php?section=home">Home<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   About
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="it.php?section=history">About Us</a>
                   <a class="dropdown-item" href="it.php?section=history">History</a>
-                  <a class="dropdown-item" href="it.php?section=mission_vision">Mission and Vision</a>
-                  <a class="dropdown-item" href="it.php?section=hod_message">HoD's Message</a>
+                  <a class="dropdown-item" href="it.php?section=mission_vision">Vision and Mission</a>
+                  <a class="dropdown-item" href="it.php?section=hod_message">Program Coordinator's Message</a>
                   <a class="dropdown-item" href="it.php?section=contact">Contact Us</a>
                 </div>
               </li>
@@ -34,22 +35,31 @@
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="it.php?section=academics">Academics</a>
-                  <a class="dropdown-item" href="it.php?section=student_opportunities">Student Opportunities</a>
+                  <!-- <a class="dropdown-item" href="it.php?section=student_opportunities">Student Opportunities</a> -->
                   <a class="dropdown-item" href="it.php?section=ug_program">Under Graduate Program</a>
                   <a class="dropdown-item" href="it.php?section=program_outcomes">Program Outcomes</a>
                   <a class="dropdown-item" href="it.php?section=program_edu_obj">Program Education Objective</a>
+                  <a class="dropdown-item" href="it.php?section=program_edu_obj">Program Specific Outcomes</a>
                   <a class="dropdown-item" href="it.php?section=course_outcomes">Course Outcomes</a>
                   <a class="dropdown-item" href="it.php?section=co_po_mapping">CO and PO Mapping</a>
                 </div>
               </li>
-              <li class="active"><a href="it.php?section=publication">Publication<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  People
+                  Research
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="it.php?section=publication">Publication</a>
+                  <a class="dropdown-item" href="it.php?section=projects">Projects</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Facult and Staff
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="it.php?section=faculty">Faculty</a>
-                  <a class="dropdown-item" href="it.php?section=staff">Staff</a>
+                  <a class="dropdown-item" href="it.php?section=staff">Technical Staff</a>
                 </div>
               </li>
               <li class="nav-item dropdown">
@@ -57,9 +67,14 @@
                   Events
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="it.php?section=events">Events</a>
+                  <a class="dropdown-item" href="it.php?section=tech_events">Events</a>
                   <a class="dropdown-item" href="it.php?section=tech_events">Technical Events</a>
                 </div>
+              </li>
+              <li class="nav-item dropdown">
+                <a href="cse.php?section=events">
+                  Awards & Achivements
+                </a>
               </li>
               <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -77,16 +92,32 @@
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="it.php?section=placements">Placements</a>
                   <a class="dropdown-item" href="it.php?section=alumni">Buddy System</a>
-<!--                   <a class="dropdown-item" href="it.php?section=alumni_notes">Alumni Feedbacks</a>
-                  <a class="dropdown-item" href="it.php?section=support">Support</a> -->
                 </div>
               </li>
-              <li class="active"><a href="it.php?section=student_associations">Student Associations<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-      					</ul>
-      				</li>
-      			</ul>
-      		</div>
-      	</div>
+              <li class="nav-item dropdown">
+                <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Clubs
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="cse.php?section=codedocs">CodeDocs</a>
+                  <a class="dropdown-item" href="cse.php?section=cai">CAI</a>
+                </div>
+              </li>
+              <li class="active">
+                <a href="it.php?section=student_associations">Student Associations<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a>.
+              </li>
+              <li class="nav-item dropdown">
+                <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Feedback Forms
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="#">Form 1</a>
+                  <a class="dropdown-item" href="#">Form 2</a>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
       </div>
     </div>
     <!-- Image Carousel -->
@@ -109,49 +140,49 @@
           <div class="carousel-item">
             <img   src="../departments/it/src/img/Carousel/slider3.jpg" alt="Third slide">
           </div>
-         <!--  <div class="carousel-item">
+          <!--  <div class="carousel-item">
             <img  src="../departments/ece/src/img/Carousel/slider4.jpg" alt="Fourth slide">
           </div>
           <div class="carousel-item">
             <img  src="../departments/ece/src/img/Carousel/slider5.jpg" alt="Fifth slide">
           </div> -->
           
-        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="sr-only">Next</span>
-        </a>
+          <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </a>
+        </div>
       </div>
     </div>
   </div>
 </div>
 <script type="text/javascript">
-function htmlbodyHeightUpdate(){
-var height3 = $( window ).height()
-var height1 = $('.nav').height()+50
-height2 = $('.main').height()
-if(height2 > height3){
-$('html').height(Math.max(height1,height3,height2)+10);
-$('body').height(Math.max(height1,height3,height2)+10);
-}
-else
-{
-$('html').height(Math.max(height1,height3,height2));
-$('body').height(Math.max(height1,height3,height2));
-}
-
-}
-$( document ).ready(function () {
-htmlbodyHeightUpdate()
-$( window ).resize(function() {
-htmlbodyHeightUpdate()
-});
-$( window ).scroll(function() {
-height2 = $('.main').height()
-  htmlbodyHeightUpdate()
-});
-});
+  function htmlbodyHeightUpdate(){
+    var height3 = $( window ).height()
+    var height1 = $('.nav').height()+50
+    height2 = $('.main').height()
+    if(height2 > height3){
+      $('html').height(Math.max(height1,height3,height2)+10);
+      $('body').height(Math.max(height1,height3,height2)+10);
+    }
+    else
+    {
+      $('html').height(Math.max(height1,height3,height2));
+      $('body').height(Math.max(height1,height3,height2));
+    }
+  }
+  $( document ).ready(function () {
+    htmlbodyHeightUpdate()
+    $( window ).resize(function() {
+      htmlbodyHeightUpdate()
+    });
+    $( window ).scroll(function() {
+      height2 = $('.main').height()
+      htmlbodyHeightUpdate()
+    });
+  });
 </script>

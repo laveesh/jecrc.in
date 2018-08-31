@@ -28,11 +28,11 @@
 				good academic credentials and are highly motivated. Several faculty members serve on the
 				editorial boards of national and international journals, review technical articles for journals on a regular basis, and organize international symposia and conferences.</p>
 
-				<p>Our department looks forward to contribute in solving the technological challenges of the
+				<p>Our department looks forward to contributing to solving the technological challenges of the
 				society with active participation from all sections of the so also organizes interactive lectures
 				every week by inviting Alumni and Technocrats from industries for the overall development
 				of student Educational tours and industrial visits are regularly organized to enhance the
-				practical knowledge of the studentswith the recent technologies used in the industries.</p>
+				practical knowledge of the students with the recent technologies used in the industries.</p>
 
 				<p>The placement record of the department has always been impressive. Almost 100% of the
 				students get job from the campus placement and many of them are getting it in core companies

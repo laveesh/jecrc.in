@@ -4,15 +4,15 @@
         <div class="col-md-4">
           <ul class="list-styling">
             <li><a target="_blank" href="http://jecrcrenaissance.in/">Renaissance 2018</a></li>
-            <li><a target="_blank" href="http://jecrcmun.co.in">Jecrc Mun 2018</a></li>
-            <li><a target="_blank" href="http://www.iceteas.in/">ICETEAS Confrence</a></li>
+            <li><a target="_blank" href="http://jecrcmun.co.in">JECRC MUN 2018</a></li>
+            <li><a target="_blank" href="http://www.iceteas.in/">ICETEAS Conference</a></li>
           </ul>
         </div>
         <div class="col-md-4">
           <ul class="list-styling">
             <li><a href="../pages/administration.php?section=recruitments">Recruitments 2018</a></li>
-            <li><a target="_blank" href="http://www.jecrcconference.in/">JECRC Confrences</a></li>
-            <li><a target="_blank" href="http://codedocs.org">Jecrc Coding Community</a></li>
+            <li><a target="_blank" href="http://www.jecrcconference.in/">JECRC Conferences</a></li>
+            <li><a target="_blank" href="http://codedocs.org">JECRC Coding Community</a></li>
           </ul>
           <h4></h4>
         </div>

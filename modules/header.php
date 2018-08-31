@@ -1,8 +1,8 @@
 <header>
   <div class="collegeHeader container-fluid bg-primary text-white">
     <a href="../index.php"><img src="../src/img/jecrclogo.png" id="jecrcLogo" alt="JECRC"></a>
-      <span id="collegeName">Jaipur Engineering College And Research Center</span>
-      <div id="collegeUni">Affilated to Rajasthan Technical University, Kota (REAP CODE: 020)</div>
+      <span id="collegeName">Jaipur Engineering College And Research Centre</span>
+      <div id="collegeUni">Affiliated to Rajasthan Technical University, Kota (REAP CODE: 020)</div>
       <div id="collegeAdd">
         Shri Ram ki Nangal, via Sitapura RIICO, Tonk Road, Sukhpuria, Bambala, Jaipur, Rajasthan 302022
       </div>
@@ -23,7 +23,7 @@
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <a class="dropdown-item" href="administration.php?section=anti_ragging">Administration</a>
                 <a class="dropdown-item" href="research.php?section=home">Research</a>
-                <!-- <a class="dropdown-item" href="library.php">Library</a> -->
+                <a class="dropdown-item" href="library.php?section=home">Library</a>
                 <a class="dropdown-item" href="events.php?section=home">Events</a>
               </div>
             </li>
@@ -54,7 +54,7 @@
               <a class="nav-link" href="initiatives.php?section=home">Initiatives</a>
             </li>
             <li class="nav-item active">
-              <a class="nav-link" href="placements.php?section=home">Traning and Placements</a>
+              <a class="nav-link" href="placements.php?section=home">Training and Placements</a>
             </li>
             <li class="nav-item active">
               <a class="nav-link" href="alumni.php?section=home">Alumni</a>
@@ -64,11 +64,10 @@
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Download
+                Downloads
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="#">Admission Form</a>
-                <a class="dropdown-item" href="#">Library Form</a>
+                <a class="dropdown-item" href="../src/pdf/ApplicationForm.pdf" target="_blank">Bonafide Form</a>
               </div>
             </li>
           </ul>

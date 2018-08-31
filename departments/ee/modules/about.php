@@ -8,7 +8,7 @@
 		emphasizes towards imparting quality education, rigorous teaching-learning, hands-on expertise
 		and helping students to shape their all-round personality.</p>
 		<p>The Department with its strong pool of faculty, well-developed laboratories, latest software and
-		hardware facilities, contributes to develop life-long learning skills to its graduate students, The
+		hardware facilities, contributes to developing life-long learning skills to its graduate students, The
 		department is actively involved in funded research projects apart from offering design, analysis
 		and testing based consultancy work to relevant industries. Most of the faculty members have
 		obtained their degrees from NITs, and IITs. Faculty members are associated with nearby
