@@ -35,7 +35,7 @@
 								<li class="list-group-item"><strong>Designation</strong>: Lab Technician</li>
 								
 								<li class="list-group-item">sainihemraj777@gmail.com</li>
-								<li class="list-group-item">Experience: ? year</li>
+								<li class="list-group-item">Experience: 2 years</li>
 								
 							</ul>
 						</div>
