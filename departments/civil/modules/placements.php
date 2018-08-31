@@ -27,7 +27,7 @@
             <section class="section container">
                 <div class="sectionHeading">2015-16</div>
                 <div class="row">
-                    <div class="col"><img src="../departments/civil/src/img/placements/pie1516.JPG" width="475"></div>
+                    <div class="col"><img src="../departments/civil/src/img/placements/pie1516.jpg" width="475"></div>
                     <div class="col">
                         <iframe src="https://docs.google.com/gview?url=https://jecrcwebsite.herokuapp.com/departments/civil/src/pdf/placements1.pdf&embedded=true" class="embed-doc" frameborder="0"></iframe>
                     </div>
