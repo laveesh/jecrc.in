@@ -4,19 +4,34 @@
         <div class="row">
             <section class="section container">
                 <div class="sectionHeading">2017-18</div>
-                <iframe src="https://docs.google.com/gview?url=https://jecrcwebsite.herokuapp.com/departments/civil/src/pdf/placements3.pdf&embedded=true" class="embed-doc" frameborder="0"></iframe>
+                <div class="row">
+                    <div class="col"><img src="../departments/civil/src/img/placements/pie1718.jpg" width="475"></div>
+                    <div class="col">
+                        <iframe src="https://docs.google.com/gview?url=https://jecrcwebsite.herokuapp.com/departments/civil/src/pdf/placements3.pdf&embedded=true" class="embed-doc" frameborder="0"></iframe>
+                    </div>
+                </div>
             </section>
         </div>
         <div class="row">
             <section class="section container">
                 <div class="sectionHeading">2016-17</div>
-                <iframe src="https://docs.google.com/gview?url=https://jecrcwebsite.herokuapp.com/departments/civil/src/pdf/placements2.pdf&embedded=true" class="embed-doc" frameborder="0"></iframe>
+                <div class="row">
+                    <div class="col"><img src="../departments/civil/src/img/placements/pie1617.JPG" width="475"></div>
+                    <div class="col">
+                        <iframe src="https://docs.google.com/gview?url=https://jecrcwebsite.herokuapp.com/departments/civil/src/pdf/placements2.pdf&embedded=true" class="embed-doc" frameborder="0"></iframe>
+                    </div>
+                </div>
             </section>
         </div>
         <div class="row">
             <section class="section container">
                 <div class="sectionHeading">2015-16</div>
-                <iframe src="https://docs.google.com/gview?url=https://jecrcwebsite.herokuapp.com/departments/civil/src/pdf/placements1.pdf&embedded=true" class="embed-doc" frameborder="0"></iframe>
+                <div class="row">
+                    <div class="col"><img src="../departments/civil/src/img/placements/pie1516.JPG" width="475"></div>
+                    <div class="col">
+                        <iframe src="https://docs.google.com/gview?url=https://jecrcwebsite.herokuapp.com/departments/civil/src/pdf/placements1.pdf&embedded=true" class="embed-doc" frameborder="0"></iframe>
+                    </div>
+                </div>
             </section>
         </div>
     </div>
