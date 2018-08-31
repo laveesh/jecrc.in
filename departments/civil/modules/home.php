@@ -4,7 +4,7 @@
     <div class="col-md-3">
       <section class="section container card">
         <div class="sectionHeading">RECENT NEWS</div>
-        <div class="sectionContent card-body px-4 mh-50">
+        <div class="sectionContent card-body px-4 mh-50" style="max-height: 42em; overflow: scroll;">
         <marquee behavior="scroll" scrolldelay=60 scrollamount=4 direction="up" height=100%>
         <ul class="list-group list-group-flush text-primary">
           <li class="list-group-item">
@@ -14,7 +14,7 @@
                 <li>Introduction on Civil Engineering to 1st Year Students.
                 <li>Date: Aug, 4, 2018
                 <li>Venue: A-Block Auditorium
-                <li>Conducted by: Kamlesh Kr. Choudhary, Prateek Sharma
+                < text-centerli>Conducted by: Kamlesh Kr. Choudhary, Prateek Sharma
               </ul>
             </p>
             <!-- <img src="../departments/ece/src/img/Events/redhat/1.jpg" alt="redhat" class="img-fluid img-thumbnail"> -->
@@ -99,6 +99,71 @@
           </div>
         </div>
       </section>
+    </div>
+  </div>
+  <div class="sectionContent">
+    <div class="row">
+      <div class="sectionHeading">University Toppers (Semesterwise)</div>
+      <div class="col-md-2 text-center">
+        <div class="card">
+          <div class="card-header">
+              Irshad Ali Ansari
+          </div>
+          <div class="card-body">
+            Prateek
+          </div>
+        </div>
+      </div>
+      <!-- <div class="col-md-2 text-center">
+        <div class="card">
+          <div class="card-header">
+            Prateek
+          </div>
+          <div class="card-body">
+            Prateek
+          </div>
+        </div>
+      </div> -->
+      <div class="col-md-2 text-center">
+        <div class="card">
+          <div class="card-header">
+              Kapil Dev Agarwal
+          </div>
+          <div class="card-body">
+            Prateek
+          </div>
+        </div>
+      </div>
+      <div class="col-md-2 text-center">
+        <div class="card">
+          <div class="card-header">
+            Pankaj Kumar
+          </div>
+          <div class="card-body">
+            Prateek
+          </div>
+        </div>
+      </div>
+      <div class="col-md-2 text-center">
+        <div class="card">
+          <div class="card-header">
+              Mahesh Kumar Patel
+          </div>
+          <div class="card-body">
+            Prateek
+          </div>
+        </div>
+      </div>
+      <div class="col-md-2 text-center">
+          <div class="card">
+            <div class="card-header">
+              Tanu Sharma
+            </div>
+            <div class="card-body">
+              Prateek
+            </div>
+          </div>
+      </div>
     </div>
   </div>
 </div>
