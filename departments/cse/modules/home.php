@@ -1,6 +1,6 @@
 <section class="section container-fluid">
   <div class="row">
-    <div class="col-md-3">
+    <div class="col-md-12 col-lg-3">
       <div class="sectionHeading">RECENT NEWS</div>
       <div class="h-section card sectionContent container">
         <div class="card-body">
@@ -28,7 +28,7 @@
     </div>
       </div>
 
-    <div class="col-md-6">
+    <div class="col-md-12 col-lg-6">
       <div class="sectionHeading">NEWS LETTER - CSE SCOOP</div>
       <div class="section container card h-section">
         <div class="sectionContent card-body">
@@ -46,7 +46,7 @@
       </div>
     </div>
    
-    <div class="col-md-3">
+    <div class="col-md-12 col-lg-3">
       <div class="sectionHeading">STUDENT SPOTLIGHT</div>
       <div class="section h-section card container">
         <div class="card-body sectionContent">
@@ -86,15 +86,23 @@
 			<div class="sectionHeading">Odd Semester</div>
 			<div class="row justify-content-center">
 				<div class="col-md-6">
-					<img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
-					<p class="text-center">Arpit Sharma</p>
+					<img src="../departments/cse/src/img/toppers/virendra.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
+          <div class="py-2">
+            <p class="text-center">Virendra Singh Jhala</p>
+          </div>
+					
 				</div>
 				<div class="col-md-6">
-					<img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
-					<p class="text-center">Arpit Sharma</p>
+					<img src="../departments/cse/src/img/toppers/vaishnavi.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
+          <div class="py-2">
+            <p class="text-center">Vaishnavi Ajmera</p>
+          </div>
+            
+          </div>
+					
 				</div>
 			</div>
-			<div class="row justify-content-center">
+			<!-- <div class="row justify-content-center">
 				<div class="col-md-6">
 					<img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
 					<p class="text-center">Arpit Sharma</p>
@@ -103,33 +111,32 @@
 					<img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
 					<p class="text-center">Arpit Sharma</p>
 				</div>
-			</div>
-		</div>
+			</div> -->
+		
 		<div class="col-md-6 text-center">
 			<div class="sectionHeading">Even Semester</div>
-			<div class="row justify-content-center">
-				<div class="col-md-6">
-					<img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
-					<p class="text-center">Arpit Sharma</p>
-				</div>
-				<div class="col-md-6">
-					<img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
-					<p class="text-center">Arpit Sharma</p>
-				</div>
-			</div>
-			<div class="row justify-content-center">
-				<div class="col-md-6">
-					<img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
-					<p class="text-center">Arpit Sharma</p>
-				</div>
-				<div class="col-md-6">
-					<img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
-					<p class="text-center">Arpit Sharma</p>
-				</div>
-			</div>
+      <!-- <div class="row justify-content-center">
+        <div class="col-md-6">
+          <img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
+          <p class="text-center">Arpit Sharma</p>
+        </div>
+        <div class="col-md-6">
+          <img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
+          <p class="text-center">Arpit Sharma</p>
+        </div>
+      </div>
+      <div class="row justify-content-center">
+        <div class="col-md-6">
+          <img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
+          <p class="text-center">Arpit Sharma</p>
+        </div>
+        <div class="col-md-6">
+          <img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
+          <p class="text-center">Arpit Sharma</p>
+        </div> -->
+      </div>
 		</div>
 		
-	</div>
 </section>
 
 

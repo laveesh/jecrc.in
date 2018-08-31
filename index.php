@@ -76,8 +76,14 @@
             <li class="nav-item active">
               <a class="nav-link" href="pages/alumni.php?section=home">Alumni</a>
             </li>
-            <li class="nav-item active">
-              <a class="nav-link" href="pages/contact.php">Contact Us</a>
+             <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Contact Us
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="pages/form.php">Grievance Form</a>
+                <a class="dropdown-item" href="pages/contact.php">Contact</a>
+              </div>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -310,8 +316,8 @@
           <div class="mx-5 my-3 shadow"><a href="http://jecrcmun.co.in" target="_blank"><img class="pride-img" src="src/img/pride/mun.jpg" alt="jecrc pride"></a></div>
           <div class="mx-5 my-3 shadow"><a href="http://http://www.jecrcconference.in/" target="_blank"><img class="pride-img" src="src/img/pride/jecrcconf.png" alt="jecrc confrences"></a></div>
           <div class="mx-5 my-3 shadow"><a href="#" target="_blank"><img class="pride-img" src="src/img/pride/mou.png" alt="mou"></a></div>
-          <div class="mx-5 my-3 shadow"><a href="#" target="_blank"><img class="pride-img" src="src/img/pride/abhyudaya.png" alt="mou"></a></div>
-          <div class="mx-5 my-3 shadow"><a href="#" target="_blank"><img class="pride-img" src="src/img/pride/spirituallab.png" alt="mou">
+          <div class="mx-5 my-3 shadow"><a href="pages/initiatives.php"><img class="pride-img" src="src/img/pride/abhyudaya.png" alt="mou"></a></div>
+          <div class="mx-5 my-3 shadow"><a href="pages/research.php?section=home"><img class="pride-img" src="src/img/pride/spirituallab.png" alt="mou">
         </div>
       </div>
       <!-- Footer -->
