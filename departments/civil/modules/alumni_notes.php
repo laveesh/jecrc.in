@@ -65,7 +65,7 @@
 </div>
 
 	<iframe src="https://docs.google.com/gview?url=https://jecrcwebsite.herokuapp.com/departments/civil/src/pdf/alumni2014-18.pdf&embedded=true" class="embed-doc" frameborder="0"></iframe>
-	<iframe src="https://docs.google.com/gview?url=https://jecrcwebsite.herokuapp.com/departments/civil/src/pdf/alumni-2013-17.pdf&embedded=true" class="embed-doc" frameborder="0"></iframe>
+	<iframe src="https://docs.google.com/gview?url=https://jecrcwebsite.herokuapp.com/departments/civil/src/pdf/alumni2013-17.pdf&embedded=true" class="embed-doc" frameborder="0"></iframe>
 	<iframe src="https://docs.google.com/gview?url=https://jecrcwebsite.herokuapp.com/departments/civil/src/pdf/alumni.pdf&embedded=true" class="embed-doc" frameborder="0"></iframe>
 
 </div>
