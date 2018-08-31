@@ -59,7 +59,7 @@
       <section class="section container card">
         <div class="sectionHeading">STUDENT SPOTLIGHT</div>
         <div class="sectionContent card-body">
-          <h3 class="sectionHeading">GATE Toppers</h3>
+          <h3 class="sectionHeading">GATE Qualifiers</h3>
           <div class="" style="max-height:23em; overflow-y:scroll;">
             <ol>
               <li>ASHUTOSH JANGID 
