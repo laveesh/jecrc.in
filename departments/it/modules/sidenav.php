@@ -63,16 +63,10 @@
                 </div>
               </li>
               <li class="nav-item dropdown">
-                <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  Events
-                </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="it.php?section=tech_events">Events</a>
-                  <a class="dropdown-item" href="it.php?section=tech_events">Technical Events</a>
-                </div>
+                <a  href="it.php?section=tech_events">Events</a>
               </li>
               <li class="nav-item dropdown">
-                <a href="cse.php?section=events">
+                <a href="it.php?section=events">
                   Awards & Achivements
                 </a>
               </li>
@@ -127,26 +121,37 @@
           <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
           <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
           <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-          <!-- <li data-target="#carouselExampleIndicators" data-slide-to="3"></li> -->
-          <!-- <li data-target="#carouselExampleIndicators" data-slide-to="4"></li> -->
+          <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="7"></li>
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
             <img src="../departments/it/src/img/Carousel/slider1.jpg" alt="First slide">
           </div>
           <div class="carousel-item">
-            <img src="../departments/it/src/img/Carousel/slider2.jpg" alt="Second slide">
+            <img src="../departments/it/src/img/Carousel/5.jpg" alt="sixth slide">
+          </div>
+          <div class="carousel-item">
+            <img src="../departments/it/src/img/Carousel/3.jpg" alt="Seventh slide">
+          </div>
+          <div class="carousel-item">
+            <img src="../departments/it/src/img/Carousel/4.jpg" alt="Eighth slide">
+          </div>
+          <div class="carousel-item">
+            <img  src="../departments/it/src/img/Carousel/1.jpg" alt="Fourth slide">
+          </div>
+          <div class="carousel-item">
+            <img  src="../departments/it/src/img/Carousel/8.jpg" alt="Fifth slide">
           </div>
           <div class="carousel-item">
             <img   src="../departments/it/src/img/Carousel/slider3.jpg" alt="Third slide">
           </div>
-          <!--  <div class="carousel-item">
-            <img  src="../departments/ece/src/img/Carousel/slider4.jpg" alt="Fourth slide">
-          </div>
           <div class="carousel-item">
-            <img  src="../departments/ece/src/img/Carousel/slider5.jpg" alt="Fifth slide">
-          </div> -->
-          
+            <img src="../departments/it/src/img/Carousel/slider2.jpg" alt="Second slide">
+          </div>
           <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
             <span class="sr-only">Previous</span>
