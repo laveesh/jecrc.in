@@ -103,7 +103,7 @@
   </div>
   <div class="sectionContent">
     <div class="row">
-      <div class="sectionHeading">University Toppers (Semesterwise)</div>
+      <div class="sectionHeading">University Toppers (Semester-wise)</div>
       <div class="col-md-2 text-center">
         <div class="card">
           <div class="card-header">
@@ -111,6 +111,9 @@
           </div>
           <div class="card-body">
             Prateek
+          </div>
+          <div class="card-footer">
+              84.3%
           </div>
         </div>
       </div>
@@ -122,6 +125,9 @@
           <div class="card-body">
             Prateek
           </div>
+          <div class="card-footer">
+            
+          </div>
         </div>
       </div> -->
       <div class="col-md-2 text-center">
@@ -131,6 +137,9 @@
           </div>
           <div class="card-body">
             Prateek
+          </div>
+          <div class="card-footer">
+              83.2%
           </div>
         </div>
       </div>
@@ -142,6 +151,9 @@
           <div class="card-body">
             Prateek
           </div>
+          <div class="card-footer">
+            87.2%
+          </div>
         </div>
       </div>
       <div class="col-md-2 text-center">
@@ -152,6 +164,9 @@
           <div class="card-body">
             Prateek
           </div>
+          <div class="card-footer">
+            85.7%
+          </div>
         </div>
       </div>
       <div class="col-md-2 text-center">
@@ -161,6 +176,9 @@
             </div>
             <div class="card-body">
               Prateek
+            </div>
+            <div class="card-footer">
+              80.9%
             </div>
           </div>
       </div>
