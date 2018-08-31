@@ -70,10 +70,6 @@
 					</div>
 				</div>
 	</div>
-
-</div>
-
-<div class="row sectionContent">
 	
 
 	<div class="col-lg-6 col-md-12 mt-4">
@@ -117,10 +113,7 @@
 				</div>
 	</div>
 
-</div>
 
-
-<div class="row sectionContent">
 
 	
 	<div class="col-lg-6 col-md-12 mt-4">
@@ -164,10 +157,7 @@
 				</div>
 	</div>
 	
-</div>
 
-
-<div class="row sectionContent">
 	<div class="col-lg-6 col-md-12 mt-4">
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Ms. Preeti Sharma</h4></div>
@@ -209,10 +199,7 @@
 				</div>
 	</div>
 	
-</div>
 
-
-<div class="row sectionContent">
 	<div class="col-lg-6 col-md-12 mt-4">
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Ms. Shweta Saxena</h4></div>

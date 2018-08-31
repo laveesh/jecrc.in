@@ -39,7 +39,7 @@
                   <a class="dropdown-item" href="it.php?section=ug_program">Under Graduate Program</a>
                   <a class="dropdown-item" href="it.php?section=program_outcomes">Program Outcomes</a>
                   <a class="dropdown-item" href="it.php?section=program_edu_obj">Program Education Objective</a>
-                  <a class="dropdown-item" href="it.php?section=program_edu_obj">Program Specific Outcomes</a>
+                  <a class="dropdown-item" href="it.php?section=program_spec_outcomes">Program Specific Outcomes</a>
                   <a class="dropdown-item" href="it.php?section=course_outcomes">Course Outcomes</a>
                   <a class="dropdown-item" href="it.php?section=co_po_mapping">CO and PO Mapping</a>
                 </div>
@@ -55,7 +55,7 @@
               </li>
               <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  Facult and Staff
+                  Faculty and Staff
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="it.php?section=faculty">Faculty</a>
@@ -89,6 +89,9 @@
                 </div>
               </li>
               <li class="nav-item dropdown">
+                <a href="it.php?section=placements">Placements</a>
+              </li>
+              <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   Clubs
                 </a>
@@ -105,8 +108,10 @@
                   Feedback Forms
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="#">Form 1</a>
-                  <a class="dropdown-item" href="#">Form 2</a>
+                  <a class="dropdown-item" href="it.php?section=mission_form">Mission Evaluation Form</a>
+                  <a class="dropdown-item" href="it.php?section=vision_form">Vision Evaluation Form</a>
+                  <a class="dropdown-item" href="it.php?section=industry_form">Industry Interaction feedback Form</a>
+                  <a class="dropdown-item" href="it.php?section=program_form">Program Exit Survey</a>
                 </div>
               </li>
             </ul>
