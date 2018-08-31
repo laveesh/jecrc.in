@@ -83,7 +83,7 @@
                   <a class="dropdown-item" href="civil.php?section=library">Library</a>
                 </div>
               </li>
-              <li class="nav-item dropdown">
+              <!-- <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   Alumni
                 </a>
@@ -92,7 +92,8 @@
                   <a class="dropdown-item" href="civil.php?section=alumni_notes">Alumni Feedbacks</a>
                   <a class="dropdown-item" href="civil.php?section=support">Support</a>
                 </div>
-              </li>
+              </li> -->
+              <li class="active"><a href="civil.php?section=alumni_notes">Alumni<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   Awards/Achievements

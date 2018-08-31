@@ -23,7 +23,7 @@
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <a class="dropdown-item" href="administration.php?section=anti_ragging">Administration</a>
                 <a class="dropdown-item" href="research.php?section=home">Research</a>
-                <!-- <a class="dropdown-item" href="library.php">Library</a> -->
+                <a class="dropdown-item" href="library.php?section=home">Library</a>
                 <a class="dropdown-item" href="events.php?section=home">Events</a>
               </div>
             </li>
@@ -42,7 +42,7 @@
                 Courses Offered
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="cse.php?section=home">Computer Science</a>
+                <a class="dropdown-item" href="cse.php?section=home">Computer Science and Engineering</a>
                 <a class="dropdown-item" href="it.php?section=home">Information Technology</a>
                 <a class="dropdown-item" href="ece.php?section=home">Electronics and Communication Engineering</a>
                 <a class="dropdown-item" href="ee.php?section=home">Electrical Engineering</a>
@@ -59,16 +59,21 @@
             <li class="nav-item active">
               <a class="nav-link" href="alumni.php?section=home">Alumni</a>
             </li>
-            <li class="nav-item active">
-              <a class="nav-link" href="contact.php">Contact Us</a>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Contact Us
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="../pages/form.php">Grievance Form</a>
+                <a class="dropdown-item" href="../pages/contact.php">Contact</a>
+              </div>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Download
+                Downloads
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="#">Admission Form</a>
-                <a class="dropdown-item" href="#">Library Form</a>
+                <a class="dropdown-item" href="../src/pdf/ApplicationForm.pdf" target="_blank">Bonafide Form</a>
               </div>
             </li>
           </ul>

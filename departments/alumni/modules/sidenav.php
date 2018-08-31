@@ -16,7 +16,7 @@
         <div class="container-fluid">
           <div class="collapse navbar-collapse" id="bs-sidebar-navbar-collapse-1">
             <ul class="nav navbar-nav flex-column">
-              <li class="nav-item dropdown">
+             <!-- <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   Mentorship Module
                 </a>
@@ -28,7 +28,7 @@
                   <a class="dropdown-item" href="alumni.php?section=exchange_prog">Opportunity Exchange Program</a>
                   <a class="dropdown-item" href="alumni.php?section=high_study">Higher Studies</a>
                 </div>
-              </li>
+              </li>-->
               <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   Awards & Recognization
@@ -44,9 +44,9 @@
                  Events & Activities
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="alumni.php?section=chap_meet">Chapter's Meet</a>
+                <!--  <a class="dropdown-item" href="alumni.php?section=chap_meet">Chapter's Meet</a>-->
                   <a class="dropdown-item" href="alumni.php?section=hangout">Hangout Session</a>
-                  <a class="dropdown-item" href="alumni.php?section=startup">Startup Event</a>
+                 <!-- <a class="dropdown-item" href="alumni.php?section=startup">Startup Event</a>-->
                   <a class="dropdown-item" href="alumni.php?section=match">Renessaince Event</a>
                   <a class="dropdown-item" href="alumni.php?section=panel_discussion">Panel Discussion</a>
                   </div>

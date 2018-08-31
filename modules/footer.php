@@ -18,19 +18,19 @@
         </div>
         <div class="col-md-4">
           <h4>Contact Us</h4>
-          <h5>895084748</h5>
+          <h5>9214699647</h5>
           <h5 class="support-color"> <a href="#">Support@jecrc.ac.in</a></h5>
         </div>
       </div>
       <div class="footer-bottom">
         <div class="row">
-          <div class="col-md-9">
-            <a href="#"><i class="fa fa-facebook footer-icons"></i></a>
-            <a href="#"><i class="fa fa-twitter footer-icons"></i></a>
-            <a href="#"><i  class="fa fa-google footer-icons"></i></a>
-            <a href="#"><i  class="fa fa-linkedin footer-icons"></i></a>
-            <a href="#"><i  class="fa fa-youtube footer-icons"></i></a>
-          </div>
+         <div class="row">
+              <div class="col-md-9">
+                <a href="https://www.facebook.com/JECRCfoundation/" target="_blank"><i class="fa fa-facebook footer-icons"></i></a>
+                <a href="https://twitter.com/atjecrc?lang=en" target="_blank"><i class="fa fa-twitter footer-icons"></i></a>
+                <a href="https://www.linkedin.com/in/jecrcfoundation/" target="_blank"><i  class="fa fa-linkedin footer-icons"></i></a>
+                <a href="https://www.youtube.com/channel/UCLMV4U9h18aQ-qUJWbT-VWg" target="_blank"><i  class="fa fa-youtube footer-icons"></i></a>
+              </div>
           <div class="col-md-3">
             <p class="footer-bottom-para"> Developers</p>
           </div>

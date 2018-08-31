@@ -29,9 +29,9 @@
           <li>State Scholarship</li>
         </ul>
         <h4 class="sectionSubHeading">Contact Person:</h4>
-        <p class="font-weight-bold">Shri R.S Agrawal (Registrar) <br>
+        <p class="font-weight-bold">Prof.(Dr.) A.Williamson (Registrar) <br>
           <strong>Email: </strong><a href="mailto:registrar@jecrc.ac.in">registrar@jecrc.ac.in</a><br>
-          <strong>Mobile No: </strong>+91-9460117479</p>
+          <strong>Mobile No: </strong>+91-8209270915</p>
       </div>
       <div class="col-md-6">
         <div class="sectionHeading">Passed Out Students</div>
@@ -40,7 +40,7 @@
           <li>Degree, Mark Sheet, Migration, Transfer Certificate, Character Certificate</li>
         </ul>
         <h4 class="sectionSubHeading">Contact Person:</h4>
-        <p class="font-weight-bold">Shri Rahul Saxena (EA to Director)<br>
+        <p class="font-weight-bold">Shri Rahul Saxena (PA to Director)<br>
           <strong>Email: </strong><a href="mailto:pa.director@jecrc.ac.in">pa.director@jecrc.ac.in</a><br>
           <strong>Mobile No: </strong>+91-9982682904</p>
       </div>

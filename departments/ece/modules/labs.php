@@ -18,12 +18,12 @@ with equipment and machinery as prescribed in the syllabus.</p>
 </ul>
 <div class="images"> 
 	<div class="row">
-	<div class="col-md-6 col-sm-12"><img class="img-thumbnail" src="../departments/ece/src/img/labs/cadLab1.jpg"></div>
- 	<div class="col-md-6 col-sm-12"><img class="img-thumbnail" src="../departments/ece/src/img/labs/cadLab2.jpg"></div>
+	<div class="col-md-6 col-sm-12"><img class="img-thumbnail" src="../departments/ece/src/img/labs/cadLab1.JPG"></div>
+ 	<div class="col-md-6 col-sm-12"><img class="img-thumbnail" src="../departments/ece/src/img/labs/cadLab2.JPG"></div>
  	</div>
  	<div class="row">
-  	<div class="col-md-6 col-sm-12"><img class="img-thumbnail" src="../departments/ece/src/img/labs/de_lab.jpg"></div>
-   	<div class="col-md-6 col-sm-12"><img class="img-thumbnail" src="../departments/ece/src/img/labs/edc_lab.jpg"></div>
+  	<div class="col-md-6 col-sm-12"><img class="img-thumbnail" src="../departments/ece/src/img/labs/de_lab.JPG"></div>
+   	<div class="col-md-6 col-sm-12"><img class="img-thumbnail" src="../departments/ece/src/img/labs/edc_lab.JPG"></div>
    	</div>
 </div>
 </section>
