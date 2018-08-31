@@ -106,79 +106,79 @@
       <div class="sectionHeading">University Toppers (Semester-wise)</div>
       <div class="col-md-2 text-center">
         <div class="card">
-          <div class="card-header">
+          <div class="card-header" style="font-size: 14px;">
               Irshad Ali Ansari
           </div>
           <div class="card-body">
             Prateek
           </div>
           <div class="card-footer">
-              84.3%
+              84.3% (3<sup>rd</sup> Semester)
           </div>
         </div>
       </div>
       <!-- <div class="col-md-2 text-center">
         <div class="card">
-          <div class="card-header">
+          <div class="card-header" style="font-size: 14px;">
             Prateek
           </div>
           <div class="card-body">
             Prateek
           </div>
           <div class="card-footer">
-            
+             (th Semester)
           </div>
         </div>
       </div> -->
       <div class="col-md-2 text-center">
         <div class="card">
-          <div class="card-header">
+          <div class="card-header" style="font-size: 14px;">
               Kapil Dev Agarwal
           </div>
           <div class="card-body">
             Prateek
           </div>
           <div class="card-footer">
-              83.2%
-          </div>
+              83.2% (5<sup>th</sup> Semester)
+            </div>
         </div>
       </div>
       <div class="col-md-2 text-center">
         <div class="card">
-          <div class="card-header">
+          <div class="card-header" style="font-size: 14px;">
             Pankaj Kumar
           </div>
           <div class="card-body">
             Prateek
           </div>
           <div class="card-footer">
-            87.2%
+            87.2% (6<sup>th</sup> Semester and <strong>College Topper</strong>)
           </div>
         </div>
       </div>
       <div class="col-md-2 text-center">
         <div class="card">
-          <div class="card-header">
+          <div class="card-header" style="font-size: 14px;">
               Mahesh Kumar Patel
           </div>
           <div class="card-body">
             Prateek
           </div>
           <div class="card-footer">
-            85.7%
+            85.7% (7<sup>th</sup> Semester)
           </div>
         </div>
       </div>
       <div class="col-md-2 text-center">
-          <div class="card">
-            <div class="card-header">
-              Tanu Sharma
-            </div>
-            <div class="card-body">
-              Prateek
-            </div>
+        <div class="card">
+          <div class="card-header" style="font-size: 14px;">
+            Tanu Sharma
+          </div>
+          <div class="card-body">
+            <img src="../departments/civil/src/img/studentspotlight/image16.JPG">
+          </div>
             <div class="card-footer">
-              80.9%
+              80.9% (8<sup>th</sup> Semester)
             </div>
           </div>
       </div>
