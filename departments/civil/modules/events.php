@@ -1,5 +1,5 @@
 <div class="container">
-		<div class="sectionHeading">Recents events @CIVIL</div>
+		<div class="sectionHeading">Recent events @CIVIL Department</div>
 		<section class="section">
 			<div class="sectionHeading">Sewage Treatment Plant </div>
 			<div class="row">
@@ -25,7 +25,7 @@
 				</div>
 				<div class="col-md-9 col-sm-12 sectionContent px-4">
 					<ol class="sectionList">
-						<li><strong>Date of the event:</strong>2<sup>nd</sup> August 2018</li>
+						<li><strong>Date of the event:</strong>2<sup>nd</sup> August 2017</li>
 						<li><strong>Venue:</strong> Sewage Treatment Plant-Delawas, Pratap Nagar, Jaipur</li>
 						<li><strong>Objectives:</strong>The purpose of the visit was to familiarize the students with the procedure of municipal waste water treatment and reuse</li>
 						<li><strong>Outcomes:</strong>STP Delawas has treatment capacity of 62.5 MLD and was established with an objective to follow the wastewater disposal standard set by RSPCB/CPCB.
