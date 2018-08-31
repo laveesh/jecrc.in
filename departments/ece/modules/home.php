@@ -44,8 +44,9 @@
             </li>
             <li class="list-group-item">
               Industrial visit to Tesca Technologies Pvt. Ltd., 17 Jan, 2018
-            </li>
-          </ul>
+            </li> 
+            <li class="list-group-item">
+            <strong> 2018-19 TCS placed students through CODEVITA - </strong>Mithilesh Yadav, Jatin Kumar Agarwal, Kaushiki Mishra, Lakshita Sharma, Dravika Mehta </li>
           </marquee>
         </div>
 
@@ -53,7 +54,7 @@
       </div>
 
     <div class="col-md-6">
-      <div class="sectionHeading">NEWS LETTER - CSE SCOOP</div>
+      <div class="sectionHeading">NEWS LETTER - UJJWALAM</div>
       <div class="section container card h-section">
         <div class="sectionContent card-body">
           <div class="owl-carousel owl-theme py-2 px-2">
@@ -92,8 +93,11 @@
         <div class="container">
 
             <ul class="list-group list-group-flush">
-          <li class="list-group-item">Vinod Kr Gill</li>
-          <li class="list-group-item">Vishal Ranjan Prasad</li>
+          <li class="list-group-item">Mahendra Godara</li>
+          <li class="list-group-item">Surbhi Singh</li>
+          <li class="list-group-item">Kritika Singh</li>
+          <li class="list-group-item">Himanshu Bakoliya</li>
+
           <!-- <li class="list-group-item">Amandeep Goyal</li>
           <li class="list-group-item">Ekansh Kushwah</li>
           <li class="list-group-item">Anushree Jain</li>

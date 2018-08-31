@@ -1,13 +1,13 @@
 <div id="academics" class="container card section">
 	<div class="sectionHeading">Academics</div>
 	<div class="card-body sectionContent">
-<p >Electronics and Communication Engineering department is the coredepartment of the institute. The
+<p >Electronics and Communication Engineering department is the core department of the institute. The
 Department has 50 highly qualified faculty members with Ph.D. and M.Tech from
 prestigious institutions like IITs, NITs and other institutes of repute.
 </p>
 <p>
 The Electronics and Communication Engineering Department is enriched with various laboratories.</p>
-<p >The ECE Department practices the Outcome Based Education (OBE) approach for teaching-learning process. This is a learning-centric approach rather than traditional teaching-centric approach to education. This approach focuses on the graduate attributes the students should possess after the completion of the programme through the following objectives</p>
+<p >The ECE Department practices the 'Outcome Based Education' (OBE) approach for teaching-learning process. This is a learning-centric approach rather than traditional teaching-centric approach to education. This approach focuses on the graduate attributes the students should possess after the completion of the programme through the following objectives :-</p>
 <ul class="sectionList">
 	<li >To provide students with the fundamentals of engineering sciences with more emphasis in electronics and communication engineering by way of analyzing and exploiting electronics engineering challenges.</li>
 	<li >To train students with good scientific and electronics and communication engineering knowledge so as to comprehend, analyze, design, and create electronic based novel products and solutions for the real life problems.</li>
