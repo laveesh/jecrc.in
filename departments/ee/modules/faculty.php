@@ -4,7 +4,7 @@
 	
 <div class="row sectionContent">
 	
-	<div class="col-md-6 mt-4">
+	<div class="col-lg-6 col-md-12 mt-4">
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Dr. Sandeep Vyas</h4></div>
 					<div class="row">
@@ -26,7 +26,7 @@
 				</div>
 	</div>
 
-	<div class="col-md-6 mt-4">
+	<div class="col-lg-6 col-md-12 mt-4">
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Atul Kulshrestha</h4></div>
 					<div class="row">
@@ -55,7 +55,7 @@
 
 
 <div class="row sectionContent">
-	<div class="col-md-6 mt-4">
+	<div class="col-lg-6 col-md-12 mt-4">
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. L. Senthil</h4></div>
 					<div class="row">
@@ -77,7 +77,7 @@
 				</div>
 	</div>
 	
-	<div class="col-md-6 mt-4">
+	<div class="col-lg-6 col-md-12 mt-4">
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Ms. Sonali Chadha </h4></div>
 					<div class="row">
@@ -106,7 +106,7 @@
 
 
 <div class="row sectionContent">
-	<div class="col-md-6 mt-4">
+	<div class="col-lg-6 col-md-12 mt-4">
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Shailendra Shrivastava</h4></div>
 					<div class="row">
@@ -128,7 +128,7 @@
 				</div>
 	</div>
 
-	<div class="col-md-6 mt-4">
+	<div class="col-lg-6 col-md-12 mt-4">
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Manish Pal</h4></div>
 					<div class="row">
@@ -156,7 +156,7 @@
 
 
 <div class="row sectionContent">
-	<div class="col-md-6 mt-4">
+	<div class="col-lg-6 col-md-12 mt-4">
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Ramsingh</h4></div>
 					<div class="row">
@@ -178,7 +178,7 @@
 				</div>
 	</div>
 
-	<div class="col-md-6 mt-4">
+	<div class="col-lg-6 col-md-12 mt-4">
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Gopal Tiwari</h4></div>
 					<div class="row">
@@ -206,7 +206,7 @@
 
 <div class="row sectionContent">
 	
-	<div class="col-md-6 mt-4">
+	<div class="col-lg-6 col-md-12 mt-4">
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Sunil Kumar Sharma</h4></div>
 					<div class="row">
@@ -228,7 +228,7 @@
 				</div>
 	</div>
 	
-	<div class="col-md-6 mt-4">
+	<div class="col-lg-6 col-md-12 mt-4">
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Ms. Ravita Saraswat </h4></div>
 					<div class="row">
@@ -254,7 +254,7 @@
 
 </div>
 <div class="row sectionContent">
-	<div class="col-md-6 mt-4">
+	<div class="col-lg-6 col-md-12 mt-4">
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Rahul Kumar Malee</h4></div>
 					<div class="row">
@@ -276,7 +276,7 @@
 				</div>
 	</div>
 
-	<div class="col-md-6 mt-4">
+	<div class="col-lg-6 col-md-12 mt-4">
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Ashok Singh Chundawat</h4></div>
 					<div class="row">
@@ -307,7 +307,7 @@
 
 
 <div class="row sectionContent">
-	<div class="col-md-6 mt-4">
+	<div class="col-lg-6 col-md-12 mt-4">
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Vishnu Dutt Sharma</h4></div>
 					<div class="row">
@@ -329,7 +329,7 @@
 				</div>
 	</div>
 	
-	<div class="col-md-6 mt-4">
+	<div class="col-lg-6 col-md-12 mt-4">
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Ms. Yuzusha Sharma</h4></div>
 					<div class="row">
@@ -359,7 +359,7 @@
 	
 
 	
-	<div class="col-md-6 mt-4">
+	<div class="col-lg-6 col-md-12 mt-4">
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Ms. Neha Agrawal</h4></div>
 					<div class="row">
