@@ -14,14 +14,14 @@
 <link rel="stylesheet" href="../src/css/owl.carousel.min.css">
 <link rel="stylesheet" href="../src/css/owl.theme.default.min.css">
 <script src="../src/js/jquery.min.js"></script>
-  <script src="../departments/admission/src/js/admission.js"></script>
+  <script src="../departments/initiatives/src/js/initiatives.js"></script>
 </head>
 <body>
   <?php include '../modules/header.php'; ?>
 
   <?php include '../departments/initiatives/modules/sidenav.php'; ?>
 
-  <main id="admission_root">
+  <main id="initiatives_root">
     
   </main>
   <?php include '../modules/footer.php'; ?>
