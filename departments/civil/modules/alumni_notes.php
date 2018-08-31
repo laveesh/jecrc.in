@@ -1,3 +1,4 @@
+<div class="sectionHeading">Alumni</div>
 <div class="container section">
 
 <div class="sectionContent">
