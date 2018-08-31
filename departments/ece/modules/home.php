@@ -121,7 +121,7 @@
   </div>
 </section>
 
-<section class="section container-fluid px-3">
+<!-- <section class="section container-fluid px-3">
 	<div class="sectionHeading">ACADMICS TOPPERS</div>
 	<div class="row">
 		<div class="col-md-6 text-center border-right">
@@ -174,7 +174,7 @@
 	</div>
 </section>
 
-
+ -->
 
 
 <script>

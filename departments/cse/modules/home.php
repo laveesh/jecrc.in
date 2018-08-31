@@ -92,13 +92,13 @@
           </div>
 					
 				</div>
-				<div class="col-md-6">
+				<!-- <div class="col-md-6">
 					<img src="../departments/cse/src/img/toppers/vaishnavi.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
           <div class="py-2">
             <p class="text-center">Vaishnavi Ajmera</p>
           </div>
             
-          </div>
+          </div> -->
 					
 				</div>
 			</div>
@@ -115,6 +115,18 @@
 		
 		<div class="col-md-6 text-center">
 			<div class="sectionHeading">Even Semester</div>
+      <div class="row justify-content-center">
+        <div class="col-md-6">
+          <img src="../departments/cse/src/img/toppers/vaishnavi.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
+          <div class="py-2">
+            <p class="text-center">Vaishnavi Ajmera</p>
+          </div>
+        </div>
+        <!-- <div class="col-md-6">
+          <img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
+          <p class="text-center">Arpit Sharma</p>
+        </div> -->
+      </div>
       <!-- <div class="row justify-content-center">
         <div class="col-md-6">
           <img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
@@ -123,18 +135,8 @@
         <div class="col-md-6">
           <img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
           <p class="text-center">Arpit Sharma</p>
-        </div>
-      </div>
-      <div class="row justify-content-center">
-        <div class="col-md-6">
-          <img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
-          <p class="text-center">Arpit Sharma</p>
-        </div>
-        <div class="col-md-6">
-          <img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
-          <p class="text-center">Arpit Sharma</p>
         </div> -->
-      </div>
+      </div> -->
 		</div>
 		
 </section>

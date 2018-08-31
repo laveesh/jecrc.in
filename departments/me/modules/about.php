@@ -9,5 +9,6 @@
 		<p>
 			<strong>SAE –BAJA INDIA</strong> Collegiate club is also established under which students of all departments are enthusiastically taking part in making the <strong>SAE BAJA </strong> vehicle. Our students are excellent at National level and State level competitions like Jaipur Street karting Cup, IKC Kolhapur.
 		</p>
+		<div class="col-12 text-center"><img src="../departments/me/src/img/group_faculty.jpg" alt="faculty group image" class="img-fluid"></div>
 	</div>
 </section>

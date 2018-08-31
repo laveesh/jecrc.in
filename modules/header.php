@@ -59,8 +59,14 @@
             <li class="nav-item active">
               <a class="nav-link" href="alumni.php?section=home">Alumni</a>
             </li>
-            <li class="nav-item active">
-              <a class="nav-link" href="contact.php">Contact Us</a>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Contact Us
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="../pages/form.php">Grievance Form</a>
+                <a class="dropdown-item" href="../pages/contact.php">Contact</a>
+              </div>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
