@@ -6,5 +6,7 @@
 		<h4>Mrs. Monika Sharma</h4>
 		<h5>Professor and Head</h5>
 <p> <a href="mailto:hod.ce@jecrc.ac.in">hod.ce@jecrc.ac.in</a></p>
+		<div class="col-12 text-center"><img src="../departments/civil/src/img/cblock.jpg" alt="faculty group image" class="img-fluid"></div>
+
 	</div>
 </section>
