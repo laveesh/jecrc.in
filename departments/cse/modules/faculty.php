@@ -4,7 +4,7 @@
 	<div class="row sectionContent">
 		<div class="col-md-6 mt-4">
 			<div class="panel-body card">
-				<div class="card-header text-center"><h4>DR. Bhavna Sharma</h4></div>
+				<div class="card-header text-center"><h4>Dr. Bhavna Sharma</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
 						<img src="../departments/cse/src/img/people/faculty/drbhavnasharma.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
@@ -12,7 +12,7 @@
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
 							<li class="list-group-item"><strong>Educational Qualification</strong>: Ph.D</li>
-							<li class="list-group-item"><strong>Designation</strong>: Associate Professor</li>
+							<li class="list-group-item"><strong>Designation</strong>: Associate Professor & HOD</li>
 							<li class="list-group-item"><strong>Research Area</strong>: Image processing and ML</li>
 							<li class="list-group-item">hod.cse@jecrc.ac.in</li>
 							<li class="list-group-item">Experience: 15 year</li>
