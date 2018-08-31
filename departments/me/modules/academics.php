@@ -1,4 +1,4 @@
-<div id="academics" class="container card section">
+<section id="academics" class="container card section">
 	<div class="sectionHeading">Academics</div>
 	<div class="card-body sectionContent">
 	<p>
@@ -21,4 +21,4 @@ Under OBE model, the quality of teaching is measured by the quality of learning,
 </div>
 
 </div>
-</div>
+</section>
