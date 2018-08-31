@@ -44,6 +44,7 @@
                   <a class="dropdown-item" href="civil.php?section=co_po_mapping">CO and PO Mapping</a>
                 </div>
               </li>
+              <li class="active"><a href="civil.php?section=placements">Placements<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   Research
@@ -104,6 +105,7 @@
                   <a class="dropdown-item" href="civil.php?section=awards_student">Students Awards</a>
                 </div>
               </li>
+              <li class="active"><a href="civil.php?section=feedback_forms">Feedback Forms<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
       					</ul>
       				</li>
       			</ul>
