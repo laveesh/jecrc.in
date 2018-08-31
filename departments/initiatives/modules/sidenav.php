@@ -5,7 +5,7 @@
   </button>
 </div>
 <div class="container-fluid bg-primary deptHeader">
-  <span class="deptName">events Us</span>
+  <span class="deptName">Initiatives</span>
 </div>
 <!-- Container for sidebar and Image Carousel -->
 <div class="container-fluid banner">
@@ -14,18 +14,15 @@
     <div class="col-sm-2 sidebarContainer">
       <div class="navbar navbar-expand-sm bg-primary sidebar" role="navigation">
           <div class="container-fluid">
-      		<div class="collapse navbar-collapse" id="bs-sidebar-navbar-collapse-1">
-      			<ul class="nav navbar-nav flex-column">
-              <li class="active"><a href="events.php?section=iceteas">Iceteas<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-              
-              <li class="active"><a href="events.php?section=jhack">JECRC Hackathon<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-              <li class="active"><a href="events.php?section=sih">SIH 2018<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-              <li class="active"><a href="events.php?section=functionaries">Important Functionaries<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-            	</ul>
-      				</li>
-      			</ul>
-      		</div>
-      	</div>
+            <div class="collapse navbar-collapse" id="bs-sidebar-navbar-collapse-1">
+                <ul class="nav navbar-nav flex-column">
+              <li class="active"><a href="initiatives.php?section=Aashayein">Aashayein<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              <li class="active"><a href="initiatives.php?section=Zarurat">Zarurat<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              <li class="active"><a href="initiatives.php?section=Soch">Soch<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              <li class="active"><a href="initiatives.php?section=Suhasini">Suhasini<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+                </ul>
+            </div>
+        </div>
       </div>
     </div>
     <!-- Image Carousel -->
