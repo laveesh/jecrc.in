@@ -1,5 +1,5 @@
 	<div class="container">
-		<div class="sectionHeading">Recents events @JECRC</div>
+		<div class="sectionHeading">Technical events @JECRC</div>
 		<section class="section">
 			<div class="sectionHeading">Dexterity - "Bridge O Mania"</div>
 			<div class="row">
@@ -36,13 +36,13 @@
 					</div>
 				</div>
 				<div class="col-md-9 col-sm-12 sectionContent px-4">
-					<p>The event here explodes the creativity of participant and his\her understanding of the structure by implementing simple theories of structure and a little mathematics. In this event ,participants have to construct a bridge of given dimensions using popsicle sticks.</p>
+					<p>The event here explodes the creativity of participant and his/her understanding of the structure by implementing simple theories of structure and a little mathematics. In this event ,participants have to construct a bridge of given dimensions using popsicle sticks.</p>
 					<ol class="sectionList">
 						<li><strong>Date of the event:</strong>25<sup>th</sup>March 2018.</li>
 						<li><strong>Venue:</strong>VIP Parking C Block (CE)</li>
 						<li><strong>Faculty Co-ordinators:</strong>
 							<ol class="sectionList">
-								<li>Mr. Amit Mittal (9461010589)</li>
+								<li>Mr. Amit Mittal</li>
 							</ol>
 						</li>
 						<li><strong>Students Co-dinators:</strong>
@@ -100,7 +100,7 @@
 						<li><strong>Venue:</strong> C block VIP Parking(CE)</li>
 						<li><strong>Faculty Co-ordinators:</strong>
 							<ol class="sectionList">
-								<li>Ms. Nida Khanam (8741813384)</li>
+								<li>Ms. Nida Khanam</li>
 								</ol>
 						</li>
 						<li><strong>Students Co-dinators:</strong><ol class="sectionList">
@@ -153,7 +153,7 @@
 						<li><strong>Venue:</strong>CG – 08, 09 (CE) C Block</li>
 						<li><strong>Faculty Co-ordinators:</strong>
 							<ol class="sectionList">
-								<li>Mr. Pardeep Kr. Jain(7737707991)</li>
+								<li>Mr. Pardeep Kr. Jain</li>
 								</ol>
 						</li>
 						<li><strong>Students Co-dinators:</strong><ol class="sectionList">
@@ -202,7 +202,7 @@
 						<li><strong>Venue:</strong>VIP Parking C Block</li>
 						<li><strong>Faculty Co-ordinators:</strong>
 							<ol class="sectionList">
-								<li >Mrs. Monika Sharma(9811859583)</li>
+								<li >Mrs. Monika Sharma</li>
 								</ol>
 						</li>
 						<li><strong>Students Co-dinators:</strong><ol class="sectionList">
@@ -247,7 +247,7 @@
 						<li><strong>Venue:</strong>CP19, 20 (CE) C Block</li>
 						<li><strong>Faculty Co-ordinators:</strong>
 							<ol class="sectionList">
-								<li>Mr. Jitesh Kr. Jain (9829906028)</li>
+								<li>Mr. Jitesh Kr. Jain</li>
 								</ol>
 						</li>
 						<li><strong>Students Co-dinators:</strong><ol class="sectionList">
@@ -296,7 +296,7 @@
 						<li><strong>Venue:</strong> C block VIP Parking(CE)</li>
 						<li><strong>Faculty Co-ordinators:</strong>
 							<ol class="sectionList">
-								<li>Mr. Hitesh Nagar (7792098399)</li>
+								<li>Mr. Hitesh Nagar</li>
 								</ol>
 						</li>
 						<li><strong>Students Co-dinators:</strong><ol class="sectionList">
