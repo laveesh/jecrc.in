@@ -6,7 +6,7 @@
 					<div class="card-header text-center"><h4>Ghanshyam</h4></div>
 					<div class="row">
 						<div class="col-md-4 pt-1 py-1" align="center">
-							<img src="../departments/ece/src/img/people/staff/ghanshyam.jpg"class="rounded-circle img-responsive faculty-img" alt="faculty-image">
+							<img src="../departments/civil/src/img/people/staff/ghanshyam.jpg"class="rounded-circle img-responsive faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-8 px-2">
 							<ul class="list-group list-group-flush">
@@ -27,7 +27,7 @@
 					<div class="card-header text-center"><h4>Hemraj Saini</h4></div>
 					<div class="row">
 						<div class="col-md-4 pt-1 py-1" align="center">
-							<img src="../departments/ece/src/img/people/staff/Premchand.jpg"class="rounded-circle img-responsive faculty-img" alt="faculty-image">
+							<img src="../departments/civil/src/img/people/staff/hemraj.jpg"class="rounded-circle img-responsive faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-8 px-2">
 							<ul class="list-group list-group-flush">

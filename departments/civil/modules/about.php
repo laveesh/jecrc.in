@@ -8,4 +8,6 @@ Civil engineering being one of the core and most fundamental engineering branche
  For better understanding and effective learning of students, institute conduct many industrial and educational visit such as an educational visit to “Jantar Mantar” and sewage treatment plant visit with an endeavor to promote scientific attitude among the young minds, J-Techtrix was conducted. This project exhibition focuses on encouraging the innovations within them. The key objective is to bring out the hidden talents and inculcate technical knowledge in students.
 The mission of the institute is to focus on envalution of learning outcomes and motivate students to inculcate research aptitude by project based learning, to offer opportunities for interaction between academia and industry and to develop human potential to its fullest extent so that intellectually capable and imaginatively gifted leaders may emerge.
 </p>
+		<div class="col-12 text-center"><img src="../departments/civil/src/img/group_faculty.jpg" alt="faculty group image" class="img-fluid"></div>
+
 </div>
