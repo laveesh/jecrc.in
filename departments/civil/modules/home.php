@@ -4,7 +4,7 @@
     <div class="col-md-3">
       <section class="section container card">
         <div class="sectionHeading">RECENT NEWS</div>
-        <div class="sectionContent card-body px-4 mh-50" style="max-height: 42em; overflow: scroll;">
+        <div class="sectionContent card-body px-4 mh-50" style="max-height: 42em; overflow-y: scroll;">
         <marquee behavior="scroll" scrolldelay=60 scrollamount=4 direction="up" height=100%>
         <ul class="list-group list-group-flush text-primary">
           <li class="list-group-item">
@@ -60,28 +60,40 @@
         <div class="sectionHeading">STUDENT SPOTLIGHT</div>
         <div class="sectionContent card-body">
           <h3 class="sectionHeading">GATE Toppers</h3>
-          <div class="row">
-            <div class="col-md-6 text-center">
-              <img src="../departments/civil/src/img/studentspotlight/image13.JPG" alt="" class="img-fluid img-thumbnail rounded-circle">
-              <h5 class="py-2">Tushar Aggrawal</h5>
-            </div>
-            <div class="col-md-6 text-center">
-              <img src="../departments/civil/src/img/studentspotlight/image14.JPG" alt="" class="img-fluid img-thumbnail rounded-circle">
-              <h5 class="py-2">Hemant Kumar Lodha</h5>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-md-6 text-center">
-              <img src="../departments/civil/src/img/studentspotlight/image15.JPG" alt="" class="img-fluid img-thumbnail rounded-circle">
-              <h5 class="py-2">Pratik Kumar Mahto</h5>
-            </div>
-            <div class="col-md-6 text-center">
-              <img src="../departments/civil/src/img/studentspotlight/image16.JPG" alt="" class="img-fluid img-thumbnail rounded-circle">
-              <h5 class="py-2">Tanu Sharma</h5>
-            </div>
-          </div>
+          <div class="" style="max-height:23em; overflow-y:scroll;">
+            <ol>
+              <li>ASHUTOSH JANGID 
+              <li>BANNA RAM 
+              <li>CHANDAN KUMAR CHANDRAVANSHI
+              <li>HEMANT KUMAR LODHA
+              <li>ITI JAIN
+              <li>JONESH KUMAR BIJARNIYA
+              <li>MADHAV SHARMA
+              <li>MAHESH KUMAR PATEL
+              <li>MOHIT SHARMA
+              <li>PRATEEK CHOURASIA 
+              <li>RAJ KUMAR MISHRA
+              <li>RAJ KUMAR SONI
+              <li>ROHIT KHANDELWAL 
+              <li>SACHIN JAIN 
+              <li>SACHIN MATHUR 
+              <li>SAURABH GUPTA
+              <li>SHANKAR SAINI 
+              <li>TANU SHARMA 
+              <li>TUSHAR AGARWAL 
+              <li>VAIBHAV KAWADIA 
+              <li>VISHAL GOCHAR
+              <li>VISHAL RAMNANI 
+              <li>YASHDEEP BHATNAGAR 
+              <li>PRATIK KUMAR MAHTO 
+              <li>KALPIT MEENA 
+              <li>MANAN BISHNOI 
+              <li>SHUBHAM JAIN
+            </ol>
+          </div>  
+        </div>
 
-          <h3 class="sectionHeading">RTU Toppers</h3>
+          <h3 class="sectionHeading">Toppers (Aggregate)</h3>
           <div class="container-fluid"><div class="row"><div class="col text-center list-group-item">Tanu <br> Sharma</div></div></div>
           <div class="row">
             <div class="col-md-6">
@@ -103,7 +115,7 @@
   </div>
   <div class="sectionContent">
     <div class="row">
-      <div class="sectionHeading">University Toppers (Semester-wise)</div>
+      <div class="sectionHeading">Toppers (Semester-wise)</div>
       <div class="col-md-2 text-center">
         <div class="card">
           <div class="card-header" style="font-size: 14px;">
@@ -145,14 +157,14 @@
       </div>
       <div class="col-md-2 text-center">
         <div class="card">
-          <div class="card-header" style="font-size: 14px;">
-            Pankaj Kumar
+          <div class="card-header" style="font-size: 10.2px;">
+            Pankaj Kumar <span>(College Topper)</span>
           </div>
           <div class="card-body">
             Prateek
           </div>
           <div class="card-footer">
-            87.2% (6<sup>th</sup> Semester and <strong>College Topper</strong>)
+            87.2% (6<sup>th</sup> Semester)
           </div>
         </div>
       </div>
