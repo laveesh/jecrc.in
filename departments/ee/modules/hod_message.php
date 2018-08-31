@@ -1,10 +1,10 @@
 <section class="section container card">
 	<div class="sectionHeading">Programme cordinator's message</div>
 	<div class="row card-body flex-row">
-		<div class="col-md-4">
-				<img src="../departments/ee/src/img/people/faculty/hod.png" alt="hod image" class="card-img-top rounded-circle img-fluid img-thumbnail">
+		<div class="col-lg-4 py-3  col-md-12 col-sm-12">
+				<img src="../departments/ee/src/img/people/faculty/hod.png" alt="hod image" class="img-fluid img-thumbnail rounded-circle hod-image">
 		</div>
-		<div class="col-md-8">
+		<div class="col-lg-8 col-md-12 px-4 py-3 col-sm-12">
 			<div class="card-block mt-2">
 				<p class="card-text">Welcome to the web page of the Department of the Electrical Engineering in JECRC .We are
 				delighted to see you exploring our web site and considering us one of the organizations you

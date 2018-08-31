@@ -510,3 +510,15 @@ section {
   width: 180px;
   height: 180px;
 }
+
+.hod-image{
+  width: 300px;
+  height: 300px;
+}
+
+@media screen and (min-width: 765px;) and (max-width: 995px;) {
+  .hod-image{
+    width:  200px;
+    height: 200px;
+  }
+}

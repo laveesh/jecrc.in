@@ -25,7 +25,7 @@
                   <a class="dropdown-item" href="cse.php?section=about">About</a>
                   <a class="dropdown-item" href="cse.php?section=history">History</a>
                   <a class="dropdown-item" href="cse.php?section=mission_vision">Vision and Mission</a>
-                  <a class="dropdown-item" href="cse.php?section=hod_message">Program Coordinator's Message</a>
+                  <a class="dropdown-item" href="cse.php?section=hod_message">Programme Coordinator's Message</a>
                   <a class="dropdown-item" href="cse.php?section=contact">Contact Us</a>
                 </div>
               </li>
