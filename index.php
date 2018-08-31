@@ -305,7 +305,7 @@
           <div class="mx-5 my-3 shadow"><a href="https://innovate.mygov.in/sih2018/" target="_blank"><img class="pride-img" src="src/img/pride/sih.jpg" alt="jecrc pride"></a></div>
           <div class="mx-5 my-3 shadow"><a href="https://www.jecrchackathon.in/" target="_blank"><img class="pride-img" src="src/img/pride/jecrchack.jpg" alt="jecrc pride"></a></div>
           <div class="mx-5 my-3 shadow"><a href="http://jecrcrenaissance.in/" target="_blank"><img class="pride-img" src="src/img/pride/renaissance.png" alt="jecrc pride"></a></div>
-          <div class="mx-5 my-3 shadow"><a href="https://www.facebook.com/tedxjecrc/?ref=br_rs" target="_blank"><img class="pride-img" src="src/img/pride/tedx.jpg" alt="jecrc pride"></a></div>
+          <div class="mx-5 my-3 shadow bg-black"><a href="https://www.facebook.com/tedxjecrc/?ref=br_rs" target="_blank"><img class="pride-img" src="src/img/pride/tedx.jpg" alt="jecrc pride"></a></div>
           <div class="mx-5 my-3 shadow"><a href="http://www.iceteas.in/" target="_blank"><img class="pride-img" src="src/img/pride/iceteas.jpg" alt="jecrc pride"></a></div>
           <div class="mx-5 my-3 shadow"><a href="http://jecrcmun.co.in" target="_blank"><img class="pride-img" src="src/img/pride/mun.jpg" alt="jecrc pride"></a></div>
           <div class="mx-5 my-3 shadow"><a href="http://http://www.jecrcconference.in/" target="_blank"><img class="pride-img" src="src/img/pride/jecrcconf.png" alt="jecrc confrences"></a></div>

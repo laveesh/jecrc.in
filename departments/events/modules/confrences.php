@@ -66,7 +66,7 @@
 			Chandra Retd. Professor of Mathematics from IIT Kanpur; Prof. (Dr.) Meghanshu Vashista from
 			Department of Mechnical Engg, IIT BHU; Prof. (Dr.) Purshotam Chaturani, Retd. Professor of
 			Mathematics from IIT Bombay, along with Mr.Amit and Arpit Agrawal Director JECRC foundation and
-			Prof V.K.Chandna,Principal JECRC,Jaipur.A video talk was also delivered by Prof. (Dr.) Paulo Haufs.			
+			Prof V.K.Chandna,Principal JECRC,Jaipur.A video talk was also delivered by Prof. (Dr.) Paulo Haufs.
 		</p>
 		<ul class="sectionList">
 			<li>Total Papers Received =222</li>
@@ -83,7 +83,7 @@
 			International Conference on Information Technology and Digital Applications (ICITDA-2018) organized
 			by Department of Information Technology JECRC Jaipur, in association with Springer Nature- BJIT,
 			IJETAE, IJCEA on 6 th -7 th  April 2018 .
-		</p>		
+		</p>
 		<p>
 			Inaugural session was organized on 6th April, 2018. In session, dignitaries from various institutes were
 			present Prof. (Dr.) Noe. G. Alba-Baena from University of Texas; Shri Gunjan Saxena, General Manager in
@@ -91,7 +91,7 @@
 			College of Engg and Technology, Jamshedpur; Prof. (Dr.) Peeyush Chandra Retd. Professor of
 			Mathematics from IIT Kanpur; Prof. (Dr.) Meghanshu Vashista from Department of Mechnical Engg, IIT
 			BHU; Prof. (Dr.) Purshotam Chaturani, Retd. Professor of Mathematics from IIT Bombay. A video talk
-			was also delivered by Prof. (Dr.) Paulo Haufs.			
+			was also delivered by Prof. (Dr.) Paulo Haufs.
 		</p>
 		<p>
 			313 research papers from various researchers were uploaded on easy chair portal for ICITDA-2018, 104
@@ -109,13 +109,49 @@
 			Vikas Gupta from  VCET Mumbai, Prof.(Dr.) Akash Saxena from Compucom Institute of Information
 			Technology and Management. We were honored to have such eminent personalities as our session
 			chairs.  After presentation each author was awarded certificate of participation from our eminent
-			academicians/ session chairs.			
+			academicians/ session chairs.
 		</p>
 	</div>
 	<div class="sectionHeading">
-		International Conference on Emerging Trends in Expert Applications &amp; Security	
+		International Conference on Emerging Trends in Expert Applications &amp; Security
 	</div>
 	<div class="sectionContent">
+		<div class="col-md-5 col-sm-12 float-left mx-2 my-2">
+			<div id="events_carausel1" class="carousel slide" data-ride="carousel">
+				<ol class="carousel-indicators">
+					<li data-target="#events_carausel" data-slide-to="0" class="active"></li>
+					<li data-target="#events_carausel" data-slide-to="1"></li>
+					<li data-target="#events_carausel" data-slide-to="2"></li>
+					<li data-target="#events_carausel" data-slide-to="3"></li>
+					<li data-target="#events_carausel" data-slide-to="4"></li>
+				</ol>
+				<div class="carousel-inner">
+					<div class="carousel-item active">
+						<img class="d-block w-100" src="../departments/events/src/img/jecrcconf/1.jpg" alt="First slide">
+					</div>
+					<div class="carousel-item ">
+						<img class="d-block w-100" src="../departments/events/src/img/jecrcconf/2.jpg" alt="First slide">
+					</div>
+					<div class="carousel-item ">
+						<img class="d-block w-100" src="../departments/events/src/img/jecrcconf/3.jpg" alt="First slide">
+					</div>
+					<div class="carousel-item ">
+						<img class="d-block w-100" src="../departments/events/src/img/jecrcconf/4.jpg" alt="First slide">
+					</div>
+					<div class="carousel-item ">
+						<img class="d-block w-100" src="../departments/events/src/img/jecrcconf/5.jpg" alt="First slide">
+					</div>
+				</div>
+				<a class="carousel-control-prev" href="#events_carausel1" role="button" data-slide="prev">
+					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+					<span class="sr-only">Previous</span>
+				</a>
+				<a class="carousel-control-next" href="#events_carausel1" role="button" data-slide="next">
+					<span class="carousel-control-next-icon" aria-hidden="true"></span>
+					<span class="sr-only">Next</span>
+				</a>
+			</div>
+		</div>
 		<p>
 			International Conference on Emerging Trends in Expert Applications &amp; Security (ICETEAS 2018) held on
 			Feb 17-18, 2018 at JECRC, Jaipur, technically sponsored by Springer – AISC, BJIT (Published by Springer,
@@ -133,7 +169,7 @@
 			On the basis of these reviews 120 research papers were presented during the 2 day conference in four
 			parallel sessions of five tracks, namely, Expert Applications and Artificial Intelligence, Information and
 			Application Security, Advanced Computing, Multimedia Applications in Forensics, Security &amp; Intelligence,
-			Advances in Web Technologies, with an acceptance rate of 17%.			
+			Advances in Web Technologies, with an acceptance rate of 17%.
 		</p>
 		<p>
 			Prof. Marcel Worring, Director, Informatics Institute, University of Amsterdam, The Netherlands, Prof.
@@ -161,7 +197,7 @@
 			Dalal, Associate Professor, SRM University, Haryana; Dr. Bhavna Arora, Assistant Professor, Central
 			University, Jammu; Dr. Kusum Rajawat, Principal, Shree Karni College, Jaipur; Dr. Venkatesh Kumar.M,
 			Chairman, IEEE Young Professionals , Tamil Nadu Circle and Dr. Bharat Singh Deora, Associate Professor-
-			Computer Science, JRN Rajasthan Vidyapeeth University, Udaipur.						
+			Computer Science, JRN Rajasthan Vidyapeeth University, Udaipur.
 		</p>
 	</div>
 </div>
