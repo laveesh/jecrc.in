@@ -1,5 +1,5 @@
 <section class="section container card">
-	<div class="sectionHeading">HOD's Message</div>
+	<div class="sectionHeading">Program Coordinator's Message</div>
 	<div class="row card-body flex-row">
 		<div class="col-md-4">
 				<img src="../departments/civil/src/img/hod.JPG" alt="hod image" class="card-img-top">

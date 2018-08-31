@@ -6,6 +6,10 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
     background-color: #062259;
 background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='57' height='57' viewBox='0 0 90 90'%3E%3Ccircle fill='%23ffffff' cx='45' cy='45' r='8'/%3E%3Cg fill='%238ffff9' fill-opacity='1'%3E%3Ccircle cx='0' cy='90' r='6'/%3E%3Ccircle cx='90' cy='90' r='6'/%3E%3Ccircle cx='90' cy='0' r='6'/%3E%3Ccircle cx='0' cy='0' r='6'/%3E%3C/g%3E%3C/svg%3E");
 }
+.bg-black{
+    background-color: black;
+}
+
 
 @media screen and (max-width: 767px) {
     .bg-jecrc {
@@ -100,4 +104,10 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 .pride-img{
     width: 300px;
     height: auto;
+    transform: scale(0.9);
+}
+
+.pride-img:hover {
+    transform: scale(1);
+    transition: all 0.4s ease-in;
 }

@@ -59,12 +59,12 @@
                 Courses Offered
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="pages/cse.php">Computer Science & Engineering</a>
-                <a class="dropdown-item" href="pages/it.php">Information Technology</a>
-                <a class="dropdown-item" href="pages/ece.php">Electronics and Communication Engineering</a>
-                <a class="dropdown-item" href="pages/ee.php">Electrical Engineering</a>
-                <a class="dropdown-item" href="pages/me.php">Mechanical Engineering</a>
-                <a class="dropdown-item" href="pages/civil.php">Civil Engineering</a>
+                <a class="dropdown-item" href="pages/cse.php?section=home">Computer Science & Engineering</a>
+                <a class="dropdown-item" href="pages/it.php?section=home">Information Technology</a>
+                <a class="dropdown-item" href="pages/ece.php?section=home">Electronics and Communication Engineering</a>
+                <a class="dropdown-item" href="pages/ee.php?section=home">Electrical Engineering</a>
+                <a class="dropdown-item" href="pages/me.php?section=home">Mechanical Engineering</a>
+                <a class="dropdown-item" href="pages/civil.php?section=home">Civil Engineering</a>
               </div>
             </li>
             <li class="nav-item active">
@@ -305,7 +305,7 @@
           <div class="mx-5 my-3 shadow"><a href="https://innovate.mygov.in/sih2018/" target="_blank"><img class="pride-img" src="src/img/pride/sih.jpg" alt="jecrc pride"></a></div>
           <div class="mx-5 my-3 shadow"><a href="https://www.jecrchackathon.in/" target="_blank"><img class="pride-img" src="src/img/pride/jecrchack.jpg" alt="jecrc pride"></a></div>
           <div class="mx-5 my-3 shadow"><a href="http://jecrcrenaissance.in/" target="_blank"><img class="pride-img" src="src/img/pride/renaissance.png" alt="jecrc pride"></a></div>
-          <div class="mx-5 my-3 shadow"><a href="https://www.facebook.com/tedxjecrc/?ref=br_rs" target="_blank"><img class="pride-img" src="src/img/pride/tedx.jpg" alt="jecrc pride"></a></div>
+          <div class="mx-5 my-3 shadow bg-black"><a href="https://www.facebook.com/tedxjecrc/?ref=br_rs" target="_blank"><img class="pride-img" src="src/img/pride/tedx.jpg" alt="jecrc pride"></a></div>
           <div class="mx-5 my-3 shadow"><a href="http://www.iceteas.in/" target="_blank"><img class="pride-img" src="src/img/pride/iceteas.jpg" alt="jecrc pride"></a></div>
           <div class="mx-5 my-3 shadow"><a href="http://jecrcmun.co.in" target="_blank"><img class="pride-img" src="src/img/pride/mun.jpg" alt="jecrc pride"></a></div>
           <div class="mx-5 my-3 shadow"><a href="http://http://www.jecrcconference.in/" target="_blank"><img class="pride-img" src="src/img/pride/jecrcconf.png" alt="jecrc confrences"></a></div>

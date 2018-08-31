@@ -62,15 +62,9 @@
                 </div>
               </li>
               <li class="nav-item dropdown">
-                <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <a href="cse.php?section=tech_events">
                   Events
                 </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="cse.php?section=tech_events">Events</a>
-                  
-                  <a class="dropdown-item" href="cse.php?section=cse_hackathon">CSE Hackathon</a>
-                  <a class="dropdown-item" href="cse.php?section=sih">Smart India Hackathon</a>
-                </div>
               </li>
               <li class="nav-item dropdown">
                 <a href="cse.php?section=events">
@@ -92,7 +86,7 @@
                   Alumni
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="cse.php?section=alumni">Alumni Notes</a>
+                  <a class="dropdown-item" href="cse.php?section=alumni_notes">Alumni Notes</a>
                   <a class="dropdown-item" href="cse.php?section=support">Support</a>
                 </div>
               </li>
