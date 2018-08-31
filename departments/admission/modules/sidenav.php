@@ -19,6 +19,7 @@
               <li class="active"><a href="admission.php?section=home">Home<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="active"><a href="admission.php?section=college_fee">College Fees Structure<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="active"><a href="admission.php?section=hostel_fee">Hostel Fees Structure<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              <li class="active"><a href="admission.php?section=seat">Seat Structure<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
                <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   Notice

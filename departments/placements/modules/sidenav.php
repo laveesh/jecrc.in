@@ -17,8 +17,9 @@
       		<div class="collapse navbar-collapse" id="bs-sidebar-navbar-collapse-1">
       			<ul class="nav navbar-nav flex-column">
               <li class="active"><a href="placements.php?section=home">Home<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              <li class="active"><a href="placements.php?section=visionmission">Vision and Mission<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              <li class="active"><a href="placements.php?section=facilities">Center for Deep Learning<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="active"><a href="placements.php?section=tie_ups">Industrial Liaisons<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-              <li class="active"><a href="placements.php?section=companies">Companies<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="active"><a href="placements.php?section=companies_list">Companies List<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -33,11 +34,8 @@
                 </div>
               </li>
               <li class="active"><a href="placements.php?section=initiatives">Student Development Initiatives<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-<<<<<<< HEAD
-=======
               <li class="active"><a href="placements.php?section=career_development">Career Development Center<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="active"><a href="placements.php?section=enterprenurship">Entrepreneurship Ecosystem<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
->>>>>>> 91fd63e30e35642ff9c3e8f17d40666e0dea144d
             	</ul>
       				
       		</div>
@@ -46,7 +44,51 @@
     </div>
     <!-- Image Carousel -->
     <div class="col-sm-10 imageCarousel">
-      <?php include "../modules/imageCarousel.php" ?>
+     <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+          <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
+        </ol>
+        <div class="carousel-inner">
+          <div class="carousel-item">
+            <img  src="../departments/placements/src/Carousel/e1.jpg" alt="Fifth slide">
+          </div>
+          <div class="carousel-item">
+            <img  src="../departments/placements/src/Carousel/e2.jpg" alt="Fifth slide">
+          </div>
+          <div class="carousel-item">
+            <img  src="../departments/placements/src/Carousel/e3.jpg" alt="Fifth slide">
+          </div>
+          <div class="carousel-item active">
+            <img src="../departments/placements/src/Carousel/p1.jpg" alt="First slide">
+          </div>
+          <div class="carousel-item">
+            <img src="../departments/placements/src/Carousel/p2.jpg" alt="Second slide">
+          </div>
+          <div class="carousel-item">
+            <img src="../departments/placements/src/Carousel/p3.jpg" alt="Third slide">
+          </div>
+<!--           <div class="carousel-item">
+            <img  src="../departments/placements/src/img/Carousel/p2.jpg" alt="Fourth slide">
+          </div>
+ -->          <div class="carousel-item">
+            <img  src="../departments/placements/src/Carousel/p4.jpg" alt="Fifth slide">
+          </div>
+        </div>
+        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+      </div>
     </div>
   </div>
 </div>

@@ -3,7 +3,7 @@
 	<h4 class="sectionSubHeading">IETE Student Forum – JECRC FOUNDATION</h4>
 
 	<div class="sectionContent">
-		<p>Its being a honor & moment of pride for us announcing the upcoming of First ever Technical Student chapter in JECRC. Foundation College that is;  IETE Student Forum(I.S.F.)  which is India's one of the best technical student forum. </p>
+		<p>Its being an honor & moment of pride for us announcing the upcoming of First ever Technical Student chapter in JECRC. Foundation College that is;  IETE Student Forum(I.S.F.)  which is India's one of the best technical student forum. </p>
 
 		<p>The Institution of Electronics and Telecommunication Engineers (IETE) founded in 1953 is one of the leading Professional Society in India. With the great vision of founder and subsequent forefathers and stalwarts who were leading light of the Institution IETE, have been devoting and contributing for the advancement of Science and Technology in the fields of Electronics, Communication Engineering, Computer Science, Information Technology and other related subjects.</p>
 

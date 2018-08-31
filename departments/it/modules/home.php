@@ -31,12 +31,15 @@
       <div class="section container card h-section">
         <div class="sectionContent card-body">
           <div class="owl-carousel owl-theme py-2 px-2">
+<<<<<<< HEAD
             <div class="item"><a href="../departments/it/src/newsletters/itmarch17.pdf" download><img src="../departments/it/src/img/newsletters/itaug17.jpg" alt="" class="img-thumbnail"></a></div>
             <div class="item"><a href="../departments/it/src/newsletters/itmarch17.pdf" download><img src="../departments/it/src/img/newsletters/itaug17.jpg" alt="" class="img-thumbnail"></a></div>
             <div class="item"><a href="../departments/it/src/newsletters/itsept17.pdf" download><img src="../departments/it/src/img/newsletters/itsept17.jpg" alt="" class="img-thumbnail"></a></div>
             <div class="item"><a href="../departments/it/src/newsletters/itoct17.pdf" download><img src="../departments/it/src/img/newsletters/itoct17.jpg" alt="" class="img-thumbnail"></a></div>
             <div class="item"><a href="../departments/it/src/newsletters/itjan18.pdf" download><img src="../departments/it/src/img/newsletters/itjan18.jpg" alt="" class="img-thumbnail"></a></div>
             <div class="item"><a href="../departments/it/src/newsletters/itfeb18.pdf" download><img src="../departments/it/src/img/newsletters/itfeb18.jpg" alt="" class="img-thumbnail"></a></div>
+=======
+>>>>>>> ff4a66dacc628ef71f16036a026d2e6bc39cca5e
     <div class="item"><a href="../departments/it/src/newsletters/it_edifier.pdf" download><img src="../departments/it/src/img/newsletters/itedi.png" alt="" class="img-thumbnail"></a></div>
     <div class="item"><a href="../departments/it/src/newsletters/it_march.pdf" download><img src="../departments/it/src/img/newsletters/itmarch.png" alt="" class="img-thumbnail"></a></div>
     <div class="item"><a href="../departments/it/src/newsletters/it_april.pdf" download><img src="../departments/it/src/img/newsletters/itapril.png" alt="" class="img-thumbnail"></a></div>

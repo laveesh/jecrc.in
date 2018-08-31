@@ -50,7 +50,7 @@
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="ece.php?section=publication">Publication</a>
-                  <a class="dropdown-item" href="ece.php?section=research">Projects</a>
+                  <a class="dropdown-item" href="ece.php?section=projects">Projects</a>
                 </div>
               </li>
               <li class="nav-item dropdown">

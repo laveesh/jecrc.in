@@ -1,37 +1,765 @@
-<section class="section container">
-	<div class="sectionHeading">Students & Faculty Achivements</div>
-	<div class="sectionContent">
-		<ul class="sectionList list-group list-group-flush">
-			<li class="list-group-item">Diwanshu Soni,Ayush Khandelwal, Aman Vijay, Divyang Bhargava, Aniket Dixit and Apoorva Agrawal from III rd Year, Dept of CSE have developed the Anti Blue Whale Game i.e. &quot;Try A-	Gain...JINDA-DIL-KHEL&quot; under the kind guidance of Prof. (Dr.) Vijay Singh Rathore, Head- CSE &amp;	Ms. Shikha Maheshwari, Assistant Professor, CSE, JECRC Nine teams of JECRC’s students were selected to participate in the Grand Finale of Smart India Hackathon, 2018 to provide solutions to problems of different ministeries.</li>
-			<li class="list-group-item">Akshay Patni from IV th Year was invited as a SEO Speaker by Wordpress Jaipur Team at Alankar Mahila B.Ed College.</li>
-			<li class="list-group-item">Rakest Prajapat of Final Year selected in Cricket Team of RTU Kota for National West Zone (All	India Inter University, Bhopal).</li>
-			<li class="list-group-item">Tejasv Kulshrestha, Vaishali Agarwal, Utkarsh Mundra and Shrishti Jain from Final Year won First Prize in JECRC HACKATHON 1.0, Jan 2018.</li>
-			<li class="list-group-item">Abha Kabra of IV th Year got global certification RHCSA (Redhat Certified System Administrator)	and RHCE (Redhat Certified Engineer) in July, 2017.</li>
-			<li class="list-group-item">Aman Pareek, IV Sem, Dept. of CSE stood as a winner in Inter College RTU Football Tournament	2017-2018, held in Arya College of Engg. and IT, Kukas, Jaipur.</li>
-			<li class="list-group-item">Akshita Vijay and Abhishek Mohata from IV Sem, CSE won I st Prize in IT QUIZ of Rajasthan Hackathon 3.0 held in December at Mohanlal Sukhadia University, Udaipur.</li>
-			<li class="list-group-item">Atavi Shekhavat from II nd Year won in Street Play event of ZEST held in January, 2018 at St. Xavier’s College, Jaipur.</li>
-			<li class="list-group-item">Diksha Goyal from II nd Year won 2 nd Runner Ups in Student Technical Paper Model Contest in Technovation held at Poornima University, Jaipur in Feb, 2018.</li>
-			<li class="list-group-item">Akash Jain, IV th Sem CSE was among the Top 10 participants of Smart India Hackathon, held at Techno India NJR Institute of Technology, Udaipur.</li>
-			<li class="list-group-item">Sakshi Gupta from III rd Year participated in Blitzschlag, 2018 held at MNIT, Jaipur and won I st Prize.</li>
-			<li class="list-group-item">Samidha Joshi from III rd Year participated in Mood Indigo, 2018, Asia’s Largest College Cultural Festival held at IIT Bombay.</li>
-			<li class="list-group-item">Mr. Rahul Agarwal’s paper “evaluation of use of kota stone mining waste as fine aggregate in bituminous courses” in “IJETMAS”, ISSN:23494476.</li>
-			<li class="list-group-item">Dr. Nilam Choudhary (Associate Professor, CSE) has chaired the session in International Conference on Engineering, Computers and Sciences (IRECS-2018) during January 19-21, at Tango Hall, Vivanta by Taj Panjim Goa, INDIA.</li>
-			<li class="list-group-item">Dr. Sanjay Gaur (Associate Professor, CSE) has been Achiever of Year 2017 award for Significant Contribution in Computer Science and Engineering by The Institution of Engineers –Udaipur Chapter on Engineers’ Day 15 Sept 2017.</li>
-			<li class="list-group-item">Dr. Sanjay Gaur (Associate Professor, CSE) has received Global Outreach Education Excellence Award 2018 for Significant Contribution in Computer Science &amp; Information Technology by REDINNO–Jaipur on 27 March 2018.</li>
-			<li class="list-group-item">Bhoopesh Kr. Kumawat attended an academy training program on “Technical Report Writing and Authorizing of Research Manuscripts with LaTex” organized by Electronics &amp; ICT Academy MNIT, Jaipur during 14/04/17 to 16/04/17.</li>
-			<li class="list-group-item">Rohit Raj from ECE branch (2nd year) has been selected as a scholar in Google India Challenge Scholarship 2018 by Udacity on 7th February 2018.</li>
-			<li class="list-group-item">Kanishka Kukreja of ECE department (final year) received a Accenture women Achiever award in year 2017 on women&#39;s day celebration at college campus by Accenture.</li>
-			<li class="list-group-item">Ms. Rashi Bansal of ECE department (Second year) secured first position in the event “PANACHE” conducted by Creative Arts and Cultural Society held at MNIT, Jaipur.</li>
-			<li class="list-group-item">Mr.Aditya Gurjar, member of Centre for Apps &amp; Ideas team at JECRC, won&quot;App-a-create Hackathon&quot; contest held at MNIT, Jaipur.</li>
-			<li class="list-group-item">Dr. Sandeep Vyas, Associate Professor &amp; HOD Electrical Engineering department published research paper &quot;Numerical modeling of borosilicate doped photonic-crystal fiber for mid-IR supercontinuum generation&quot; in IEEE Internation conference &quot;Progress in Electromagnetics Research Symposium-Fall (PIERS-FALL), 2017&quot; in Singapore.</li>
-			<li class="list-group-item">Mr. Uttam Kumar (4 th year, Department of Electrical Engineering) has secured 363 AIR in GATE 2018 and his score is 789.</li>
-			<li class="list-group-item">Kapil Bindal (4 th year, Department of Electrical Engineering) got selected in CAT 2018 exam scoring 95.16 percentile.</li>
-			<li class="list-group-item">Bharti Sharma (3 rd year, Department of Electrical Engineering): Got an internship from NATIONAL GEOGRAPHIC CHANNEL for three months (January to march)	Alkesh Srivastava (2 nd year)- Started a game production venture on the Google play store of the very famous platform, Android. He created the game called, “The TapBait” and launched it officially on 12 th August, 2017. Within first week of the launch it reached 100+downloads. Today, the numbers of download are nearing 500 and the rating 4.9.</li>
-			<li class="list-group-item">Ms. Neelu Jain presented a paper entitled “Essential Elements of Writing a Research/Review Paper for Conference/Journals” in the IEEE 5 th International Symposium on Emerging Trends and Technologies in Libraries and Information Services (ETTLIS-2018) at Bennet University , Greater Noida during February 21-23, 2018.</li>
-			<li class="list-group-item">Yeeshu Dwivedi &amp; Dhruv Laddha Students of Mechanical Department participated in RTU Inter-College Chess Tournament from 12-14 September 2017 &amp; got the 2 nd prize.</li>
-			<li class="list-group-item">Rajat Srivastav of 3rd Yr Mechanical Engineering participated in Swimming at BITS Open sports meet and won second position in 200m free style stroke.</li>
-			<li class="list-group-item">Dr. Bhuvnesh Bhardwaj attended Summer Internship Program entitled “Computational and Experimental Analysis in Industrial Applications in Mechanical Engineering” (May 22nd -July 5th, 2017) at MNIT, Jaipur	Dr. Manish Srivastava participated one day seminar in “MOBILITY XPERT TALK” at IIT Delhi on	08 th Jul 2017.</li>
-			<li class="list-group-item">“The Moto rids” group of 23 students from mechanical engineering participated in a national level go kart event “NKRC Season-4” in july 2017 &amp; grabbed the “Stig Award”.</li>
-		</ul>
+	<div class="container">
+	<section class="section">
+		<div class="sectionHeading"> International Conference on Emerging Trends in Expert Applications & Security (ICETEAS) 2018
+		</div>
+		<div class="row">
+			<div class="col-md-3 col-sm-12">
+				<div id="events_carausel" class="carousel slide" data-ride="carousel">
+					<ol class="carousel-indicators">
+						<li data-target="#events_carausel" data-slide-to="0" class="active"></li>
+						<li data-target="#events_carausel" data-slide-to="1"></li>
+					
+					</ol>
+					<div class="carousel-inner">
+						<div class="carousel-item active">
+							<img class="d-block w-100" src="../departments/cse/src/img/Events/ICETEAS/Picture1.png" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/cse/src/img/Events/ICETEAS/Picture2.png" alt="Second slide">
+						</div>
+						
+					</div>
+					<a class="carousel-control-prev" href="#events_carausel" role="button" data-slide="prev">
+						<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+						<span class="sr-only">Previous</span>
+					</a>
+					<a class="carousel-control-next" href="#events_carausel" role="button" data-slide="next">
+						<span class="carousel-control-next-icon" aria-hidden="true"></span>
+						<span class="sr-only">Next</span>
+					</a>
+				</div>
+			</div>
+			<div class="col-md-9 col-sm-12 sectionContent">
+				<ol class="sectionList px-4">
+					<li><strong>Date of the event:</strong>Feb 17-18, 2018</li>
+					<li><strong>Venue:</strong> Auditorium</li>
+					<li><strong>Objectives:</strong>
+						<ul>
+							<li>To address innovative advancements in Expert Applications & Security Issues</li>
+							<li>Provide opportunistic forum and vibrant platform for researchers and industry practitioners</li>
+							<li>Exchange of state-of-the-art knowledge on specific new challenges</li>
+							<li>Establish business or research relations</li>
+							<li>To find global partners for future collaboration on emerging issues.</li>
+						</ul>
+					</li>
+					<li><strong>Outcome:</strong>
+						<p>Contributes to the society by serving the expert community seeking to stimulate the development to improve lives throughout the world by providing innovative results.
+						</p>
+						<p>
+
+						</p></li>
+					</ol>
+				</div>
+			</div>
+		</section>
+		<section class="section">
+			<div class="sectionHeading">International Congress on Information and Communication Technology (ICICT) 2018
+			</div>
+			<div class="row">
+				<div class="col-md-3 col-sm-12">
+					<div id="events_carausel2" class="carousel slide" data-ride="carousel">
+						<ol class="carousel-indicators">
+							<li data-target="#events_carausel2" data-slide-to="0" class="active"></li>
+							<li data-target="#events_carausel2" data-slide-to="1"></li>
+							<li data-target="#events_carausel2" data-slide-to="2"></li>
+							<li data-target="#events_carausel2" data-slide-to="3"></li>
+						</ol>
+						<div class="carousel-inner">
+							<div class="carousel-item active">
+								<img class="d-block w-100" src="../departments/cse/src/img/Events/ICICT/Picture1.png" alt="First slide">
+							</div>
+							<div class="carousel-item">
+								<img class="d-block w-100" src="../departments/cse/src/img/Events/ICICT/Picture2.png" alt="Second slide">
+							</div>
+							<div class="carousel-item">
+								<img class="d-block w-100" src="../departments/cse/src/img/Events/ICICT/Picture3.png" alt="Third slide">
+							</div>
+							<div class="carousel-item">
+								<img class="d-block w-100" src="../departments/cse/src/img/Events/ICICT/Picture4.png" alt="Fourth slide">
+							</div>
+						</div>
+						<a class="carousel-control-prev" href="#events_carausel2" role="button" data-slide="prev">
+							<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+							<span class="sr-only">Previous</span>
+						</a>
+						<a class="carousel-control-next" href="#events_carausel2" role="button" data-slide="next">
+							<span class="carousel-control-next-icon" aria-hidden="true"></span>
+							<span class="sr-only">Next</span>
+						</a>
+					</div>
+				</div>
+				<div class="col-md-9 col-sm-12 sectionContent">
+					<p class="px-4">Informative Seminar presentations were conducted by ECE department on HCIG program, aimed for Engineering students, where participants get trained & certified by Huawei on multiple leading ICT technologies such as Wireless (2G, 3G, LTE), Core network</p>
+					<ol class="sectionList">
+						<li><strong>Date of the event:</strong> February 27-28, 2018</li>
+						<li><strong>Venue:</strong>Brunel University, London, United Kingdom</li>
+						<li><strong>Objectives:</strong>
+							<ul>
+								<li>To provide opportunities for the Researchers, Academicians, Industry persons and students to interact and exchange ideas, experience and expertise in the current trend and strategies for Information and Communication Technologies.</li>
+								<li>To target state-of-the-art as well as emerging topics pertaining to ICT and its Supported e-Agriculture and Rural Development Technologies, e-Education and Computing Technologies, e-Mining and Inclusive Technologies for implementation for Engineering and Managerial Applications through ICT.</li>
+							</ul>
+						</li>
+						<li><strong>Outcomes:</strong>The participants got enlightened about vast avenues, current and emerging technological developments in the field of ICT in this era and its applications.
+
+						</li>
+					</ol>
+				</div>
+			</div>
+		</section>
+
+		<!-- 1 -->
+		<section class="section">
+			<div class="sectionHeading">Mobility Expert Talk (July 8 2017)</div>
+			<div class="row">
+				<div class="col-md-3 col-sm-12">
+					<div id="events_carausel0" class="carousel slide" data-ride="carousel">
+					<ol class="carousel-indicators">
+						<li data-target="#events_carausel0" data-slide-to="0" class="active"></li>
+						<!--<li data-target="#events_carausel0" data-slide-to="1"></li>
+						<li data-target="#events_carausel0" data-slide-to="2"></li>-->
+					</ol>
+					<div class="carousel-inner">
+						<div class="carousel-item active">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/met.png" alt="First slide">
+						</div>
+						<!--<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image2.png" alt="Second slide">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image3.png" alt="Third slide">
+						</div>-->
+					</div>
+					<a class="carousel-control-prev" href="#events_carausel0" role="button" data-slide="prev">
+					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+					<span class="sr-only">Previous</span>
+					</a>
+					<a class="carousel-control-next" href="#events_carausel0" role="button" data-slide="next">
+					<span class="carousel-control-next-icon" aria-hidden="true"></span>
+					<span class="sr-only">Next</span>
+					</a>
+					</div>
+				</div>
+				<div class="col-md-9 col-sm-12 sectionContent">
+					<ol class="sectionList">
+						<li><strong>Date of the event:</strong>8<sup>th</sup>July 2017.</li>
+						<li><strong>Venue:</strong>IIT, Delhi</li>
+						<li><strong>Objective/s:</strong> Dr. Manish Srivastava has participated one day seminar in “MOBILITY XPERT TALK” at IIT Delhi on 08th Jul 2017. Event was organised by ISIE India. Intellectuals and various speakers from different parts of the country participated in the event.</li>
+						<li><strong>Outcome:</strong></li>
+						 
+					</ol>
+				</div>	
+			</div>
+		</section>
+		<!-- 2 -->
+		<section class="section">
+			<div class="sectionHeading">QIP Short Term Course  on “Enhancing Yield in Metal Casting” Attended by Er.Akhilesh Paliwal At IIT, Roorkee (July 10-14 2017)</div>
+			<div class="row">
+				<div class="col-md-3 col-sm-12">
+					<div id="events_carausel1" class="carousel slide" data-ride="carousel">
+					<ol class="carousel-indicators">
+						<li data-target="#events_carausel1" data-slide-to="0" class="active"></li>
+						<!-- <li data-target="#events_carausel1" data-slide-to="1"></li> -->
+						<!-- <li data-target="#events_carausel1" data-slide-to="2"></li> -->
+					</ol>
+					<div class="carousel-inner">
+						<div class="carousel-item active">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/qip.png" alt="First slide">
+						</div>
+						<!--<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image2.png" alt="Second slide">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image3.png" alt="Third slide">
+						</div>-->
+					</div>
+					<a class="carousel-control-prev" href="#events_carausel1" role="button" data-slide="prev">
+					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+					<span class="sr-only">Previous</span>
+					</a>
+					<a class="carousel-control-next" href="#events_carausel1" role="button" data-slide="next">
+					<span class="carousel-control-next-icon" aria-hidden="true"></span>
+					<span class="sr-only">Next</span>
+					</a>
+					</div>
+				</div>
+				<div class="col-md-9 col-sm-12 sectionContent">
+					<ol class="sectionList">
+						<li><strong>Date of the event:</strong>10-14<sup>th</sup>July 2017.</li>
+						<li><strong>Venue:</strong>IIT, Roorkee</li>
+						<li><strong>Objective/s:</strong>QIP Short Term Course  on “Enhancing Yield in Metal Casting”</li>
+						<li><strong>Outcome:</strong></li>
+						
+					</ol>
+				</div>
+			</div>
+		</section>
+		<!-- 3 -->
+		<section class="section">
+			<div class="sectionHeading">Short term course on “Applied Statistics for Experiments”</div>
+			<div class="row">
+				<div class="col-md-3 col-sm-12">
+					<div id="events_carausel2" class="carousel slide" data-ride="carousel">
+					<ol class="carousel-indicators">
+						<li data-target="#events_carausel2" data-slide-to="0" class="active"></li>
+						<li data-target="#events_carausel2" data-slide-to="1"></li>
+						<!-- <li data-target="#events_carausel2" data-slide-to="2"></li> -->
+					</ol>
+					<div class="carousel-inner">
+						<div class="carousel-item active">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/stats(1).png" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/stats.png" alt="Second slide">
+						</div>
+						<!--<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image3.png" alt="Third slide">
+						</div>-->
+					</div>
+					<a class="carousel-control-prev" href="#events_carausel2" role="button" data-slide="prev">
+					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+					<span class="sr-only">Previous</span>
+					</a>
+					<a class="carousel-control-next" href="#events_carausel2" role="button" data-slide="next">
+					<span class="carousel-control-next-icon" aria-hidden="true"></span>
+					<span class="sr-only">Next</span>
+					</a>
+					</div>
+				</div>
+				<div class="col-md-9 col-sm-12 sectionContent">
+					<ol class="sectionList">
+						<li><strong>Date of the event:</strong>9-13<sup>th</sup>October 2017.</li>
+						<li><strong>Venue:</strong> at MNIT Jaipur</li>
+						<li><strong>Objective/s:</strong></li>
+						<li><strong>Outcome:</strong>Candidates (Students and Faculty) will be able to identify and interpret concepts of Big Data.</li>
+						 
+					</ol>
+				</div>
+			</div>
+		</section>
+		<!-- 4 -->
+			<section class="section">
+			<div class="sectionHeading">Short Term Course in NITTTR Chandigarh</div>
+			<div class="row">
+				<div class="col-md-3 col-sm-12">
+					<div id="events_carausel3" class="carousel slide" data-ride="carousel">
+					<ol class="carousel-indicators">
+						<li data-target="#events_carausel3" data-slide-to="0" class="active"></li>
+						<!-- <li data-target="#events_carausel3" data-slide-to="1"></li> -->
+						<!-- <li data-target="#events_carausel3" data-slide-to="2"></li> -->
+					</ol>
+					<div class="carousel-inner">
+						<div class="carousel-item active">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/nitttr.png" alt="First slide">
+						</div>
+						<!--<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image2.png" alt="Second slide">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image3.png" alt="Third slide">
+						</div>-->
+					</div>
+					<a class="carousel-control-prev" href="#events_carausel3" role="button" data-slide="prev">
+					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+					<span class="sr-only">Previous</span>
+					</a>
+					<a class="carousel-control-next" href="#events_carausel3" role="button" data-slide="next">
+					<span class="carousel-control-next-icon" aria-hidden="true"></span>
+					<span class="sr-only">Next</span>
+					</a>
+					</div>
+				</div>
+				<div class="col-md-9 col-sm-12 sectionContent">
+					<ol class="sectionList">
+						<li><strong>Date of the event:</strong>6-10<sup>th</sup>October 2017.</li>
+						<li><strong>Venue:</strong>NITTR, Chandigarh</li>
+						<li><strong>Objective/s:</strong>To introduce the significance and emergence of Big Data.</li>
+						<li><strong>Outcome:</strong>Candidates (Students and Faculty) will be able to identify and interpret concepts of Big Data.</li>
+						 
+					</ol>
+				</div>
+			</div>
+		</section>
+		<!-- 5 -->
+		<section class="section">
+			<div class="sectionHeading">Mr. Satyendra kumar delivered a Expert Lecture on “Optimization in Mechanical Component Design”.</div>
+			<div class="row">
+				<div class="col-md-3 col-sm-12">
+					<div id="events_carausel4" class="carousel slide" data-ride="carousel">
+					<ol class="carousel-indicators">
+						<li data-target="#events_carausel4" data-slide-to="0" class="active"></li>
+						<!-- <li data-target="#events_carausel4" data-slide-to="1"></li> -->
+						<!-- <li data-target="#events_carausel4" data-slide-to="2"></li> -->
+					</ol>
+					<div class="carousel-inner">
+						<div class="carousel-item active">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/optimisation.png" alt="First slide">
+						</div>
+						<!--<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image2.png" alt="Second slide">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image3.png" alt="Third slide">
+						</div>-->
+					</div>
+					<a class="carousel-control-prev" href="#events_carausel4" role="button" data-slide="prev">
+					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+					<span class="sr-only">Previous</span>
+					</a>
+					<a class="carousel-control-next" href="#events_carausel4" role="button" data-slide="next">
+					<span class="carousel-control-next-icon" aria-hidden="true"></span>
+					<span class="sr-only">Next</span>
+					</a>
+					</div>
+				</div>
+				<div class="col-md-9 col-sm-12 sectionContent">
+					<ol class="sectionList">
+						<li><strong>Date of the event:</strong><sup></sup></li>
+						<li><strong>Venue:</strong>Poornima University</li>
+						<li><strong>Objective/s:</strong></li>
+						<li><strong>Outcome:</strong></li>
+						 
+					</ol>
+				</div>
+			</div>
+		</section>
+		<!-- 6 -->
+		<section class="section">
+			<div class="sectionHeading">Best faculty Award</div>
+			<div class="row">
+				<div class="col-md-3 col-sm-12">
+					<div id="events_carausel5" class="carousel slide" data-ride="carousel">
+					<ol class="carousel-indicators">
+						<li data-target="#events_carausel5" data-slide-to="0" class="active"></li>
+						<li data-target="#events_carausel5" data-slide-to="1"></li>
+						<li data-target="#events_carausel5" data-slide-to="2"></li>
+					</ol>
+					<div class="carousel-inner">
+						<div class="carousel-item active">
+							<img class="d-block w-100" src="../departments/me/src/img/people/faculty/M.P.SINGH.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/me/src/img//people/faculty/Manish.jpg" alt="Second slide">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/me/src/img/people/faculty/Kuldeep.jpg" alt="Third slide">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/me/src/img/people/faculty/Bhuvnesh.jpg" alt="Third slide">
+						</div>
+					</div>
+					<a class="carousel-control-prev" href="#events_carausel5" role="button" data-slide="prev">
+					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+					<span class="sr-only">Previous</span>
+					</a>
+					<a class="carousel-control-next" href="#events_carausel5" role="button" data-slide="next">
+					<span class="carousel-control-next-icon" aria-hidden="true"></span>
+					<span class="sr-only">Next</span>
+					</a>
+					</div>
+				</div>
+				<div class="col-md-9 col-sm-12 sectionContent">
+					<ol class="sectionList">
+						<li><strong>Date of the event:</strong><sup></sup></li>
+						<li><strong>Venue:</strong> JECRC, Jaipur</li>
+						<li><strong>Objective/s:</strong></li>
+						<li><strong>Outcome:</strong>Prize winners: DR. M. P. Singh (HoD ME), Mr. Manish Jain, Mr. Kuldeep Sharma, Dr. Bhuvnesh Bharadwaj</li>
+						 
+					</ol>
+				</div>
+			</div>
+		</section>
+		<!-- 7 -->
+
+		<!-- Students -->
+		<section class="section">
+			<div class="sectionHeading">NKRC Season-4</div>
+			<div class="row">
+				<div class="col-md-3 col-sm-12">
+					<div id="events_carausel6" class="carousel slide" data-ride="carousel">
+					<ol class="carousel-indicators">
+						<li data-target="#events_carausel6" data-slide-to="0" class="active"></li>
+					</ol>
+					<div class="carousel-inner">
+						<div class="carousel-item active">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/nkrc.jpg" alt="First slide">
+						</div>
+					</div>
+					<a class="carousel-control-prev" href="#events_carausel6" role="button" data-slide="prev">
+					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+					<span class="sr-only">Previous</span>
+					</a>
+					<a class="carousel-control-next" href="#events_carausel6" role="button" data-slide="next">
+					<span class="carousel-control-next-icon" aria-hidden="true"></span>
+					<span class="sr-only">Next</span>
+					</a>
+					</div>
+				</div>
+				<div class="col-md-9 col-sm-12 sectionContent">
+					<ol class="sectionList">
+						<li><strong>Date of the event:</strong><sup></sup></li>
+						<li><strong>Venue:</strong> at MNIT Jaipur</li>
+						<li><strong>Objective/s:</strong></li>
+						<li><strong>Outcome:</strong>“The Moto rids” is a group of 23 machine lovers registered themselves in a national level Go Kart event named “NKRC Season-4”and because of the hard work and way of presenting students were awarded with the “Stig Award” and “Rs 10000” cash reward.</li>
+						 
+					</ol>
+				</div>
+			</div>
+		</section>
+		<!-- 8 -->
+		<section class="section">
+			<div class="sectionHeading">Moon Riders JECRC @ N K R C</div>
+			<div class="row">
+				<div class="col-md-3 col-sm-12">
+					<div id="events_carausel7" class="carousel slide" data-ride="carousel">
+					<ol class="carousel-indicators">
+						<li data-target="#events_carausel7" data-slide-to="0" class="active"></li>
+						<!-- <li data-target="#events_carausel7" data-slide-to="1"></li> -->
+						<!-- <li data-target="#events_carausel7" data-slide-to="2"></li> -->
+					</ol>
+					<div class="carousel-inner">
+						<div class="carousel-item active">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/moonnkrc.png" alt="First slide">
+						</div>
+						<!--<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image2.png" alt="Second slide">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image3.png" alt="Third slide">
+						</div>-->
+					</div>
+					<a class="carousel-control-prev" href="#events_carausel7" role="button" data-slide="prev">
+					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+					<span class="sr-only">Previous</span>
+					</a>
+					<a class="carousel-control-next" href="#events_carausel7" role="button" data-slide="next">
+					<span class="carousel-control-next-icon" aria-hidden="true"></span>
+					<span class="sr-only">Next</span>
+					</a>
+					</div>
+				</div>
+				<div class="col-md-9 col-sm-12 sectionContent">
+					<ol class="sectionList">
+						<li><strong>Date of the event:</strong>29<sup>th</sup>September 2017.</li>
+						<li><strong>Venue:</strong>Radharamn Engg. College, Bhopal</li>
+						<li><strong>Objective/s:</strong>A team of 18 students of Moonriders visited Radharamn Engg. College, Bhopal from 29/9/17-5/10/17.</li>
+						<li><strong>Outcome:</strong></li>
+						
+					</ol>
+				</div>
+			</div>
+		</section>
+		<!-- 9 -->
+		<section class="section">
+<!-- HEADING -->
+			<div class="sectionHeading">MOONRIDERS</div>
+			<div class="row">
+				<div class="col-md-3 col-sm-12">
+					<div id="events_carausel8" class="carousel slide" data-ride="carousel">
+					<ol class="carousel-indicators">
+						<li data-target="#events_carausel8" data-slide-to="0" class="active"></li>
+						<!-- <li data-target="#events_carausel8" data-slide-to="1"></li> -->
+						<!-- <li data-target="#events_carausel8" data-slide-to="2"></li> -->
+					</ol>
+					<div class="carousel-inner">
+						<div class="carousel-item active">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/moon.png" alt="First slide">
+						</div>
+						<!--<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image2.png" alt="Second slide">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image3.png" alt="Third slide">
+						</div>-->
+					</div>
+					<a class="carousel-control-prev" href="#events_carausel8" role="button" data-slide="prev">
+					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+					<span class="sr-only">Previous</span>
+					</a>
+					<a class="carousel-control-next" href="#events_carausel8" role="button" data-slide="next">
+					<span class="carousel-control-next-icon" aria-hidden="true"></span>
+					<span class="sr-only">Next</span>
+					</a>
+					</div>
+				</div>
+				<div class="col-md-9 col-sm-12 sectionContent">
+					<ol class="sectionList">
+						<!-- Date -->
+						<li><strong>Date of the event:</strong>11<sup>th</sup>January 2018.</li>
+						<!-- Venue -->
+						<li><strong>Venue:</strong>Radharamn Engg. College, </li>
+						<!-- Objective -->
+						<li><strong>Objective/s:</strong>This year various teams  represented college in IKC Season 2, which is 2nd season of a National level Go-Kart event hosted by SAE (Society of Automotive Engineers). Virtual Round was the first round of IKC Season 2 and was conducted online  where teams from nationwide participated and presented a prototype of their respective models and the Computer Aided Design of karts. The final rounds of event was hosted at Kolhapur  under SAE. Team Moonriders was competent with other national level teams and performed very well. This event was held from 11.01.18 to 15.01.18 </li>
+						<!-- Outcome -->
+						<li><strong>Outcome:</strong></li>
+						<!-- Guest -->
+						 
+					</ol>
+				</div>
+			</div>
+		</section>
+		<!-- 10 -->
+		<section class="section">
+<!-- HEADING -->
+			<div class="sectionHeading">GEETA GYAN PRATIYOGITA @ SKIT 2018</div>
+			<div class="row">
+				<div class="col-md-3 col-sm-12">
+					<div id="events_carausel9" class="carousel slide" data-ride="carousel">
+					<ol class="carousel-indicators">
+						<li data-target="#events_carausel9" data-slide-to="0" class="active"></li>
+						<!-- <li data-target="#events_carausel9" data-slide-to="1"></li> -->
+						<!-- <li data-target="#events_carausel9" data-slide-to="2"></li> -->
+					</ol>
+					<div class="carousel-inner">
+						<div class="carousel-item active">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/ggp.png" alt="First slide">
+						</div>
+						<!--<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image2.png" alt="Second slide">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/Image3.png" alt="Third slide">
+						</div>-->
+					</div>
+					<a class="carousel-control-prev" href="#events_carausel9" role="button" data-slide="prev">
+					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+					<span class="sr-only">Previous</span>
+					</a>
+					<a class="carousel-control-next" href="#events_carausel9" role="button" data-slide="next">
+					<span class="carousel-control-next-icon" aria-hidden="true"></span>
+					<span class="sr-only">Next</span>
+					</a>
+					</div>
+				</div>
+				<div class="col-md-9 col-sm-12 sectionContent">
+					<ol class="sectionList">
+						<!-- Date -->
+						<li><strong>Date of the event:</strong><sup></sup></li>
+						<!-- Venue -->
+						<li><strong>Venue:</strong>SKIT, Jaipur</li>
+						<!-- Objective -->
+						<li><strong>Objective/s:</strong>Pankaj Mahrishi & Yadunandan Gautam students of Pre-final year Mechanical Department participated in Geeta Gyan Pratiyogita at SKIT, it was a Quiz competition.</li>
+						<!-- Outcome -->
+						<li><strong>Outcome:</strong> The students got 2nd position.</li>
+						<!-- Guest -->
+						 
+					</ol>
+				</div>
+			</div>
+		</section>
+		<!-- 11 -->
+		<section class="section">
+<!-- HEADING -->
+			<div class="sectionHeading">Conference [NCFTME 2018]</div>
+			<div class="row">
+				<div class="col-md-3 col-sm-12">
+					<div id="events_carausel10" class="carousel slide" data-ride="carousel">
+					<ol class="carousel-indicators">
+						<li data-target="#events_carausel10" data-slide-to="0" class="active"></li>
+						<li data-target="#events_carausel10" data-slide-to="1"></li>
+						<li data-target="#events_carausel10" data-slide-to="2"></li>
+					</ol>
+					<div class="carousel-inner">
+						<div class="carousel-item active">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/ncftme.png" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/ncft.png" alt="Second slide">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/ncft(1).png" alt="Third slide">
+						</div>
+					</div>
+					<a class="carousel-control-prev" href="#events_carausel10" role="button" data-slide="prev">
+					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+					<span class="sr-only">Previous</span>
+					</a>
+					<a class="carousel-control-next" href="#events_carausel10" role="button" data-slide="next">
+					<span class="carousel-control-next-icon" aria-hidden="true"></span>
+					<span class="sr-only">Next</span>
+					</a>
+					</div>
+				</div>
+				<div class="col-md-9 col-sm-12 sectionContent">
+					<ol class="sectionList">
+						<!-- Date -->
+						<li><strong>Date of the event:</strong>25<sup>th</sup>March 2018.</li>
+						<!-- Venue -->
+						<li><strong>Venue:</strong>Jaipur Engineering College and Research Centre, Jaipur</li>
+						<!-- Objective -->
+						<li><strong>Objective/s:</strong>
+							<ul>
+								
+								<li>To provide an exceptional platform to the academicians, researchers and students.</li>
+							
+								<li>To meet and discuss the practical solutions, scientific results and methods in solving various problems with people who are actively involved in emerging research fields.</li>
+								
+								<li>To focus on the recent technological developments in all the areas of renewable energy sources and sustainable development.</li>
+							</ul>
+						</li>
+						<!-- Outcome -->
+						<li><strong>Outcome:</strong>
+							<ul>
+							<li>Students and research scholars were made aware about the recent trends in the field of renewable energy.</li>
+							<li>Students knew about the benefits of such conferences so that they may get an insight into the field of research which is an essential factor for the advancement of their career.</li>
+							</ul>
+						
+					</ol>
+				</div>
+			</div>
+		</section>
+		<!-- 12 -->
+		<section class="section">
+<!-- HEADING -->
+			<div class="sectionHeading">RITDME 2018</div>
+			<div class="row">
+				<div class="col-md-3 col-sm-12">
+					<div id="events_carausel11" class="carousel slide" data-ride="carousel">
+					<ol class="carousel-indicators">
+						<li data-target="#events_carausel11" data-slide-to="0" class="active"></li>
+						<li data-target="#events_carausel11" data-slide-to="1"></li>
+						<li data-target="#events_carausel11" data-slide-to="2"></li>
+					</ol>
+					<div class="carousel-inner">
+						<div class="carousel-item active">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/ritd1.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/ritd2.jpg" alt="Second slide">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/ritd3.jpg" alt="Third slide">
+						</div>
+					</div>
+					<a class="carousel-control-prev" href="#.png" role="button" data-slide="prev">
+					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+					<span class="sr-only">Previous</span>
+					</a>
+					<a class="carousel-control-next" href="#.png" role="button" data-slide="next">
+					<span class="carousel-control-next-icon" aria-hidden="true"></span>
+					<span class="sr-only">Next</span>
+					</a>
+					</div>
+				</div>
+				<div class="col-md-9 col-sm-12 sectionContent">
+					<ol class="sectionList">
+						<!-- Date -->
+						<li><strong>Date of the event:</strong>6-7<sup>th</sup>April 2018.</li>
+						<!-- Venue -->
+						<li><strong>Venue:</strong>JECRC, Jaipur</li>
+						<!-- Objective -->
+						<li><strong>Objective/s:</strong>International conference have been organized on April 6-7, 2018 at Jaipur Engineering College and Research Center, Jaipur. The conferences have been collectively organized by the Department of Mechanical Engineering, Department of Information and Technology, Department of Electronics and Communication, and Department of Mathematics. The idea was to provide a common platform for researchers to learn and explore different dimensions with the motive to find solutions for the common good of the society.</li>
+						<!-- Outcome -->
+						<li><strong>Outcome:</strong></li>
+						<!-- Guest -->
+						 the event:</strong> Prof. (Dr.) Noe. G. Alba-Baena from University of Texas; Shri GunjanSaxena, General Manager in BSNL, Jaipur; Prof. (Dr.) Deepak Garg from Bennett University; Prof. (Dr.) Rajesh Kumar Tiwari from RVS College of Engg and Technology, Jamshedpur; Prof. (Dr.) Peeyush Chandra Retd. Professor of Mathematics from IIT Kanpur; Prof. (Dr.) MeghanshuVashista from Department of Mechanical Engg, IIT BHU; Prof. (Dr.) PurshotamChaturani, Retd. Professor of Mathematics from IIT Bombay, along with Mr.Amit and Arpit Agrawal Director JECRC foundation and Prof V.K.Chandna,Principal JECRC,Jaipur </li>
+					</ol>
+				</div>
+			</div>
+		</section>
+		<!-- 13 -->
+		<section class="section">
+<!-- HEADING -->
+			<div class="sectionHeading">FDP on “Mathematical Modeling and Optimization of Industrial Problems” </div>
+			<div class="row">
+				<div class="col-md-3 col-sm-12">
+					<div id="events_carausel12" class="carousel slide" data-ride="carousel">
+					<ol class="carousel-indicators">
+						<li data-target="#events_carausel12" data-slide-to="0" class="active"></li>
+						<li data-target="#events_carausel12" data-slide-to="1"></li>
+						<li data-target="#events_carausel12" data-slide-to="2"></li>
+					</ol>
+					<div class="carousel-inner">
+						<div class="carousel-item active">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/fdp1.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/fdp2.jpg" alt="Second slide">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/fdp3.jpg" alt="Third slide">
+						</div>
+					</div>
+					<a class="carousel-control-prev" href="#events_carausel12" role="button" data-slide="prev">
+					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+					<span class="sr-only">Previous</span>
+					</a>
+					<a class="carousel-control-next" href="#events_carausel12" role="button" data-slide="next">
+					<span class="carousel-control-next-icon" aria-hidden="true"></span>
+					<span class="sr-only">Next</span>
+					</a>
+					</div>
+				</div>
+				<div class="col-md-9 col-sm-12 sectionContent">
+					<ol class="sectionList">
+						<!-- Date -->
+						<li><strong>Date of the event:</strong>01-05<sup>th</sup>May 2018.</li>
+						<!-- Venue -->
+						<li><strong>Venue:</strong></li>
+						<!-- Objective -->
+						<li><strong>Objective/s:</strong>The FDP based on mathematical modelling and optimization of industrial problems, is of an interdisciplinary nature and aimed to equip the participants with the concepts of techniques and their applicability in various disciplines, through interaction with experts in this field. Faculty, researchers, research scholars and industry personnel interested in applying these techniques in their area of interest shall be benefited by participation. The objective of this FDP was also to provide a platform for interaction and exchange of ideas on recent trends in the field of mathematical modelling and optimization, and its applications in various fields of engineering and sciences.</li>
+						<!-- Outcome -->
+						<li><strong>Outcome:</strong></li>
+						<!-- Guest -->
+						 
+					</ol>
+				</div>
+			</div>
+		</section>
+		<!-- 14 -->
+		<section class="section">
+<!-- HEADING -->
+			<div class="sectionHeading">SHORT TERM COURSE ON “PRODUCT DESIGN AND DEVELOPMENT” By NITTTR</div>
+			<div class="row">
+				<div class="col-md-3 col-sm-12">
+					<div id="events_carausel13" class="carousel slide" data-ride="carousel">
+					<ol class="carousel-indicators">
+						<li data-target="#events_carausel13" data-slide-to="0" class="active"></li>
+						<li data-target="#events_carausel13" data-slide-to="1"></li>
+						<li data-target="#events_carausel13" data-slide-to="2"></li>
+					</ol>
+					<div class="carousel-inner">
+						<div class="carousel-item active">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/pdd1.jpg" alt="First slide">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/pdd2.jpg" alt="Second slide">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/me/src/img/meEvents/pdd3.jpg" alt="Third slide">
+						</div>
+					</div>
+					<a class="carousel-control-prev" href="#events_carausel13" role="button" data-slide="prev">
+					<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+					<span class="sr-only">Previous</span>
+					</a>
+					<a class="carousel-control-next" href="#events_carausel13" role="button" data-slide="next">
+					<span class="carousel-control-next-icon" aria-hidden="true"></span>
+					<span class="sr-only">Next</span>
+					</a>
+					</div>
+				</div>
+				<div class="col-md-9 col-sm-12 sectionContent">
+					<ol class="sectionList">
+						<!-- Date -->
+						<li><strong>Date of the event:</strong>7-11<sup>th</sup> November 2017.</li>
+						<!-- Venue -->
+						<li><strong>Venue:</strong>JECRC, Jaipur</li>
+						<!-- Objective -->
+						<li><strong>Objective/s:</strong></li>
+						<!-- Outcome -->
+						<li><strong>Outcome:</strong>The programme started with the lightening of the lamp by all the dignitaries who came in the inauguration ceremony of ICT based Short Term course on Product Design and Development. 
+						First Dr. M. P. Singh , Head Department of Mechanical Engineering briefed about the short term course and talked about the objective of the STC  and importance of STC . He discussed about the design and how the design can be improved ,what is the role of CAD and FEM in design and these are the design tool by using them design can be changed very easily. .Reverse Engineering and Rapid Prototyping are the key of product Development.
+
+						Mr. Manish Jain, Deputy Director JECRC, Jaipur, inaugurated the session & Addressed about importance of Short term courses and workshops in    teaching and technical supporting staff at different levels covering new recruits as well as in-service personnel. 
+						These are offered in a wide variety of areas subject matter updating, refresher courses, emerging rural and appropriate technologies, managerial expertise, Entrepreneurship development, research capability, emerging instructional systems, instructional materials development, multimedia development, laboratory experimentation and innovations, computer education, industry institute interaction, etc for enhancing competence of faculty members.
+
+						HOD Physics Prof. R K Mangal  focused on the practical knowledge in technical education , because it is the primary need of the industries .Dean I year Prof.  U K pareek talked about technical knowledge and its importance rather than be the distinction in the UG programme .He talked about the importance of classes and role of faculty in the class.Course coordinator Mr. VipinGoyal gave the vote of thanks to all the dignriies , participants and students . Prof. Paabla has informed about the ICT based STC and explained about the advantages of STC.
+						</li>
+						<!-- Guest -->
+						
+					</ol>
+				</div>
+			</div>
+		</section>
+
 	</div>
-</section>
