@@ -1,5 +1,5 @@
 <section class="section container card">
-	<div class="sectionHeading">HOD's Message</div>
+	<div class="sectionHeading">Programme Coordinator's Message</div>
 	<div class="row card-body flex-row">
 		<div class="col-lg-4 py-3  col-md-12 col-sm-12">
 			<img src="../departments/ece/src/img/people/faculty/Bansal.jpg" alt="hod image" class="img-fluid img-thumbnail rounded-circle hod-image">

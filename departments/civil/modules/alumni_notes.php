@@ -1,4 +1,5 @@
 <div class="container section">
+<div class="sectionHeading">Alumni</div>
 
 <div class="sectionContent">
 	<div class="card">
