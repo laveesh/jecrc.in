@@ -42,7 +42,7 @@
                 Courses Offered
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="cse.php?section=home">Computer Science</a>
+                <a class="dropdown-item" href="cse.php?section=home">Computer Science and Engineering</a>
                 <a class="dropdown-item" href="it.php?section=home">Information Technology</a>
                 <a class="dropdown-item" href="ece.php?section=home">Electronics and Communication Engineering</a>
                 <a class="dropdown-item" href="ee.php?section=home">Electrical Engineering</a>

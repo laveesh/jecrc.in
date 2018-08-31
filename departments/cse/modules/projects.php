@@ -26,20 +26,21 @@
     	</p>
     
     </div>
-    <h3 class="sectionSubHeading">Dignitaries at Spiritual Research Cell this year</h3>
-    <ol class="sectionList px-2 py-1">
-    	<li>Neetu Bhagat, Asst. Director RIFD, AICTE(1st April 2017)</li>
-    	<li>M. S. Manna, Director AICTE- Administration(7th April 2017)</li>
-    	<li>B. B. Dave, Chief Postmaster General, Rajasthan Circle, Jaipur(2nd April 2017)</li>
-    	<li>Prof. N. P. Kaushik, RTU Vice Chancellor (10th April 2017)</li>
-    	<li>Dilip Malkhede, Director RIFD, AICTE(10th April 2017)</li>
-    	<li>Anil Sahastrabuddhe, Chairman AICTE(13 Aug 2017)</li>
-    	<li>Dr. A. S. Kiran Kumar, Chairman ISRO(6th Jan 2018)</li>
-    	<li>Kirti Seth, Professor at Uzbekistan(18th February 2018)</li>
-    	<li>Gopal Krishna G S S, Country Head Sales & Products, TCS(20th March 2018.</li>
-    	<li>Prof. Noe Alba-Baena, Visiting Faculty at NIT Jhalandar from Mexico (6th April 2018)</li>
-    </ol>
-
+    <h5 class="sectionSubHeading">Dignitaries at Spiritual Research Cell</h5>
+    <div class="px-3">
+    	<ol class="px-3 py-1">
+    		<li>Neetu Bhagat, Asst. Director RIFD, AICTE(1st April 2017)</li>
+    		<li>M. S. Manna, Director AICTE- Administration(7th April 2017)</li>
+    		<li>B. B. Dave, Chief Postmaster General, Rajasthan Circle, Jaipur(2nd April 2017)</li>
+    		<li>Prof. N. P. Kaushik, RTU Vice Chancellor (10th April 2017)</li>
+    		<li>Dilip Malkhede, Director RIFD, AICTE(10th April 2017)</li>
+    		<li>Anil Sahastrabuddhe, Chairman AICTE(13 Aug 2017)</li>
+    		<li>Dr. A. S. Kiran Kumar, Chairman ISRO(6th Jan 2018)</li>
+    		<li>Kirti Seth, Professor at Uzbekistan(18th February 2018)</li>
+    		<li>Gopal Krishna G S S, Country Head Sales & Products, TCS(20th March 2018.</li>
+    		<li>Prof. Noe Alba-Baena, Visiting Faculty at NIT Jhalandar from Mexico (6th April 2018)</li>
+    	</ol>
+    </div>
 
 </section>
 <script>
