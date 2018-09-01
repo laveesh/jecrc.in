@@ -65,13 +65,13 @@
                   <a class="dropdown-item" href="me.php?section=staff">Technical Staff</a>
                 </div>
               </li>
-              <li class="active"><a href="me.php?section=tech_events">Events<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              <li class="active"><a href="me.php?section=events">Events<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   Awards & Achievements
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="me.php?section=events">Events</a>
+                  <a class="dropdown-item" href="me.php?section=tech_events">Technical Events</a>
                   <a class="dropdown-item" href="me.php?section=awards_faculty">Faculties Awards</a>
                   <a class="dropdown-item" href="me.php?section=awards_student">Students Awards</a>
                 </div>
