@@ -17,7 +17,7 @@
 								
 								<li class="list-group-item">hod.it@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 9 year</li>
-								<li class="list-group-item">Publication: 8 <em>International</em> 3 <em>National</em></li>
+								<li class="list-group-item">Publication: 14 <em>International</em> 8 <em>National</em></li>
 							</ul>
 						</div>
 					</div>

@@ -1,4 +1,4 @@
-<div class="container">
+<section class="container section card">
 		<div class="sectionHeading">Laboratories</div>
 		<!-- 1 -->
 		<section class="section">
@@ -284,4 +284,4 @@
 			</div>
         </section>
 
-</div>
+</section>
