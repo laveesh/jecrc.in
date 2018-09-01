@@ -1,5 +1,5 @@
 	<section class="container section card">
-		<div class="sectionHeading">Recents events @JECRC</div>
+		<div class="sectionHeading">Recents Technical  events @JECRC</div>
 		<!-- 1 -->
 		<section class="section">
 			<div class="sectionHeading">Mobility Expert Talk (July 8 2017)</div>

@@ -1,5 +1,5 @@
 <div class="container">
-  <div class="sectionHeading">Recent Technical Events of JECRC</div>
+  <div class="sectionHeading">Recent Events of JECRC</div>
   <!-- 1 -->
   <section class="section px-4">
     <div class="sectionHeading">ROBOWAR</div>
