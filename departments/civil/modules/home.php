@@ -113,16 +113,17 @@
       </section>
     </div>
   </div>
+
   <div class="sectionContent">
-    <div class="row">
-      <div class="sectionHeading">Toppers (Semester-wise)</div>
+    <div class="sectionHeading">Toppers (Semester-wise)</div>
+    <div class="row offset-2">
       <div class="col-md-2 text-center">
         <div class="card">
           <div class="card-header" style="font-size: 14px;">
               Irshad Ali Ansari
           </div>
           <div class="card-body">
-            image
+            <img src="../departments/civil/src/img/semtoppers/3.jpg">
           </div>
           <div class="card-footer">
               84.3% (3<sup>rd</sup> Semester)
@@ -148,7 +149,7 @@
               Kapil Dev Agarwal
           </div>
           <div class="card-body">
-            image
+            <img src="../departments/civil/src/img/semtoppers/5.jpg">
           </div>
           <div class="card-footer">
               83.2% (5<sup>th</sup> Semester)
@@ -157,11 +158,11 @@
       </div>
       <div class="col-md-2 text-center">
         <div class="card">
-          <div class="card-header" style="font-size: 10.2px;">
-            Pankaj Kumar <span>(College Topper)</span>
+          <div class="card-header" style="font-size: 12px;">
+            Pankaj Kumar <strong>(College Topper)</strong>
           </div>
           <div class="card-body">
-            image
+            <img src="../departments/civil/src/img/semtoppers/6.jpg">
           </div>
           <div class="card-footer">
             87.2% (6<sup>th</sup> Semester)
@@ -174,7 +175,7 @@
               Mahesh Kumar Patel
           </div>
           <div class="card-body">
-            image
+            <img src="../departments/civil/src/img/semtoppers/7.jpg">
           </div>
           <div class="card-footer">
             85.7% (7<sup>th</sup> Semester)
