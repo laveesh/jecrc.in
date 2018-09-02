@@ -29,6 +29,8 @@
                   <a class="dropdown-item" href="alumni.php?section=high_study">Higher Studies</a>
                 </div>
               </li>-->
+                <li class="active"><a href="alumni.php?section=home">
+                About<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   Awards & Recognization

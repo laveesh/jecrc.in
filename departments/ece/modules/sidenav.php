@@ -22,7 +22,7 @@
                   About
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="ece.php?section=history">About US</a>
+                  <a class="dropdown-item" href="ece.php?section=about">About US</a>
                   <a class="dropdown-item" href="ece.php?section=history">History</a>
                   <a class="dropdown-item" href="ece.php?section=mission_vision">Vision and Mission</a>
                   <a class="dropdown-item" href="ece.php?section=hod_message">Program Coordinator's Message</a>
