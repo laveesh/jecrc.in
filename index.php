@@ -95,7 +95,7 @@
                 <a class="dropdown-item" href="departments/cse/src/pdf/CSESCOOP.pdf" target="_blank">CSE Newsletter</a>
                 <a class="dropdown-item" href="departments/me/src/newsletters/july_17.pdf" target="_blank">ME Newsletter</a>
                 <a class="dropdown-item" href="departments/ece/src/newsletters/Ujjwalam%20Vol2%20Issue1.pdf" target="_blank">ECE Newsletter</a>
-                <a class="dropdown-item" href="departments/it/src/img/newsletters/itjuly.jpg" target="_blank">IT Newsletter</a>
+                <a class="dropdown-item" href="departments/it/src/newsletters/itjuly.pdf" target="_blank">IT Newsletter</a>
                 <a class="dropdown-item" href="departments/civil/src/newsletters/constructo-3.pdf" target="_blank">CE Newsletter</a>
                 <a class="dropdown-item" href="src/pdf/ApplicationForm.pdf" target="_blank">Bonafide Form</a>
               </div>
