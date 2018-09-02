@@ -28,9 +28,9 @@
               </li>
               <li class="active"><a href="about.php?section=mission_vision">Mission and Vision<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="active"><a href="about.php?section=history">History<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-              <!-- <li class="active"><a href="about.php?section=functionaries">Board of Directors<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li> -->
-
               <li class="active"><a href="../departments/about/src/pdf/jecrc-brochure.pdf" target="_blank">Brochure JECRC<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              <li class="active"><a href="../departments/about/src/pdf/accounts.pdf" target="_blank">Accounts<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>         
+              <li class="active"><a href="../departments/about/src/pdf/accounts.pdf" target="_blank">BOS<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>                            
             	</ul>
       				</li>
       			</ul>
