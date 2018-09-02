@@ -34,7 +34,6 @@
                 </div>
               </li>
               <li class="active"><a href="placements.php?section=initiatives">Student Development Initiatives<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-
               <li class="active"><a href="placements.php?section=career_development">Career Development Center<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="active"><a href="placements.php?section=enterprenurship">Entrepreneurship Ecosystem<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
             	</ul>

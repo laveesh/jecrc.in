@@ -42,26 +42,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="col-lg-6 col-md-12 mt-4">
-			<div class="panel-body card">
-				<div class="card-header text-center"><h4>Prof. Mukut Bihari</h4></div>
-				<div class="row">
-					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/mukt.jpg"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
-					</div>
-					<div class="col-md-9 px-2">
-						<ul class="list-group list-group-flush">
-							<li class="list-group-item"><strong>Educational Qualification</strong>: M.E.</li>
-							<li class="list-group-item"><strong>Designation</strong>: Professor</li>
-							<li class="list-group-item"><strong>Research Area</strong>: Software Engineering, MIS</li>
-							<li class="list-group-item">mukutbihari.cse@jecrc.ac.in</li>
-							<li class="list-group-item">Experience: 35 Years</li>
-							<li class="list-group-item">Publication: 5</li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</div>		
+				
 		<div class="col-lg-6 col-md-12 mt-4">
 			<div class="panel-body card">
 				<div class="card-header text-center"><h4>Dr. Neelam Chaplot</h4></div>
@@ -595,7 +576,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="col-lg-6 col-md-12 mt-4">
+		<!-- <div class="col-lg-6 col-md-12 mt-4">
 			<div class="panel-body card">
 				<div class="card-header text-center"><h4>Dr. Satish Kulhari</h4></div>
 				<div class="row">
@@ -614,7 +595,7 @@
 					</div>
 				</div>
 			</div>
-		</div>
+		</div> -->
 		
 		<div class="col-lg-6 col-md-12 mt-4">
 			<div class="panel-body card">
@@ -886,7 +867,7 @@
 				<div class="card-header text-center"><h4>Ms. Ashima Tiwari</h4></div>
 				<div class="row">
 					<div class="col-md-3 align-center">
-						<img src="../departments/cse/src/img/people/faculty/.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/cse/src/img/people/faculty/ashima.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">

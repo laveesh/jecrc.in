@@ -106,11 +106,11 @@
               </li>
               <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  Feedback Forms    
+                  Feedback Forms
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="#">Form 1</a>
-                  <a class="dropdown-item" href="#">Form 2</a>
+                  <a class="dropdown-item" href="cse.php?section=feedbackform">Feedback form (2017-18)</a>
+                  <a class="dropdown-item" href="cse.php?section=mobilecomputing">Mobile Computing form</a>
                 </div>
               </li>
       					</ul>

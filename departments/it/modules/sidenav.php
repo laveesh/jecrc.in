@@ -39,7 +39,7 @@
                   <a class="dropdown-item" href="it.php?section=ug_program">Under Graduate Program</a>
                   <a class="dropdown-item" href="it.php?section=program_outcomes">Program Outcomes</a>
                   <a class="dropdown-item" href="it.php?section=program_edu_obj">Program Education Objective</a>
-                  <a class="dropdown-item" href="it.php?section=program_edu_obj">Program Specific Outcomes</a>
+                  <a class="dropdown-item" href="it.php?section=program_spec_outcomes">Program Specific Outcomes</a>
                   <a class="dropdown-item" href="it.php?section=course_outcomes">Course Outcomes</a>
                   <a class="dropdown-item" href="it.php?section=co_po_mapping">CO and PO Mapping</a>
                 </div>
@@ -55,7 +55,7 @@
               </li>
               <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  Facult and Staff
+                  Faculty and Staff
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="it.php?section=faculty">Faculty</a>
@@ -63,16 +63,10 @@
                 </div>
               </li>
               <li class="nav-item dropdown">
-                <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  Events
-                </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="it.php?section=tech_events">Events</a>
-                  <a class="dropdown-item" href="it.php?section=tech_events">Technical Events</a>
-                </div>
+                <a  href="it.php?section=tech_events">Events</a>
               </li>
               <li class="nav-item dropdown">
-                <a href="cse.php?section=events">
+                <a href="it.php?section=events">
                   Awards & Achivements
                 </a>
               </li>
@@ -95,6 +89,9 @@
                 </div>
               </li>
               <li class="nav-item dropdown">
+                <a href="it.php?section=placements">Placements</a>
+              </li>
+              <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   Clubs
                 </a>
@@ -111,8 +108,10 @@
                   Feedback Forms
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="#">Form 1</a>
-                  <a class="dropdown-item" href="#">Form 2</a>
+                  <a class="dropdown-item" href="it.php?section=mission_form">Mission Evaluation Form</a>
+                  <a class="dropdown-item" href="it.php?section=vision_form">Vision Evaluation Form</a>
+                  <a class="dropdown-item" href="it.php?section=industry_form">Industry Interaction feedback Form</a>
+                  <a class="dropdown-item" href="it.php?section=program_form">Program Exit Survey</a>
                 </div>
               </li>
             </ul>
@@ -127,26 +126,37 @@
           <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
           <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
           <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-          <!-- <li data-target="#carouselExampleIndicators" data-slide-to="3"></li> -->
-          <!-- <li data-target="#carouselExampleIndicators" data-slide-to="4"></li> -->
+          <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="7"></li>
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
             <img src="../departments/it/src/img/Carousel/slider1.jpg" alt="First slide">
           </div>
           <div class="carousel-item">
-            <img src="../departments/it/src/img/Carousel/slider2.jpg" alt="Second slide">
+            <img src="../departments/it/src/img/Carousel/5.jpg" alt="sixth slide">
+          </div>
+          <div class="carousel-item">
+            <img src="../departments/it/src/img/Carousel/3.jpg" alt="Seventh slide">
+          </div>
+          <div class="carousel-item">
+            <img src="../departments/it/src/img/Carousel/4.jpg" alt="Eighth slide">
+          </div>
+          <div class="carousel-item">
+            <img  src="../departments/it/src/img/Carousel/1.jpg" alt="Fourth slide">
+          </div>
+          <div class="carousel-item">
+            <img  src="../departments/it/src/img/Carousel/8.jpg" alt="Fifth slide">
           </div>
           <div class="carousel-item">
             <img   src="../departments/it/src/img/Carousel/slider3.jpg" alt="Third slide">
           </div>
-          <!--  <div class="carousel-item">
-            <img  src="../departments/ece/src/img/Carousel/slider4.jpg" alt="Fourth slide">
-          </div>
           <div class="carousel-item">
-            <img  src="../departments/ece/src/img/Carousel/slider5.jpg" alt="Fifth slide">
-          </div> -->
-          
+            <img src="../departments/it/src/img/Carousel/slider2.jpg" alt="Second slide">
+          </div>
           <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
             <span class="sr-only">Previous</span>

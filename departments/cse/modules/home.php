@@ -18,9 +18,7 @@
             <li class="list-group-item">Induction Ceremony of JECRC batch 2017-21</li>
             <li class="list-group-item">Smart India Hackathon-2017 under MHRD association with AICTE</li>
             <li class="list-group-item">J-techtrix oraganised on April 08, 2017</li>
-            <li class="list-group-item">J-techtrix oraganised on April 08, 2017</li>
-            <li class="list-group-item">J-techtrix oraganised on April 08, 2017</li>
-            <li class="list-group-item">J-techtrix oraganised on April 08, 2017</li>
+
           </ul>
           </marquee>
         </div>
@@ -33,7 +31,7 @@
       <div class="section container card h-section">
         <div class="sectionContent card-body">
           <div class="owl-carousel owl-theme py-2 px-2">
-    <div class="item"><img src="../departments/cse/src/img/newsletters/csescoop.PNG" alt="" class="img-thumbnail"></div>
+    <div class="item"><a href="../departments/cse/src/pdf/CSESCOOP.pdf" download><img src="../departments/cse/src/img/newsletters/csescoop.PNG" alt="" class="img-thumbnail"></a></div>
    <!--  <div class="item"><img src="../departments/cse/src/img/newsletters/Vol-1issue1.jpg" alt="" class="img-thumbnail"></div>
     <div class="item"><img src="../departments/cse/src/img/newsletters/Vol-1issue1.jpg" alt="" class="img-thumbnail"></div> -->
     
@@ -79,53 +77,80 @@
   </div>
 </section>
 
+
+
 <section class="section container-fluid px-3">
 	<div class="sectionHeading">ACADMICS TOPPERS</div>
 	<div class="row">
-		<div class="col-md-6 text-center border-right">
+		<div class="col-lg-6 text-center border-right">
 			<div class="sectionHeading">Odd Semester</div>
 			<div class="row justify-content-center">
-				<div class="col-md-6">
-					<img src="../departments/cse/src/img/toppers/virendra.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
+        <div class="col-md-6">
+          <img src="../departments/cse/src/img/toppers/virendra.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
           <div class="py-2">
             <p class="text-center">Virendra Singh Jhala</p>
+            <p class="text-center font-weight-bold">86.10%</p>
           </div>
-					
-				</div>
-				<div class="col-md-6">
-					<img src="../departments/cse/src/img/toppers/vaishnavi.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
+          
+        </div>
+        <div class="col-md-6">
+          <img src="../departments/cse/src/img/toppers/yogendrarathore.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
           <div class="py-2">
-            <p class="text-center">Vaishnavi Ajmera</p>
+            <p class="text-center">Yogendra Singh Rathore</p>
+            <p class="text-center font-weight-bold">84.70%</p>
           </div>
             
           </div>
+          
+        </div>
+        <div class="row justify-content-center">
+				<div class="col-md-6">
+					<img src="../departments/cse/src/img/toppers/kajalagarwal.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
+          <div class="py-2">
+            <p class="text-center">Kajal Agarwal</p>
+            <p class="text-center font-weight-bold">83.20%</p>
+          </div>
+					
+				</div>
+				<!-- <div class="col-md-6">
+					<img src="../departments/cse/src/img/toppers/vaishnavi.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
+          <div class="py-2">
+            <p class="text-center">Yogendra Singh Rathore</p>
+            <p class="text-center font-weight-bold">84.70%</p>
+          </div>
+            
+          </div> -->
 					
 				</div>
 			</div>
-			<!-- <div class="row justify-content-center">
-				<div class="col-md-6">
-					<img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
-					<p class="text-center">Arpit Sharma</p>
-				</div>
-				<div class="col-md-6">
-					<img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
-					<p class="text-center">Arpit Sharma</p>
-				</div>
-			</div> -->
+			
 		
-		<div class="col-md-6 text-center">
+		<div class="col-lg-6 text-center">
 			<div class="sectionHeading">Even Semester</div>
-      <!-- <div class="row justify-content-center">
-        <div class="col-md-6">
-          <img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
-          <p class="text-center">Arpit Sharma</p>
-        </div>
-        <div class="col-md-6">
-          <img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
-          <p class="text-center">Arpit Sharma</p>
-        </div>
-      </div>
       <div class="row justify-content-center">
+        <div class="col-md-6">
+          <img src="../departments/cse/src/img/toppers/jayanti.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
+          <div class="py-2">
+            <p class="text-center">Jayanti Chauhan</p>
+            <p class="text-center font-weight-bold">89.40%</p>
+          </div>
+        </div>
+        </div>
+        <div class="row justify-content-center">
+        <div class="col-md-6">
+          <img src="../departments/cse/src/img/toppers/ayushkhandelwal.jpeg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
+          <div class="py-2">
+            <p class="text-center">Ayush Khandelwal</p>
+            <p class="text-center font-weight-bold">85.90%</p>
+          </div>
+        </div>
+        </div>
+        <!-- <div class="col-md-6">
+          <img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
+          <p class="text-center">Arpit Sharma</p>
+        </div> -->
+      
+      <!-- <div class="row justify-content-center">
         <div class="col-md-6">
           <img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
           <p class="text-center">Arpit Sharma</p>

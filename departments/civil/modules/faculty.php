@@ -109,6 +109,7 @@
 								<li class="list-group-item">Block-C, Basement</li>
 								<li class="list-group-item">hetram.ce@jecrc.ac.in </li>
 								<li class="list-group-item">Experience: 6.9 Years</li>
+								<li class="list-group-item">Research Area: ROAD SAFETY AUDIT: CHALLENGES AND REMEDIES</li>								
 							</ul>
 						</div>
 					</div>
@@ -129,6 +130,7 @@
 								<li class="list-group-item">Block-C, First Floor, CF-17</li>
 								<li class="list-group-item">prateeksharma.ce@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 10 Month</li>
+								<li class="list-group-item">Research Area: Flyash based Geopolymers- Effect of particle size on its physical characteristics.</li>
 							</ul>
 						</div>
 					</div>
@@ -153,6 +155,7 @@
 								<li class="list-group-item">Block-C, Basement</li>
 								<li class="list-group-item">ashish.ce@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 3.5 Years</li>
+								<li class="list-group-item">Research Area: Minimizing Energy Conservation of Residential Building.</li>
 							</ul>
 						</div>
 					</div>
@@ -173,6 +176,7 @@
 								<li class="list-group-item">Block-C, Basement</li>
 								<li class="list-group-item">tyagi.parul@gmail.com</li>
 								<li class="list-group-item">Experience: 3 year</li>
+								<li class="list-group-item">Research Area: STRUCTURAL ENGINEERING "COMPARATIVE STUDY BETWEEN DIFFERENT BRACING SYSTEM TO CONTROL THE LATERAL DISPLACEMENT IN G+14 MULTISTORY BUILDING"."INTERNATIONAL INTERNSHIP PROJECT". 1) DIFFERENT SHEAR WALL SYSTEM. 2)VARIATION OF MARBLE POWDER IN S.C.C..</li>
 							</ul>
 						</div>
 					</div>
@@ -196,6 +200,7 @@
 								<li class="list-group-item">Block-C, Basement</li>
 								<li class="list-group-item">teekamsingh.ce@jecrc.ac.in </li>
 								<li class="list-group-item">Experience: 3.5 Years</li>
+								<li class="list-group-item">Research Area: MOISTURE INDUCED DAMAGE AND PREVENTION MAJOR BITUMEN CONCRETE WITH PMB-40. RESEARCH WORK-COMPARE IN CRRI- (6 MONTHS)</li>
 							</ul>
 						</div>
 					</div>
@@ -216,6 +221,8 @@
 								<li class="list-group-item">Block-C, Basement</li>
 								<li class="list-group-item">narendrasipani.ce@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 10 Month</li>
+								<li class="list-group-item">Research Area: Utilization of Brick kiln ash as a cementatious material in mortar.</li>
+								
 							</ul>
 						</div>
 					</div>
@@ -259,6 +266,7 @@
 								<li class="list-group-item">Block-C, Basement</li>
 								<li class="list-group-item">anuradha.ce@jecrc.ac.in </li>
 								<li class="list-group-item">Experience: 3.5 Years</li>
+								<li class="list-group-item">Research Area: PROPERTIES OF CONCRETE WITH PARTIAL REPLACEMENT OF CEMENT BY KOTA STONE SLURRY AND RICE FLY ASH.</li>
 							</ul>
 						</div>
 					</div>
@@ -285,6 +293,7 @@
 								<li class="list-group-item">Block-C, Basement</li>
 								<li class="list-group-item">shilpathakur.ce@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 2.5 Years</li>
+								<li class="list-group-item">Research Area: PARTIAL REPLACEMENT OF SAND BY STONE DUST AND COPPER SLAG.</li>
 							</ul>
 						</div>
 					</div>
@@ -395,6 +404,7 @@
 								<li class="list-group-item">Block-C, Basement</li>
 								<li class="list-group-item">khandelwalshivangni316@gmail.com</li>
 								<li class="list-group-item">Experience: Fresher</li>
+								<li class="list-group-item">Research Area: ANALYSIS OF PEDESTRIAN DELAY AT SIGNALIZED INTERSECTION.</li>
 							</ul>
 						</div>
 					</div>

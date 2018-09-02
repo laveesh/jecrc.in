@@ -1,4 +1,4 @@
-<section class="section container">
+<section class="section container card">
 	<div class="sectionHeading">Projects</div>
 	<div class="sectionContent">
 		<div class="sectionHeading">DST </div>

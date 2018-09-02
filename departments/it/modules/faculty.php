@@ -17,7 +17,7 @@
 								
 								<li class="list-group-item">hod.it@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 9 year</li>
-								<li class="list-group-item">Publication: 8 <em>International</em> 3 <em>National</em></li>
+								<li class="list-group-item">Publication: 14 <em>International</em> 8 <em>National</em></li>
 							</ul>
 						</div>
 					</div>
@@ -70,10 +70,6 @@
 					</div>
 				</div>
 	</div>
-
-</div>
-
-<div class="row sectionContent">
 	
 
 	<div class="col-lg-6 col-md-12 mt-4">
@@ -117,10 +113,7 @@
 				</div>
 	</div>
 
-</div>
 
-
-<div class="row sectionContent">
 
 	
 	<div class="col-lg-6 col-md-12 mt-4">
@@ -164,10 +157,7 @@
 				</div>
 	</div>
 	
-</div>
 
-
-<div class="row sectionContent">
 	<div class="col-lg-6 col-md-12 mt-4">
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Ms. Preeti Sharma</h4></div>
@@ -209,10 +199,7 @@
 				</div>
 	</div>
 	
-</div>
 
-
-<div class="row sectionContent">
 	<div class="col-lg-6 col-md-12 mt-4">
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Ms. Shweta Saxena</h4></div>

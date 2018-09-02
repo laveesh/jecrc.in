@@ -12,4 +12,7 @@
 			Highly qualified , efficient and vibrant faculty members with extensive teaching experience dedicatedly work for the betterment of the students and are scrupulous in giving their best.Faculty members hold postgraduate and undergraduate degrees from renowned institutions with specialization in different subjects. Most of the faculty members are actively involved in projects, research work and  regularly publishing their research papers in Journals and Conferences.
 		</p>
 	</div>
+	<div class="row">
+		<div class="col-md-12 text-center"><img src="../departments/cse/src/img/csefaculty.jpg" alt="faculty group" class="img-thumbnail img-fluid"></div>
+	</div>
 </section>
