@@ -91,7 +91,23 @@
                 Downloads
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="departments/about/src/pdf/jecrc-brochure.pdf" target="_blank">JECRC Brochure</a>
+                <a class="dropdown-item" href="departments/cse/src/pdf/CSESCOOP.pdf" target="_blank">CSE Newsletter</a>
+                <a class="dropdown-item" href="departments/me/src/newsletters/july_17.pdf" target="_blank">ME Newsletter</a>
+                <a class="dropdown-item" href="departments/ece/src/newsletters/Ujjwalam%20Vol2%20Issue1.pdf" target="_blank">ECE Newsletter</a>
+                <a class="dropdown-item" href="departments/it/src/img/newsletters/itjuly.jpg" target="_blank">IT Newsletter</a>
+                <a class="dropdown-item" href="departments/civil/src/newsletters/constructo-3.pdf" target="_blank">CE Newsletter</a>
                 <a class="dropdown-item" href="src/pdf/ApplicationForm.pdf" target="_blank">Bonafide Form</a>
+              </div>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                SAR
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="departments/about/src/pdf/jecrc-brochure.pdf" target="_blank">Computer Science Engineering</a>
+                <a class="dropdown-item" href="departments/cse/src/pdf/CSESCOOP.pdf" target="_blank">Electronics and Communication<br> Engineering</a>
+                <a class="dropdown-item" href="departments/me/src/newsletters/july_17.pdf" target="_blank">Mechanical Engineering</a>
               </div>
             </li>
           </ul>
