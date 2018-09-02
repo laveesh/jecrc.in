@@ -32,3 +32,8 @@ blockquote:after {
 content: "✔️";
 margin-right: 10px;
 }
+
+.alumni {
+  width: 240px;
+  height: 240px;
+}

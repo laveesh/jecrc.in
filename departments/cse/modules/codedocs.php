@@ -26,5 +26,9 @@
 	</p>
 		</div>
 		</div>
-	
+	<div class="row">
+		<div class="col-md-6 text-center py-2"><img src="../departments/cse/src/img/clubs/codedocs1.jpg" alt="" class="img-thumbnail img-fluid w-75"></div>
+		<div class="col-md-6 text-center py-2"><img src="../departments/cse/src/img/clubs/codedocs2.jpg" alt="" class="img-thumbnail img-fluid w-75"></div>
+		
+	</div>
 </section>

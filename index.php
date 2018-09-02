@@ -68,13 +68,13 @@
               </div>
             </li>
             <li class="nav-item active">
-              <a class="nav-link" href="initiatives.php?section=home">Initiatives</a>
-            </li>
-            <li class="nav-item active">
               <a class="nav-link" href="pages/placements.php?section=home">Training and Placements</a>
             </li>
             <li class="nav-item active">
               <a class="nav-link" href="pages/alumni.php?section=home">Alumni</a>
+            </li>
+            <li class="nav-item active">
+              <a class="nav-link" href="initiatives.php?section=home">Abhyudaya</a>
             </li>
              <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -312,9 +312,8 @@
           <div class="mx-5 my-3 shadow"><a href="https://www.jecrchackathon.in/" target="_blank"><img class="pride-img" src="src/img/pride/jecrchack.jpg" alt="jecrc pride"></a></div>
           <div class="mx-5 my-3 shadow"><a href="http://jecrcrenaissance.in/" target="_blank"><img class="pride-img" src="src/img/pride/renaissance.png" alt="jecrc pride"></a></div>
           <div class="mx-5 my-3 shadow bg-black"><a href="https://www.facebook.com/tedxjecrc/?ref=br_rs" target="_blank"><img class="pride-img" src="src/img/pride/tedx.jpg" alt="jecrc pride"></a></div>
-          <div class="mx-5 my-3 shadow"><a href="http://www.iceteas.in/" target="_blank"><img class="pride-img" src="src/img/pride/iceteas.jpg" alt="jecrc pride"></a></div>
           <div class="mx-5 my-3 shadow"><a href="http://jecrcmun.co.in" target="_blank"><img class="pride-img" src="src/img/pride/mun.jpg" alt="jecrc pride"></a></div>
-          <div class="mx-5 my-3 shadow"><a href="http://http://www.jecrcconference.in/" target="_blank"><img class="pride-img" src="src/img/pride/jecrcconf.png" alt="jecrc confrences"></a></div>
+          <div class="mx-5 my-3 shadow"><a href="http://www.jecrcconference.in/" target="_blank"><img class="pride-img" src="src/img/pride/jecrcconf.png" alt="jecrc confrences"></a></div>
           <div class="mx-5 my-3 shadow"><a href="#" target="_blank"><img class="pride-img" src="src/img/pride/mou.png" alt="mou"></a></div>
           <div class="mx-5 my-3 shadow"><a href="pages/initiatives.php"><img class="pride-img" src="src/img/pride/abhyudaya.png" alt="mou"></a></div>
           <div class="mx-5 my-3 shadow"><a href="pages/research.php?section=home"><img class="pride-img" src="src/img/pride/spirituallab.png" alt="mou">
