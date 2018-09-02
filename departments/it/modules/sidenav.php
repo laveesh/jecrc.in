@@ -131,10 +131,14 @@
           <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
           <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
           <li data-target="#carouselExampleIndicators" data-slide-to="7"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="8"></li>
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
             <img src="../departments/it/src/img/Carousel/slider1.jpg" alt="First slide">
+          </div>
+          <div class="carousel-item">
+            <img src="../departments/it/src/img/Carousel/slider8.jpg" alt="First slide">
           </div>
           <div class="carousel-item">
             <img src="../departments/it/src/img/Carousel/5.jpg" alt="sixth slide">
