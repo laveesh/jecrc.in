@@ -133,7 +133,7 @@
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="../departments/cse/src/img/Carousel/slider9.jpg" alt="First slide">
+            <img src="../departments/cse/src/img/Carousel/slider10.jpg" alt="First slide">
           </div>
           <div class="carousel-item">
             <img src="../departments/cse/src/img/Carousel/slider1.jpg" alt="First slide">
