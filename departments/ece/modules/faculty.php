@@ -51,7 +51,7 @@
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
-							<li class="list-group-item"><strong>Educational Qualification</strong>: P.hd</li>
+							<li class="list-group-item"><strong>Educational Qualification</strong>: PhD</li>
 							<li class="list-group-item"><strong>Designation</strong>: Assistant professor</li>
 
 							<li class="list-group-item">vinitamathur.ece@jecrc.ac.in</li>
@@ -736,7 +736,7 @@ Networks </li></ul>
 								<li class="list-group-item">deepmala.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience (in years): 3 </li>
 								<li class="list-group-item">Publication(s): 3</li>
-						
+
 						</div>
 					</div>
 				</div>
@@ -782,5 +782,108 @@ Networks </li></ul>
 					</div>
 				</div>
 			</div>
+
+			<div class="col-lg-6 col-md-12 mt-4">
+				<div class="panel-body card">
+					<div class="card-header text-center"><h4>Ms. Ritambhara</h4></div>
+					<div class="row">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/ece/src/img/people/faculty/Ritambhara.jpg"class="Aapimg-responsive rounded-circle faculty-img" alt="faculty-image">
+						</div>
+						<div class="col-md-9 px-2">
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
+
+								<li class="list-group-item">ritambhara.ece@jecrc.ac.in</li>
+								<li class="list-group-item">Experience (in years): 3.2 </li>
+
+							<li class="list-group-item"> Research Area:Low Power Circuits,. Biomedical Signal Processing, FinFet</li></ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-6 col-md-12 mt-4">
+				<div class="panel-body card">
+					<div class="card-header text-center"><h4>Mrs. Yazusha Sharma</h4></div>
+					<div class="row">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/ece/src/img/people/faculty/yazusha_pic.jpg"class="Aapimg-responsive rounded-circle faculty-img" alt="faculty-image">
+						</div>
+						<div class="col-md-9 px-2">
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
+
+								<li class="list-group-item">yazushasharma.ece@jecrc.ac.in</li>
+								<li class="list-group-item">Experience (in years): 5 </li>
+
+							<li class="list-group-item"> Research Area:Optical Communication</li></ul>
+						</div>
+					</div>
+				</div>
+</div>
+				<div class="col-lg-6 col-md-12 mt-4">
+					<div class="panel-body card">
+						<div class="card-header text-center"><h4>Mr. Devendra Sharma</h4></div>
+						<div class="row">
+							<div class="col-md-3 pt-1 py-1" align="center">
+								<img src="../departments/ece/src/img/people/faculty/devendra_photo.jpg"class="Aapimg-responsive rounded-circle faculty-img" alt="faculty-image">
+							</div>
+							<div class="col-md-9 px-2">
+								<ul class="list-group list-group-flush">
+									<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+									<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
+
+									<li class="list-group-item">devendrasharma.ece@jecrc.ac.in</li>
+									<li class="list-group-item">Experience (in years): 7 </li>
+
+								<li class="list-group-item"> Research Area:Power System</li></ul>
+							</div>
+						</div>
+					</div>
+			</div>
+
+			<div class="col-lg-6 col-md-12 mt-4">
+				<div class="panel-body card">
+					<div class="card-header text-center"><h4>Mr. Sandeep Vyas</h4></div>
+					<div class="row">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/ece/src/img/people/faculty/image1.jpg"class="Aapimg-responsive rounded-circle faculty-img" alt="faculty-image">
+						</div>
+						<div class="col-md-9 px-2">
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item"><strong>Educational Qualification</strong>: PhD</li>
+								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
+
+								<li class="list-group-item">dr.sandeepvyas.ee@jecrc.ac.in</li>
+								<li class="list-group-item">Experience (in years): 16 </li>
+
+							<li class="list-group-item"> Research Area:Optical Fibre Communication</li></ul>
+						</div>
+					</div>
+				</div>
+		</div>
+
+		<div class="col-lg-6 col-md-12 mt-4">
+			<div class="panel-body card">
+				<div class="card-header text-center"><h4>Mr. Sitaram Saini</h4></div>
+				<div class="row">
+					<div class="col-md-3 pt-1 py-1" align="center">
+						<img src="../departments/ece/src/img/people/faculty/sitaram.jpg"class="Aapimg-responsive rounded-circle faculty-img" alt="faculty-image">
+					</div>
+					<div class="col-md-9 px-2">
+						<ul class="list-group list-group-flush">
+							<li class="list-group-item"><strong>Educational Qualification</strong>: Diploma</li>
+							<li class="list-group-item"><strong>Designation</strong>: Lab Assistant</li>
+
+							<li class="list-group-item">sitaram.ece@jecrc.ac.in</li>
+							<li class="list-group-item">Experience (in years): 11 </li>
+
+
+					</div>
+				</div>
+			</div>
+	</div>
 		</div>
 	</section>
