@@ -1,14 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
 <section class="section container-fluid">
   <div class="row">
     <div class="col-md-3">
@@ -44,7 +33,7 @@
             </li>
             <li class="list-group-item">
               Industrial visit to Tesca Technologies Pvt. Ltd., 17 Jan, 2018
-            </li> 
+            </li>
             <li class="list-group-item">
             <strong> 2018-19 TCS placed students through CODEVITA - </strong>Mithilesh Yadav, Jatin Kumar Agarwal, Kaushiki Mishra, Lakshita Sharma, Dravika Mehta </li>
           </marquee>
@@ -121,62 +110,76 @@
   </div>
 </section>
 
-<!-- <section class="section container-fluid px-3">
+section class="section container-fluid px-3">
 	<div class="sectionHeading">ACADMICS TOPPERS</div>
 	<div class="row">
-		<div class="col-md-6 text-center border-right">
+		<div class="col-lg-6 text-center border-right">
 			<div class="sectionHeading">Odd Semester</div>
 			<div class="row justify-content-center">
+        <div class="col-md-6">
+          <img src="../departments/ece/src/img/toppers/AsthaJaiswal.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
+          <div class="py-2">
+            <p class="text-center">Astha Jaiswal</p>
+            <p class="text-center font-weight-bold">80.40%</p>
+          </div>
+
+        </div>
+        <div class="col-md-6">
+          <img src="../departments/ece/src/img/toppers/pragyaagarwal.JPG" alt="" class="img-fluid img-thumbnail rounded-circle topper">
+          <div class="py-2">
+            <p class="text-center">Pragya Agarwal</p>
+            <p class="text-center font-weight-bold">82.50%</p>
+          </div>
+
+          </div>
+
+        </div>
+        <div class="row justify-content-center">
 				<div class="col-md-6">
-					<img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
-					<p class="text-center">Arpit Sharma</p>
+					<img src="../departments/ece/src/img/toppers/Niharikagautam.jpeg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
+          <div class="py-2">
+            <p class="text-center">Niharika Gautam</p>
+            <p class="text-center font-weight-bold">84.40%</p>
+          </div>
+
 				</div>
-				<div class="col-md-6">
-					<img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
-					<p class="text-center">Arpit Sharma</p>
+				<!-- <div class="col-md-6">
+					<img src="../departments/cse/src/img/toppers/vaishnavi.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
+          <div class="py-2">
+            <p class="text-center">Yogendra Singh Rathore</p>
+            <p class="text-center font-weight-bold">84.70%</p>
+          </div>
+
+          </div> -->
+
 				</div>
 			</div>
-			<div class="row justify-content-center">
-				<div class="col-md-6">
-					<img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
-					<p class="text-center">Arpit Sharma</p>
-				</div>
-				<div class="col-md-6">
-					<img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
-					<p class="text-center">Arpit Sharma</p>
-				</div>
-			</div>
-		</div>
-		<div class="col-md-6 text-center">
+
+
+		<div class="col-lg-6 text-center">
 			<div class="sectionHeading">Even Semester</div>
-			<div class="row justify-content-center">
-				<div class="col-md-6">
-					<img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
-					<p class="text-center">Arpit Sharma</p>
-				</div>
-				<div class="col-md-6">
-					<img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
-					<p class="text-center">Arpit Sharma</p>
-				</div>
-			</div>
-			<div class="row justify-content-center">
-				<div class="col-md-6">
-					<img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
-					<p class="text-center">Arpit Sharma</p>
-				</div>
-				<div class="col-md-6">
-					<img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
-					<p class="text-center">Arpit Sharma</p>
-				</div>
-			</div>
+      <div class="row justify-content-center">
+        <div class="col-md-6">
+          <img src="../departments/ece/src/img/toppers/prachi.JPG" alt="" class="img-fluid img-thumbnail rounded-circle topper">
+          <div class="py-2">
+            <p class="text-center">Prachi Khandelwal</p>
+            <p class="text-center font-weight-bold">86.30%</p>
+          </div>
+        </div>
+        </div>
+        <div class="row justify-content-center">
+        <div class="col-md-6">
+          <img src="../departments/ece/src/img/toppers/swatibhardwaj.jpeg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
+          <div class="py-2">
+            <p class="text-center">Swati Bharadwaj</p>
+            <p class="text-center font-weight-bold">84.70%</p>
+          </div>
+        </div>
+        </div>
+      </div>
 		</div>
 
-	</div>
 </section>
-
- -->
-
-
 <script>
   $('.owl-carousel').owlCarousel({
     loop:false,
