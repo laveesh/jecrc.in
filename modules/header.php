@@ -44,11 +44,11 @@
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <a class="dropdown-item" href="cse.php?section=home">Computer Science & Engineering</a>
-                <a class="dropdown-item" href="it.php?section=home">Information Technology</a>
-                <a class="dropdown-item" href="ece.php?section=home">Electronics and Communication Engineering</a>
-                <a class="dropdown-item" href="ee.php?section=home">Electrical Engineering</a>
                 <a class="dropdown-item" href="me.php?section=home">Mechanical Engineering</a>
+                <a class="dropdown-item" href="ece.php?section=home">Electronics and Communication Engineering</a>
+                <a class="dropdown-item" href="it.php?section=home">Information Technology</a>
                 <a class="dropdown-item" href="civil.php?section=home">Civil Engineering</a>
+                <a class="dropdown-item" href="ee.php?section=home">Electrical Engineering</a>
               </div>
             </li>
             <li class="nav-item active">

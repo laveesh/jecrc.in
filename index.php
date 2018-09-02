@@ -61,11 +61,11 @@
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <a class="dropdown-item" href="pages/cse.php?section=home">Computer Science & Engineering</a>
-                <a class="dropdown-item" href="pages/it.php?section=home">Information Technology</a>
-                <a class="dropdown-item" href="pages/ece.php?section=home">Electronics and Communication Engineering</a>
-                <a class="dropdown-item" href="pages/ee.php?section=home">Electrical Engineering</a>
                 <a class="dropdown-item" href="pages/me.php?section=home">Mechanical Engineering</a>
+                <a class="dropdown-item" href="pages/ece.php?section=home">Electronics and Communication Engineering</a>
+                <a class="dropdown-item" href="pages/it.php?section=home">Information Technology</a>
                 <a class="dropdown-item" href="pages/civil.php?section=home">Civil Engineering</a>
+                <a class="dropdown-item" href="pages/ee.php?section=home">Electrical Engineering</a>
               </div>
             </li>
             <li class="nav-item active">
