@@ -1,11 +1,11 @@
 <header>
   <div class="collegeHeader container-fluid bg-primary text-white">
     <a href="../index.php"><img src="../src/img/jecrclogo.png" id="jecrcLogo" alt="JECRC"></a>
-      <span id="collegeName">Jaipur Engineering College And Research Centre</span>
-      <div id="collegeUni">Affiliated to Rajasthan Technical University, Kota (REAP CODE: 020)</div>
-      <div id="collegeAdd">
-        Shri Ram ki Nangal, via Sitapura RIICO, Tonk Road, Sukhpuria, Bambala, Jaipur, Rajasthan 302022
-      </div>
+    <span id="collegeName">Jaipur Engineering College And Research Centre</span>
+    <div id="collegeUni">Approved by AICTE & Affiliated to Rajasthan Technical University, Kota (REAP CODE: 020)</div>
+    <div id="collegeAdd">
+      Shri Ram ki Nangal, via Sitapura RIICO, Tonk Road, Sukhpuria, Bambala, Jaipur, Rajasthan 302022
+    </div>
   </div>
       <nav class="navbar navbar-expand-lg bg-primary mainNav">
         <div class="collapse navbar-collapse bg-primary" id="navbarSupportedContent">
@@ -25,6 +25,7 @@
                 <a class="dropdown-item" href="research.php?section=home">Research</a>
                 <a class="dropdown-item" href="library.php?section=home">Library</a>
                 <a class="dropdown-item" href="events.php?section=home">Events</a>
+                <a class="dropdown-item" href="mou.php?section=home">MOUs</a>
               </div>
             </li>
             <li class="nav-item dropdown">
@@ -42,7 +43,7 @@
                 Courses Offered
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="cse.php?section=home">Computer Science and Engineering</a>
+                <a class="dropdown-item" href="cse.php?section=home">Computer Science & Engineering</a>
                 <a class="dropdown-item" href="it.php?section=home">Information Technology</a>
                 <a class="dropdown-item" href="ece.php?section=home">Electronics and Communication Engineering</a>
                 <a class="dropdown-item" href="ee.php?section=home">Electrical Engineering</a>
@@ -57,15 +58,15 @@
               <a class="nav-link" href="alumni.php?section=home">Alumni</a>
             </li>
             <li class="nav-item active">
-              <a class="nav-link" href="initiatives.php?section=home">Abhyudaya</a>
+              <a class="nav-link" href="initiatives.php?section=Aashayein">Abhyudaya</a>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Contact Us
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="../pages/form.php">Grievance Form</a>
-                <a class="dropdown-item" href="../pages/contact.php">Contact</a>
+                <a class="dropdown-item" href="form.php">Grievance Form</a>
+                <a class="dropdown-item" href="contact.php">Contact</a>
               </div>
             </li>
             <li class="nav-item dropdown">
@@ -73,7 +74,23 @@
                 Downloads
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="../src/pdf/ApplicationForm.pdf" target="_blank">Bonafide Form</a>
+                <a class="dropdown-item" href="../departments/about/src/pdf/jecrc-brochure.pdf" target="_blank">JECRC Brochure</a>
+                <a class="dropdown-item" href="../departments/cse/src/pdf/CSESCOOP.pdf" target="_blank">CSE Newsletter</a>
+                <a class="dropdown-item" href="../departments/me/src/newsletters/july_17.pdf" target="_blank">ME Newsletter</a>
+                <a class="dropdown-item" href="../departments/ece/src/newsletters/Ujjwalam%20Vol2%20Issue1.pdf" target="_blank">ECE Newsletter</a>
+                <a class="dropdown-item" href="../departments/it/src/img/newsletters/itjuly.jpg" target="_blank">IT Newsletter</a>
+                <a class="dropdown-item" href="../departments/civil/src/newsletters/constructo-3.pdf" target="_blank">CE Newsletter</a>
+                <a class="dropdown-item" href="src/pdf/ApplicationForm.pdf" target="_blank">Bonafide Form</a>
+              </div>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                SAR
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="../departments/about/src/pdf/jecrc-brochure.pdf" target="_blank">Computer Science Engineering</a>
+                <a class="dropdown-item" href="../departments/cse/src/pdf/CSESCOOP.pdf" target="_blank">Electronics and Communication<br> Engineering</a>
+                <a class="dropdown-item" href="../departments/me/src/newsletters/july_17.pdf" target="_blank">Mechanical Engineering</a>
               </div>
             </li>
           </ul>
@@ -81,5 +98,5 @@
       </nav>
 </header>
 <button class="navbar-toggler navbar-light bg-light"  id="icon" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-  <span><i class="fa fa-home"></i></span>
+<span><i class="fa fa-home"></i></span>
 </button>
