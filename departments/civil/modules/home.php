@@ -1,10 +1,10 @@
-<!-- COMPUTER SCIENCE HOME PAGE -->
+<!-- CIVIL HOME PAGE --Joshi -->
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-3">
       <section class="section container card">
         <div class="sectionHeading">RECENT NEWS</div>
-        <div class="sectionContent card-body px-4 mh-50">
+        <div class="sectionContent card-body px-4 mh-50" style="max-height: 50em; overflow-y: scroll;">
         <marquee behavior="scroll" scrolldelay=60 scrollamount=4 direction="up" height=100%>
         <ul class="list-group list-group-flush text-primary">
           <li class="list-group-item">
@@ -14,7 +14,7 @@
                 <li>Introduction on Civil Engineering to 1st Year Students.
                 <li>Date: Aug, 4, 2018
                 <li>Venue: A-Block Auditorium
-                <li>Conducted by: Kamlesh Kr. Choudhary, Prateek Sharma
+                < text-centerli>Conducted by: Kamlesh Kr. Choudhary, Prateek Sharma
               </ul>
             </p>
             <!-- <img src="../departments/ece/src/img/Events/redhat/1.jpg" alt="redhat" class="img-fluid img-thumbnail"> -->
@@ -43,9 +43,9 @@
         <div class="sectionHeading">NEWS LETTER - CUNSTRUCTO</div>
         <div class="sectionContent card-body">
           <div class="row">
-            <div class="col-md-4 py-2"><a href="../departments/civil/src/newsletters/constructo-1.pdf" class="btn btn-block btn-lg btn-primary" download>Constructo Vol-1</a></div>
-            <div class="col-md-4 py-2"><a href="../departments/civil/src/newsletters/constructo-2.pdf" class="btn btn-block btn-lg btn-primary" download>Constructo Vol-2</a></div>
-            <div class="col-md-4 py-2"><a href="../departments/civil/src/newsletters/constructo-3.pdf" class="btn btn-block btn-lg btn-primary" download>Constructo Vol-3</a></div>
+            <div class="col-md-4 py-2"><a href="../departments/civil/src/newsletters/constructo-1.pdf"><div class="btn btn-lg btn-primary" download>Constructo Vol-1</div><img src="../departments/civil/src/img/newsletter/p2.PNG" width="183" alt="img"></a></div>
+            <div class="col-md-4 py-2"><a href="../departments/civil/src/newsletters/constructo-2.pdf"><div class="btn btn-lg btn-primary" download>Constructo Vol-2</div><img src="../departments/civil/src/img/newsletter/p1.PNG" width="183" alt="img"></a></div>
+            <div class="col-md-4 py-2"><a href="../departments/civil/src/newsletters/constructo-3.pdf"><div class="btn btn-lg btn-primary" download>Constructo Vol-3</div><img src="../departments/civil/src/img/newsletter/p3.PNG" width="183" alt="img"></a></div>
           </div>
           <hr>
           <p class="py-2 px-3">
@@ -59,29 +59,41 @@
       <section class="section container card">
         <div class="sectionHeading">STUDENT SPOTLIGHT</div>
         <div class="sectionContent card-body">
-          <h3 class="sectionHeading">GATE Toppers</h3>
-          <div class="row">
-            <div class="col-md-6 text-center">
-              <img src="../departments/civil/src/img/studentspotlight/image13.JPG" alt="" class="img-fluid img-thumbnail rounded-circle">
-              <h5 class="py-2">Tushar Aggrawal</h5>
-            </div>
-            <div class="col-md-6 text-center">
-              <img src="../departments/civil/src/img/studentspotlight/image14.JPG" alt="" class="img-fluid img-thumbnail rounded-circle">
-              <h5 class="py-2">Hemant Kumar Lodha</h5>
-            </div>
-          </div>
-          <div class="row">
-            <div class="col-md-6 text-center">
-              <img src="../departments/civil/src/img/studentspotlight/image15.JPG" alt="" class="img-fluid img-thumbnail rounded-circle">
-              <h5 class="py-2">Pratik Kumar Mahto</h5>
-            </div>
-            <div class="col-md-6 text-center">
-              <img src="../departments/civil/src/img/studentspotlight/image16.JPG" alt="" class="img-fluid img-thumbnail rounded-circle">
-              <h5 class="py-2">Tanu Sharma</h5>
-            </div>
-          </div>
+          <h3 class="sectionHeading">GATE Qualifiers</h3>
+          <div class="" style="max-height:29em; overflow-y:scroll;">
+            <ol>
+              <li>ASHUTOSH JANGID 
+              <li>BANNA RAM 
+              <li>CHANDAN KUMAR CHANDRAVANSHI
+              <li>HEMANT KUMAR LODHA
+              <li>ITI JAIN
+              <li>JONESH KUMAR BIJARNIYA
+              <li>MADHAV SHARMA
+              <li>MAHESH KUMAR PATEL
+              <li>MOHIT SHARMA
+              <li>PRATEEK CHOURASIA 
+              <li>RAJ KUMAR MISHRA
+              <li>RAJ KUMAR SONI
+              <li>ROHIT KHANDELWAL 
+              <li>SACHIN JAIN 
+              <li>SACHIN MATHUR 
+              <li>SAURABH GUPTA
+              <li>SHANKAR SAINI 
+              <li>TANU SHARMA 
+              <li>TUSHAR AGARWAL 
+              <li>VAIBHAV KAWADIA 
+              <li>VISHAL GOCHAR
+              <li>VISHAL RAMNANI 
+              <li>YASHDEEP BHATNAGAR 
+              <li>PRATIK KUMAR MAHTO 
+              <li>KALPIT MEENA 
+              <li>MANAN BISHNOI 
+              <li>SHUBHAM JAIN
+            </ol>
+          </div>  
+        </div>
 
-          <h3 class="sectionHeading">RTU Toppers</h3>
+          <h3 class="sectionHeading my-4">Toppers (Aggregate)</h3>
           <div class="container-fluid"><div class="row"><div class="col text-center list-group-item">Tanu <br> Sharma</div></div></div>
           <div class="row">
             <div class="col-md-6">
@@ -101,4 +113,89 @@
       </section>
     </div>
   </div>
+
+  <div class="sectionContent">
+    <div class="sectionHeading">Toppers (Semester-wise)</div>
+    <div class="row offset-2">
+      <div class="col-md-2 text-center">
+        <div class="card">
+          <div class="card-header" style="font-size: 14px;">
+              Irshad Ali Ansari
+          </div>
+          <div class="card-body">
+            <img src="../departments/civil/src/img/semtoppers/3.jpg">
+          </div>
+          <div class="card-footer">
+              84.3% (3<sup>rd</sup> Semester)
+          </div>
+        </div>
+      </div>
+      <!-- <div class="col-md-2 text-center">
+        <div class="card">
+          <div class="card-header" style="font-size: 14px;">
+            Prateek
+          </div>
+          <div class="card-body">
+            Prateek
+          </div>
+          <div class="card-footer">
+             (th Semester)
+          </div>
+        </div>
+      </div> -->
+      <div class="col-md-2 text-center">
+        <div class="card">
+          <div class="card-header" style="font-size: 14px;">
+              Kapil Dev Agarwal
+          </div>
+          <div class="card-body">
+            <img src="../departments/civil/src/img/semtoppers/5.jpg">
+          </div>
+          <div class="card-footer">
+              83.2% (5<sup>th</sup> Semester)
+            </div>
+        </div>
+      </div><!--Prateek Joshi-->
+      <div class="col-md-2 text-center">
+        <div class="card">
+          <div class="card-header" style="font-size: 12px;">
+            Pankaj Kumar <strong>(College Topper)</strong>
+          </div>
+          <div class="card-body">
+            <img src="../departments/civil/src/img/semtoppers/6.jpg">
+          </div>
+          <div class="card-footer">
+            87.2% (6<sup>th</sup> Semester)
+          </div>
+        </div>
+      </div>
+      <div class="col-md-2 text-center">
+        <div class="card">
+          <div class="card-header" style="font-size: 14px;">
+              Mahesh Kumar Patel
+          </div>
+          <div class="card-body">
+            <img src="../departments/civil/src/img/semtoppers/7.jpg">
+          </div>
+          <div class="card-footer">
+            85.7% (7<sup>th</sup> Semester)
+          </div>
+        </div>
+      </div>
+      <div class="col-md-2 text-center">
+        <div class="card">
+          <div class="card-header" style="font-size: 14px;">
+            Tanu Sharma
+          </div>
+          <div class="card-body">
+            <img src="../departments/civil/src/img/studentspotlight/image16.JPG">
+          </div>
+            <div class="card-footer">
+              80.9% (8<sup>th</sup> Semester)
+            </div>
+          </div>
+      </div>
+    </div>
+  </div>
 </div>
+<!--Prateek-->

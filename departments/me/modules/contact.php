@@ -6,6 +6,6 @@
 		<h4 class="sectionSubHeading">Mechanical HOD</h4>
 		<p>B-Block</p>
 		<p><a href="mailto:hod.me@jecrc.ac.in">hod.me@jecrc.ac.in</a></p>
-		<div class="col-12 text-center"><img src="../departments/me/src/img/dblock.jpg" alt="faculty group image" class="img-fluid"></div>
-	</div>
+		<img src="../departments/me/src/img/dblock1.JPG" alt="" class="img-fluid img-thumbnail"><hr>
+		Picture of Mechanical block (D-Block).
 </section>
