@@ -37,7 +37,7 @@
 							<li class="list-group-item">drsantosh.it@jecrc.ac.in</li>
 							<li class="list-group-item">Experience (in years): 20 </li>
 							<li class="list-group-item">Publication(s): 18</li>
-						<li class="list-group-item"> Research Area: </li></ul>
+						<li class="list-group-item"> Research Area: Cognitive Radio</li></ul>
 					</div>
 				</div>
 			</div>
@@ -736,7 +736,7 @@ Networks </li></ul>
 								<li class="list-group-item">deepmala.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience (in years): 3 </li>
 								<li class="list-group-item">Publication(s): 3</li>
-							<li class="list-group-item"> Research Area: </li></ul>
+						
 						</div>
 					</div>
 				</div>
