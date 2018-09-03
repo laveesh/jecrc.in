@@ -25,13 +25,10 @@
 				With CodeDocs, students of JECRC work together and enhance their skills to become better Software developers while enjoying to Code 🎉 🎉.
 			</p>
 		</div>
-<<<<<<< HEAD
-=======
 		</div>
 	<div class="row">
 		<div class="col-md-6 text-center py-2"><img src="../departments/cse/src/img/clubs/codedocs1.jpg" alt="" class="img-thumbnail img-fluid w-75"></div>
 		<div class="col-md-6 text-center py-2"><img src="../departments/cse/src/img/clubs/codedocs2.jpg" alt="" class="img-thumbnail img-fluid w-75"></div>
 		
->>>>>>> be7ac57dcd9e8958c1b9dbd1698c5a0e080dfc8c
 	</div>
 </section>
