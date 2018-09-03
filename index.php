@@ -61,11 +61,11 @@
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <a class="dropdown-item" href="pages/cse.php?section=home">Computer Science & Engineering</a>
-                <a class="dropdown-item" href="pages/it.php?section=home">Information Technology</a>
-                <a class="dropdown-item" href="pages/ece.php?section=home">Electronics and Communication Engineering</a>
-                <a class="dropdown-item" href="pages/ee.php?section=home">Electrical Engineering</a>
                 <a class="dropdown-item" href="pages/me.php?section=home">Mechanical Engineering</a>
+                <a class="dropdown-item" href="pages/ece.php?section=home">Electronics and Communication Engineering</a>
+                <a class="dropdown-item" href="pages/it.php?section=home">Information Technology</a>
                 <a class="dropdown-item" href="pages/civil.php?section=home">Civil Engineering</a>
+                <a class="dropdown-item" href="pages/ee.php?section=home">Electrical Engineering</a>
               </div>
             </li>
             <li class="nav-item active">
@@ -75,9 +75,9 @@
               <a class="nav-link" href="pages/alumni.php?section=home">Alumni</a>
             </li>
             <li class="nav-item active">
-              <a class="nav-link" href="initiatives.php?section=home">Abhyudaya</a>
+              <a class="nav-link" href="pages/initiatives.php?section=Aashayein">Abhyudaya</a>
             </li>
-             <li class="nav-item dropdown">
+            <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Contact Us
               </a>
@@ -91,7 +91,23 @@
                 Downloads
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="departments/about/src/pdf/jecrc-brochure.pdf" target="_blank">JECRC Brochure</a>
+                <a class="dropdown-item" href="departments/cse/src/pdf/CSESCOOP.pdf" target="_blank">CSE Newsletter</a>
+                <a class="dropdown-item" href="departments/me/src/newsletters/july_17.pdf" target="_blank">ME Newsletter</a>
+                <a class="dropdown-item" href="departments/ece/src/newsletters/Ujjwalam%20Vol2%20Issue1.pdf" target="_blank">ECE Newsletter</a>
+                <a class="dropdown-item" href="departments/it/src/newsletters/itjuly.pdf" target="_blank">IT Newsletter</a>
+                <a class="dropdown-item" href="departments/civil/src/newsletters/constructo-3.pdf" target="_blank">CE Newsletter</a>
                 <a class="dropdown-item" href="src/pdf/ApplicationForm.pdf" target="_blank">Bonafide Form</a>
+              </div>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                SAR
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="departments/about/src/pdf/jecrc-brochure.pdf" target="_blank">Computer Science Engineering</a>
+                <a class="dropdown-item" href="departments/cse/src/pdf/CSESCOOP.pdf" target="_blank">Electronics and Communication<br> Engineering</a>
+                <a class="dropdown-item" href="departments/me/src/newsletters/july_17.pdf" target="_blank">Mechanical Engineering</a>
               </div>
             </li>
           </ul>
@@ -106,13 +122,13 @@
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
           <ol class="carousel-indicators">
             <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-           <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-           <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-           <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
-           <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
-           <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
-           <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
-           <li data-target="#carouselExampleIndicators" data-slide-to="7"></li>         
+            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="7"></li>
           </ol>
           <div class="carousel-inner">
             <div class="carousel-item active"><img src="src/img/Carousel/slider1.jpg" alt="Image 1"></div>
@@ -123,10 +139,6 @@
             <div class="carousel-item"><img src="src/img/Carousel/slider6.jpg" alt="Image 6"></div>
             <div class="carousel-item"><img src="src/img/Carousel/slider7.jpg" alt="Image 7"></div>
             <div class="carousel-item"><img src="src/img/Carousel/slider8.jpg" alt="Image 8"></div>
-
-
-
-
           </div>
           <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -295,101 +307,104 @@
           </div>
         </div>
       </div>
-      <div class="container-fluid mb-1 pt-5 pb-5 pr-5 pl-5">
-        <div class="pb-3 pr-3 pl-3 text-center advHeading">
-          <span>OUR PRIDE</span>
+    </div>
+    <div class="container-fluid mb-1 pt-5 pb-5 pr-5 pl-5">
+      <div class="pb-3 pr-3 pl-3 text-center advHeading">
+        <span>OUR PRIDE</span>
+      </div>
+      <div class="d-flex flex-row justify-content-center flex-wrap">
+        <div class="mx-5 my-3 shadow"><a href="src/pdf/sih.pdf" target="_blank"><img class="pride-img" src="src/img/pride/sih.jpg" alt="jecrc pride"></a></div>
+        <div class="mx-5 my-3 shadow"><a href="https://www.jecrchackathon.in/" target="_blank"><img class="pride-img" src="src/img/pride/jecrchack.jpg" alt="jecrc pride"></a></div>
+        <div class="mx-5 my-3 shadow"><a href="http://jecrcrenaissance.in/" target="_blank"><img class="pride-img" src="src/img/pride/renaissance.png" alt="jecrc pride"></a></div>
+        <div class="mx-5 my-3 shadow bg-black"><a href="https://www.facebook.com/tedxjecrc/?ref=br_rs" target="_blank"><img class="pride-img" src="src/img/pride/tedx.jpg" alt="jecrc pride"></a></div>
+        <div class="mx-5 my-3 shadow"><a href="http://jecrcmun.co.in" target="_blank"><img class="pride-img" src="src/img/pride/mun.jpg" alt="jecrc pride"></a></div>
+        <div class="mx-5 my-3 shadow"><a href="http://www.jecrcconference.in/" target="_blank"><img class="pride-img" src="src/img/pride/jecrcconf.png" alt="jecrc confrences"></a></div>
+        <div class="mx-5 my-3 shadow"><a href="pages/mou.php?section=home" ><img class="pride-img" src="src/img/pride/mou.jpg" alt="mou"></a></div>
+        <div class="mx-5 my-3 shadow"><a href="pages/initiatives.php?section=Aashayein"><img class="pride-img" src="src/img/pride/abhyudaya.png" alt="mou"></a></div>
+        <div class="mx-5 my-3 shadow"><a href="pages/research.php?section=home"><img class="pride-img" src="src/img/pride/spirituallab.png" alt="mou"></a>
+      </div>
+    </div>
+  </div>
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="container footer-container">
+      <div class="row  align-center">
+        <div class="col-md-4">
+          <ul class="list-styling">
+            <li><a target="_blank" href="http://jecrcrenaissance.in/">Renaissance 2018</a></li>
+            <li><a target="_blank" href="http://jecrcmun.co.in">JECRC MUN 2018</a></li>
+            <li><a target="_blank" href="https://jecrcalumni.com/">JECRC Alumni</a></li>
+          </ul>
         </div>
-        <div class="d-flex flex-row justify-content-center flex-wrap">
-          <div class="mx-5 my-3 shadow"><a href="src/pdf/sih.pdf" target="_blank"><img class="pride-img" src="src/img/pride/sih.jpg" alt="jecrc pride"></a></div>
-          <div class="mx-5 my-3 shadow"><a href="https://www.jecrchackathon.in/" target="_blank"><img class="pride-img" src="src/img/pride/jecrchack.jpg" alt="jecrc pride"></a></div>
-          <div class="mx-5 my-3 shadow"><a href="http://jecrcrenaissance.in/" target="_blank"><img class="pride-img" src="src/img/pride/renaissance.png" alt="jecrc pride"></a></div>
-          <div class="mx-5 my-3 shadow bg-black"><a href="https://www.facebook.com/tedxjecrc/?ref=br_rs" target="_blank"><img class="pride-img" src="src/img/pride/tedx.jpg" alt="jecrc pride"></a></div>
-          <div class="mx-5 my-3 shadow"><a href="http://jecrcmun.co.in" target="_blank"><img class="pride-img" src="src/img/pride/mun.jpg" alt="jecrc pride"></a></div>
-          <div class="mx-5 my-3 shadow"><a href="http://www.jecrcconference.in/" target="_blank"><img class="pride-img" src="src/img/pride/jecrcconf.png" alt="jecrc confrences"></a></div>
-          <div class="mx-5 my-3 shadow"><a href="#" target="_blank"><img class="pride-img" src="src/img/pride/mou.jpg" alt="mou"></a></div>
-          <div class="mx-5 my-3 shadow"><a href="pages/initiatives.php"><img class="pride-img" src="src/img/pride/abhyudaya.png" alt="mou"></a></div>
-          <div class="mx-5 my-3 shadow"><a href="pages/research.php?section=home"><img class="pride-img" src="src/img/pride/spirituallab.png" alt="mou">
+        <div class="col-md-4">
+          <ul class="list-styling">
+            <li><a href="pages/administration.php?section=recruitments">Recruitments 2018</a></li>
+            <li><a target="_blank" href="http://www.jecrcconference.in/">JECRC Conferences</a></li>
+            <li><a target="_blank" href="http://codedocs.org">JECRC Coding Community</a></li>
+          </ul>
+          <h4></h4>
+        </div>
+        <div class="col-md-4">
+          <h4>Contact Us</h4>
+          <h5>895084748</h5>
+          <h5 class="support-color"> <a href="#">Support@jecrc.ac.in</a></h5>
         </div>
       </div>
-      <!-- Footer -->
-      <footer class="site-footer">
-        <div class="container footer-container">
-          <div class="row  align-center">
-            <div class="col-md-4">
-              <ul class="list-styling">
-                <li><a target="_blank" href="http://jecrcrenaissance.in/">Renaissance 2018</a></li>
-                <li><a target="_blank" href="http://jecrcmun.co.in">JECRC MUN 2018</a></li>
-                <li><a target="_blank" href="http://www.iceteas.in/">ICETEAS Conference</a></li>
-              </ul>
-            </div>
-            <div class="col-md-4">
-              <ul class="list-styling">
-                <li><a href="../pages/administration.php?section=recruitments">Recruitments 2018</a></li>
-                <li><a target="_blank" href="http://www.jecrcconference.in/">JECRC Conferences</a></li>
-                <li><a target="_blank" href="http://codedocs.org">JECRC Coding Community</a></li>
-              </ul>
-              <h4></h4>
-            </div>
-            <div class="col-md-4">
-              <h4>Contact Us</h4>
-              <h5>895084748</h5>
-              <h5 class="support-color"> <a href="#">Support@jecrc.ac.in</a></h5>
-            </div>
+      <div class="footer-bottom">
+        <div class="row">
+          <div class="col-md-9">
+            <a href="https://www.facebook.com/JECRCfoundation/" target="_blank"><i class="fa fa-facebook footer-icons"></i></a>
+            <a href="https://twitter.com/atjecrc?lang=en" target="_blank"><i class="fa fa-twitter footer-icons"></i></a>
+            <a href="https://www.linkedin.com/in/jecrcfoundation/" target="_blank"><i  class="fa fa-linkedin footer-icons"></i></a>
+            <a href="https://www.youtube.com/channel/UCLMV4U9h18aQ-qUJWbT-VWg" target="_blank"><i  class="fa fa-youtube footer-icons"></i></a>
           </div>
-          <div class="footer-bottom">
-            <div class="row">
-              <div class="col-md-9">
-                <a href="https://www.facebook.com/JECRCfoundation/" target="_blank"><i class="fa fa-facebook footer-icons"></i></a>
-                <a href="https://twitter.com/atjecrc?lang=en" target="_blank"><i class="fa fa-twitter footer-icons"></i></a>
-                <a href="https://www.linkedin.com/in/jecrcfoundation/" target="_blank"><i  class="fa fa-linkedin footer-icons"></i></a>
-                <a href="https://www.youtube.com/channel/UCLMV4U9h18aQ-qUJWbT-VWg" target="_blank"><i  class="fa fa-youtube footer-icons"></i></a>
-              </div>
-              <div class="col-md-3">
-                <p class="footer-bottom-para"> Developers</p>
-              </div>
-            </div>
+          <div class="col-md-3">
+            <p class="footer-bottom-para"> Developers</p>
           </div>
-        </footer>
-        <script src="src/js/jquery.min.js"></script>
-        <script src="src/js/popper.min.js"></script>
-        <script src="src/js/bootstrap.min.js"></script>
-        <script src="src/js/owl.carousel.min.js"></script>
-        <script>
-        $("marquee").hover(function () {
-        this.stop();
-        }, function () {
-        this.start();
-        });
-        </script>
-        <script>
-        $('.owl-carousel').owlCarousel({
-        loop:true,
-        margin:20,
-        nav:false,
-        responsiveClass: true,
-        responsive:{
-        0:{
-        items: 1,
-        dots: false
-        },
-        500:{
-        items: 2
-        },
-        700:{
-        items: 3
-        },
-        900:{
-        items: 4
-        },
-        1200:{
-        items: 5
-        }
-        },
-        autoplay:true,
-        autoplayTimeout: 3000,
-        autoplayHoverPause: true,
-        responsiveRefreshRate: 100
-        });
-        </script>
-      </body>
-    </html>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <script src="src/js/jquery.min.js"></script>
+  <script src="src/js/popper.min.js"></script>
+  <script src="src/js/bootstrap.min.js"></script>
+  <script src="src/js/owl.carousel.min.js"></script>
+  <script>
+  $("marquee").hover(function () {
+  this.stop();
+  }, function () {
+  this.start();
+  });
+  </script>
+  <script>
+  $('.owl-carousel').owlCarousel({
+  loop:true,
+  margin:20,
+  nav:false,
+  responsiveClass: true,
+  responsive:{
+  0:{
+  items: 1,
+  dots: false
+  },
+  500:{
+  items: 2
+  },
+  700:{
+  items: 3
+  },
+  900:{
+  items: 4
+  },
+  1200:{
+  items: 5
+  }
+  },
+  autoplay:true,
+  autoplayTimeout: 3000,
+  autoplayHoverPause: true,
+  responsiveRefreshRate: 100
+  });
+  </script>
+</body>
+</html>
