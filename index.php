@@ -19,7 +19,7 @@
       <div class="collegeHeader container-fluid bg-primary text-white">
         <a href="index.php"><img src="src/img/jecrclogo.png" id="jecrcLogo" alt="JECRC"></a>
         <span id="collegeName">Jaipur Engineering College And Research Centre</span>
-        <div id="collegeUni">Approved by AICTE & Affiliated to Rajasthan Technical University, Kota</div>
+        <div id="collegeUni">Approved by AICTE & Affiliated to Rajasthan Technical University, Kota (REAP CODE: 020)</div>
         <div id="collegeAdd">
           Shri Ram ki Nangal, via Sitapura RIICO, Tonk Road, Sukhpuria, Bambala, Jaipur, Rajasthan 302022
         </div>
@@ -42,6 +42,7 @@
                 <a class="dropdown-item" href="pages/research.php?section=home">Research</a>
                 <a class="dropdown-item" href="pages/library.php?section=home">Library</a>
                 <a class="dropdown-item" href="pages/events.php?section=home">Events</a>
+                <a class="dropdown-item" href="pages/mou.php?section=home">MOUs</a>
               </div>
             </li>
             <li class="nav-item dropdown">
@@ -68,13 +69,13 @@
               </div>
             </li>
             <li class="nav-item active">
-              <a class="nav-link" href="initiatives.php?section=home">Initiatives</a>
-            </li>
-            <li class="nav-item active">
               <a class="nav-link" href="pages/placements.php?section=home">Training and Placements</a>
             </li>
             <li class="nav-item active">
               <a class="nav-link" href="pages/alumni.php?section=home">Alumni</a>
+            </li>
+            <li class="nav-item active">
+              <a class="nav-link" href="initiatives.php?section=home">Abhyudaya</a>
             </li>
              <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -105,27 +106,27 @@
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
           <ol class="carousel-indicators">
             <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-            <!-- <li data-target="#carouselExampleIndicators" data-slide-to="2"></li> -->
-            <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
-            <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+           <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+           <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+           <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+           <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+           <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
+           <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
+           <li data-target="#carouselExampleIndicators" data-slide-to="7"></li>         
           </ol>
           <div class="carousel-inner">
-            <div class="carousel-item active">
-              <img src="src/img/Carousel/slider1.jpg" alt="First slide">
-            </div>
-            <div class="carousel-item">
-              <img src="src/img/Carousel/slider4.jpg" alt="Second slide">
-            </div>
-            <div class="carousel-item">
-              <img   src="src/img/Carousel/slider3.jpg" alt="Third slide">
-            </div>
-            <!--             <div class="carousel-item">
-              <img  src="src/img/Carousel/slider2.jpg" alt="Fourth slide">
-            </div>
-            -->            <div class="carousel-item">
-              <img  src="src/img/Carousel/slider5.jpg" alt="Fifth slide">
-            </div>
+            <div class="carousel-item active"><img src="src/img/Carousel/slider1.jpg" alt="Image 1"></div>
+            <div class="carousel-item"><img src="src/img/Carousel/slider2.jpg" alt="Image 2"></div>
+            <div class="carousel-item"><img src="src/img/Carousel/slider3.jpg" alt="Image 3"></div>
+            <div class="carousel-item"><img src="src/img/Carousel/slider4.jpg" alt="Image 4"></div>
+            <div class="carousel-item"><img src="src/img/Carousel/slider5.jpg" alt="Image 5"></div>
+            <div class="carousel-item"><img src="src/img/Carousel/slider6.jpg" alt="Image 6"></div>
+            <div class="carousel-item"><img src="src/img/Carousel/slider7.jpg" alt="Image 7"></div>
+            <div class="carousel-item"><img src="src/img/Carousel/slider8.jpg" alt="Image 8"></div>
+
+
+
+
           </div>
           <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -254,19 +255,10 @@
       <div class="sectionContent px-4">
         <div class="owl-carousel owl-theme">
           <div class="item">
-            <img src="src/img/gallery/1.jpg" alt="img-1" class="gallery-img mx-3">
-          </div>
-          <div class="item">
             <img src="src/img/gallery/2.jpg" alt="img-2" class="gallery-img mx-3">
           </div>
           <div class="item">
             <img src="src/img/gallery/3.jpg" alt="img-3" class="gallery-img mx-3">
-          </div>
-          <div class="item">
-            <img src="src/img/gallery/4.jpg" alt="img-4" class="gallery-img mx-3">
-          </div>
-          <div class="item">
-            <img src="src/img/gallery/5.jpg" alt="img-5" class="gallery-img mx-3">
           </div>
           <div class="item">
             <img src="src/img/gallery/6.jpg" alt="img-6" class="gallery-img mx-3">
@@ -308,14 +300,13 @@
           <span>OUR PRIDE</span>
         </div>
         <div class="d-flex flex-row justify-content-center flex-wrap">
-          <div class="mx-5 my-3 shadow"><a href="https://innovate.mygov.in/sih2018/" target="_blank"><img class="pride-img" src="src/img/pride/sih.jpg" alt="jecrc pride"></a></div>
+          <div class="mx-5 my-3 shadow"><a href="src/pdf/sih.pdf" target="_blank"><img class="pride-img" src="src/img/pride/sih.jpg" alt="jecrc pride"></a></div>
           <div class="mx-5 my-3 shadow"><a href="https://www.jecrchackathon.in/" target="_blank"><img class="pride-img" src="src/img/pride/jecrchack.jpg" alt="jecrc pride"></a></div>
           <div class="mx-5 my-3 shadow"><a href="http://jecrcrenaissance.in/" target="_blank"><img class="pride-img" src="src/img/pride/renaissance.png" alt="jecrc pride"></a></div>
           <div class="mx-5 my-3 shadow bg-black"><a href="https://www.facebook.com/tedxjecrc/?ref=br_rs" target="_blank"><img class="pride-img" src="src/img/pride/tedx.jpg" alt="jecrc pride"></a></div>
-          <div class="mx-5 my-3 shadow"><a href="http://www.iceteas.in/" target="_blank"><img class="pride-img" src="src/img/pride/iceteas.jpg" alt="jecrc pride"></a></div>
           <div class="mx-5 my-3 shadow"><a href="http://jecrcmun.co.in" target="_blank"><img class="pride-img" src="src/img/pride/mun.jpg" alt="jecrc pride"></a></div>
-          <div class="mx-5 my-3 shadow"><a href="http://http://www.jecrcconference.in/" target="_blank"><img class="pride-img" src="src/img/pride/jecrcconf.png" alt="jecrc confrences"></a></div>
-          <div class="mx-5 my-3 shadow"><a href="#" target="_blank"><img class="pride-img" src="src/img/pride/mou.png" alt="mou"></a></div>
+          <div class="mx-5 my-3 shadow"><a href="http://www.jecrcconference.in/" target="_blank"><img class="pride-img" src="src/img/pride/jecrcconf.png" alt="jecrc confrences"></a></div>
+          <div class="mx-5 my-3 shadow"><a href="#" target="_blank"><img class="pride-img" src="src/img/pride/mou.jpg" alt="mou"></a></div>
           <div class="mx-5 my-3 shadow"><a href="pages/initiatives.php"><img class="pride-img" src="src/img/pride/abhyudaya.png" alt="mou"></a></div>
           <div class="mx-5 my-3 shadow"><a href="pages/research.php?section=home"><img class="pride-img" src="src/img/pride/spirituallab.png" alt="mou">
         </div>
