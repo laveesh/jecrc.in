@@ -1,5 +1,5 @@
 <div class="container">
-		<div class="sectionHeading">Recents events @JECRC</div>
+		<div class="sectionHeading">Awards & Achivements</div>
 		<section class="section">
 			<div class="sectionHeading">ALUMNI VISIT </div>
 			<div class="row">
