@@ -214,7 +214,7 @@
             <div class="sectionContent card-body">
               <div class="col-12" style="text-align: center;">
                 <img src="src/img/people/arpit.jpg" class="rounded-circle img-responsive faculty-img" alt="principle">
-                <h3 class="py-1">Shri Arpit Agarwal</h3>
+                <h3 class="py-1">Shri Arpit Agrawal</h3>
                 <h4 class="py-1">Director</h4>
               </div>
               <div class="col-12 sectionContent overflow-y-scroll">

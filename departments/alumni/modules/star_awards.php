@@ -1,7 +1,6 @@
 <section class="section container card">
   <div class="sectionHeading">JECRC Star Achievers Awards</div>
   <div class="sectionContent card-body">
-	<div class="sectionSubHeading">Hosted on 15 th of February were few of our Alumni awarded as Star Achievers</div>
   <div class="sectionContent">
     <p class="py-2">JECRC Star Achiever Award is conferred upon the JECRC Alumni who chose a different path
 and dedicated themselves to serve with the Country’s Government.</p>
