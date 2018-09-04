@@ -15,7 +15,7 @@ taking literature help from the books and research papers.</p></div>
 		<div id="events_carausel" class="carousel slide" data-ride="carousel">
           <ol class="carousel-indicators">
             <li data-target="#events_carausel" data-slide-to="0" class="active"></li>
-            <li data-target="#events_carausel" data-slide-to="1"></li>
+            <!-- <li data-target="#events_carausel" data-slide-to="1"></li> -->
             <li data-target="#events_carausel" data-slide-to="2"></li>
             <li data-target="#events_carausel" data-slide-to="3"></li>
             <li data-target="#events_carausel" data-slide-to="4"></li>
@@ -23,9 +23,6 @@ taking literature help from the books and research papers.</p></div>
           <div class="carousel-inner">
             <div class="carousel-item active">
               <img class="d-block w-100" src="../departments/me/src/img/library/1.jpg" alt="First slide">
-            </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="../departments/me/src/img/library/2.jpg" alt="Second slide">
             </div>
             <div class="carousel-item">
               <img class="d-block w-100" src="../departments/me/src/img/library/3.jpg" alt="Second slide">
