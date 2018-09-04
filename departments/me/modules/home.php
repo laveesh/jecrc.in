@@ -256,16 +256,14 @@
       <div class="sectionHeading">RECENT NEWS</div>
         <div class="sectionContent card-body h-section px-4">
           <marquee behavior="scroll" direction="up" scrollamount=7 scrolldelay=100>
-          <ul class="list-group list-group-flush">
-            <li class="list-group-item text-success">Five students have participated in virtual round for SAE competition at Chitkara University Punjab.</li>
-            <li class="list-group-item text-primary">Department organised a 15 days induction program for 3rd Semester students in which Industrial visit , Guest lecture and motivation lecture have been conducted.
-            </li>
-            <li class="list-group-item text-success">Final year Students have achieved a new feat in the field of innovation and technology by developing a cost open source 3D printer, which creates three dimensional solid object from a digital file.</li>
-            <li class="list-group-item text-primary">An Aero Modelling Workshop for 3rd Semester students was organised in the campus, Quadcopters, RC Planes and Control Line Plane Models were developed and tested.</li>
-            <li class="list-group-item text-success">Pankaj Maharshi(3rd Year Student) developed an Android App for Indian Railways named “Rail Health Kota” ,which was launched on 8 Feb, at Bharatpur by GM of West Central Railways Shri Girish Pillai Sir.</li>
-            <li class="list-group-item text-primary">Pankaj Maharshi got selected in 3 IT companies during Bikaner Hackathon, also shared stage with CM Rajasthan Smt. Vasundhara Raje to discuss various projects.</li>
-            <li class="list-group-item text-success">Team Moonriders got selected for Virtual BAJA round at National level.</li>
-          </ul>
+          <li class="list-group-item text-success">Five students have participated in virtual round for SAE competition at Chitkara University Punjab.</li>
+          <li class="list-group-item text-primary">Department organised a 15 days induction program for 3rd Semester students in which Industrial visit , Guest lecture and motivation lecture have been conducted.
+          </li>
+          <li class="list-group-item text-success">Final year Students have achieved a new feat in the field of innovation and technology by developing a cost open source 3D printer, which creates three dimensional solid object from a digital file.</li>
+          <li class="list-group-item text-primary">An Aero Modelling Workshop for 3rd Semester students was organised in the campus, Quadcopters, RC Planes and Control Line Plane Models were developed and tested.</li>
+          <li class="list-group-item text-success">Pankaj Maharshi(3rd Year Student) developed an Android App for Indian Railways named “Rail Health Kota” ,which was launched on 8 Feb, at Bharatpur by GM of West Central Railways Shri Girish Pillai Sir.</li>
+          <li class="list-group-item text-primary">Pankaj Maharshi got selected in 3 IT companies during Bikaner Hackathon, also shared stage with CM Rajasthan Smt. Vasundhara Raje to discuss various projects.</li>
+          <li class="list-group-item text-success">Team Moonriders got selected for Virtual BAJA round at National level.</li>
           </marquee>
         </div>
       
@@ -352,12 +350,7 @@
           
         </div>
       </div>
-      <!-- <div class="row justify-content-center">
-        <div class="col-md-6">
-          <img src="../departments/cse/src/img/people/faculty/AbhishekDixit.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
-          <p class="text-center">Arpit Sharma</p>
-        </div>
-      </div> -->
+      <!-- <div class="row justify-content-center" /> -->
     
     <div class="col-md-6 text-center">
       <div class="sectionHeading">Even Semester</div>
@@ -369,7 +362,7 @@
           </div>
         </div>
         <div class="col-md-6">
-          <img src="../departments/cse/src/img/people/faculty/himanshu.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
+          <img src="../departments/me/src/img/toppers/himanshu.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
           <p class="text-center">Himanshu Jangir(78%)</p>
         </div>
       </div>

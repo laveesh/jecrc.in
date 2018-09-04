@@ -129,9 +129,13 @@
           <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
           <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
           <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item active">
+            <img src="../departments/cse/src/img/Carousel/slider10.jpg" alt="First slide">
+          </div>
+          <div class="carousel-item">
             <img src="../departments/cse/src/img/Carousel/slider1.jpg" alt="First slide">
           </div>
           <div class="carousel-item">

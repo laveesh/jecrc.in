@@ -191,6 +191,47 @@
 				</div>
 			</div>
 		</div>
+		<div class="col-lg-6 col-md-12 mt-4">
+			<div class="panel-body card">
+				<div class="card-header text-center"><h4>Dr. Fauzia Siddiqui</h4></div>
+				<div class="row">
+					<div class="col-md-3 pt-1 py-1" align="center">
+						<img src="../departments/me/src/img/people/faculty/FAUZIA_SIDDIQUI.png"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+					</div>
+					<div class="col-md-9 px-2">
+						<ul class="list-group list-group-flush">
+							<li class="list-group-item"><strong>Educational Qualification</strong>: Ph.D </li>
+							<li class="list-group-item"><strong>Designation</strong>: Professor</li>
+							
+							<li class="list-group-item">fauzia.hoda@gmail.com</li>
+							<li class="list-group-item"><Strong>Research Area:</strong>Industrial and Production, Total Quality Management, Flexible Systems, Supply Chain Management, Manufacturing practices</li>
+							<li class="list-group-item">Experience: 16+ years</li>
+							<!-- <li class="list-group-item">Publication: 03</li> -->
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-6 col-md-12 mt-4">
+			<div class="panel-body card">
+				<div class="card-header text-center"><h4>Dr. Rishi Pareek</h4></div>
+				<div class="row">
+					<div class="col-md-3 pt-1 py-1" align="center">
+						<img src="../departments/me/src/img/people/faculty/RISHI_PAREEK.png"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+					</div>
+					<div class="col-md-9 px-2">
+						<ul class="list-group list-group-flush">
+							<li class="list-group-item"><strong>Educational Qualification</strong>: Ph.D</li>
+							<li class="list-group-item"><strong>Designation</strong>: Associate Professor</li>
+							
+							<li class="list-group-item">rishi.pareek@yahoo.com</li>
+							<li class="list-group-item"><Strong>Research Area:</strong>Renewable Energy, I.C. Engines and Automobile Engineering</li>
+							<li class="list-group-item">Experience: 4 years</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
 		
 		<div class="col-lg-6 col-md-12 mt-4">
 			<div class="panel-body card">

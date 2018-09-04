@@ -1,6 +1,6 @@
 <section class="section container">
 	<h1 class="sectionHeading">Department Faculty Members</h1>
-	
+
 	<div class="row sectionContent">
 		<div class="col-lg-6 col-md-12 mt-4">
 			<div class="panel-body card">
@@ -13,7 +13,7 @@
 						<ul class="list-group list-group-flush">
 							<li class="list-group-item"><strong>Educational Qualification</strong>: PhD</li>
 							<li class="list-group-item"><strong>Designation</strong>: Professor & Head</li>
-							
+
 							<li class="list-group-item">hod.ece@jecrc.ac.in</li>
 							<li class="list-group-item">Experience (in years): 18 </li>
 							<li class="list-group-item">Publication(s): 24</li>
@@ -33,11 +33,11 @@
 						<ul class="list-group list-group-flush">
 							<li class="list-group-item"><strong>Educational Qualification</strong>: PhD</li>
 							<li class="list-group-item"><strong>Designation</strong>: Professor</li>
-							
+
 							<li class="list-group-item">drsantosh.it@jecrc.ac.in</li>
 							<li class="list-group-item">Experience (in years): 20 </li>
 							<li class="list-group-item">Publication(s): 18</li>
-						<li class="list-group-item"> Research Area: </li></ul>
+						<li class="list-group-item"> Research Area: Cognitive Radio</li></ul>
 					</div>
 				</div>
 			</div>
@@ -51,9 +51,9 @@
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
-							<li class="list-group-item"><strong>Educational Qualification</strong>: P.hd</li>
+							<li class="list-group-item"><strong>Educational Qualification</strong>: PhD</li>
 							<li class="list-group-item"><strong>Designation</strong>: Assistant professor</li>
-							
+
 							<li class="list-group-item">vinitamathur.ece@jecrc.ac.in</li>
 							<li class="list-group-item">Experience (in years): 11 </li>
 							<li class="list-group-item">Publication(s): 28</li>
@@ -73,11 +73,11 @@
 						<ul class="list-group list-group-flush">
 							<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 							<li class="list-group-item"><strong>Designation</strong>: Associate Professor</li>
-							
+
 							<li class="list-group-item">rajesh.ece@jecrc.ac.in</li>
 							<li class="list-group-item">Experience (in years): 19 </li>
 							<li class="list-group-item">Publication(s): 17</li>
-						<li class="list-group-item"> Research Area: </li></ul>
+						<li class="list-group-item"> Research Area: VLSI Design</li></ul>
 					</div>
 				</div>
 			</div>
@@ -94,11 +94,11 @@
 						<ul class="list-group list-group-flush">
 							<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-							
+
 							<li class="list-group-item">bhoopesh.ece@jecrc.ac.in</li>
 							<li class="list-group-item">Experience (in years): 11.5 </li>
 							<li class="list-group-item">Publication(s): 1</li>
-						<li class="list-group-item"> Research Area: </li></ul>
+						<li class="list-group-item"> Research Area:Cognitive Radio </li></ul>
 					</div>
 				</div>
 			</div>
@@ -114,7 +114,7 @@
 						<ul class="list-group list-group-flush">
 							<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-							
+
 							<li class="list-group-item">ssmanaktala.ece@jecrc.ac.in</li>
 							<li class="list-group-item">Experience (in years): 16 </li>
 							<li class="list-group-item">Publication(s): 7</li>
@@ -136,7 +136,7 @@
 							<li class="list-group-item"><strong>Designation</strong>: Associate Professor
 								<li class="list-group-item">ShrutiKalra.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience (in years): 15 </li>
-							<li class="list-group-item"> Research Area: </li></ul>
+							<li class="list-group-item"> Research Area: Optical Communication </li></ul>
 						</div>
 					</div>
 				</div>
@@ -152,16 +152,16 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								
+
 								<li class="list-group-item">lokeshsharma.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience (in years): 15 </li>
 								<li class="list-group-item">Publication(s): 2</li>
-							<li class="list-group-item"> Research Area: </li></ul>
+							<li class="list-group-item"> Research Area: Microprocessor, Digital electronics</li></ul>
 						</div>
 					</div>
 				</div>
 			</div>
-			
+
 			<div class="col-lg-6 col-md-12 mt-4">
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Ms. Parul Tyagi</h4></div>
@@ -173,7 +173,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								
+
 								<li class="list-group-item">tyagi.parul@gmail.com</li>
 								<li class="list-group-item">Experience (in years): 14 </li>
 								<li class="list-group-item">Publication(s): 20</li>
@@ -184,7 +184,7 @@
 			</div>
 			<div class="col-lg-6 col-md-12 mt-4">
 				<div class="panel-body card">
-					<div class="card-header text-center"><h4>Ms. Kiriti Manish Sharda</h4></div>
+					<div class="card-header text-center"><h4>Ms. Kriti Manish Sharda</h4></div>
 					<div class="row">
 						<div class="col-md-3 pt-1 py-1" align="center">
 							<img src="../departments/ece/src/img/people/faculty/Kiriti.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
@@ -193,11 +193,11 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								
+
 								<li class="list-group-item">kritisharda.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience (in years): 13 </li>
 								<li class="list-group-item">Publication(s): 2</li>
-							<li class="list-group-item"> Research Area: </li></ul>
+							<li class="list-group-item"> Research Area: Electronics and Communication</li></ul>
 						</div>
 					</div>
 				</div>
@@ -213,7 +213,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								
+
 								<li class="list-group-item">shwetasharda.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience (in years): 11 </li>
 								<li class="list-group-item">Publication(s): 14</li>
@@ -233,7 +233,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								
+
 								<li class="list-group-item">deveshgupta.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience (in years): 10 </li>
 								<li class="list-group-item">Publication(s): 7</li>
@@ -253,7 +253,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								
+
 								<li class="list-group-item">nehasingh.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience (in years): 8 </li>
 								<li class="list-group-item">Publication(s): 15</li>
@@ -273,11 +273,11 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								
+
 								<li class="list-group-item">Vikassharma.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience (in years): 8.5 </li>
 								<li class="list-group-item">Publication(s): 6</li>
-							<li class="list-group-item"> Research Area: </li></ul>
+							<li class="list-group-item"> Research Area: Embedded and VLSI</li></ul>
 						</div>
 					</div>
 				</div>
@@ -293,11 +293,12 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								
+
 								<li class="list-group-item">venimadhavsharma.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience (in years): 8.5 </li>
 								<li class="list-group-item">Publication(s): 4</li>
-							<li class="list-group-item"> Research Area: </li></ul>
+							<li class="list-group-item"> Research Area: Communication Systems &
+Networks </li></ul>
 						</div>
 					</div>
 				</div>
@@ -313,7 +314,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								
+
 								<li class="list-group-item">mangilal.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience (in years): 8.5 </li>
 								<li class="list-group-item">Publication(s): 11</li>
@@ -333,7 +334,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								
+
 								<li class="list-group-item">rituvyas.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience (in years): 8 </li>
 								<li class="list-group-item">Publication(s): 9</li>
@@ -353,7 +354,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								
+
 								<li class="list-group-item">aniljain.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience (in years): 8 </li>
 								<li class="list-group-item">Publication(s): 5</li>
@@ -373,11 +374,11 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								
+
 								<li class="list-group-item">ashutoshsharma.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience (in years): 8 </li>
 								<li class="list-group-item">Publication(s): 12</li>
-							<li class="list-group-item"> Research Area: </li></ul>
+							<li class="list-group-item"> Research Area: Wireless Communication</li></ul>
 						</div>
 					</div>
 				</div>
@@ -393,7 +394,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								
+
 								<li class="list-group-item">deepak.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience (in years): 8 </li>
 								<li class="list-group-item">Publication(s): 4</li>
@@ -413,7 +414,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								
+
 								<li class="list-group-item">ashishsharma.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience (in years): 7 </li>
 								<li class="list-group-item">Publication(s): 4</li>
@@ -433,10 +434,10 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								
+
 								<li class="list-group-item">honeyagarwal.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience (in years): 7 </li>
-							<li class="list-group-item"> Research Area: </li></ul>
+							<li class="list-group-item"> Research Area: Embedded and VLSi design</li></ul>
 						</div>
 					</div>
 				</div>
@@ -452,11 +453,11 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								
+
 								<li class="list-group-item">sandeepdotya.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience (in years): 7 </li>
 								<li class="list-group-item">Publication(s): 5</li>
-							<li class="list-group-item"> Research Area: </li></ul>
+							<li class="list-group-item"> Research Area: Wireless Communication and Photonics </li></ul>
 						</div>
 					</div>
 				</div>
@@ -472,11 +473,11 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								
+
 								<li class="list-group-item">teenasharma.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience (in years): 7 </li>
 								<li class="list-group-item">Publication(s): 2</li>
-							<li class="list-group-item"> Research Area: </li></ul>
+							<li class="list-group-item"> Research Area: Optcal Communication</li></ul>
 						</div>
 					</div>
 				</div>
@@ -492,7 +493,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								
+
 								<li class="list-group-item">preetibarot.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience (in years): 7 </li>
 							<li class="list-group-item"> Research Area:Image Processing </li></ul>
@@ -511,11 +512,11 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation     </strong>: Assistant Professor</li>
-								
+
 								<li class="list-group-item">rajkumarjain.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience (in years): 6 </li>
 								<li class="list-group-item">Publication(s): 4</li>
-							<li class="list-group-item"> Research Area: </li></ul>
+							<li class="list-group-item"> Research Area: Power System </li></ul>
 						</div>
 					</div>
 				</div>
@@ -531,11 +532,11 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								
+
 								<li class="list-group-item">ashishkulshrestha.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience (in years): 6 </li>
 								<li class="list-group-item">Publication(s): 6</li>
-							<li class="list-group-item"> Research Area: </li></ul>
+							<li class="list-group-item"> Research Area: Digital Communication</li></ul>
 						</div>
 					</div>
 				</div>
@@ -551,7 +552,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								
+
 								<li class="list-group-item">vikashmishra.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience (in years): 6 </li>
 								<li class="list-group-item">Publication(s): 7</li>
@@ -571,11 +572,11 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								
+
 								<li class="list-group-item">jitendrasharma.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience (in years): 6 </li>
 								<li class="list-group-item">Publication(s): 5</li>
-							<li class="list-group-item"> Research Area: </li></ul>
+							<li class="list-group-item"> Research Area: Antenna and Wireless Communication</li></ul>
 						</div>
 					</div>
 				</div>
@@ -591,7 +592,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								
+
 								<li class="list-group-item">ankurgangwar.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience (in years): 6 </li>
 								<li class="list-group-item">Publication(s): 3</li>
@@ -611,11 +612,11 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								
+
 								<li class="list-group-item">pravinkumarsharmam.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience (in years): 5.5 </li>
 								<li class="list-group-item">Publication(s): 1</li>
-							<li class="list-group-item"> Research Area: </li></ul>
+							<li class="list-group-item"> Research Area: Energy Alternatives Solar system</li></ul>
 						</div>
 					</div>
 				</div>
@@ -631,11 +632,11 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								
+
 								<li class="list-group-item">sidharth.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience (in years): 5 </li>
 								<li class="list-group-item">Publication(s): 10</li>
-							<li class="list-group-item"> Research Area: </li></ul>
+							<li class="list-group-item"> Research Area: Embedded System</li></ul>
 						</div>
 					</div>
 				</div>
@@ -651,11 +652,11 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.S</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								
+
 								<li class="list-group-item">nareshkumar.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience (in years): 5 </li>
 								<li class="list-group-item">Publication(s): 3</li>
-							<li class="list-group-item"> Research Area: </li></ul>
+							<li class="list-group-item"> Research Area: Embedded System</li></ul>
 						</div>
 					</div>
 				</div>
@@ -671,11 +672,11 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								
+
 								<li class="list-group-item">mohitrajput.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience (in years): 5 </li>
 								<li class="list-group-item">Publication(s): 3</li>
-							<li class="list-group-item"> Research Area: </li></ul>
+							<li class="list-group-item"> Research Area: Electronics and Communication</li></ul>
 						</div>
 					</div>
 				</div>
@@ -691,11 +692,11 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								
+
 								<li class="list-group-item">rakeshkumar.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience (in years): 4.5 </li>
 								<li class="list-group-item">Publication(s): 9</li>
-							<li class="list-group-item"> Research Area: </li></ul>
+							<li class="list-group-item"> Research Area: DIGITAL COMMUNICATION</li></ul>
 						</div>
 					</div>
 				</div>
@@ -711,7 +712,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								
+
 								<li class="list-group-item">shivam.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience (in years): 4 </li>
 								<li class="list-group-item">Publication(s): 27</li>
@@ -731,11 +732,11 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: B.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Lecturer</li>
-								
+
 								<li class="list-group-item">deepmala.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience (in years): 3 </li>
 								<li class="list-group-item">Publication(s): 3</li>
-							<li class="list-group-item"> Research Area: </li></ul>
+
 						</div>
 					</div>
 				</div>
@@ -751,19 +752,19 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								
+
 								<li class="list-group-item">yogita.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience (in years): 1 </li>
 								<li class="list-group-item">Publication(s): 2</li>
-							<li class="list-group-item"> Research Area: </li></ul>
+							<li class="list-group-item"> Research Area: VLSI Design</li></ul>
 						</div>
 					</div>
 				</div>
 			</div>
-			
+
 			<div class="col-lg-6 col-md-12 mt-4">
 				<div class="panel-body card">
-					<div class="card-header text-center"><h4>Ms. Aapurva kaul</h4></div>
+					<div class="card-header text-center"><h4>Ms. Aapurva Kaul</h4></div>
 					<div class="row">
 						<div class="col-md-3 pt-1 py-1" align="center">
 							<img src="../departments/ece/src/img/people/faculty/aapurva.jpg"class="Aapimg-responsive rounded-circle faculty-img" alt="faculty-image">
@@ -772,14 +773,117 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-								
+
 								<li class="list-group-item">aapurvakaul.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience (in years): 1 </li>
 								<li class="list-group-item">Publication(s): 4</li>
-							<li class="list-group-item"> Research Area: </li></ul>
+							<li class="list-group-item"> Research Area: VLSI Design</li></ul>
 						</div>
 					</div>
 				</div>
 			</div>
+
+			<div class="col-lg-6 col-md-12 mt-4">
+				<div class="panel-body card">
+					<div class="card-header text-center"><h4>Ms. Ritambhara</h4></div>
+					<div class="row">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/ece/src/img/people/faculty/Ritambhara.jpg"class="Aapimg-responsive rounded-circle faculty-img" alt="faculty-image">
+						</div>
+						<div class="col-md-9 px-2">
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
+
+								<li class="list-group-item">ritambhara.ece@jecrc.ac.in</li>
+								<li class="list-group-item">Experience (in years): 3.2 </li>
+
+							<li class="list-group-item"> Research Area:Low Power Circuits,. Biomedical Signal Processing, FinFet</li></ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-6 col-md-12 mt-4">
+				<div class="panel-body card">
+					<div class="card-header text-center"><h4>Mrs. Yazusha Sharma</h4></div>
+					<div class="row">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/ece/src/img/people/faculty/yazusha_pic.jpg"class="Aapimg-responsive rounded-circle faculty-img" alt="faculty-image">
+						</div>
+						<div class="col-md-9 px-2">
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
+
+								<li class="list-group-item">yazushasharma.ece@jecrc.ac.in</li>
+								<li class="list-group-item">Experience (in years): 5 </li>
+
+							<li class="list-group-item"> Research Area:Optical Communication</li></ul>
+						</div>
+					</div>
+				</div>
+</div>
+				<div class="col-lg-6 col-md-12 mt-4">
+					<div class="panel-body card">
+						<div class="card-header text-center"><h4>Mr. Devendra Sharma</h4></div>
+						<div class="row">
+							<div class="col-md-3 pt-1 py-1" align="center">
+								<img src="../departments/ece/src/img/people/faculty/devendra_photo.jpg"class="Aapimg-responsive rounded-circle faculty-img" alt="faculty-image">
+							</div>
+							<div class="col-md-9 px-2">
+								<ul class="list-group list-group-flush">
+									<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+									<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
+
+									<li class="list-group-item">devendrasharma.ece@jecrc.ac.in</li>
+									<li class="list-group-item">Experience (in years): 7 </li>
+
+								<li class="list-group-item"> Research Area:Power System</li></ul>
+							</div>
+						</div>
+					</div>
+			</div>
+
+			<div class="col-lg-6 col-md-12 mt-4">
+				<div class="panel-body card">
+					<div class="card-header text-center"><h4>Mr. Sandeep Vyas</h4></div>
+					<div class="row">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/ece/src/img/people/faculty/image1.jpg"class="Aapimg-responsive rounded-circle faculty-img" alt="faculty-image">
+						</div>
+						<div class="col-md-9 px-2">
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item"><strong>Educational Qualification</strong>: PhD</li>
+								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
+
+								<li class="list-group-item">dr.sandeepvyas.ee@jecrc.ac.in</li>
+								<li class="list-group-item">Experience (in years): 16 </li>
+
+							<li class="list-group-item"> Research Area:Optical Fibre Communication</li></ul>
+						</div>
+					</div>
+				</div>
+		</div>
+
+		<div class="col-lg-6 col-md-12 mt-4">
+			<div class="panel-body card">
+				<div class="card-header text-center"><h4>Mr. Sitaram Saini</h4></div>
+				<div class="row">
+					<div class="col-md-3 pt-1 py-1" align="center">
+						<img src="../departments/ece/src/img/people/faculty/sitaram.jpg"class="Aapimg-responsive rounded-circle faculty-img" alt="faculty-image">
+					</div>
+					<div class="col-md-9 px-2">
+						<ul class="list-group list-group-flush">
+							<li class="list-group-item"><strong>Educational Qualification</strong>: Diploma</li>
+							<li class="list-group-item"><strong>Designation</strong>: Lab Assistant</li>
+
+							<li class="list-group-item">sitaram.ece@jecrc.ac.in</li>
+							<li class="list-group-item">Experience (in years): 11 </li>
+
+
+					</div>
+				</div>
+			</div>
+	</div>
 		</div>
 	</section>

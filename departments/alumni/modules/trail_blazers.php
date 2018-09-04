@@ -1,5 +1,5 @@
 <section class="section container card">
-  <div class="sectionHeading">Startup Awards</div>
+  <div class="sectionHeading">JECRC Trail Blazers Awards</div>
   <div class="sectionContent card-body">
   	<p>JECRC believes that entrepreneurship is not just about starting companies, but a pathway towards
   	India’s socio-economic development. Our vision is to make students and faculty ‘entrepreneurial’ in
@@ -16,13 +16,15 @@
 	from the ones who have been in the same boat and sailed it to nooks of the world yet to be explored by
 	others.</p>
 
+	<p>JECRC has its Alumni spreading their roots in entrepreneurship and has 150+ start ups working wonderfully well in their chosen field. The JECRC Trailblazers Award is conferred upon such Alumni who have their start ups and have had the courage to make a dent in the conventional ecosystem of employment.</p>
+
 	<div class="row sectionContent">
 	<div class="col-md-6 mt-4">
 				<div class="panel-body card">
 					<div class="card-header text-center"><h5><strong>Shrey Sharma</strong></h5></div>
 					<div class="row">
 						<div class="col-md-5 pt-3 py-1" align="center">
-							<img src="../departments/alumni/src/img/startup/s1.JPG"	class="img-thumbnail" alt="faculty-image">
+							<img src="../departments/alumni/src/img/startup/s1.jpg"	class="img-thumbnail" alt="faculty-image">
 						</div>
 						<div class="col-md-7 px-2">
 							<ul class="list-group list-group-flush">
@@ -39,7 +41,7 @@
 					<div class="card-header text-center"><h5><strong>Niharika Dadhich</strong></h5></div>
 					<div class="row">
 						<div class="col-md-5 pt-3 py-1" align="center">
-							<img src="../departments/alumni/src/img/startup/s2.JPG"	class="img-thumbnail" alt="faculty-image">
+							<img src="../departments/alumni/src/img/startup/s2.jpg"	class="img-thumbnail" alt="faculty-image">
 						</div>
 						<div class="col-md-7 px-2">
 							<ul class="list-group list-group-flush">
@@ -59,7 +61,7 @@
 					<div class="card-header text-center"><h5><strong>Gaurav Sharma</strong></h5></div>
 					<div class="row">
 						<div class="col-md-5 pt-3 py-1" align="center">
-							<img src="../departments/alumni/src/img/startup/s6.JPG"	class="img-thumbnail" alt="faculty-image">
+							<img src="../departments/alumni/src/img/startup/s6.jpg"	class="img-thumbnail" alt="faculty-image">
 						</div>
 						<div class="col-md-7 px-2">
 							<ul class="list-group list-group-flush">
@@ -76,7 +78,7 @@
 					<div class="card-header text-center"><h5><strong>S MD Asadur Rahman</strong></h5></div>
 					<div class="row">
 						<div class="col-md-5 pt-3 py-1" align="center">
-							<img src="../departments/alumni/src/img/startup/s3.JPG"	class="img-thumbnail" alt="faculty-image">
+							<img src="../departments/alumni/src/img/startup/s3.jpg"	class="img-thumbnail" alt="faculty-image">
 						</div>
 						<div class="col-md-7 px-2">
 							<ul class="list-group list-group-flush">
@@ -95,7 +97,7 @@
 					<div class="card-header text-center"><h5><strong>Saurav Vaya</strong></h5></div>
 					<div class="row">
 						<div class="col-md-5 pt-3 py-1" align="center">
-							<img src="../departments/alumni/src/img/startup/s4.JPG"	class="img-thumbnail" alt="faculty-image">
+							<img src="../departments/alumni/src/img/startup/s4.jpg"	class="img-thumbnail" alt="faculty-image">
 						</div>
 						<div class="col-md-7 px-2">
 							<ul class="list-group list-group-flush">
@@ -113,7 +115,7 @@
 					<div class="card-header text-center"><h5><strong>Umesh Kumar</strong></h5></div>
 					<div class="row">
 						<div class="col-md-5 pt-3 py-1" align="center">
-							<img src="../departments/alumni/src/img/startup/s5.JPG"	class="img-thumbnail" alt="faculty-image">
+							<img src="../departments/alumni/src/img/startup/s5.jpg"	class="img-thumbnail" alt="faculty-image">
 						</div>
 						<div class="col-md-7 px-2">
 							<ul class="list-group list-group-flush">
@@ -132,7 +134,7 @@
 					<div class="card-header text-center"><h5><strong>Ankit Jain</strong></h5></div>
 					<div class="row">
 						<div class="col-md-5 pt-3 py-1" align="center">
-							<img src="../departments/alumni/src/img/startup/s7.JPG"	class="img-thumbnail" alt="faculty-image">
+							<img src="../departments/alumni/src/img/startup/s7.jpg"	class="img-thumbnail" alt="faculty-image">
 						</div>
 						<div class="col-md-7 px-2">
 							<ul class="list-group list-group-flush">
@@ -149,7 +151,7 @@
 					<div class="card-header text-center"><h5><strong>Viprav Choudhary</strong></h5></div>
 					<div class="row">
 						<div class="col-md-5 pt-3 py-1" align="center">
-							<img src="../departments/alumni/src/img/startup/s8.JPG"	class="img-thumbnail" alt="faculty-image">
+							<img src="../departments/alumni/src/img/startup/s8.jpg"	class="img-thumbnail" alt="faculty-image">
 						</div>
 						<div class="col-md-7 px-2">
 							<ul class="list-group list-group-flush">
@@ -168,7 +170,7 @@
 					<div class="card-header text-center"><h5><strong>Chandraprakash Sharma</strong></h5></div>
 					<div class="row">
 						<div class="col-md-5 pt-3 py-1" align="center">
-							<img src="../departments/alumni/src/img/startup/s9.JPG"	class="img-thumbnail" alt="faculty-image">
+							<img src="../departments/alumni/src/img/startup/s9.jpg"	class="img-thumbnail" alt="faculty-image">
 						</div>
 						<div class="col-md-7 px-2">
 							<ul class="list-group list-group-flush">
@@ -185,7 +187,7 @@
 					<div class="card-header text-center"><h5><strong>Anirudh Kala</strong></h5></div>
 					<div class="row">
 						<div class="col-md-5 pt-3 py-1" align="center">
-							<img src="../departments/alumni/src/img/startup/s10.JPG"	class="img-thumbnail" alt="faculty-image">
+							<img src="../departments/alumni/src/img/startup/s10.jpg"	class="img-thumbnail" alt="faculty-image">
 						</div>
 						<div class="col-md-7 px-2">
 							<ul class="list-group list-group-flush">
@@ -204,7 +206,7 @@
 					<div class="card-header text-center"><h5><strong>Subhash Chand </strong></h5></div>
 					<div class="row">
 						<div class="col-md-5 pt-3 py-1" align="center">
-							<img src="../departments/alumni/src/img/startup/s11.JPG"	class="img-thumbnail" alt="faculty-image">
+							<img src="../departments/alumni/src/img/startup/s11.jpg"	class="img-thumbnail" alt="faculty-image">
 						</div>
 						<div class="col-md-7 px-2">
 							<ul class="list-group list-group-flush">
@@ -221,7 +223,7 @@
 					<div class="card-header text-center"><h5><strong>Manu Goenka</strong></h5></div>
 					<div class="row">
 						<div class="col-md-5 pt-3 py-1" align="center">
-							<img src="../departments/alumni/src/img/startup/s12.JPG"	class="img-thumbnail" alt="faculty-image">
+							<img src="../departments/alumni/src/img/startup/s12.jpg"	class="img-thumbnail" alt="faculty-image">
 						</div>
 						<div class="col-md-7 px-2">
 							<ul class="list-group list-group-flush">
@@ -240,7 +242,7 @@
 					<div class="card-header text-center"><h5><strong>Mrinal Ojha</strong></h5></div>
 					<div class="row">
 						<div class="col-md-5 pt-3 py-1" align="center">
-							<img src="../departments/alumni/src/img/startup/s13.JPG"	class="img-thumbnail" alt="faculty-image">
+							<img src="../departments/alumni/src/img/startup/s13.jpg"	class="img-thumbnail" alt="faculty-image">
 						</div>
 						<div class="col-md-7 px-2">
 							<ul class="list-group list-group-flush">

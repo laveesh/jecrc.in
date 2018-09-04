@@ -7,4 +7,7 @@
 		<p>A-Block II Floor EDC Conference Room</p>
 <p><a href="mailto:hod.cse@jecrc.ac.in">hod.cse@jecrc.ac.in</a></p>
 	</div>
+	<div class="row">
+		<div class="col-md-12"><img src="../departments/cse/src/img/ablock.jpg" class="img-thumbnail img-fluid"></div>
+	</div>
 </section>

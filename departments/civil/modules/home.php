@@ -1,10 +1,10 @@
-<!-- COMPUTER SCIENCE HOME PAGE -->
+<!-- CIVIL HOME PAGE --Joshi -->
 <div class="container-fluid">
   <div class="row">
     <div class="col-md-3">
       <section class="section container card">
         <div class="sectionHeading">RECENT NEWS</div>
-        <div class="sectionContent card-body px-4 mh-50" style="max-height: 42em; overflow-y: scroll;">
+        <div class="sectionContent card-body px-4 mh-50" style="max-height: 50em; overflow-y: scroll;">
         <marquee behavior="scroll" scrolldelay=60 scrollamount=4 direction="up" height=100%>
         <ul class="list-group list-group-flush text-primary">
           <li class="list-group-item">
@@ -43,9 +43,9 @@
         <div class="sectionHeading">NEWS LETTER - CUNSTRUCTO</div>
         <div class="sectionContent card-body">
           <div class="row">
-            <div class="col-md-4 py-2"><a href="../departments/civil/src/newsletters/constructo-1.pdf" class="btn btn-block btn-lg btn-primary" download>Constructo Vol-1</a></div>
-            <div class="col-md-4 py-2"><a href="../departments/civil/src/newsletters/constructo-2.pdf" class="btn btn-block btn-lg btn-primary" download>Constructo Vol-2</a></div>
-            <div class="col-md-4 py-2"><a href="../departments/civil/src/newsletters/constructo-3.pdf" class="btn btn-block btn-lg btn-primary" download>Constructo Vol-3</a></div>
+            <div class="col-md-4 py-2"><a href="../departments/civil/src/newsletters/constructo-1.pdf"><div class="btn btn-lg btn-primary" download>Constructo Vol-1</div><img src="../departments/civil/src/img/newsletter/p2.PNG" width="183" alt="img"></a></div>
+            <div class="col-md-4 py-2"><a href="../departments/civil/src/newsletters/constructo-2.pdf"><div class="btn btn-lg btn-primary" download>Constructo Vol-2</div><img src="../departments/civil/src/img/newsletter/p1.PNG" width="183" alt="img"></a></div>
+            <div class="col-md-4 py-2"><a href="../departments/civil/src/newsletters/constructo-3.pdf"><div class="btn btn-lg btn-primary" download>Constructo Vol-3</div><img src="../departments/civil/src/img/newsletter/p3.PNG" width="183" alt="img"></a></div>
           </div>
           <hr>
           <p class="py-2 px-3">
@@ -60,7 +60,7 @@
         <div class="sectionHeading">STUDENT SPOTLIGHT</div>
         <div class="sectionContent card-body">
           <h3 class="sectionHeading">GATE Qualifiers</h3>
-          <div class="" style="max-height:23em; overflow-y:scroll;">
+          <div class="" style="max-height:29em; overflow-y:scroll;">
             <ol>
               <li>ASHUTOSH JANGID 
               <li>BANNA RAM 
@@ -93,7 +93,7 @@
           </div>  
         </div>
 
-          <h3 class="sectionHeading">Toppers (Aggregate)</h3>
+          <h3 class="sectionHeading my-4">Toppers (Aggregate)</h3>
           <div class="container-fluid"><div class="row"><div class="col text-center list-group-item">Tanu <br> Sharma</div></div></div>
           <div class="row">
             <div class="col-md-6">
@@ -113,16 +113,17 @@
       </section>
     </div>
   </div>
+
   <div class="sectionContent">
-    <div class="row">
-      <div class="sectionHeading">Toppers (Semester-wise)</div>
+    <div class="sectionHeading">Toppers (Semester-wise)</div>
+    <div class="row offset-2">
       <div class="col-md-2 text-center">
         <div class="card">
           <div class="card-header" style="font-size: 14px;">
               Irshad Ali Ansari
           </div>
           <div class="card-body">
-            image
+            <img src="../departments/civil/src/img/semtoppers/3.jpg">
           </div>
           <div class="card-footer">
               84.3% (3<sup>rd</sup> Semester)
@@ -148,20 +149,20 @@
               Kapil Dev Agarwal
           </div>
           <div class="card-body">
-            image
+            <img src="../departments/civil/src/img/semtoppers/5.jpg">
           </div>
           <div class="card-footer">
               83.2% (5<sup>th</sup> Semester)
             </div>
         </div>
-      </div>
+      </div><!--Prateek Joshi-->
       <div class="col-md-2 text-center">
         <div class="card">
-          <div class="card-header" style="font-size: 10.2px;">
-            Pankaj Kumar <span>(College Topper)</span>
+          <div class="card-header" style="font-size: 12px;">
+            Pankaj Kumar <strong>(College Topper)</strong>
           </div>
           <div class="card-body">
-            image
+            <img src="../departments/civil/src/img/semtoppers/6.jpg">
           </div>
           <div class="card-footer">
             87.2% (6<sup>th</sup> Semester)
@@ -174,7 +175,7 @@
               Mahesh Kumar Patel
           </div>
           <div class="card-body">
-            image
+            <img src="../departments/civil/src/img/semtoppers/7.jpg">
           </div>
           <div class="card-footer">
             85.7% (7<sup>th</sup> Semester)
@@ -197,3 +198,4 @@
     </div>
   </div>
 </div>
+<!--Prateek-->
