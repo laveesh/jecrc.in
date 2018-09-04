@@ -330,7 +330,7 @@
 <section class="section container-fluid px-3">
   <div class="sectionHeading">ACADMICS TOPPERS</div>
   <div class="row">
-    <div class="col-md-6 text-center border-right">
+    <div class="col-md-6 text-center border-right"> 
       <div class="sectionHeading">Odd Semester</div>
       <div class="row justify-content-center">
         <div class="col-md-6">
