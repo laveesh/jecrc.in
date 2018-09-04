@@ -13,19 +13,17 @@
             <li class="nav-item active">
               <a class="nav-link" href="../index.php">Home<span class="sr-only">(current)</span></a>
             </li>
-            <li class="nav-item active">
-              <a class="nav-link" href="about.php?section=home">About<span class="sr-only">(current)</span></a>
-            </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                College
+                About
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="administration.php?section=anti_ragging">Administration</a>
-                <a class="dropdown-item" href="research.php?section=home">Research</a>
-                <a class="dropdown-item" href="library.php?section=home">Library</a>
-                <a class="dropdown-item" href="events.php?section=home">Events</a>
-                <a class="dropdown-item" href="mou.php?section=home">MOUs</a>
+                <a class="dropdown-item" href="../pages/about.php?section=home">About JECRC</a>
+                <a class="dropdown-item" href="../pages/administration.php?section=gov_bodies">Administration</a>
+                <a class="dropdown-item" href="../pages/research.php?section=home">Research</a>
+                <a class="dropdown-item" href="../pages/library.php?section=home">Library</a>
+                <a class="dropdown-item" href="../pages/events.php?section=home">Events</a>
+                <a class="dropdown-item" href="../pages/mou.php?section=home">MOUs</a>
               </div>
             </li>
             <li class="nav-item dropdown">
@@ -62,15 +60,6 @@
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Contact Us
-              </a>
-              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="form.php">Grievance Form</a>
-                <a class="dropdown-item" href="contact.php">Contact</a>
-              </div>
-            </li>
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Downloads
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -91,6 +80,15 @@
                 <a class="dropdown-item" href="../departments/about/src/pdf/jecrc-brochure.pdf" target="_blank">Computer Science Engineering</a>
                 <a class="dropdown-item" href="../departments/cse/src/pdf/CSESCOOP.pdf" target="_blank">Electronics and Communication<br> Engineering</a>
                 <a class="dropdown-item" href="../departments/me/src/newsletters/july_17.pdf" target="_blank">Mechanical Engineering</a>
+              </div>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Contact Us
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="form.php">Grievance Form</a>
+                <a class="dropdown-item" href="contact.php">Contact</a>
               </div>
             </li>
           </ul>

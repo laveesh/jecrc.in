@@ -33,15 +33,18 @@
                     Activities
                   </a>
                   <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                      <a class="dropdown-item" href="alumni.php?section=chap_meet">Meet and Greet</a>
+                     <a class="dropdown-item" href="alumni.php?section=chap_meet">Chapter Meet</a>
+                      <a class="dropdown-item" href="alumni.php?section=meetngreet">Meet and Greet</a>
                     <a class="dropdown-item" href="alumni.php?section=hangout">Hangout Session</a>
-                    <!-- <a class="dropdown-item" href="alumni.php?section=startup">Startup Event</a>-->
                     <a class="dropdown-item" href="alumni.php?section=match">Renaissance Event</a>
                     <a class="dropdown-item" href="alumni.php?section=panel_discussion">Panel Discussion</a>
                   </div>
                 </li>
                 <li class="active"><a href="alumni.php?section=contact">
-                  Contact<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>       </ul>
+                  Contact<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>       
+                <li class="active"><a href="alumni.php?section=feedbackform">
+                  Feedback Form<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>       
+                </ul>
                 </div>
               </div>
             </div>

@@ -5,7 +5,7 @@
   </button>
 </div>
 <div class="container-fluid bg-primary deptHeader">
-  <span class="deptName">About Us</span>
+  <span class="deptName">About JECRC</span>
 </div>
 <!-- Container for sidebar and Image Carousel -->
 <div class="container-fluid banner">
@@ -17,17 +17,7 @@
       		<div class="collapse navbar-collapse" id="bs-sidebar-navbar-collapse-1">
       			<ul class="nav navbar-nav flex-column">
               <li class="active"><a href="about.php?section=home">About JECRC<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-              <li class="nav-item dropdown">
-                <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  Explore the college
-                </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="about.php?section=interactive_map">Interactive Map</a>
-                  <a class="dropdown-item" href="about.php?section=facilities">Facilities</a>
-                </div>
-              </li>
-              <li class="active"><a href="about.php?section=mission_vision">Mission and Vision<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-              <li class="active"><a href="about.php?section=history">History<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              <li class="active"><a href="about.php?section=mission_vision">Vision and Mission<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="active"><a href="../departments/about/src/pdf/jecrc-brochure.pdf" target="_blank">Brochure JECRC<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="active"><a href="../departments/about/src/pdf/accounts.pdf" target="_blank">Accounts<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>         
               <li class="active"><a href="../departments/about/src/pdf/accounts.pdf" target="_blank">BOS<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>                            

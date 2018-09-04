@@ -1,5 +1,5 @@
 <section class="section container card">
-  <div class="sectionHeading">Anti-Ragging Committie</div>
+  <div class="sectionHeading">Governing Bodies</div>
   <div class="sectionContent card-body">
   	<div class="table-responsive">
   	<table class="table table-bordered table-sm">

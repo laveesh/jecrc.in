@@ -18,17 +18,17 @@
             <ul class="nav navbar-nav flex-column">
               <li class="active"><a href="research.php?section=home">Home<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="active"><a href="research.php?section=collabs">Gloabal Collaborations<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-              <li class="active"><a href="cse.php?section=research">
+              <li class="active"><a href="cse.php?section=publication">
                 Computer Science<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-                <li class="active"><a href="it.php?section=research">
+                <li class="active"><a href="it.php?section=publication">
                   Information Technology<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-                  <li class="active"><a href="ece.php?section=research">
+                  <li class="active"><a href="ece.php?section=publication">
                     Electronics & Communication<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
                     <li class="active"><a href="me.php?section=publication">
                       Mechanical Engineering<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-                      <li class="active"><a href="ee.php?section=research">
+                      <li class="active"><a href="ee.php?section=publication">
                         Electrical Engineering<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-                        <li class="active"><a href="civil.php?section=research">
+                        <li class="active"><a href="civil.php?section=publication">
                           Civil Engineering<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
                         </ul>
                       </div>

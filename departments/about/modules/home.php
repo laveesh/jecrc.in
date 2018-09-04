@@ -2,7 +2,7 @@
 	<div class="sectionHeading">About</div>
 	<div class="sectionContent">
 		<blockquote>
-			<strong>A pioneer in higher learning in the state of Rajasthan, the JECRC Foundation is redefining the acadmic space with research oriented education that puts excellence above anything else.</strong>
+			<strong>A pioneer in higher learning in the state of Rajasthan, the JECRC Foundation is redefining the academic space with research oriented education that puts excellence above anything else.</strong>
 		</blockquote>
 		<p>
 			The National Society for Education Research and Development
@@ -16,7 +16,7 @@
 			JECRC UDML College of Engineering) in the year 2007.
 		</p>
 		<p>
-			The JECRC Foundation, which is in 18" year of existence, is
+			The JECRC Foundation having 18 year of existence, is
 			amongst the most reputed educational groups in Higher and
 			Technical Education in North India which has 2 large campuses
 			with 10,000 students enrolled as on date in various courses
@@ -24,7 +24,7 @@
 			admissions being routed through JEE examinations. The
 			engineering colleges are approved by the AICTE, New Delhi and
 			are affiliated to the Rajasthan Technical University, Kota. The final
-			year batch size passing out in session 2018-2019 is 2123
+			year batch size going to complete the graduation in session 2018-2019 is 2123
 			across all the courses.
 		</p>
 		<p>
@@ -36,8 +36,10 @@
 			For diploma holders (LEEP) lateral entry is possible in the second
 			year of the B.Tech programs. The intake equals 20% of the first year intake.
 		</p>
-		<p>
-			JECRC University was established in the year 2012 and is conducting Under Graduate, Post Graduate and Doctoral programmes in diversified fields (Engineering & Technology, Basic & Applied Scineces, Management Studies and Languages, Law, Agriculture, Journalism & Mass Communication and Hotel Management) and has also set up centers of research.
-		</p>
 	</div>
+	<div class="sectionHeading">History</div>
+	<div class="sectionContent">
+		<p class="px-2 py-1">Our great institution was established in 2000. We started the institution with three branches namely, Computer Science Engineering, Electrical Engineering and Electronics and Communication Engineering. At that time we had 180 students. The very next year we introduced Information and Technology. After the introduction of the new branch we had a total of 240 students. In 2003, we introduced another branch i.e. Mechanical. After this new branch, the students increased by 60. By 2008, we started taking TFWS seats. A total of 42 students enrolled for the TFWS seats. In 2009, we came up with yet another branch, Civil Engineering. With this new advancement, the students shot up to 480. By 2013, we brought second shift for Computer Science Engineering and Mechanical Engineering into effect as the number of students rose to 1050. At present we have a total of 990 students all across the branches.</p>
+	</div>
+
 </section>
