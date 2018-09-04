@@ -24,7 +24,7 @@
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="me.php?section=about">About</a>
                   <a class="dropdown-item" href="me.php?section=history">History</a>
-                  <a class="dropdown-item" href="me.php?section=mission_vision">Vision And Mission</a>
+                  <a class="dropdown-item" href="me.php?section=mission_vision">Vision and Mission</a>
                   <a class="dropdown-item" href="me.php?section=program_coordinators_message">Programme Coordinator's Message</a>
                   <a class="dropdown-item" href="me.php?section=contact">Contact Us</a>
 
@@ -90,8 +90,8 @@
                   Alumni
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="me.php?section=alumni">Alumni</a>
-                  <a class="dropdown-item" href="me.php?section=support">Alumni Support</a>
+                  <a class="dropdown-item" href="me.php?section=alumni_notes">Alumni Notes</a>
+                  <a class="dropdown-item" href="me.php?section=alumni_support">Support</a>
                 </div>
               </li>
               <li class="active"><a href="me.php?section=placements">Placements<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
@@ -149,7 +149,7 @@
             <img  src="../departments/me/src/img/Carousel/slider12.jpg" alt="Eighth slide">
           </div>
           <div class="carousel-item">
-            <img  src="../departments/me/src/img/Carousel/slider8.jpg" alt="Eighth slide">
+            <img  src="../departments/cse/src/img/Carousel/slider3.JPG" alt="Eighth slide">
           </div>
           <div class="carousel-item">
             <img  src="../departments/me/src/img/Carousel/slider13.jpg" alt="Eighth slide">

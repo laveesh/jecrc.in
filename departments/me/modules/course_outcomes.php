@@ -122,7 +122,7 @@
 			<tr>
 				<th scope="row">10</th>
 				<td>7ME1A</td>
-				<td>Finite Element Methods	</td>
+				<td>Finite Element Methods</td>
 				<td>
 					<ul class="list-group list-group-flush">
 						<li class="list-group-item">CO-1 To interpret the philosophy behind principles, design and modeling considerations in using finite element analysis.</li>
@@ -134,7 +134,7 @@
 			<tr>
 				<th scope="row">11</th>
 				<td>7ME2A</td>
-				<td>Refrigeration And air Condiotioning</td>
+				<td>Refrigeration and Air Conditioning</td>
 				<td>
 					<ul class="list-group list-group-flush">
 						<li class="list-group-item">CO-1 To apply the fundamentals of sciences and engineering for understanding the working of different types of refrigeration systems.</li>
@@ -153,7 +153,7 @@
 						<li class="list-group-item">CO-1  To formulate the problems of Optimization of real world and obtain their optimal solutions with certain techniques.</li>
 						<li class="list-group-item">CO-2 To implement the replacement of items that deteriorate under consideration of various factors.</li>
 						<li class="list-group-item">CO-3 To solve the problems of waiting line and understand the theory of decisions.</li>
-						<li class="list-group-item">CO-4 To explain Inventory Process and Simulation & its applications to solve certain problems of industry.</li>
+						<li class="list-group-item">CO-4 To explain Inventory Process and Simulation and its applications to solve certain problems of industry.</li>
 					</ul>
 				</td>
 			</tr>
@@ -222,11 +222,11 @@
 			<tr>
 				<th scope="row">18</th>
 				<td>7METR</td>
-				<td>Practical Training & Industrial Visit</td>
+				<td>Practical Training and Industrial Visit</td>
 				<td>
 					<ul class="list-group list-group-flush">
 						<li class="list-group-item">CO-1 To integrate the concepts learnt in classrooms to industrial application</li>
-						<li class="list-group-item">CO-2 To recoganise sources of hazards, and assess/identify appropriate health & safety measures.</li>
+						<li class="list-group-item">CO-2 To recoganise sources of hazards, and assess/identify appropriate health and safety measures.</li>
 						<li class="list-group-item">CO-3 To plan thoughts and views into technical presentation form.</li>
 					</ul>
 				</td>
@@ -382,7 +382,7 @@
 			<tr>
 				<th scope="row">31</th>
 				<td>5ME2A</td>
-				<td>Dynamics Of Machines</td>
+				<td>Dynamics of Machines</td>
 				<td>
 					<ul class="list-group list-group-flush">
 						<li class="list-group-item">CO-1 To analyze the governing mechanism and design the governor for given r.p.m. range.</li>
@@ -395,7 +395,7 @@
 			<tr>
 				<th scope="row">32</th>
 				<td>5ME3A</td>
-				<td>Measurement & Metrology</td>
+				<td>Measurement and Metrology</td>
 				<td>
 					<ul class="list-group list-group-flush">
 						<li class="list-group-item">CO-1 To classify the basic concept of measurement and calibration.</li>
@@ -409,7 +409,7 @@
 			<tr>
 				<th scope="row">33</th>
 				<td> 5ME4A</td>
-				<td>Quality Assurance And Reliability</td>
+				<td>Quality Assurance and Reliability</td>
 				<td>
 					<ul class="list-group list-group-flush">
 						<li class="list-group-item">CO-1 To discuss the various aspect of  quality</li>
@@ -423,7 +423,7 @@
 			<tr>
 				<th scope="row">34</th>
 				<td>5ME3A</td>
-				<td>Measurement & Metrology	</td>
+				<td>Measurement and Metrology	</td>
 				<td>
 					<ul class="list-group list-group-flush">
 						<li class="list-group-item">CO-1 To classify the basic concept of measurement and calibration.</li>
@@ -437,7 +437,7 @@
 			<tr>
 				<th scope="row">35</th>
 				<td>5ME4A</td>
-				<td>Quality Assurance And Reliability</td>
+				<td>Quality Assurance and Reliability</td>
 				<td>
 					<ul class="list-group list-group-flush">
 						<li class="list-group-item">CO-1 To discuss the various aspect of  quality</li>
@@ -451,7 +451,7 @@
 			<tr>
 				<th scope="row">36</th>
 				<td>5ME5A</td>
-				<td>Sociology And Elements Of Economics For Engineers</td>
+				<td>Sociology and Elements of Economics For Engineers</td>
 				<td>
 					<ul class="list-group list-group-flush">
 						<li class="list-group-item">CO-1 To identify various sociological concepts and apply them for different social issues.</li>
@@ -509,7 +509,7 @@
 			<tr>
 				<th scope="row">41</th>
 				<td>5ME10A</td>
-				<td>Professional Ethics And Disaster Management</td>
+				<td>Professional Ethics and Disaster Management</td>
 				<td>
 					<ul class="list-group list-group-flush">
 						<li class="list-group-item">CO-1 To implement professional ethics and human values in practical scenario</li>
@@ -533,7 +533,7 @@
 			<tr>
 				<th scope="row">43</th>
 				<td>4ME2A</td>
-				<td>Fluid Mechanics & Machines</td>
+				<td>Fluid Mechanics and Machines</td>
 				<td>
 					<ul class="list-group list-group-flush">
 						<li class="list-group-item">CO-1 To describe fundamental concepts of Fluid Mechanics.</li>
@@ -546,7 +546,7 @@
 			<tr>
 				<th scope="row">44</th>
 				<td>4ME3A</td>
-				<td>Machining & Machine Tool</td>
+				<td>Machining and Machine Tool</td>
 				<td>
 					<ul class="list-group list-group-flush">
 						<li class="list-group-item">CO-1 To enumerate the basic concepts in mechanics of metal cutting, chip formation, various tool materials and tool life.</li>
@@ -653,11 +653,11 @@
 			<tr>
 				<th scope="row">53</th>
 				<td>3ME1A</td>
-				<td>Mechanics Of Solids	</td>
+				<td>Mechanics of Solids	</td>
 				<td>
 					<ul class="list-group list-group-flush">
 						<li class="list-group-item">CO-1 The student will be able to classify stress /strain in structural members subjected to different types loading condition.</li>
-						<li class="list-group-item">CO-2 The students will be able to construct SF & BM for various types of loads/beams.</li>
+						<li class="list-group-item">CO-2 The students will be able to construct SF and BM for various types of loads/beams.</li>
 						<li class="list-group-item">CO-3 The students will be able to solve problems on torsion member ,structural member and pressure vessels</li>
 					</ul>
 				</td>
@@ -728,7 +728,7 @@
 			<tr>
 				<th scope="row">58</th>
 				<td>3ME7A</td>
-				<td>Material Science And Testing Lab</td>
+				<td>Material Science and Testing Lab</td>
 				<td>
 					<ul class="list-group list-group-flush">
 						<li class="list-group-item">CO-1 To determine strength, hardness of various materials by testing</li>
@@ -788,8 +788,8 @@
 				<td>Machine Drawing</td>
 				<td>
 					<ul class="list-group list-group-flush">
-						<li class="list-group-item">CO-1 Students will be able to recognise an orthographic & sectional drawing of machine components</li>
-						<li class="list-group-item">CO-2 Students will be able to relate joints (permanent & temporary) & assembly drawings.</li>
+						<li class="list-group-item">CO-1 Students will be able to recognise an orthographic and sectional drawing of machine components</li>
+						<li class="list-group-item">CO-2 Students will be able to relate joints (permanent and temporary) and assembly drawings.</li>
 					</ul>
 				</td>
 			</tr>
