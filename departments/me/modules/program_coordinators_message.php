@@ -12,8 +12,6 @@
 							<p class="text-right pr-2"><strong>
 								 Dr. M.P. Singh<br />
 								Program Coordinator, ME
-								<br>	
-								Sitting BT-20
 							</strong></p>
 						</div>
 					</div>
