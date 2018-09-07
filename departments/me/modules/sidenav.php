@@ -97,6 +97,17 @@
               <li class="active"><a href="me.php?section=placements">Placements<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               
               <li class="active"><a href="me.php?section=clubs">Clubs<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              <li class="nav-item dropdown">
+                <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Feedback Forms
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="me.php?section=mission_form">Mission Evaluation Form</a>
+                  <a class="dropdown-item" href="me.php?section=vision_form">Vision Evaluation Form</a>
+                  <a class="dropdown-item" href="me.php?section=industry_form">Industry Interaction feedback Form</a>
+                  <a class="dropdown-item" href="me.php?section=program_form">Program Exit Survey</a>
+                </div>
+              </li>
                 </ul>
               </li>
             </ul>
