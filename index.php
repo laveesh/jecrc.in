@@ -51,6 +51,8 @@
                 <a class="dropdown-item" href="pages/admission.php?section=home">Admission</a>
                 <a class="dropdown-item" href="pages/achivements.php?section=home">Achivements</a>
                 <a class="dropdown-item" href="pages/activities.php?section=home">Activities</a>
+                <!-- <a class="dropdown-item" href="pages/sdo.php?section=home">Student Development Cell</a> -->
+                <a class="dropdown-item" href="pages/startup.php?section=home">Entrepreneurship Ecosystem</a>
               </div>
             </li>
             <li class="nav-item dropdown">
@@ -317,8 +319,9 @@
         <div class="mx-5 my-3 shadow"><a href="http://www.jecrcconference.in/" target="_blank"><img class="pride-img" src="src/img/pride/jecrcconf.png" alt="jecrc confrences"></a></div>
         <div class="mx-5 my-3 shadow"><a href="pages/mou.php?section=home" ><img class="pride-img" src="src/img/pride/mou.jpg" alt="mou"></a></div>
         <div class="mx-5 my-3 shadow"><a href="pages/initiatives.php?section=Aashayein"><img class="pride-img" src="src/img/pride/abhyudaya.png" alt="mou"></a></div>
-        <div class="mx-5 my-3 shadow"><a href="pages/research.php?section=home"><img class="pride-img" src="src/img/pride/spirituallab.png" alt="mou"></a>
-      </div>
+        <div class="mx-5 my-3 shadow"><a href="pages/research.php?section=home"><img class="pride-img" src="src/img/pride/spirituallab.png" alt="mou"></a></div>
+        <div class="mx-5 my-3 shadow"><a href="pages/alumni.php?section=home"><img class="pride-img" src="src/img/pride/alumni.png" alt="mou"></a></div>
+        <div class="mx-5 my-3 shadow"><a href="pages/startup.php?section=home"><img class="pride-img" src="src/img/pride/startup.png" alt="mou"></a></div>
     </div>
   </div>
   <!-- Footer -->
