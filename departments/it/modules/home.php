@@ -52,9 +52,10 @@
       <div class="section container card h-section">
         <div class="sectionContent card-body">
           <div class="owl-carousel owl-theme py-2 px-2">
-            <div class="item"><a href="../departments/it/src/newsletters/it_april.pdf" download><img src="../departments/it/src/img/newsletters/itapril.jpg" alt="" class="img-thumbnail"></a></div>
+            
             <div class="item"><a href="../departments/it/src/newsletters/itjuly.pdf" download><img src="../departments/it/src/img/newsletters/itjuly.jpg" alt="" class="img-thumbnail"></a></div>
             <div class="item"><a href="../departments/it/src/newsletters/it_edifier.pdf" download><img src="../departments/it/src/img/newsletters/itedi.jpg" alt="" class="img-thumbnail"></a></div>
+            <div class="item"><a href="../departments/it/src/newsletters/itaug.pdf" download><img src="../departments/it/src/img/newsletters/itaug.jpg" alt="" class="img-thumbnail"></a></div>
             <div class="item"><a href="../departments/it/src/newsletters/itmarch17.pdf" download><img src="../departments/it/src/img/newsletters/itmarch17.jpg" alt="" class="img-thumbnail"></a></div>
             <div class="item"><a href="../departments/it/src/newsletters/itaug17.pdf" download><img src="../departments/it/src/img/newsletters/itaug17.jpg" alt="" class="img-thumbnail"></a></div>
             <div class="item"><a href="../departments/it/src/newsletters/itsept17.pdf" download><img src="../departments/it/src/img/newsletters/itsept17.jpg" alt="" class="img-thumbnail"></a></div>
@@ -62,6 +63,7 @@
             <div class="item"><a href="../departments/it/src/newsletters/itjan18.pdf" download><img src="../departments/it/src/img/newsletters/itjan18.jpg" alt="" class="img-thumbnail"></a></div>
             <div class="item"><a href="../departments/it/src/newsletters/itfeb18.pdf" download><img src="../departments/it/src/img/newsletters/itfeb18.jpg" alt="" class="img-thumbnail"></a></div>
             <div class="item"><a href="../departments/it/src/newsletters/it_march.pdf" download><img src="../departments/it/src/img/newsletters/itmarch.jpg" alt="" class="img-thumbnail"></a></div>
+            <div class="item"><a href="../departments/it/src/newsletters/it_april.pdf" download><img src="../departments/it/src/img/newsletters/itapril.jpg" alt="" class="img-thumbnail"></a></div>
           </div>
           <p class="px-2 pt-2">
             The area of Information technology (IT) deals with the use of computers to store, retrieve, transmit, and manipulate data or information in the context of various fields.There are multiple and lucrative positions available in the information technology industry. It is one of the fastest growing employment industries in the world. <br/>
