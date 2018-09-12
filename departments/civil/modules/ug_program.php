@@ -25,5 +25,5 @@
     <p>Candidates have to appear in the State JEE Exam apart from the qualification given above to get admission.</p>
     <p>The Institute is affiliated to Rajasthan technical University Technical University (RTU), Kota, Rajasthan. B.Tech course is duly approved by the All India Council for Technical Education (AICTE), Government of India.</p> -->
 
-    	<iframe src="https://docs.google.com/gview?url=https://jecrcwebsite.herokuapp.com/departments/civil/src/pdf/ugprog.pdf&embedded=true" class="embed-doc" frameborder="0"></iframe>
+    	<iframe src="https://docs.google.com/gview?url=https://jecrc.in/departments/civil/src/pdf/ugprog.pdf&embedded=true" class="embed-doc" frameborder="0"></iframe>
 </div>
