@@ -12,5 +12,5 @@ inputs in the form of research articles and our departmental projects have been 
 taking literature help from the books and research papers.</p> -->
 	</div>
 <!-- 	<embed src="../departments/me/src/pdf/books_database.pdf" class="embed-doc" value="FitH" type='application/pdf'> -->
-	<iframe src="https://docs.google.com/gview?url=https://jecrcwebsite.herokuapp.com/departments/it/src/pdf/itbooks.pdf&embedded=true" class="embed-doc" frameborder="0"></iframe>		
+	<iframe src="https://docs.google.com/gview?url=https://jecrc.in/departments/it/src/pdf/itbooks.pdf&embedded=true" class="embed-doc" frameborder="0"></iframe>		
 </section>

@@ -10,5 +10,5 @@
 		<p class="py-2">A strartup by our Alumni Mr.Nishant Choradia was awarded startup of the year 2016 by KPMG NDTV and Aspire Mind. Best Start Up-service sector 2016 award by SME Chamber of India.</p>
 		<p class="py-2">To name a few among 101 startups .The list of few alumni startup is attached with the mail for your kind perusal.</p>
 	</div>
-	<iframe src="https://docs.google.com/gview?url=https://jecrcwebsite.herokuapp.com/departments/startup/src/pdf/startup_list.pdf&embedded=true" class="embed-doc" frameborder="0"></iframe>
+	<iframe src="https://docs.google.com/gview?url=https://jecrc.in/departments/startup/src/pdf/startup_list.pdf&embedded=true" class="embed-doc" frameborder="0"></iframe>
 </section>

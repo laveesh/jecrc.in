@@ -12,7 +12,7 @@
 			<li class="list-group-item"><a href="../departments/administration/src/pdf/Undertaking_students.pdf" target="_blank">Anti-Ragging Affidavit from Students</a></li>
 			<li class="list-group-item">
 				Anti-Ragging Affidavit from Students
-				<iframe src="https://docs.google.com/gview?url=https://jecrcwebsite.herokuapp.com/departments/administration/src/pdf/anti_ragging_committee.pdf&embedded=true" class="embed-doc" frameborder="0"></iframe>
+				<iframe src="https://docs.google.com/gview?url=https://jecrc.in/departments/administration/src/pdf/anti_ragging_committee.pdf&embedded=true" class="embed-doc" frameborder="0"></iframe>
 			</li>
 		</ul>
 	</div>
