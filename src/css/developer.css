@@ -71,6 +71,17 @@ img{
 
 
 /*Developer Page Styling*/
+.heading {
+    font-size: 50px;
+    font-weight: 800;
+    font-style: normal;
+    font-family: 'time-new-roman';
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: white;
+}
 
 .head{
     color: white;
@@ -79,6 +90,7 @@ img{
 .card {
     box-shadow: 2px 2px 10px #000, -2px 2px 10px #000;
     border-radius: 20px;
+    background-color: #ffffffd4;  
 }
 
 .card-img-top{
