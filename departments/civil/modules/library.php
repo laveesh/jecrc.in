@@ -12,7 +12,7 @@
 	<div class="container-fluid mx-auto my-2">
 		<img class="offset-3" src="../departments/civil/src/img/library/library.jpg">
 	</div>
-	<iframe src="https://docs.google.com/gview?url=https://jecrcwebsite.herokuapp.com/departments/civil/src/pdf/library.pdf&embedded=true" class="embed-doc" frameborder="0"></iframe>
+	<iframe src="https://docs.google.com/gview?url=https://jecrc.in/departments/civil/src/pdf/library.pdf&embedded=true" class="embed-doc" frameborder="0"></iframe>
 </section>
 </div>
 

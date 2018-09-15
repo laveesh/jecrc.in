@@ -18,14 +18,14 @@
             <ul class="nav navbar-nav flex-column">
               <li class="active"><a href="alumni.php?section=home">About<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="active"><a href="alumni.php?section=visionmission">
-                Vision & Mission<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+                Vision<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
                 <li class="nav-item dropdown">
-                  <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">      Awards & Recognization
+                  <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">      Awards & Recognition
                   </a>
                   <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                     <a class="dropdown-item" href="alumni.php?section=distinguished_award">JECRC Distinguished Alumni Award</a>
                     <a class="dropdown-item" href="alumni.php?section=star_awards">JECRC Star Achievers Award</a>
-                    <a class="dropdown-item" href="alumni.php?section=trail_blazers">JECRC Trail Blazers Award</a>
+                    <a class="dropdown-item" href="alumni.php?section=trail_blazers">JECRC Trailblazers Award</a>
                   </div>
                 </li>
                 <li class="nav-item dropdown">
@@ -33,15 +33,18 @@
                     Activities
                   </a>
                   <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <!--  <a class="dropdown-item" href="alumni.php?section=chap_meet">Chapter's Meet</a>-->
+                     <a class="dropdown-item" href="alumni.php?section=chap_meet">Chapter Meet</a>
+                      <a class="dropdown-item" href="alumni.php?section=meetngreet">Meet and Greet</a>
                     <a class="dropdown-item" href="alumni.php?section=hangout">Hangout Session</a>
-                    <!-- <a class="dropdown-item" href="alumni.php?section=startup">Startup Event</a>-->
-                    <a class="dropdown-item" href="alumni.php?section=match">Renessaince Event</a>
+                    <a class="dropdown-item" href="alumni.php?section=match">Renaissance Event</a>
                     <a class="dropdown-item" href="alumni.php?section=panel_discussion">Panel Discussion</a>
                   </div>
                 </li>
                 <li class="active"><a href="alumni.php?section=contact">
-                  Contact<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>       </ul>
+                  Contact<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>       
+                <li class="active"><a href="alumni.php?section=feedbackform">
+                  Feedback Form<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>       
+                </ul>
                 </div>
               </div>
             </div>

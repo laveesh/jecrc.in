@@ -6,6 +6,7 @@
       The toss was won by the alumni team who chose to bat first, the total score of the alumni team was 150
     runs and the faculty team chased it very well and won the match by 8 wickets.</p>
     <p>We’re really grateful to everyone who helped to make the event a great success.</p>
+    <div class="sectionHeading">Cricket Match 2018</div>
     <div class="row py-3">
       <div class="col-md-4 col-sm-12 text-center">
         <img class="img-thumbnail" src="../departments/alumni/src/img/match/m1.jpg">
@@ -15,6 +16,18 @@
       </div>
       <div class="col-md-4 col-sm-12 text-center">
         <img class="img-thumbnail" src="../departments/alumni/src/img/match/m3.jpg">
+      </div>
+    </div>
+    <div class="sectionHeading">Cricket Match 2017</div>
+    <div class="row py-3">
+      <div class="col-md-4 col-sm-12 text-center">
+        <img class="img-thumbnail" src="../departments/alumni/src/img/match/1.jpg">
+      </div>
+      <div class="col-md-4 col-sm-12 text-center">
+        <img class="img-thumbnail" src="../departments/alumni/src/img/match/2.jpg">
+      </div>
+      <div class="col-md-4 col-sm-12 text-center">
+        <img class="img-thumbnail" src="../departments/alumni/src/img/match/3.jpg">
       </div>
     </div>
   </div>

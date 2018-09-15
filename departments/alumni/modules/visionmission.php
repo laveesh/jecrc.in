@@ -1,5 +1,5 @@
 <section class="section container card">
-  <div class="sectionHeading">Vision and Mission</div>
+  <div class="sectionHeading">Vision</div>
   <div class="sectionContent card-body">
   	<p>JECRC Alumni Association aims at connecting the JECRC Alumni with their Alma- Mater and present
 students with a clear focus on mutual growth and development of the student community and Alumni

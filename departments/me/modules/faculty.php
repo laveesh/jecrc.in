@@ -12,11 +12,11 @@
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
 							<li class="list-group-item"><strong>Educational Qualification</strong>: P.hd</li>
-							<li class="list-group-item"><strong>Designation</strong>: HOD</li>
+							<li class="list-group-item"><strong>Designation</strong>: Professor and Program coordinator </li>
 							<li class="list-group-item">mpsingh.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong>Manufacturing System Engineering</li>
-							<li class="list-group-item">Experience: 18 years</li>
-							<li class="list-group-item">Publication: 18</li>
+							<li class="list-group-item"><strong>Experience:</strong> 18 years</li>
+							<li class="list-group-item"><strong>Publication:</strong>  21</li>
 						</ul>
 					</div>
 				</div>
@@ -33,10 +33,10 @@
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
 							<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech.</li>
-							<li class="list-group-item"><strong>Designation</strong>: Director Placement Cell(Outset)</li>
+							<li class="list-group-item"><strong>Designation</strong>:professor and  Director Placement Cell(Outset)</li>
 							<li class="list-group-item">utpalchakravarty.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong>Industrial and Logistics</li>
-							<li class="list-group-item">Experience: 29 years(Industrial) and 18 years(Teaching)</li>
+							<li class="list-group-item"><strong>Experience:</strong> 29 years(Industrial) and 18 years(Teaching)</li>
 							
 						</ul>
 					</div>
@@ -45,7 +45,7 @@
 		</div>
 		<div class="col-lg-6 col-md-12 mt-4">
 			<div class="panel-body card">
-				<div class="card-header text-center"><h4>Prof. Manish Jain</h4></div>
+				<div class="card-header text-center"><h4>Mr. Manish Jain</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
 						<img src="../departments/me/src/img/people/faculty/Manish.png"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
@@ -53,11 +53,11 @@
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
 							<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech.</li>
-							<li class="list-group-item"><strong>Designation</strong>: Deputy Director special project</li>
+							<li class="list-group-item"><strong>Designation</strong>: Assosiate Professor</li>
 							<li class="list-group-item">manishjain.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong>Manufacturing System Engineering</li>
-							<li class="list-group-item">Experience: 17 years</li>
-							<li class="list-group-item">Publication: 01</li>
+							<li class="list-group-item"><strong>Experience:</strong> 8 years (Industrial) and 17 years(Teaching)</li>
+							<li class="list-group-item"><strong>Publication:</strong>  01</li>
 						</ul>
 					</div>
 				</div>
@@ -77,8 +77,8 @@
 							<li class="list-group-item"><strong>Designation</strong>: Associate Professor</li>
 							<li class="list-group-item">bhuvnesh.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong>Mathematical Modeling and Optimization ,Conventional and un-conventional machining , Composites ,Welding ,Surface roughness , Application of soft computing techniques to manufacturing processes</li>
-							<li class="list-group-item">Experience: 12 years</li>
-							<li class="list-group-item">Publication: 22</li>
+							<li class="list-group-item"><strong>Experience:</strong> 12 years</li>
+							<li class="list-group-item"><strong>Publication:</strong>  22</li>
 						</ul>
 					</div>
 				</div>
@@ -93,13 +93,13 @@
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
-							<li class="list-group-item"><strong>Educational Qualification</strong>: Doctorate</li>
+							<li class="list-group-item"><strong>Educational Qualification</strong>: P.hd</li>
 							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 							
 							<li class="list-group-item">manishshrivastava.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong> Human Resources(Industrial)</li>
-							<li class="list-group-item">Experience: 22 years</li>
-							<li class="list-group-item">Publication: 02</li>
+							<li class="list-group-item"><strong>Experience:</strong> 22 years</li>
+							<li class="list-group-item"><strong>Publication:</strong>  02</li>
 						</ul>
 					</div>
 				</div>
@@ -120,7 +120,7 @@
 							
 							<li class="list-group-item">Kuldeepsharma.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong>Production, Thermal</li>
-							<li class="list-group-item">Experience: 13 years</li>
+							<li class="list-group-item"><strong>Experience:</strong> 13 years</li>
 							
 						</ul>
 					</div>
@@ -141,8 +141,8 @@
 							
 							<li class="list-group-item">lalitkumarsharma.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong>Manufacturing System Engineering</li>
-							<li class="list-group-item">Experience: 11 years</li>
-							<li class="list-group-item">Publication: 03</li>
+							<li class="list-group-item"><strong>Experience:</strong> 11 years</li>
+							<li class="list-group-item"><strong>Publication:</strong>  03</li>
 						</ul>
 					</div>
 				</div>
@@ -160,10 +160,10 @@
 							<li class="list-group-item"><strong>Educational Qualification</strong>: Ph.D </li>
 							<li class="list-group-item"><strong>Designation</strong>: Professor</li>
 							
-							<li class="list-group-item">fauzia.hoda@gmail.com</li>
+							<li class="list-group-item">fauziasiddiqui.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong>Industrial and Production, Total Quality Management, Flexible Systems, Supply Chain Management, Manufacturing practices</li>
-							<li class="list-group-item">Experience: 16+ years</li>
-							<!-- <li class="list-group-item">Publication: 03</li> -->
+							<li class="list-group-item"><strong>Experience:</strong> 16 years</li>
+							<li class="list-group-item"><strong>Publication:</strong>  19</li>
 						</ul>
 					</div>
 				</div>
@@ -181,14 +181,17 @@
 							<li class="list-group-item"><strong>Educational Qualification</strong>: Ph.D</li>
 							<li class="list-group-item"><strong>Designation</strong>: Associate Professor</li>
 							
-							<li class="list-group-item">rishi.pareek@yahoo.com</li>
+							<li class="list-group-item">rishipareek.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong>Renewable Energy, I.C. Engines and Automobile Engineering</li>
-							<li class="list-group-item">Experience: 4 years</li>
+							<li class="list-group-item"> <strong>Experience:</strong> 4 years</li>
+							<li class="list-group-item"><strong>Publication:</strong>  4</li>
+							<li class="list-group-item"><strong> Patent Published:</strong> 1 </li>
 						</ul>
 					</div>
 				</div>
 			</div>
 		</div>
+		
 		
 		<div class="col-lg-6 col-md-12 mt-4">
 			<div class="panel-body card">
@@ -204,8 +207,8 @@
 							
 							<li class="list-group-item">tejendrasingh.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong> Industrial and Production</li>
-							<li class="list-group-item">Experience: 06 years</li>
-							<li class="list-group-item">Publication: 02</li>
+							<li class="list-group-item"><strong>Experience:</strong> 06 years</li>
+							<li class="list-group-item"><strong>Publication:</strong>  02</li>
 						</ul>
 					</div>
 				</div>
@@ -225,8 +228,8 @@
 							
 							<li class="list-group-item">satyendrakumar.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong> Composites,Functionally graded material, Artificial Hip Joints, ptimization, Design of Components</li>
-							<li class="list-group-item">Experience: 07 years</li>
-							<li class="list-group-item">Publication: 2</li>
+							<li class="list-group-item"><strong>Experience:</strong> 07 years</li>
+							<li class="list-group-item"><strong>Publication:</strong>  2</li>
 						</ul>
 					</div>
 				</div>
@@ -246,7 +249,7 @@
 							
 							<li class="list-group-item">yogeshdubey.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong>Manufacturing System Engineering</li>
-							<li class="list-group-item">Experience: 06 years</li>
+							<li class="list-group-item"><strong>Experience:</strong> 10 years (Industrial) and 6 years (Teaching)</li>
 							
 						</ul>
 					</div>
@@ -267,7 +270,7 @@
 							
 							<li class="list-group-item">rajendragupta.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong>Manufacturing System Engineering</li>
-							<li class="list-group-item">Experience: 10 years</li>
+							<li class="list-group-item"><strong>Experience:</strong> 10 years</li>
 							
 						</ul>
 					</div>
@@ -289,7 +292,7 @@
 							
 							<li class="list-group-item">shashank.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong> Machine Design</li>
-							<li class="list-group-item">Experience: 02 years</li>
+							<li class="list-group-item"><strong>Experience:</strong> 02 years</li>
 							
 						</ul>
 					</div>
@@ -309,8 +312,8 @@
 							
 							<li class="list-group-item">manmohan.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong>Supply Chain Management</li>
-							<li class="list-group-item">Experience: 02 years</li>
-							<li class="list-group-item">Publication: 5</li>
+							<li class="list-group-item"><strong>Experience:</strong> 02 years</li>
+							<li class="list-group-item"><strong>Publication:</strong>  5</li>
 						</ul>
 					</div>
 				</div>
@@ -331,7 +334,7 @@
 							
 							<li class="list-group-item">hemantbansal.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong> Production and Industrial</li>
-							<li class="list-group-item">Experience: 8 years</li>
+							<li class="list-group-item"><strong>Experience:</strong> 8 years</li>
 							
 						</ul>
 					</div>
@@ -352,7 +355,7 @@
 							
 							<li class="list-group-item">raviyadav.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong> EDM.</li>
-							<li class="list-group-item">Experience: 06 years</li>
+							<li class="list-group-item"><strong>Experience:</strong> 06 years</li>
 							
 						</ul>
 					</div>
@@ -362,7 +365,7 @@
 		
 		<div class="col-lg-6 col-md-12 mt-4">
 			<div class="panel-body card">
-				<div class="card-header text-center"><h4>Mr. Ravi Kumar Jangir</h4></div>
+				<div class="card-header text-center"><h4>Mr. Ravi Kumar Jangid</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
 						<img src="../departments/me/src/img/people/faculty/ravijangir.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
@@ -374,7 +377,7 @@
 							
 							<li class="list-group-item">ravijangid.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong>Production, Manufacturing.</li>
-							<li class="list-group-item">Experience: 4 years</li>
+							<li class="list-group-item"><strong>Experience:</strong> 4 years</li>
 							
 						</ul>
 					</div>
@@ -395,7 +398,7 @@
 							
 							<li class="list-group-item">nitinchhabra.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong> Mechanical Engineering</li>
-							<li class="list-group-item">Experience: 6 years</li>
+							<li class="list-group-item"><strong>Experience:</strong> 6 years</li>
 							
 						</ul>
 					</div>
@@ -416,8 +419,8 @@
 							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 							
 							<li class="list-group-item">dilipprajapati.me@jecrc.ac.in</li>
-							
-							<li class="list-group-item">Experience: 05 years</li>
+							<li class="list-group-item"><Strong>Research Area:</strong> Composite Materials</li>
+							<li class="list-group-item"><strong>Experience:</strong> 05 years</li>
 							
 						</ul>
 					</div>
@@ -437,8 +440,8 @@
 							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 							
 							<li class="list-group-item">jetu.gupta.me@jecrc.ac.in</li>
-							
-							<li class="list-group-item">Experience:06 years</li>
+							<li class="list-group-item"><Strong>Research Area:</strong> Composite Materials</li>
+							<li class="list-group-item"><strong>Experience:</strong>06 years</li>
 							
 						</ul>
 					</div>
@@ -460,7 +463,7 @@
 							
 							<li class="list-group-item">aashishnagpal.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong> Manufacturing</li>
-							<li class="list-group-item">Experience: 8 years</li>
+							<li class="list-group-item"><strong>Experience:</strong> 8 years</li>
 							
 						</ul>
 					</div>
@@ -481,8 +484,8 @@
 							
 							<li class="list-group-item">abhishekkumar.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong> TQM IN BPR</li>
-							<li class="list-group-item">Experience: 07 years</li>
-							<li class="list-group-item">Publication: 01</li>
+							<li class="list-group-item"><strong>Experience:</strong> 07 years</li>
+							<li class="list-group-item"><strong>Publication:</strong>  01</li>
 						</ul>
 					</div>
 				</div>
@@ -503,7 +506,7 @@
 							
 							<li class="list-group-item">akhilvijay.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong> Supply Chain Management</li>
-							<li class="list-group-item">Experience: 6 years</li>
+							<li class="list-group-item"><strong>Experience:</strong> 6 years</li>
 							
 						</ul>
 					</div>
@@ -524,7 +527,7 @@
 							
 							<li class="list-group-item">akhilesh.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong> Production and Industrial</li>
-							<li class="list-group-item">Experience: 4 years</li>
+							<li class="list-group-item"><strong>Experience:</strong> 4 years</li>
 							
 						</ul>
 					</div>
@@ -546,7 +549,7 @@
 							
 							<li class="list-group-item">dayalsinghrathore.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong>TIG and MIG Welding process</li>
-							<li class="list-group-item">Experience: 6 years</li>
+							<li class="list-group-item"><strong>Experience:</strong> 6 years</li>
 							
 						</ul>
 					</div>
@@ -567,7 +570,7 @@
 							
 							<li class="list-group-item">gauravjain.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong> Industrial Engineering</li>
-							<li class="list-group-item">Experience: 02 years</li>
+							<li class="list-group-item"><strong>Experience:</strong> 02 years</li>
 							
 						</ul>
 					</div>
@@ -577,7 +580,7 @@
 		
 		<div class="col-lg-6 col-md-12 mt-4">
 			<div class="panel-body card">
-				<div class="card-header text-center"><h4>Mr. Hukum Chand</h4></div>
+				<div class="card-header text-center"><h4>Mr. Hukum Chand Nagar</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
 						<img src="../departments/me/src/img/people/faculty/hukum.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
@@ -588,8 +591,8 @@
 							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 							
 							<li class="list-group-item">hukumchand.me@jecrc.ac.in</li>
-							
-							<li class="list-group-item">Experience: 6 years</li>
+							<!-- <li class="list-group-item"><Strong>Research Area:</strong> Composite Materials</li> -->
+							<li class="list-group-item"><strong>Experience:</strong> 6 years</li>
 							
 						</ul>
 					</div>
@@ -610,7 +613,7 @@
 							
 							<li class="list-group-item">nikhiljain981.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong> Newer Machining.</li>
-							<li class="list-group-item">Experience: 5 years</li>
+							<li class="list-group-item"><strong>Experience:</strong> 5 years</li>
 							
 						</ul>
 					</div>
@@ -632,8 +635,8 @@
 							
 							<li class="list-group-item">palak.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong> Industrial and Production</li>
-							<li class="list-group-item">Experience: 08 years</li>
-							<li class="list-group-item">Publication: 03</li>
+							<li class="list-group-item"><strong>Experience:</strong> 08 years</li>
+							<li class="list-group-item"><strong>Publication:</strong>  03</li>
 						</ul>
 					</div>
 				</div>
@@ -653,8 +656,8 @@
 							
 							<li class="list-group-item">priti.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong> Heat, power</li>
-							<li class="list-group-item">Experience: 08 years</li>
-							<li class="list-group-item">Publication: 01</li>
+							<li class="list-group-item"><strong>Experience:</strong> 08 years</li>
+							<li class="list-group-item"><strong>Publication:</strong>  01</li>
 						</ul>
 					</div>
 				</div>
@@ -674,7 +677,7 @@
 							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 							<li class="list-group-item">rohitgoyal.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong> Mechanical /Mechatronics</li>
-							<li class="list-group-item">Experience: 1 years</li>
+							<li class="list-group-item"><strong>Experience:</strong> 1 years</li>
 							
 						</ul>
 					</div>
@@ -695,8 +698,8 @@
 							
 							<li class="list-group-item">satyaprakash.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong> Oxidation of materials</li>
-							<li class="list-group-item">Experience: 06 years</li>
-							<li class="list-group-item">Publication: 1</li>
+							<li class="list-group-item"><strong>Experience:</strong> 06 years</li>
+							<li class="list-group-item"><strong>Publication:</strong>  1</li>
 						</ul>
 					</div>
 				</div>
@@ -717,7 +720,7 @@
 							
 							<li class="list-group-item">shrikantbansal.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong> Project management</li>
-							<li class="list-group-item">Experience: 07 years</li>
+							<li class="list-group-item"><strong>Experience:</strong> 07 years</li>
 							
 						</ul>
 					</div>
@@ -738,7 +741,7 @@
 							
 							<li class="list-group-item">tejbahadur.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong>Biomass Gasification</li>
-							<li class="list-group-item">Experience: 03 years</li>
+							<li class="list-group-item"><strong>Experience:</strong> 03 years</li>
 							
 						</ul>
 					</div>
@@ -759,8 +762,8 @@
 							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 							<li class="list-group-item">tejaramsaini.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong>Centrifugal Pump</li>
-							<li class="list-group-item">Experience: 02 years</li>
-							<li class="list-group-item">Publication: 01</li>
+							<li class="list-group-item"><strong>Experience:</strong> 02 years</li>
+							<li class="list-group-item"><strong>Publication:</strong>  01</li>
 						</ul>
 					</div>
 				</div>
@@ -780,8 +783,8 @@
 							
 							<li class="list-group-item">veerendra.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong>Alternative Fuel</li>
-							<li class="list-group-item">Experience: 04 years</li>
-							<li class="list-group-item">Publication: 01</li>
+							<li class="list-group-item"><strong>Experience:</strong> 04 years</li>
+							<li class="list-group-item"><strong>Publication:</strong>  01</li>
 						</ul>
 					</div>
 				</div>
@@ -799,10 +802,10 @@
 						<ul class="list-group list-group-flush">
 							<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech., Ph.D(Purs.)</li>
 							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-							<li class="list-group-item">neerajsaini.engg@gmail.com</li>
+							<li class="list-group-item">neerajsaini.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong>Railways transportation, operations research, operations management, supply chain management</li>
-							<li class="list-group-item">Experience: 1.5 years</li>
-							<!-- <li class="list-group-item">Publication: 01</li> -->
+							<li class="list-group-item"><strong>Experience:</strong> 1.5 years</li>
+							<!-- <li class="list-group-item"><strong>Publication:</strong>  01</li> -->
 						</ul>
 					</div>
 				</div>
@@ -820,10 +823,10 @@
 							<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech., Ph.D(Purs.)</li>
 							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 							
-							<li class="list-group-item">deveshmech19@gmail.com</li>
+							<li class="list-group-item">deveshkumar.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong>Materials Science and High Entropy Alloys</li>
-							<li class="list-group-item">Experience: 1.5 years</li>
-							<!-- <li class="list-group-item">Publication: 01</li> -->
+							<li class="list-group-item"><strong>Experience:</strong> 1.5 years</li>
+							<!-- <li class="list-group-item"><strong>Publication:</strong>  01</li> -->
 						</ul>
 					</div>
 				</div>
@@ -839,13 +842,13 @@
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
-							<li class="list-group-item"><strong>Educational Qualification</strong>: Ph.D.</li>
+							<li class="list-group-item"><strong>Educational Qualification</strong>: Ph.D(Pursuing)</li>
 							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 							
-							<li class="list-group-item">kumarravindramahto@gmail.com</li>
+							<li class="list-group-item">ravindrakumar.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong>Thermal Engineering</li>
-							<li class="list-group-item">Experience: 3 years</li>
-							<!-- <li class="list-group-item">Publication: 01</li> -->
+							<li class="list-group-item"><strong>Experience:</strong> 3 years</li>
+							<!-- <li class="list-group-item"><strong>Publication:</strong>  01</li> -->
 						</ul>
 					</div>
 				</div>

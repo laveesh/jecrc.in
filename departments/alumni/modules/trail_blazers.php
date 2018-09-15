@@ -1,5 +1,5 @@
 <section class="section container card">
-  <div class="sectionHeading">JECRC Trail Blazers Awards</div>
+  <div class="sectionHeading">JECRC Trailblazers Awards</div>
   <div class="sectionContent card-body">
   	<p>JECRC believes that entrepreneurship is not just about starting companies, but a pathway towards
   	India’s socio-economic development. Our vision is to make students and faculty ‘entrepreneurial’ in

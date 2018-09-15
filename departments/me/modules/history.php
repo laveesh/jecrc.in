@@ -10,8 +10,14 @@
 		<p>
 			<ul class="sectionList">
 			<li><strong>Moonriders(Est. 2009) :</strong>Moonriders is a student club in which students work on the automobiles, takes part in a different national level competition.</li>
-			<li><strong>Aashayein(Est. 2013) :</strong> Aashayein is a student club which works for the patients or people who need blood, SDP. they conduct the blood donation camp in the campus.</li>
-			<li><strong>Abhudhya :</strong> Is the cluster of social groups at JECRC which work for the development of the less fortunate sections of the society by providing free education, medical care, stationery,etc.</li>
+			
+			<li><strong>Abhudhya :</strong> Is the cluster of social groups at JECRC which work for the development of the less fortunate sections of the society by providing free education, medical care, stationery,etc.
+				<ul style="margin-left: 60px ">
+					<li><strong>Aashayein</strong></li>
+					<li><strong>Soch</strong></li>
+					<li><strong>Suhasini</strong></li>
+				</ul>
+			</li>
 			</ul>
 			</p>
 	</div>

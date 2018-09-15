@@ -30,15 +30,13 @@
             <li class="nav-item active">
               <a class="nav-link" href="index.php">Home<span class="sr-only">(current)</span></a>
             </li>
-            <li class="nav-item active">
-              <a class="nav-link" href="pages/about.php?section=home">About<span class="sr-only">(current)</span></a>
-            </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                College
+                About
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="pages/administration.php?section=anti_ragging">Administration</a>
+                <a class="dropdown-item" href="pages/about.php?section=home">About JECRC</a>
+                <a class="dropdown-item" href="pages/administration.php?section=gov_bodies">Administration</a>
                 <a class="dropdown-item" href="pages/research.php?section=home">Research</a>
                 <a class="dropdown-item" href="pages/library.php?section=home">Library</a>
                 <a class="dropdown-item" href="pages/events.php?section=home">Events</a>
@@ -53,6 +51,8 @@
                 <a class="dropdown-item" href="pages/admission.php?section=home">Admission</a>
                 <a class="dropdown-item" href="pages/achivements.php?section=home">Achivements</a>
                 <a class="dropdown-item" href="pages/activities.php?section=home">Activities</a>
+                <!-- <a class="dropdown-item" href="pages/sdo.php?section=home">Student Development Cell</a> -->
+                <a class="dropdown-item" href="pages/startup.php?section=home">Entrepreneurship Ecosystem</a>
               </div>
             </li>
             <li class="nav-item dropdown">
@@ -79,15 +79,6 @@
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Contact Us
-              </a>
-              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="pages/form.php">Grievance Form</a>
-                <a class="dropdown-item" href="pages/contact.php">Contact</a>
-              </div>
-            </li>
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 Downloads
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -110,6 +101,15 @@
                 <a class="dropdown-item" href="departments/me/src/newsletters/july_17.pdf" target="_blank">Mechanical Engineering</a>
               </div>
             </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Contact Us
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="pages/form.php">Grievance Form</a>
+                <a class="dropdown-item" href="pages/contact.php">Contact</a>
+              </div>
+            </li>
           </ul>
         </div>
       </nav>
@@ -126,7 +126,6 @@
             <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
-            <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
             <li data-target="#carouselExampleIndicators" data-slide-to="7"></li>
           </ol>
@@ -135,7 +134,6 @@
             <div class="carousel-item"><img src="src/img/Carousel/slider2.jpg" alt="Image 2"></div>
             <div class="carousel-item"><img src="src/img/Carousel/slider3.jpg" alt="Image 3"></div>
             <div class="carousel-item"><img src="src/img/Carousel/slider4.jpg" alt="Image 4"></div>
-            <div class="carousel-item"><img src="src/img/Carousel/slider5.jpg" alt="Image 5"></div>
             <div class="carousel-item"><img src="src/img/Carousel/slider6.jpg" alt="Image 6"></div>
             <div class="carousel-item"><img src="src/img/Carousel/slider7.jpg" alt="Image 7"></div>
             <div class="carousel-item"><img src="src/img/Carousel/slider8.jpg" alt="Image 8"></div>
@@ -197,9 +195,9 @@
                 <h4 class="py-1">Principal</h4>
               </div>
               <div class="sectionContent overflow-y-scroll">
-                <p>Jaipur Engineering College and Research Centre (JECRC) Jaipur is recognized as one of the best technical institute in the Rajasthan and is adopting the process of change that demands quality outcome-based     education. The vision of the institute is to become an institute of Excellence in imparting outcome based    education, providing facilities to the students to get placement in reputed companies, providing platform to the students for overall self-development that includes ethics, moral values etc. and develop research aptitude through project based learning.</p>
-                <p>In the process of implementing Outcome Based Education (OBE) the faculty members are measuring the progress and competencies of the student as they go through a course in each Semester and are being assessed against pre-defined targets.</p>
-                <p>Engineers are the wealth of the nation and excellence in all disciplines is the present requirement of the country for its sustained economic growth to compete globally. Nearly seventeen years ago, the founders of JECRC embarked on a journey to educate and nurture the finest engineers. It gives me immense to share that JECRC is contributing to the growth of nation by providing outcome based education to their students and nurturing them to compete at the global level.</p>
+                <p>Jaipur Engineering College and Research Centre (JECRC), Jaipur is recognized as one of the best technical institute in the Rajasthan and is adopting the process of change that demands quality outcome-based     education. The vision of the institute is to become an institute of Excellence in imparting outcome based    education, providing facilities to the students to get placement in reputed companies, providing platform to the students for overall self-development that includes ethics, moral values etc. and develop research aptitude through project based learning.</p>
+                <p>In the process of implementing Outcome Based Education (OBE), the faculty members are measuring the progress and competencies of the student as they go through a course in each Semester and are being assessed against pre-defined targets.</p>
+                <p>Engineers are the wealth of the nation and excellence in all disciplines is the present requirement of the country for its sustained economic growth to compete globally. Nearly seventeen years ago, the founders of JECRC embarked on a journey to educate and nurture the finest engineers. It gives me immense pleasure to share that JECRC is contributing to the growth of nation by providing outcome based education to their students and nurturing them to compete at the global level.</p>
                 <p>The faculty and technical staff members are committed to cater professional as well as research driven   project based learning to the students and accordingly the teaching-learning process is tuned so as to    fulfill their career growth in the prevalent emerging technology. Different programs have resulted in    overall growth and penetration of students in varied dimensions be it research, innovation, entrepreneurs, educationists or even as sports person and bureaucrats etc.</p>
                 <p>With the support of qualified, dedicated and hardworking faculty, the institute has achieved enviable    ranking in a short span and I have no doubts that with this pace, the institute will relentlessly march    ahead of other eminent institutes at the national level. Let’s give our best and make this institute a    modern temple of outcome based learning through our diligence, devotion and dedication.</p>
                 <p>All the credit goes to outstanding reputation and dedication of the Institute for all these years, under the able guidance of visionary Shri Amit Agrawal and Shri Arpit Agrawal, Directors of the JECRC Foundation.</p>
@@ -214,16 +212,16 @@
             <div class="sectionContent card-body">
               <div class="col-12" style="text-align: center;">
                 <img src="src/img/people/arpit.jpg" class="rounded-circle img-responsive faculty-img" alt="principle">
-                <h3 class="py-1">Shri Arpit Agarwal</h3>
+                <h3 class="py-1">Shri Arpit Agrawal</h3>
                 <h4 class="py-1">Director</h4>
               </div>
               <div class="col-12 sectionContent overflow-y-scroll">
                 
                 <p class="py-2">Welcome to JECRC Foundation. At JECRC Foundation we are committed to ensure holistic development of our engineers who are going to be at the leadership positions in the coming years. We inspire our engineers to build their own world and a life based on power of knowledge coupled with strength of traditional wisdom unleashing the countless opportunities to become leaders pushing the frontiers of Science and Technology to embark on an enduring development journey. The learning at JECRC Foundation ignites an irrepressible will to win backed by contemporary innovative ideas and global outlook.</p>
-                <p class="py-2">Our aim is to train our engineers to be project leaders, communicators, problem solvers and ethical citizens of a global community. We offer our students a rich educational experience, an experience that marries intellectual rigor and cross-disciplinary breadth in an intimate, student-centered environment as part of our commitment to engineering education innovation and interdisciplinary research. Research is an integral part of this experience. Our close collaborations with Industry leaders like TCS,Accenture,Intel etc.Hands-on research and project-based activities provide our students with extensive laboratory and design experience, as well as close interaction with exceptional faculty at the forefront of their fields.</p>
-                <p class="py-2">Through dynamic and innovative curricula, a teamwork approach and leadership-building experiences, JECRC students gain vital communication and critical-thinking skills. Through Zarurat program, many of our students participate in community outreach programs.</p>
+                <p class="py-2">Our aim is to train our engineers to be project leaders, communicators, problem solvers and ethical citizens of a global community. We offer our students a rich educational experience, an experience that marries intellectual rigor and cross-disciplinary breadth in an intimate, student-centered environment as part of our commitment to engineering education innovation and interdisciplinary research. Research is an integral part of this experience. Our close collaborations with Industry leaders like TCS, Accenture, Intel etc. Hands-on research and project-based activities provide our students with extensive laboratory and design experience, as well as close interaction with exceptional faculty at the forefront of their fields.</p>
+                <p class="py-2">Through dynamic and innovative curriculum, a teamwork approach and leadership-building experiences, JECRC students gain vital communication and critical-thinking skills. Through Zarurat program, many of our students participate in community outreach programs.</p>
                 <p class="py-2">Our talented and diverse faculty, who are among the most honored nationwide and have memberships and fellowships in various professional bodies and societies, as mentors constantly shape up the students to realize their true potential and nurture them consistently to realize their unexplored abilities and hidden talents.</p>
-                <p class="py-2">Here you will discover not only engineering excellence, but also a campus alive with round-the-clock ,Cultural, artistic, and intellectual activity. I can assure you that being with JECRC Foundation; you will find yourself better positioned than ever to address the grand challenges of the coming century.</p>
+                <p class="py-2">Here you will discover not only engineering excellence, but also a campus alive with round-the-clock, Cultural, artistic, and intellectual activity. I can assure you that being with JECRC Foundation you will find yourself better positioned than ever to address the grand challenges of the coming century.</p>
               </div>
             </div>
           </div>
@@ -233,7 +231,7 @@
     <div class="container-fluid shadow my-3 card">
       <div class="sectionHeading">Outcome based education</div>
       <div class="sectionContent">
-        <p>Jaipur Engineering College and Research Centre, Jaipur has implemented Outcome Based Education (OBE) in the Institute. JECRC is proud to mention that it has created necessary manpower and infrastructure to implement Outcome Based Education from the year 2014-15. So far the Technical Institutions have been imparting teaching through a traditional system where the learning outcomes of the students are not clearly measured. The‘Washington Accord’ emphasize on outcome based education. There is a need to develop a standard approach to match quality assurance for Engineering Programs. The graduating Engineers of the future will need to be evaluated in their outlook and experience and be ready for global opportunities. So, there is a need and challenge for all Technical Institutions to aid and empower the future students for global environment.</p>
+        <p>Jaipur Engineering College and Research Centre, Jaipur has implemented Outcome Based Education (OBE) in the Institute. JECRC is proud to mention that it has created necessary manpower and infrastructure to implement Outcome Based Education from the year 2014-15. So far the Technical Institutions have been imparting teaching through a traditional system where the learning outcomes of the students are not clearly measured. The ‘Washington Accord’ emphasize on outcome based education. There is a need to develop a standard approach to match quality assurance for Engineering Programs. The graduating Engineers of the future will need to be evaluated in their outlook and experience and be ready for global opportunities. So, there is a need and challenge for all Technical Institutions to aid and empower the future students for global environment.</p>
         <div class="row py-3">
           <div class="col-md-3 col-sm-12 text-center">
             <img class="img-thumbnail" src="src/img/outcome_edu/ob1.jpg">
@@ -256,7 +254,7 @@
           modern teaching-learning systems. With this OBE, it is expected that the students distinctly gain
           excellent knowledge in their relevant branch and contribute to the development of the organizations
         where they are employed.</p>
-        <p>JECRC is also a Centre for imparting training on NBA which emphasis on OBE. The OBE process at
+        <p>JECRC is also a Centre for imparting training on NBA which emphasize on OBE. The OBE process at
           JECRC is expected to raise the standards of Technical Education imparted in the Institute in the
           coming years. JECRC is committed for creating knowledge, skills and problem solving abilities
         among students of all ranks.</p>
@@ -321,8 +319,9 @@
         <div class="mx-5 my-3 shadow"><a href="http://www.jecrcconference.in/" target="_blank"><img class="pride-img" src="src/img/pride/jecrcconf.png" alt="jecrc confrences"></a></div>
         <div class="mx-5 my-3 shadow"><a href="pages/mou.php?section=home" ><img class="pride-img" src="src/img/pride/mou.jpg" alt="mou"></a></div>
         <div class="mx-5 my-3 shadow"><a href="pages/initiatives.php?section=Aashayein"><img class="pride-img" src="src/img/pride/abhyudaya.png" alt="mou"></a></div>
-        <div class="mx-5 my-3 shadow"><a href="pages/research.php?section=home"><img class="pride-img" src="src/img/pride/spirituallab.png" alt="mou"></a>
-      </div>
+        <div class="mx-5 my-3 shadow"><a href="pages/research.php?section=home"><img class="pride-img" src="src/img/pride/spirituallab.png" alt="mou"></a></div>
+        <div class="mx-5 my-3 shadow"><a href="pages/alumni.php?section=home"><img class="pride-img" src="src/img/pride/alumni.png" alt="mou"></a></div>
+        <div class="mx-5 my-3 shadow"><a href="pages/startup.php?section=home"><img class="pride-img" src="src/img/pride/startup.png" alt="mou"></a></div>
     </div>
   </div>
   <!-- Footer -->

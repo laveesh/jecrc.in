@@ -98,3 +98,7 @@ blockquote:after {
 .buddy {
   width: 100vw;
 }
+
+.topper {
+  height: auto !important;
+}

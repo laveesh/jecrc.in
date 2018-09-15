@@ -32,13 +32,12 @@
 		<li><strong><em>Mr. Kuldeep Sharma</em></strong>
 			<ul class="sectionList">
 				<li>Appreciation received from <strong>department of IMMUNO Hematology and transfusion</strong>, SMS medical college regarding commonable work for organizing mega blood donation camp in 2017.</li>
-				<li>Senior advisor of <strong>JECRC SAE Team (Moonriders)</strong></li>
 			</ul>
 		</li>
 		<li><strong><em>Mr. Satyendra Kumar</em></strong>
 			<ul class="sectionList">
-				<li>Expert talks in different FDP’s.</li>
-				<li>Faculty advisor of <strong>JECRC SAE Team (Moonriders)</strong></li>
+				<li>Expert talks in different FDP’s in 2018.</li>
+				<li>delivered expert talk on MAT LAB  in the year of 2018</li>
 			</ul>
 		</li>
 		<li><strong><em>Mr. Ravi Yadav</em></strong>

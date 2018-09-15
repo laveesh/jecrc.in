@@ -11,7 +11,7 @@
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
-							<li class="list-group-item"><strong>Educational Qualification</strong>: PhD</li>
+							<li class="list-group-item"><strong>Educational Qualification</strong>: Ph.D</li>
 							<li class="list-group-item"><strong>Designation</strong>: Professor & Head</li>
 
 							<li class="list-group-item">hod.ece@jecrc.ac.in</li>
@@ -31,7 +31,7 @@
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
-							<li class="list-group-item"><strong>Educational Qualification</strong>: PhD</li>
+							<li class="list-group-item"><strong>Educational Qualification</strong>: Ph.D</li>
 							<li class="list-group-item"><strong>Designation</strong>: Professor</li>
 
 							<li class="list-group-item">drsantosh.it@jecrc.ac.in</li>
@@ -51,7 +51,7 @@
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
-							<li class="list-group-item"><strong>Educational Qualification</strong>: PhD</li>
+							<li class="list-group-item"><strong>Educational Qualification</strong>: Ph.D</li>
 							<li class="list-group-item"><strong>Designation</strong>: Assistant professor</li>
 
 							<li class="list-group-item">vinitamathur.ece@jecrc.ac.in</li>
@@ -71,7 +71,7 @@
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
-							<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+							<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
 							<li class="list-group-item"><strong>Designation</strong>: Associate Professor</li>
 
 							<li class="list-group-item">rajesh.ece@jecrc.ac.in</li>
@@ -92,7 +92,7 @@
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
-							<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+							<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
 							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 							<li class="list-group-item">bhoopesh.ece@jecrc.ac.in</li>
@@ -112,7 +112,7 @@
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
-							<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+							<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
 							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 							<li class="list-group-item">ssmanaktala.ece@jecrc.ac.in</li>
@@ -132,7 +132,7 @@
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
-							<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+							<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
 							<li class="list-group-item"><strong>Designation</strong>: Associate Professor
 								<li class="list-group-item">ShrutiKalra.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience (in years): 15 </li>
@@ -150,7 +150,7 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 								<li class="list-group-item">lokeshsharma.ece@jecrc.ac.in</li>
@@ -171,7 +171,7 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 								<li class="list-group-item">tyagi.parul@gmail.com</li>
@@ -191,7 +191,7 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 								<li class="list-group-item">kritisharda.ece@jecrc.ac.in</li>
@@ -211,7 +211,7 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 								<li class="list-group-item">shwetasharda.ece@jecrc.ac.in</li>
@@ -231,7 +231,7 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 								<li class="list-group-item">deveshgupta.ece@jecrc.ac.in</li>
@@ -251,7 +251,7 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 								<li class="list-group-item">nehasingh.ece@jecrc.ac.in</li>
@@ -271,7 +271,7 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 								<li class="list-group-item">Vikassharma.ece@jecrc.ac.in</li>
@@ -291,7 +291,7 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 								<li class="list-group-item">venimadhavsharma.ece@jecrc.ac.in</li>
@@ -312,7 +312,7 @@ Networks </li></ul>
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 								<li class="list-group-item">mangilal.ece@jecrc.ac.in</li>
@@ -332,7 +332,7 @@ Networks </li></ul>
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 								<li class="list-group-item">rituvyas.ece@jecrc.ac.in</li>
@@ -352,7 +352,7 @@ Networks </li></ul>
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 								<li class="list-group-item">aniljain.ece@jecrc.ac.in</li>
@@ -372,7 +372,7 @@ Networks </li></ul>
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 								<li class="list-group-item">ashutoshsharma.ece@jecrc.ac.in</li>
@@ -392,7 +392,7 @@ Networks </li></ul>
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 								<li class="list-group-item">deepak.ece@jecrc.ac.in</li>
@@ -412,7 +412,7 @@ Networks </li></ul>
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 								<li class="list-group-item">ashishsharma.ece@jecrc.ac.in</li>
@@ -432,7 +432,7 @@ Networks </li></ul>
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 								<li class="list-group-item">honeyagarwal.ece@jecrc.ac.in</li>
@@ -451,7 +451,7 @@ Networks </li></ul>
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 								<li class="list-group-item">sandeepdotya.ece@jecrc.ac.in</li>
@@ -471,7 +471,7 @@ Networks </li></ul>
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 								<li class="list-group-item">teenasharma.ece@jecrc.ac.in</li>
@@ -491,7 +491,7 @@ Networks </li></ul>
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 								<li class="list-group-item">preetibarot.ece@jecrc.ac.in</li>
@@ -510,7 +510,7 @@ Networks </li></ul>
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
 								<li class="list-group-item"><strong>Designation     </strong>: Assistant Professor</li>
 
 								<li class="list-group-item">rajkumarjain.ece@jecrc.ac.in</li>
@@ -530,7 +530,7 @@ Networks </li></ul>
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 								<li class="list-group-item">ashishkulshrestha.ece@jecrc.ac.in</li>
@@ -550,7 +550,7 @@ Networks </li></ul>
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 								<li class="list-group-item">vikashmishra.ece@jecrc.ac.in</li>
@@ -570,7 +570,7 @@ Networks </li></ul>
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 								<li class="list-group-item">jitendrasharma.ece@jecrc.ac.in</li>
@@ -590,7 +590,7 @@ Networks </li></ul>
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 								<li class="list-group-item">ankurgangwar.ece@jecrc.ac.in</li>
@@ -610,7 +610,7 @@ Networks </li></ul>
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 								<li class="list-group-item">pravinkumarsharmam.ece@jecrc.ac.in</li>
@@ -630,7 +630,7 @@ Networks </li></ul>
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 								<li class="list-group-item">sidharth.ece@jecrc.ac.in</li>
@@ -670,7 +670,7 @@ Networks </li></ul>
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 								<li class="list-group-item">mohitrajput.ece@jecrc.ac.in</li>
@@ -690,7 +690,7 @@ Networks </li></ul>
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 								<li class="list-group-item">rakeshkumar.ece@jecrc.ac.in</li>
@@ -710,7 +710,7 @@ Networks </li></ul>
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 								<li class="list-group-item">shivam.ece@jecrc.ac.in</li>
@@ -750,7 +750,7 @@ Networks </li></ul>
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 								<li class="list-group-item">yogita.ece@jecrc.ac.in</li>
@@ -771,7 +771,7 @@ Networks </li></ul>
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 								<li class="list-group-item">aapurvakaul.ece@jecrc.ac.in</li>
@@ -792,7 +792,7 @@ Networks </li></ul>
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 								<li class="list-group-item">ritambhara.ece@jecrc.ac.in</li>
@@ -812,7 +812,7 @@ Networks </li></ul>
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 								<li class="list-group-item">yazushasharma.ece@jecrc.ac.in</li>
@@ -832,7 +832,7 @@ Networks </li></ul>
 							</div>
 							<div class="col-md-9 px-2">
 								<ul class="list-group list-group-flush">
-									<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+									<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
 									<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 									<li class="list-group-item">devendrasharma.ece@jecrc.ac.in</li>
@@ -853,7 +853,7 @@ Networks </li></ul>
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: PhD</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: Ph.D</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 								<li class="list-group-item">dr.sandeepvyas.ee@jecrc.ac.in</li>
