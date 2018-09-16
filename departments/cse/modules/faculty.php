@@ -158,7 +158,7 @@
 							<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech.</li>
 							<li class="list-group-item"><strong>Research Area</strong>: 		</li>
 							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-							<li class="list-group-item">manjuvyas@gmail.com</li>
+							<li class="list-group-item">manjuvyas@jecrc.ac.in</li>
 							<li class="list-group-item">Experience: 15 year</li>
 							<li class="list-group-item">Publication: 9</li>
 						</ul>

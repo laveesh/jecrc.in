@@ -15,22 +15,22 @@
         <div id="particles-js"></div>
         <main class="wrapper">
             <div class="head text-center py-5">
-                <h1 class="heading">Our Team</h1>
+                <span class="heading">Our Team</span>
                 <section>
                     <div class="row">
                         <div class="col-xl-3 col-lg-4 col-md-6">
                             <div class="card mx-5" >
                                 <div class="card-heading">
-                                    <h3 class="card-header text-white">Amrit Srivatava</h3>                                    
+                                    <h3 class="card-header text-white">Amrit Srivatava</h3>
                                 </div>
                                 <div class="px-2 py-3">
                                 <img src="../src/img/team/amrit.jpg" alt="" class="rounded-circle">
                                 </div>
                                 <div class="social pt-3 justify-content-center">
                                     <ul class="social-group justify-content-center">
-                                        <li><i class="fa fa-facebook-official mx-3"></i></li>
-                                        <li><i class="fa fa-linkedin mx-3"></i></li>
-                                        <li><i class="fa fa-twitter mx-3"></i></li>  
+                                        <li><a href="https://www.facebook.com/amrit.srivastava.946" target="_blank"><i class="fa fa-facebook-official mx-3"></i></a></li>
+                                        <li><a href="https://www.linkedin.com/in/amrit-srivastava-a8760412a/" target="_blank"><i class="fa fa-linkedin mx-3"></i></a></li>
+                                        <li><a href="https://twitter.com/hi_amrit" target="_blank"><i class="fa fa-twitter mx-3"></i></a></li>  
                                     </ul>
                                 </div>
                             </div>

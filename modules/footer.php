@@ -31,7 +31,7 @@
             <a href="https://www.youtube.com/channel/UCLMV4U9h18aQ-qUJWbT-VWg" target="_blank"><i  class="fa fa-youtube footer-icons"></i></a>
           </div>
           <div class="col-md-3">
-            <p class="footer-bottom-para"> Developers</p>
+            <p class="footer-bottom-para"><a href="../pages/developer.php">Developers</a></p>
           </div>
         </div>
       </div>
