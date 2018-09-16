@@ -81,9 +81,9 @@
           <div class="sectionHeading">Gate Qualifiers</div>
           <div class="container">
             <ul class="list-group list-group-flush">
-              <li class="list-group-item">Pankaj Soni</li>
-              <li class="list-group-item">Pramod Nagar</li>
-              <li class="list-group-item">Kamakhya Bansal</li>
+              <li class="list-group-item">Mr. Pankaj Soni</li>
+              <li class="list-group-item">Mr. Pramod Nagar</li>
+              <li class="list-group-item">Ms. Kamakhya Bansal</li>
             </ul>
           </div>
           <div class="sectionHeading">Acadmics Toppers</div>
@@ -91,22 +91,22 @@
             <div class="row justify-content-center text-center">
               <div class="col-md-6">
                 <img src="../departments/it/src/img/studentspotlight/laveesh.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
-                <p class="text-center">Laveesh Gupta</p>
+                <p class="text-center">Mr. Laveesh Gupta</p>
                 <p class="text-center">3<sup>rd</sup> Semister</p>
               </div>
               <div class="col-md-6">
                 <img src="../departments/it/src/img/studentspotlight/kunal.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
-                <p class="text-center">Kunal Mishra</p>
+                <p class="text-center">Mr. Kunal Mishra</p>
                 <p class="text-center">5<sup>th</sup> Semister</p>
               </div>
               <div class="col-md-6">
                 <img src="../departments/it/src/img/studentspotlight/vatsal.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
-                <p class="text-center">Vatsal Babel</p>
+                <p class="text-center">Mr. Vatsal Babel</p>
                 <p class="text-center">6<sup>th</sup> Semister</p>
               </div>
               <div class="col-md-6">
                 <img src="../departments/it/src/img/studentspotlight/ishmeet.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
-                <p class="text-center">Ishmeet Kaur</p>
+                <p class="text-center">Ms. Ishmeet Kaur</p>
                 <p class="text-center">7<sup>th</sup> & 8<sup>th</sup> Semister</p>
               </div>
               
@@ -126,7 +126,7 @@
         <div class="col-md-12">
           <img src="../departments/it/src/img/studentspotlight/ankita.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
           <div class="py-2">
-            <p class="text-center">Ankita Makwana</p>
+            <p class="text-center">Ms. Ankita Makwana</p>
           </div>
         </div>
       </div>
@@ -137,13 +137,13 @@
         <div class="col-md-6">
           <img src="../departments/it/src/img/studentspotlight/chetna.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
           <div class="py-2">
-            <p class="text-center">Chetna Chotrani</p>
+            <p class="text-center">Ms. Chetna Chotrani</p>
           </div>
         </div>
         <div class="col-md-6">
           <img src="../departments/it/src/img/studentspotlight/kirti.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
           <div class="py-2">
-            <p class="text-center">Kirti Aggarwal</p>
+            <p class="text-center">Ms. Kirti Aggarwal</p>
           </div>
         </div>
       </div>
@@ -154,19 +154,19 @@
         <div class="col-md-4">
           <img src="../departments/it/src/img/studentspotlight/priya.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
           <div class="py-2">
-            <p class="text-center">Priya Mishra</p>
+            <p class="text-center">Ms. Priya Mishra</p>
           </div>
         </div>
         <div class="col-md-4">
           <img src="../departments/it/src/img/studentspotlight/palak.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
           <div class="py-2">
-            <p class="text-center">Palak Saria</p>
+            <p class="text-center">Ms. Palak Saria</p>
           </div>
         </div>
         <div class="col-md-4">
           <img src="../departments/it/src/img/studentspotlight/garima.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
           <div class="py-2">
-            <p class="text-center">Garima Mathur</p>
+            <p class="text-center">Ms. Garima Mathur</p>
           </div>
         </div>
       </div>
