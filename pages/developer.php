@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -10,6 +11,14 @@
         <link rel="stylesheet" href="../src/css/developer.css">
 
         <link rel="icon" href="../src/img/favicon.png" type="image/x-icon"/>
+        <style type="text/css">
+            #hr-img {
+                 position: relative;
+                top: -8px;
+                width: 3em;
+                height: auto;
+            }
+        </style>
     </head>
     <body id="">
         <div id="particles-js"></div>
@@ -34,8 +43,25 @@
                                     </ul>
                                 </div>
                             </div>
+
                         </div>
-                        <div class="col-md-3"></div>
+                        <div class="col-md-3">
+                            <div class="card mx-5" >
+                                <div class="card-heading">
+                                    <h3 class="card-header text-white">Muskan Agarwal</h3>
+                                </div>
+                                <div class="px-2 py-3">
+                                <img src="../src/img/team/muskan.jpg" alt="" class="rounded-circle">
+                                </div>
+                                <div class="social pt-3 justify-content-center">
+                                    <ul class="social-group justify-content-center">
+                                        <li><a href="https://www.facebook.com/profile.php?id=100004908489844" target="_blank"><i class="fa fa-facebook-official mx-3"></i></a></li>
+                                        <li><a href="https://www.linkedin.com/in/muskan-agarwal-41a18b158/" target="_blank"><i class="fa fa-linkedin mx-3"></i></a></li>
+                                        <li><a href="https://www.hackerrank.com/muskan99ag" target="_blank"><i  class="mx-3"><img src="../src/img/hr.png" id="hr-img"></i></a></li> 
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
                         <div class="col-md-3"></div>
                         <div class="col-md-3"></div>
                     </div>
