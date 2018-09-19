@@ -33,7 +33,7 @@
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
 							<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech.</li>
-							<li class="list-group-item"><strong>Designation</strong>:professor and  Director Placement Cell(Outset)</li>
+							<li class="list-group-item"><strong>Designation</strong>: Associate Professor and  Director Placement Cell(Outset)</li>
 							<li class="list-group-item">utpalchakravarty.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong>Industrial and Logistics</li>
 							<li class="list-group-item"><strong>Experience:</strong> 29 years(Industrial) and 18 years(Teaching)</li>
@@ -53,7 +53,7 @@
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
 							<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech.</li>
-							<li class="list-group-item"><strong>Designation</strong>: Assosiate Professor</li>
+							<li class="list-group-item"><strong>Designation</strong>: Deputy Director of Special Projects and Associate Professor</li>
 							<li class="list-group-item">manishjain.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong>Manufacturing System Engineering</li>
 							<li class="list-group-item"><strong>Experience:</strong> 8 years (Industrial) and 17 years(Teaching)</li>
@@ -94,7 +94,7 @@
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
 							<li class="list-group-item"><strong>Educational Qualification</strong>: P.hd</li>
-							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
+							<li class="list-group-item"><strong>Designation</strong>: Associate Professor</li>
 							
 							<li class="list-group-item">manishshrivastava.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong> Human Resources(Industrial)</li>
@@ -106,6 +106,48 @@
 			</div>
 		</div>
 		
+		<div class="col-lg-6 col-md-12 mt-4">
+			<div class="panel-body card">
+				<div class="card-header text-center"><h4>Dr. Fauzia Siddiqui</h4></div>
+				<div class="row">
+					<div class="col-md-3 pt-1 py-1" align="center">
+						<img src="../departments/me/src/img/people/faculty/FAUZIA_SIDDIQUI.png"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+					</div>
+					<div class="col-md-9 px-2">
+						<ul class="list-group list-group-flush">
+							<li class="list-group-item"><strong>Educational Qualification</strong>: Ph.D </li>
+							<li class="list-group-item"><strong>Designation</strong>:Associate Professor</li>
+							
+							<li class="list-group-item">fauziasiddiqui.me@jecrc.ac.in</li>
+							<li class="list-group-item"><Strong>Research Area:</strong>Industrial and Production, Total Quality Management, Flexible Systems, Supply Chain Management, Manufacturing practices</li>
+							<li class="list-group-item"><strong>Experience:</strong> 16 years</li>
+							<li class="list-group-item"><strong>Publication:</strong>  19</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-6 col-md-12 mt-4">
+			<div class="panel-body card">
+				<div class="card-header text-center"><h4>Mr. Satyendra Kumar</h4></div>
+				<div class="row">
+					<div class="col-md-3 pt-1 py-1" align="center">
+						<img src="../departments/me/src/img/people/faculty/SATYENDRA.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+					</div>
+					<div class="col-md-9 px-2">
+						<ul class="list-group list-group-flush">
+							<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech.</li>
+							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
+							
+							<li class="list-group-item">satyendrakumar.me@jecrc.ac.in</li>
+							<li class="list-group-item"><Strong>Research Area:</strong> Composites,Functionally graded material, Artificial Hip Joints, ptimization, Design of Components</li>
+							<li class="list-group-item"><strong>Experience:</strong> 07 years</li>
+							<li class="list-group-item"><strong>Publication:</strong>  2</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
 		<div class="col-lg-6 col-md-12 mt-4">
 			<div class="panel-body card">
 				<div class="card-header text-center"><h4>Mr. Kuldeep Sharma</h4></div>
@@ -148,50 +190,6 @@
 				</div>
 			</div>
 		</div>
-		<div class="col-lg-6 col-md-12 mt-4">
-			<div class="panel-body card">
-				<div class="card-header text-center"><h4>Dr. Fauzia Siddiqui</h4></div>
-				<div class="row">
-					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/me/src/img/people/faculty/FAUZIA_SIDDIQUI.png"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
-					</div>
-					<div class="col-md-9 px-2">
-						<ul class="list-group list-group-flush">
-							<li class="list-group-item"><strong>Educational Qualification</strong>: Ph.D </li>
-							<li class="list-group-item"><strong>Designation</strong>: Professor</li>
-							
-							<li class="list-group-item">fauziasiddiqui.me@jecrc.ac.in</li>
-							<li class="list-group-item"><Strong>Research Area:</strong>Industrial and Production, Total Quality Management, Flexible Systems, Supply Chain Management, Manufacturing practices</li>
-							<li class="list-group-item"><strong>Experience:</strong> 16 years</li>
-							<li class="list-group-item"><strong>Publication:</strong>  19</li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="col-lg-6 col-md-12 mt-4">
-			<div class="panel-body card">
-				<div class="card-header text-center"><h4>Dr. Rishi Pareek</h4></div>
-				<div class="row">
-					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/me/src/img/people/faculty/RISHI_PAREEK.png"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
-					</div>
-					<div class="col-md-9 px-2">
-						<ul class="list-group list-group-flush">
-							<li class="list-group-item"><strong>Educational Qualification</strong>: Ph.D</li>
-							<li class="list-group-item"><strong>Designation</strong>: Associate Professor</li>
-							
-							<li class="list-group-item">rishipareek.me@jecrc.ac.in</li>
-							<li class="list-group-item"><Strong>Research Area:</strong>Renewable Energy, I.C. Engines and Automobile Engineering</li>
-							<li class="list-group-item"> <strong>Experience:</strong> 4 years</li>
-							<li class="list-group-item"><strong>Publication:</strong>  4</li>
-							<li class="list-group-item"><strong> Patent Published:</strong> 1 </li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</div>
-		
 		
 		<div class="col-lg-6 col-md-12 mt-4">
 			<div class="panel-body card">
@@ -214,27 +212,31 @@
 				</div>
 			</div>
 		</div>
+		
+
 		<div class="col-lg-6 col-md-12 mt-4">
 			<div class="panel-body card">
-				<div class="card-header text-center"><h4>Mr. Satyendra Kumar</h4></div>
+				<div class="card-header text-center"><h4>Dr. Rishi Pareek</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/me/src/img/people/faculty/SATYENDRA.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/me/src/img/people/faculty/RISHI_PAREEK.png"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
-							<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech.</li>
+							<li class="list-group-item"><strong>Educational Qualification</strong>: Ph.D</li>
 							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 							
-							<li class="list-group-item">satyendrakumar.me@jecrc.ac.in</li>
-							<li class="list-group-item"><Strong>Research Area:</strong> Composites,Functionally graded material, Artificial Hip Joints, ptimization, Design of Components</li>
-							<li class="list-group-item"><strong>Experience:</strong> 07 years</li>
-							<li class="list-group-item"><strong>Publication:</strong>  2</li>
+							<li class="list-group-item">rishipareek.me@jecrc.ac.in</li>
+							<li class="list-group-item"><Strong>Research Area:</strong>Renewable Energy, I.C. Engines and Automobile Engineering</li>
+							<li class="list-group-item"> <strong>Experience:</strong> 4 years</li>
+							<li class="list-group-item"><strong>Publication:</strong>  4</li>
+							<li class="list-group-item"><strong> Patent Published:</strong> 1 </li>
 						</ul>
 					</div>
 				</div>
 			</div>
 		</div>
+		
 		<div class="col-lg-6 col-md-12 mt-4">
 			<div class="panel-body card">
 				<div class="card-header text-center"><h4>Mr. Yogesh Dubey</h4></div>
@@ -394,7 +396,7 @@
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
 							<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech. (Pursuing)</li>
-							<li class="list-group-item"><strong>Designation     </strong>: Faculty</li>
+							<li class="list-group-item"><strong>Designation     </strong>: Assistant Professor</li>
 							
 							<li class="list-group-item">nitinchhabra.me@jecrc.ac.in</li>
 							<li class="list-group-item"><Strong>Research Area:</strong> Mechanical Engineering</li>
