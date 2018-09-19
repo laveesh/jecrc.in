@@ -173,6 +173,7 @@
             <div class="sectionContent px-4">
               <marquee direction="up" behavior="scroll" height="500" scrollamount="6" id="marq">
               <ul class="sectionList list-group news">
+                <li class="list-group-item">JECRC WOMEN CONNECT CELL took a session on Development vs Crime Against Women Conducted on 18 September </li>
                 <li class="list-group-item">I.T. Hackathon 2.0 was conducted by I.T Department on 12 september</li>
                 <li class="list-group-item">Organised a Four-am of Institute of Electronics and Telecommunication Engineering on 31 August</li>
                 <li class="list-group-item">Expert talk on Development vs Crime against women on 29 August</li>
