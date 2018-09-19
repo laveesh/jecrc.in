@@ -13,11 +13,11 @@
     <link rel="icon" href="../src/img/favicon.png" type="image/x-icon"/>
     <style type="text/css">
     #hr-img {
-     position: relative;
-     top: -8px;
-     width: 3em;
-     height: auto;
- }
+       position: relative;
+       top: -8px;
+       width: 3em;
+       height: auto;
+   }
 </style>
 </head>
 <body id="">
