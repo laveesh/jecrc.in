@@ -120,7 +120,7 @@
 					<ol class="sectionList">
 						<li><strong>Date of the event:</strong>9-13<sup>th</sup>October 2017.</li>
 						<li><strong>Venue:</strong> at MNIT Jaipur</li>
-						<li><strong>Objective/s:</strong></li>
+						
 						<li><strong>Outcome:</strong>Candidates (Students and Faculty) will be able to identify and interpret concepts of Big Data.</li>
 						 
 					</ol>
@@ -204,10 +204,10 @@
 				</div>
 				<div class="col-md-9 col-sm-12 sectionContent">
 					<ol class="sectionList">
-						<!-- <li><strong>Date of the event:</strong><sup></sup></li> -->
-						<strong>Venue:</strong>Poornima University
-						<!-- <li><strong>Objective/s:</strong></li> -->
-						<!-- <li><strong>Outcome:</strong></li> -->
+						<!--  -->
+						<li>	<strong>Venue:</strong>Poornima University 	</li>
+						<!--  -->
+						<li>	<strong>Objective/s:</strong> To enhance the awareness about Optimization in Mechanical Component Design. </li>
 						 
 					</ol>
 				</div>
@@ -251,10 +251,10 @@
 				</div>
 				<div class="col-md-9 col-sm-12 sectionContent">
 					<ol class="sectionList">
-						<li><strong>Date of the event:</strong><sup></sup></li>
+						<!--  -->
 						<li><strong>Venue:</strong> JECRC, Jaipur</li>
-						<li><strong>Objective/s:</strong></li>
-						<li><strong>Outcome:</strong>Prize winners: DR. M. P. Singh (HoD ME), Mr. Manish Jain, Mr. Kuldeep Sharma, Dr. Bhuvnesh Bharadwaj</li>
+						<!--  -->
+						<li><strong>Prize winners:</strong> Dr. M. P. Singh (Programme Coordinator and HOD ME), <br>Mr. Manish Jain,<br>	 Mr. Kuldeep Sharma,<br>	 Dr. Bhuvnesh Bharadwaj</li>
 						 
 					</ol>
 				</div>
@@ -288,9 +288,9 @@
 				</div>
 				<div class="col-md-9 col-sm-12 sectionContent">
 					<ol class="sectionList">
-						<li><strong>Date of the event:</strong><sup></sup></li>
+						
 						<li><strong>Venue:</strong> at MNIT Jaipur</li>
-						<li><strong>Objective/s:</strong></li>
+						
 						<li><strong>Outcome:</strong>“The Moto rids” is a group of 23 machine lovers registered themselves in a national level Go Kart event named “NKRC Season-4”and because of the hard work and way of presenting students were awarded with the “Stig Award” and “Rs 10000” cash reward.</li>
 						 
 					</ol>
@@ -423,7 +423,7 @@
 				<div class="col-md-9 col-sm-12 sectionContent">
 					<ol class="sectionList">
 						<!-- Date -->
-						<li><strong>Date of the event:</strong><sup></sup></li>
+						
 						<!-- Venue -->
 						<li><strong>Venue:</strong>SKIT, Jaipur</li>
 						<!-- Objective -->
@@ -587,7 +587,7 @@
 						<!-- Date -->
 						<li><strong>Date of the event:</strong>01-05<sup>th</sup>May 2018.</li>
 						<!-- Venue -->
-						<li><strong>Venue:</strong></li>
+						
 						<!-- Objective -->
 						<li><strong>Objective/s:</strong>The FDP based on mathematical modelling and optimization of industrial problems, is of an interdisciplinary nature and aimed to equip the participants with the concepts of techniques and their applicability in various disciplines, through interaction with experts in this field. Faculty, researchers, research scholars and industry personnel interested in applying these techniques in their area of interest shall be benefited by participation. The objective of this FDP was also to provide a platform for interaction and exchange of ideas on recent trends in the field of mathematical modelling and optimization, and its applications in various fields of engineering and sciences.</li>
 						<!-- Outcome -->
@@ -637,7 +637,7 @@
 						<!-- Venue -->
 						<li><strong>Venue:</strong>JECRC, Jaipur</li>
 						<!-- Objective -->
-						<li><strong>Objective/s:</strong></li>
+						
 						<!-- Outcome -->
 						<li><strong>Outcome:</strong>The programme started with the lightening of the lamp by all the dignitaries who came in the inauguration ceremony of ICT based Short Term course on Product Design and Development. 
 						First Dr. M. P. Singh , Head Department of Mechanical Engineering briefed about the short term course and talked about the objective of the STC  and importance of STC . He discussed about the design and how the design can be improved ,what is the role of CAD and FEM in design and these are the design tool by using them design can be changed very easily. .Reverse Engineering and Rapid Prototyping are the key of product Development.

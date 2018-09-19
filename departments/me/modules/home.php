@@ -347,8 +347,15 @@
           </div>
             
           </div>
+
           
         </div>
+        <div class="row justify-content-center">
+        <div class="col-md-6">
+          <img src="../departments/me/src/img/toppers/yash.jpg" alt="" class="img-fluid img-thumbnail rounded-circle topper">
+          <p class="text-center">Yash Kumar Gupta </p>
+        </div>
+      </div> 
       </div>
       <!-- <div class="row justify-content-center" /> -->
     
