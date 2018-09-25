@@ -111,6 +111,10 @@
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="cse.php?section=feedbackform">Feedback form (2017-18)</a>
                   <a class="dropdown-item" href="cse.php?section=mobilecomputing">Mobile Computing form</a>
+                  <a class="dropdown-item" href="cse.php?section=industryInteraction">Industry Interaction</a>
+                  <a class="dropdown-item" href="cse.php?section=visualEvaluation">Visual Evaluation</a>
+                  <a class="dropdown-item" href="cse.php?section=missionEvaluation">Mission Evaluation</a>
+                  <a class="dropdown-item" href="cse.php?section=programExit">Program Exit Survey</a>
                 </div>
               </li>
       					</ul>

@@ -358,7 +358,7 @@ section {
 }
 
 .footer-bottom-para {
-  text-align: right;
+  text-align: center !important;;
 }
 
 .footer-bottom {

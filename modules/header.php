@@ -79,9 +79,9 @@
                 SAR
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="../departments/about/src/pdf/jecrc-brochure.pdf" target="_blank">Computer Science Engineering</a>
-                <a class="dropdown-item" href="../departments/cse/src/pdf/CSESCOOP.pdf" target="_blank">Electronics and Communication<br> Engineering</a>
-                <a class="dropdown-item" href="../departments/me/src/newsletters/july_17.pdf" target="_blank">Mechanical Engineering</a>
+                <a class="dropdown-item" href="../src/pdf/cse_sar.pdf" target="_blank">Computer Science Engineering</a>
+                <a class="dropdown-item" href="../src/pdf/ece_sar.pdf" target="_blank">Electronics and Communication<br> Engineering</a>
+                <a class="dropdown-item" href="../src/pdf/me_sar.pdf" target="_blank">Mechanical Engineering</a>
               </div>
             </li>
             <li class="nav-item dropdown">
