@@ -22,6 +22,27 @@
 				</div>
 			</div>
 		</div>
+
+		<div class="col-lg-6 col-md-12 mt-4">
+			<div class="panel-body card">
+				<div class="card-header text-center"><h4>Dr.Sandeep Vyas</h4></div>
+				<div class="row">
+					<div class="col-md-3 pt-1 py-1" align="center">
+						<img src="../departments/ece/src/img/people/faculty/image1.jpg"class="Aapimg-responsive rounded-circle faculty-img" alt="faculty-image">
+					</div>
+					<div class="col-md-9 px-2">
+						<ul class="list-group list-group-flush">
+							<li class="list-group-item"><strong>Educational Qualification</strong>: Ph.D</li>
+							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
+
+							<li class="list-group-item">dr.sandeepvyas.ee@jecrc.ac.in</li>
+							<li class="list-group-item">Experience (in years): 16 </li>
+
+						<li class="list-group-item"> Research Area:Optical Fibre Communication</li></ul>
+					</div>
+				</div>
+			</div>
+	</div>
 		<div class="col-lg-6 col-md-12 mt-4">
 			<div class="panel-body card">
 				<div class="card-header text-center"><h4>Dr. Santosh Kumar Singh</h4></div>
@@ -52,16 +73,18 @@
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
 							<li class="list-group-item"><strong>Educational Qualification</strong>: Ph.D</li>
-							<li class="list-group-item"><strong>Designation</strong>: Assistant professor</li>
+							<li class="list-group-item"><strong>Designation</strong>: Associate professor</li>
 
 							<li class="list-group-item">vinitamathur.ece@jecrc.ac.in</li>
 							<li class="list-group-item">Experience (in years): 11 </li>
-							<li class="list-group-item">Publication(s): 28</li>
+							<li class="list-group-item">Publication(s): 31</li>
 						<li class="list-group-item"> Research Area:Microwave, Antenna </li></ul>
 					</div>
 				</div>
 			</div>
 		</div>
+
+
 		<div class="col-lg-6 col-md-12 mt-4">
 			<div class="panel-body card">
 				<div class="card-header text-center"><h4>Mr. Rajesh Kumar Bathija</h4></div>
@@ -844,46 +867,43 @@ Networks </li></ul>
 					</div>
 			</div>
 
+
 			<div class="col-lg-6 col-md-12 mt-4">
 				<div class="panel-body card">
-					<div class="card-header text-center"><h4>Mr. Sandeep Vyas</h4></div>
+					<div class="card-header text-center"><h4>Dr. Anurakt Williomson</h4></div>
 					<div class="row">
 						<div class="col-md-3 pt-1 py-1" align="center">
-							<img src="../departments/ece/src/img/people/faculty/image1.jpg"class="Aapimg-responsive rounded-circle faculty-img" alt="faculty-image">
+							<img src="../departments/ece/src/img/people/faculty/williomson.png"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: Ph.D</li>
-								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-
-								<li class="list-group-item">dr.sandeepvyas.ee@jecrc.ac.in</li>
-								<li class="list-group-item">Experience (in years): 16 </li>
-
-							<li class="list-group-item"> Research Area:Optical Fibre Communication</li></ul>
+								<li class="list-group-item"><strong>Designation</strong>: Associate Professor
+									<li class="list-group-item">ShrutiKalra.ece@jecrc.ac.in</li>
+									<li class="list-group-item">Experience (in years): 24 </li>
+								<li class="list-group-item"> Research Area: Optical Communication </li></ul>
+							</div>
 						</div>
 					</div>
 				</div>
-		</div>
 
-		<div class="col-lg-6 col-md-12 mt-4">
-			<div class="panel-body card">
-				<div class="card-header text-center"><h4>Mr. Sitaram Saini</h4></div>
-				<div class="row">
-					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/ece/src/img/people/faculty/sitaram.jpg"class="Aapimg-responsive rounded-circle faculty-img" alt="faculty-image">
+				<div class="col-lg-6 col-md-12 mt-4">
+					<div class="panel-body card">
+						<div class="card-header text-center"><h4>Mr. Ashok Kherodia </h4></div>
+						<div class="row">
+							<div class="col-md-3 pt-1 py-1" align="center">
+								<img src=""class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+							</div>
+							<div class="col-md-9 px-2">
+								<ul class="list-group list-group-flush">
+									<li class="list-group-item"><strong>Educational Qualification</strong>: Ph.D</li>
+									<li class="list-group-item"><strong>Designation</strong>: Associate Professor
+										<li class="list-group-item">asharu74762@gmial.com</li>
+										<li class="list-group-item">Experience (in years): 15 </li>
+									<li class="list-group-item"> Research Area:  MICROELECTRONICS, SILICON THIN FILM </li></ul>
+								</div>
+							</div>
+						</div>
 					</div>
-					<div class="col-md-9 px-2">
-						<ul class="list-group list-group-flush">
-							<li class="list-group-item"><strong>Educational Qualification</strong>: Diploma</li>
-							<li class="list-group-item"><strong>Designation</strong>: Lab Assistant</li>
-
-							<li class="list-group-item">sitaram.ece@jecrc.ac.in</li>
-							<li class="list-group-item">Experience (in years): 11 </li>
-
-
-					</div>
-				</div>
-			</div>
-	</div>
 		</div>
 	</section>

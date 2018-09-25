@@ -12,16 +12,16 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: MCA</li>
 								<li class="list-group-item"><strong>Designation</strong>: Lab Tecnician</li>
-								
+
 								<li class="list-group-item">rajendrasirowa@gmail.com</li>
 								<li class="list-group-item">Experience: 15year</li>
-								
+
 							</ul>
 						</div>
 					</div>
 				</div>
 	</div>
-	
+
 	<div class="col-md-6 mt-4">
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Prem Chand Sharma</h4></div>
@@ -33,10 +33,10 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: B.A</li>
 								<li class="list-group-item"><strong>Designation</strong>: Lab Instructor</li>
-								
+
 								<li class="list-group-item">premchand.ee@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 18 year</li>
-								
+
 							</ul>
 						</div>
 					</div>
@@ -56,16 +56,16 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>:MCA</li>
 								<li class="list-group-item"><strong>Designation</strong>: Adjunct Faculty</li>
-								
+
 								<li class="list-group-item">hemant.it@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 18year</li>
-								
+
 							</ul>
 						</div>
 					</div>
 				</div>
 	</div>
-	
+
 	<div class="col-md-6 mt-4">
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Amit Jain</h4></div>
@@ -77,10 +77,10 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: B.A</li>
 								<li class="list-group-item"><strong>Designation</strong>: Lab Instructor</li>
-								
+
 								<li class="list-group-item">amitjain6879@gmail.com</li>
 								<li class="list-group-item">Experience: 14year</li>
-								
+
 							</ul>
 						</div>
 					</div>
@@ -100,16 +100,16 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: Diploma</li>
 								<li class="list-group-item"><strong>Designation</strong>: Lab Instructor</li>
-								
+
 								<li class="list-group-item">vaishaliyadav.yadav095@gmail.com</li>
 								<li class="list-group-item">Experience: 5year</li>
-								
+
 							</ul>
 						</div>
 					</div>
 				</div>
 	</div>
-	
+
 	<div class="col-md-6 mt-4">
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Gaurav yadav</h4></div>
@@ -121,10 +121,10 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: B.A</li>
 								<li class="list-group-item"><strong>Designation</strong>: Lab technican</li>
-								
+
 								<li class="list-group-item">gauravgoyal.ece@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 6.5 year</li>
-								
+
 							</ul>
 						</div>
 					</div>
@@ -144,16 +144,16 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: Diploma</li>
 								<li class="list-group-item"><strong>Designation</strong>:Wireless Communication Lab Instructor</li>
-								
+
 								<li class="list-group-item">shrma.hk92@gmail.com</li>
 								<li class="list-group-item">Experience: 14year</li>
-								
+
 							</ul>
 						</div>
 					</div>
 				</div>
 	</div>
-	
+
 	<div class="col-md-6 mt-4">
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Rajesh Yogi</h4></div>
@@ -165,10 +165,10 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: B.A & Diploma</li>
 								<li class="list-group-item"><strong>Designation</strong>: Lab Technician</li>
-								
+
 								<li class="list-group-item">yogiluck786@gmail.com</li>
 								<li class="list-group-item">Experience: 6year</li>
-								
+
 							</ul>
 						</div>
 					</div>
@@ -188,16 +188,16 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: Diploma</li>
 								<li class="list-group-item"><strong>Designation</strong>: Lab Technician</li>
-								
+
 								<li class="list-group-item">ramotarsaini1994@gmail.com</li>
 								<li class="list-group-item">Experience: 1year</li>
-								
+
 							</ul>
 						</div>
 					</div>
 				</div>
 	</div>
-	
+
 	<div class="col-md-6 mt-4">
 				<div class="panel-body card">
 					<div class="card-header text-center"><h4>Mr. Babulal Sharma</h4></div>
@@ -209,10 +209,10 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: Diploma</li>
 								<li class="list-group-item"><strong>Designation</strong>: Lab Technician</li>
-								
+
 								<li class="list-group-item">Blank</li>
 								<li class="list-group-item">Experience: 14year</li>
-								
+
 							</ul>
 						</div>
 					</div>
@@ -233,16 +233,41 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>:B.A & Diploma</li>
 								<li class="list-group-item"><strong>Designation</strong>: Lab Technician</li>
-								
+
 								<li class="list-group-item">rakeshtalwara26@gmail.com</li>
 								<li class="list-group-item">Experience: 5 year</li>
-								
+
 							</ul>
 						</div>
 					</div>
 				</div>
 	</div>
-</div>	
+
+<!-- kjfdnhelru -->
+
+	<div class="col-md-6 mt-4">
+	<div class="panel-body card">
+		<div class="card-header text-center"><h4>Mr. Sitaram Saini</h4></div>
+		<div class="row">
+			<div class="col-md-3 pt-1 py-1" align="center">
+				<img src="../departments/ece/src/img/people/faculty/sitaram.jpg"class="Aapimg-responsive rounded-circle faculty-img" alt="faculty-image">
+			</div>
+			<div class="col-md-9 px-2">
+				<ul class="list-group list-group-flush">
+					<li class="list-group-item"><strong>Educational Qualification</strong>: Diploma</li>
+					<li class="list-group-item"><strong>Designation</strong>: Lab Assistant</li>
+
+					<li class="list-group-item">sitaram.ece@jecrc.ac.in</li>
+					<li class="list-group-item">Experience (in years): 11 </li>
+
+
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+</div>
+
 
 
 
