@@ -96,13 +96,7 @@
 				</div>
 			</div>
 			<div class="col-md-9 col-sm-12 sectionContent px-4">
-				<p>Hacking is an unorthodox way to solve problems, however, it is most often perceived negatively in the public. A hackathon is an event that gathers programmers with different skill sets to “hack”, or work collaboratively, on a software project. <br>
-
-					IT Hackathon provides a platform for students to unleash their creativity and collaboration skills, two vital skills for future learning and career development, through coming up with ideas and building the product collaboratively. <br>
-
-					Programming is the new literacy. Every industry, from ﬁnance to transportation, requires people who know how to program. By equipping students with development skills, more opportunities will open up for them in the future. <br>
-
-					Developing culture encourages people to think out of the box. Students challenge themselves to create something new and to take ownership of what they create. These are important but often neglected experiences.
+				<p>SIP Expo is the platform where students can showcase their talent. It is the Technical Exhibition which is conducted by I.T Dept. everyyear where all  the students who have completed their summer internship can present their ideas. Last year with this dedication, lots of student participated.
 				</p>
 				<ol class="sectionList">
 					<li><strong>Date of the event:</strong> 8 <sup>th</sup>April 2017</li>
@@ -147,13 +141,7 @@
 				</div>
 			</div>
 			<div class="col-md-9 col-sm-12 sectionContent px-4">
-				<p>Hacking is an unorthodox way to solve problems, however, it is most often perceived negatively in the public. A hackathon is an event that gathers programmers with different skill sets to “hack”, or work collaboratively, on a software project. <br>
-
-					IT Hackathon provides a platform for students to unleash their creativity and collaboration skills, two vital skills for future learning and career development, through coming up with ideas and building the product collaboratively. <br>
-
-					Programming is the new literacy. Every industry, from ﬁnance to transportation, requires people who know how to program. By equipping students with development skills, more opportunities will open up for them in the future. <br>
-
-					Developing culture encourages people to think out of the box. Students challenge themselves to create something new and to take ownership of what they create. These are important but often neglected experiences.
+				<p>It is the platform for the demonstration of minor projects for of the last year students. The projects are been observed by the judges. They discuss about the project with the students and guide them regarding their future.
 				</p>
 				<ol class="sectionList">
 					<li><strong>Date of the event:</strong> 8 <sup>th</sup>April 2017</li>
