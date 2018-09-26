@@ -37,7 +37,7 @@
     
 </div>
  <p class="px-2 pt-2">
-            The area of Computer Science and Engineering deals with not only Theory of Computation and Design of Computational Systems, but also new engineering trends in software and hardware technology. A good technologist with this specialization is expected to possess excellent analytical ability, mathematical aptitude, problem solving skills and a logical mind. The Computer Science and Engineering Department at JECRC College is affiliated to Rajasthan Technical University, Kota and endeavours to provide an environment where students can grow into Computer Engineers of tomorrow possessing all these necessary attributes. Academic standards are high and students have an opportunity to learn from experienced and well-qualified faculty members. The classroom sessions are reinforced through practical sessions, projects, workshops and many other co-curricular activities. Industrial interaction is promoted through various MOUs with companies like Accenture, TCS, and Pinnacle resulting in increased employability of students.
+           
 
           </p>
         </div>
