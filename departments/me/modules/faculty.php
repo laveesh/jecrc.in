@@ -129,27 +129,6 @@
 		</div>
 		<div class="col-lg-6 col-md-12 mt-4">
 			<div class="panel-body card">
-				<div class="card-header text-center"><h4>Mr. Satyendra Kumar</h4></div>
-				<div class="row">
-					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/me/src/img/people/faculty/SATYENDRA.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
-					</div>
-					<div class="col-md-9 px-2">
-						<ul class="list-group list-group-flush">
-							<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech.</li>
-							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-							
-							<li class="list-group-item">satyendrakumar.me@jecrc.ac.in</li>
-							<li class="list-group-item"><Strong>Research Area:</strong> Composites,Functionally graded material, Artificial Hip Joints, ptimization, Design of Components</li>
-							<li class="list-group-item"><strong>Experience:</strong> 07 years</li>
-							<li class="list-group-item"><strong>Publication:</strong>  2</li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="col-lg-6 col-md-12 mt-4">
-			<div class="panel-body card">
 				<div class="card-header text-center"><h4>Mr. Kuldeep Sharma</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
@@ -213,6 +192,27 @@
 			</div>
 		</div>
 		
+		<div class="col-lg-6 col-md-12 mt-4">
+			<div class="panel-body card">
+				<div class="card-header text-center"><h4>Mr. Satyendra Kumar</h4></div>
+				<div class="row">
+					<div class="col-md-3 pt-1 py-1" align="center">
+						<img src="../departments/me/src/img/people/faculty/SATYENDRA.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+					</div>
+					<div class="col-md-9 px-2">
+						<ul class="list-group list-group-flush">
+							<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech.</li>
+							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
+							
+							<li class="list-group-item">satyendrakumar.me@jecrc.ac.in</li>
+							<li class="list-group-item"><Strong>Research Area:</strong> Composites,Functionally graded material, Artificial Hip Joints, ptimization, Design of Components</li>
+							<li class="list-group-item"><strong>Experience:</strong> 07 years</li>
+							<li class="list-group-item"><strong>Publication:</strong>  2</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
 
 		<div class="col-lg-6 col-md-12 mt-4">
 			<div class="panel-body card">
