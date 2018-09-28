@@ -100,7 +100,7 @@
                   Clubs
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                 
+                  
                 </div>
               </li>
               <li class="nav-item dropdown">

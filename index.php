@@ -60,6 +60,7 @@
                 Courses Offered
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="pages/as.php?section=home">Applied Science</a>
                 <a class="dropdown-item" href="pages/cse.php?section=home">Computer Science & Engineering</a>
                 <a class="dropdown-item" href="pages/me.php?section=home">Mechanical Engineering</a>
                 <a class="dropdown-item" href="pages/ece.php?section=home">Electronics and Communication Engineering</a>
