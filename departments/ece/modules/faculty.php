@@ -892,7 +892,7 @@ Networks </li></ul>
 						<div class="card-header text-center"><h4>Mr. Ashok Kherodia </h4></div>
 						<div class="row">
 							<div class="col-md-3 pt-1 py-1" align="center">
-								<img src=""class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+								<img src="../departments/ece/src/img/people/faculty/ashok.jpeg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 							</div>
 							<div class="col-md-9 px-2">
 								<ul class="list-group list-group-flush">
@@ -900,7 +900,7 @@ Networks </li></ul>
 									<li class="list-group-item"><strong>Designation</strong>: Associate Professor
 										<li class="list-group-item">asharu74762@gmial.com</li>
 										<li class="list-group-item">Experience (in years): 15 </li>
-									<li class="list-group-item"> Research Area:  MICROELECTRONICS, SILICON THIN FILM </li></ul>
+									<li class="list-group-item"> Research Area:  Micro-electronics, Silicon Thin Film </li></ul>
 								</div>
 							</div>
 						</div>
