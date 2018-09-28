@@ -100,8 +100,7 @@
                   Clubs
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="cse.php?section=codedocs">CodeDocs</a>
-                  <a class="dropdown-item" href="cse.php?section=cai">CAI</a>
+                 
                 </div>
               </li>
               <li class="nav-item dropdown">
