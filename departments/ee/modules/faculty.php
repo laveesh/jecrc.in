@@ -3,6 +3,26 @@
 
 	
 <div class="row sectionContent">
+	<div class="col-lg-6 col-md-12 mt-4">
+				<div class="panel-body card">
+					<div class="card-header text-center"><h4>Mr. Atul Kulshrestha</h4></div>
+					<div class="row">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/ee/src/img/people/faculty/atul.png"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						</div>
+						<div class="col-md-9 px-2">
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Designation</strong>: HOD </li>
+								<li class="list-group-item">atulkulshrestha.ee@jecrc.ac.in</li>
+								<li class="list-group-item">Experience: 11 year</li>
+								<li class="list-group-item">Publication: 1</li>
+								<li class="list-group-item">Research:</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+	</div>
 	
 	<div class="col-lg-6 col-md-12 mt-4">
 				<div class="panel-body card">
@@ -14,10 +34,10 @@
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech & P.hd</li>
-								<li class="list-group-item"><strong>Designation</strong>: HOD</li>
+								<li class="list-group-item"><strong>Designation</strong>: Assistant Prof</li>
 								
 								<li class="list-group-item">dr.sandeepvyas.ee@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 6 year</li>
+								<li class="list-group-item">Experience: 16 year</li>
 								<li class="list-group-item">Publication: 3</li>
 								<li class="list-group-item">Research:</li>
 							</ul>
@@ -26,27 +46,6 @@
 				</div>
 	</div>
 
-	<div class="col-lg-6 col-md-12 mt-4">
-				<div class="panel-body card">
-					<div class="card-header text-center"><h4>Mr. Atul Kulshrestha</h4></div>
-					<div class="row">
-						<div class="col-md-3 pt-1 py-1" align="center">
-							<img src="../departments/ee/src/img/people/faculty/atul.png"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
-						</div>
-						<div class="col-md-9 px-2">
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
-								<li class="list-group-item"><strong>Designation</strong>: Assistant Prof
-								
-								<li class="list-group-item">atulkulshrestha.ee@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 15 year</li>
-								<li class="list-group-item">Publication: 1</li>
-								<li class="list-group-item">Research:</li>
-							</ul>
-						</div>
-					</div>
-				</div>
-	</div>
 		
 	
 
@@ -68,7 +67,7 @@
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								
 								<li class="list-group-item">senthilakshmanan.ee@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 9 year</li>
+								<li class="list-group-item">Experience: 8 year</li>
 								<li class="list-group-item">Publication: 4</li>
 								<li class="list-group-item">Research:</li>
 							</ul>
@@ -90,7 +89,7 @@
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								
 								<li class="list-group-item">chadhasonali.ee@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 8.5 year</li>
+								<li class="list-group-item">Experience: 9 year</li>
 								<li class="list-group-item">Publication: 0</li>
 								<li class="list-group-item">Research:</li>
 							</ul>
@@ -119,7 +118,7 @@
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								
 								<li class="list-group-item">pravinkusheilendra.ee@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 5.5 year</li>
+								<li class="list-group-item">Experience: 10 year</li>
 								<li class="list-group-item">Publication: 2</li>
 								<li class="list-group-item">Research:</li>
 							</ul>
@@ -169,7 +168,7 @@
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								
 								<li class="list-group-item">ramsingh.ee@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 8 year</li>
+								<li class="list-group-item">Experience: 11 year</li>
 								<li class="list-group-item">Publication: 0</li>
 								<li class="list-group-item">Research:</li>
 							</ul>
@@ -191,7 +190,7 @@
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								
 								<li class="list-group-item">gopaltiwari@gmail.com</li>
-								<li class="list-group-item">Experience: 13 year</li>
+								<li class="list-group-item">Experience: 12 year</li>
 								<li class="list-group-item">Publication: 0</li>
 								<li class="list-group-item">Research:</li>
 							</ul>
@@ -219,7 +218,7 @@
 								<li class="list-group-item"><strong>Designation</strong>: Associate Professor</li>
 								
 								<li class="list-group-item">sunilsharma.ee@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 19 year</li>
+								<li class="list-group-item">Experience: 6.6 year</li>
 								<li class="list-group-item">Publication: 0</li>
 								<li class="list-group-item">Research:</li>
 							</ul>
@@ -241,7 +240,7 @@
 								<li class="list-group-item"><strong>Designation     </strong>: Assistant Professor</li>
 								
 								<li class="list-group-item">ravita.ee@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 6 year</li>
+								<li class="list-group-item">Experience: 5 year</li>
 								<li class="list-group-item">Publication: 0</li>
 								<li class="list-group-item">Research:</li>
 							</ul>
@@ -267,7 +266,7 @@
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								
 								<li class="list-group-item">rahulkumar.ee@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 8 year</li>
+								<li class="list-group-item">Experience: 2 year</li>
 								<li class="list-group-item">Publication: 1</li>
 								<li class="list-group-item">Research:</li>
 							</ul>
@@ -289,7 +288,7 @@
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								
 								<li class="list-group-item">ashoksingh.ee@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 18 year</li>
+								<li class="list-group-item">Experience: 3.4 year</li>
 								<li class="list-group-item">Publication: 1</li>
 								<li class="list-group-item">Research:</li>
 							</ul>
@@ -320,7 +319,7 @@
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								
 								<li class="list-group-item">vishnuduttsharma.ee@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 8 year</li>
+								<li class="list-group-item">Experience: 6 year</li>
 								<li class="list-group-item">Publication: 1</li>
 								<li class="list-group-item">Research:</li>
 							</ul>
@@ -342,7 +341,7 @@
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								
 								<li class="list-group-item">yazushasharma.ece@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 16 year</li>
+								<li class="list-group-item">Experience: 4 year</li>
 								<li class="list-group-item">Publication: 1</li>
 								<li class="list-group-item">Research:</li>
 							</ul>
@@ -372,7 +371,7 @@
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 								
 								<li class="list-group-item">Vikassharma.ee@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 8.5 year</li>
+								<li class="list-group-item">Experience: 4 year</li>
 								<li class="list-group-item">Publication: 2</li>
 								<li class="list-group-item">Research:</li>
 							</ul>
