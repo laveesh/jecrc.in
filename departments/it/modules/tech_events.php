@@ -2,6 +2,155 @@
 <div class="container">
 	<div class="sectionHeading">Recents events @JECRC</div>
 	<section class="section">
+		<div class="sectionHeading">IT HACKATHON 2.0</div>
+		<div class="row">
+			<div class="col-md-3 col-sm-12">
+				<div id="events_carausel1" class="carousel slide" data-ride="carousel">
+					<ol class="carousel-indicators">
+						<li data-target="#events_carausel1" data-slide-to="0" class="active"></li>
+						<li data-target="#events_carausel1" data-slide-to="1"></li>
+						<li data-target="#events_carausel1" data-slide-to="2"></li>
+						<li data-target="#events_carausel1" data-slide-to="3"></li>
+						<li data-target="#events_carausel1" data-slide-to="4"></li>
+						<li data-target="#events_carausel1" data-slide-to="5"></li>	
+					</ol>
+					<div class="carousel-inner">
+						<div class="carousel-item active">
+							<img class="d-block w-100" src="../departments/it/src/img/Events/hacklogo.jpg" alt="J-Techtrix">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/it/src/img/Events/hack5.jpg" alt="J-Techtrix">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/it/src/img/Events/hack1.jpg" alt="J-Techtrix">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/it/src/img/Events/hack2.jpg" alt="J-Techtrix">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/it/src/img/Events/hack3.jpg" alt="J-Techtrix">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/it/src/img/Events/hack4.jpg" alt="J-Techtrix">
+						</div>		
+					</div>
+					<a class="carousel-control-prev" href="#events_carausel1" role="button" data-slide="prev">
+						<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+						<span class="sr-only">Previous</span>
+					</a>
+					<a class="carousel-control-next" href="#events_carausel1" role="button" data-slide="next">
+						<span class="carousel-control-next-icon" aria-hidden="true"></span>
+						<span class="sr-only">Next</span>
+					</a>
+				</div>
+			</div>
+			<div class="col-md-9 col-sm-12 sectionContent px-4">
+				<p>Hacking is an unorthodox way to solve problems, however, it is most often perceived negatively in the public. A hackathon is an event that gathers programmers with different skill sets to “hack”, or work collaboratively, on a software project. <br>
+
+					IT Hackathon provides a platform for students to unleash their creativity and collaboration skills, two vital skills for future learning and career development, through coming up with ideas and building the product collaboratively. <br>
+
+					Programming is the new literacy. Every industry, from ﬁnance to transportation, requires people who know how to program. By equipping students with development skills, more opportunities will open up for them in the future. <br>
+
+					Developing culture encourages people to think out of the box. Students challenge themselves to create something new and to take ownership of what they create. These are important but often neglected experiences.
+				</p>
+				<ol class="sectionList">
+					<li><strong>Date of the event:</strong> 12 <sup>th</sup>September 2018</li>
+					<li><strong>Venue:</strong> C-Block</li>
+				</ol>
+			</div>
+		</div>
+	</section>
+	<section class="section">
+		<div class="sectionHeading">SIP-EXPO 1.0</div>
+		<div class="row">
+			<div class="col-md-3 col-sm-12">
+				<div id="events_carausel2" class="carousel slide" data-ride="carousel">
+					<ol class="carousel-indicators">
+						<li data-target="#events_carausel2" data-slide-to="0" class="active"></li>
+						<li data-target="#events_carausel2" data-slide-to="1"></li>
+						<li data-target="#events_carausel2" data-slide-to="2"></li>
+						<li data-target="#events_carausel2" data-slide-to="3"></li>
+					</ol>
+					<div class="carousel-inner">
+						<div class="carousel-item active">
+							<img class="d-block w-100" src="../departments/it/src/img/Events/sip1.jpg" alt="J-Techtrix">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/it/src/img/Events/sip2.jpg" alt="J-Techtrix">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/it/src/img/Events/sip4.jpg" alt="J-Techtrix">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/it/src/img/Events/sip5.jpg" alt="J-Techtrix">
+						</div>
+					</div>
+					<a class="carousel-control-prev" href="#events_carausel2" role="button" data-slide="prev">
+						<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+						<span class="sr-only">Previous</span>
+					</a>
+					<a class="carousel-control-next" href="#events_carausel2" role="button" data-slide="next">
+						<span class="carousel-control-next-icon" aria-hidden="true"></span>
+						<span class="sr-only">Next</span>
+					</a>
+				</div>
+			</div>
+			<div class="col-md-9 col-sm-12 sectionContent px-4">
+				<p>SIP Expo is the platform where students can showcase their talent. It is the Technical Exhibition which is conducted by I.T Dept. everyyear where all  the students who have completed their summer internship can present their ideas. Last year with this dedication, lots of student participated.
+				</p>
+				<ol class="sectionList">
+					<li><strong>Date of the event:</strong> 8 <sup>th</sup>April 2017</li>
+					<li><strong>Venue:</strong> C-Block</li>
+				</ol>
+			</div>
+		</div>
+	</section>
+	<section class="section">
+		<div class="sectionHeading">IDEATHON 1.0</div>
+		<div class="row">
+			<div class="col-md-3 col-sm-12">
+				<div id="events_carausel3" class="carousel slide" data-ride="carousel">
+					<ol class="carousel-indicators">
+						<li data-target="#events_carausel3" data-slide-to="0" class="active"></li>
+						<li data-target="#events_carausel3" data-slide-to="1"></li>
+						<li data-target="#events_carausel3" data-slide-to="2"></li>
+						<li data-target="#events_carausel3" data-slide-to="3"></li>
+					</ol>
+					<div class="carousel-inner">
+						<div class="carousel-item active">
+							<img class="d-block w-100" src="../departments/it/src/img/Events/idea1.jpg" alt="J-Techtrix">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/it/src/img/Events/idea2.jpg" alt="J-Techtrix">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/it/src/img/Events/idea3.jpg" alt="J-Techtrix">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/it/src/img/Events/idea4.jpg" alt="J-Techtrix">
+						</div>
+					</div>
+					<a class="carousel-control-prev" href="#events_carausel3" role="button" data-slide="prev">
+						<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+						<span class="sr-only">Previous</span>
+					</a>
+					<a class="carousel-control-next" href="#events_carausel3" role="button" data-slide="next">
+						<span class="carousel-control-next-icon" aria-hidden="true"></span>
+						<span class="sr-only">Next</span>
+					</a>
+				</div>
+			</div>
+			<div class="col-md-9 col-sm-12 sectionContent px-4">
+				<p>It is the platform for the demonstration of minor projects for of the last year students. The projects are been observed by the judges. They discuss about the project with the students and guide them regarding their future.
+				</p>
+				<ol class="sectionList">
+					<li><strong>Date of the event:</strong> 8 <sup>th</sup>April 2017</li>
+					<li><strong>Venue:</strong> C-Block</li>
+				</ol>
+			</div>
+		</div>
+	</section>
+	<section class="section">
 		<div class="sectionHeading">JUST-C</div>`
 		<div class="row">
 			<div class="col-md-3 col-sm-12">
@@ -15,14 +164,7 @@
 						</div>
 
 					</div>
-					<a class="carousel-control-prev" href="#events_carausel2" role="button" data-slide="prev">
-						<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-						<span class="sr-only">Previous</span>
-					</a>
-					<a class="carousel-control-next" href="#events_carausel2" role="button" data-slide="next">
-						<span class="carousel-control-next-icon" aria-hidden="true"></span>
-						<span class="sr-only">Next</span>
-					</a>
+					
 				</div>
 			</div>
 			<div class="col-md-9 col-sm-12 sectionContent px-4">
@@ -47,14 +189,6 @@
 							<img class="d-block w-100" src="../departments/it/src/img/Events/New_Venture.JPG" alt="formula-zer">
 						</div>
 					</div>
-					<a class="carousel-control-prev" href="#events_carausel3" role="button" data-slide="prev">
-						<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-						<span class="sr-only">Previous</span>
-					</a>
-					<a class="carousel-control-next" href="#events_carausel3" role="button" data-slide="next">
-						<span class="carousel-control-next-icon" aria-hidden="true"></span>
-						<span class="sr-only">Next</span>
-					</a>
 				</div>
 			</div>
 			<div class="col-md-9 col-sm-12 sectionContent px-4">
@@ -83,14 +217,6 @@
 							<img class="d-block w-100" src="../departments/it/src/img/Events/Reverse_Engineering.JPG" alt="line-follower">
 						</div>
 					</div>
-					<a class="carousel-control-prev" href="#events_carausel4" role="button" data-slide="prev">
-						<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-						<span class="sr-only">Previous</span>
-					</a>
-					<a class="carousel-control-next" href="#events_carausel4" role="button" data-slide="next">
-						<span class="carousel-control-next-icon" aria-hidden="true"></span>
-						<span class="sr-only">Next</span>
-					</a>
 				</div>
 			</div>
 			<div class="col-md-9 col-sm-12 sectionContent px-4">
@@ -115,14 +241,6 @@
 							<img class="d-block w-100" src="../departments/it/src/img/Events/Women_s_Day.jpg" alt="games-of-drones">	
 						</div>
 					</div>
-					<a class="carousel-control-prev" href="#events_carausel5" role="button" data-slide="prev">
-						<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-						<span class="sr-only">Previous</span>
-					</a>
-					<a class="carousel-control-next" href="#events_carausel5" role="button" data-slide="next">
-						<span class="carousel-control-next-icon" aria-hidden="true"></span>
-						<span class="sr-only">Next</span>
-					</a>
 				</div>
 			</div>
 			<div class="col-md-9 col-sm-12 sectionContent px-4">
@@ -174,6 +292,57 @@
 					<li><strong>Date of the event:</strong>26<sup>th</sup>March 2017.</li>
 					<li><strong>Venue:</strong> C - Block, Seminar Hall</li>
 
+				</ol>
+			</div>
+		</div>
+	</section>
+	<section class="section">
+		<div class="sectionHeading">IT HACKATHON 1.0</div>
+		<div class="row">
+			<div class="col-md-3 col-sm-12">
+				<div id="events_carausel" class="carousel slide" data-ride="carousel">
+					<ol class="carousel-indicators">
+						<li data-target="#events_carausel" data-slide-to="0" class="active"></li>
+						<li data-target="#events_carausel" data-slide-to="1"></li>
+						<li data-target="#events_carausel" data-slide-to="2"></li>
+						<li data-target="#events_carausel" data-slide-to="3"></li>
+					</ol>
+					<div class="carousel-inner">
+						<div class="carousel-item active">
+							<img class="d-block w-100" src="../departments/it/src/img/Events/HACKATHON1.jpg" alt="J-Techtrix">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/it/src/img/Events/HACKATHON2.jpg" alt="J-Techtrix">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/it/src/img/Events/HACKATHON3.jpg" alt="J-Techtrix">
+						</div>
+						<div class="carousel-item">
+							<img class="d-block w-100" src="../departments/it/src/img/Events/HACKATHON4.jpg" alt="J-Techtrix">
+						</div>
+					</div>
+					<a class="carousel-control-prev" href="#events_carausel" role="button" data-slide="prev">
+						<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+						<span class="sr-only">Previous</span>
+					</a>
+					<a class="carousel-control-next" href="#events_carausel" role="button" data-slide="next">
+						<span class="carousel-control-next-icon" aria-hidden="true"></span>
+						<span class="sr-only">Next</span>
+					</a>
+				</div>
+			</div>
+			<div class="col-md-9 col-sm-12 sectionContent px-4">
+				<p>Hacking is an unorthodox way to solve problems, however, it is most often perceived negatively in the public. A hackathon is an event that gathers programmers with different skill sets to “hack”, or work collaboratively, on a software project. <br>
+
+					IT Hackathon provides a platform for students to unleash their creativity and collaboration skills, two vital skills for future learning and career development, through coming up with ideas and building the product collaboratively. <br>
+
+					Programming is the new literacy. Every industry, from ﬁnance to transportation, requires people who know how to program. By equipping students with development skills, more opportunities will open up for them in the future. <br>
+
+					Developing culture encourages people to think out of the box. Students challenge themselves to create something new and to take ownership of what they create. These are important but often neglected experiences.
+				</p>
+				<ol class="sectionList">
+					<li><strong>Date of the event:</strong> 8 <sup>th</sup>April 2017</li>
+					<li><strong>Venue:</strong> C-Block</li>
 				</ol>
 			</div>
 		</div>

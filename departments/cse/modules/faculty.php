@@ -77,8 +77,8 @@
 							<li class="list-group-item"><strong>Designation</strong>: Associate Professor</li>
 							<li class="list-group-item"><strong>Research Area</strong>: Data Mining & Cloud Computing</li>
 							<li class="list-group-item">nilamchoudhary.cse@jecrc.ac.in</li>
-							<li class="list-group-item">Experience: 19 year</li>
-							<li class="list-group-item">Publication: 2</li>
+							<li class="list-group-item">Experience: 11 year</li>
+							<li class="list-group-item">Publication: 26</li>
 						</ul>
 					</div>
 				</div>
@@ -117,9 +117,9 @@
 							<li class="list-group-item"><strong>Educational Qualification</strong>: Ph.D</li>
 							<li class="list-group-item"><strong>Designation</strong>: Associate Professor</li>
 							<li class="list-group-item"><strong>Research Area</strong>: Data Mining		</li>
-							<li class="list-group-item">sanjaygaur@jecrc.ac.in</li>
-							<li class="list-group-item">Experience: 16 year</li>
-							<li class="list-group-item">Publication: 12</li>
+							<li class="list-group-item">sanjaygaur.cse@jecrc.ac.in</li>
+							<li class="list-group-item">Experience: 15 year</li>
+							<li class="list-group-item">Publication: 65</li>
 						</ul>
 					</div>
 				</div>
@@ -156,11 +156,11 @@
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
 							<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech.</li>
-							<li class="list-group-item"><strong>Research Area</strong>: 		</li>
 							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-							<li class="list-group-item">manjuvyas@gmail.com</li>
+							<li class="list-group-item"><strong>Research Area</strong>: Machine Learning, Project Management</li>
+							<li class="list-group-item">manjuvyas.cse@jecrc.ac.in</li>
 							<li class="list-group-item">Experience: 15 year</li>
-							<li class="list-group-item">Publication: 9</li>
+							<li class="list-group-item">Publication: 6</li>
 						</ul>
 					</div>
 				</div>
@@ -630,8 +630,8 @@
 							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 							<li class="list-group-item"><strong>Research Area</strong>: Information Retrival			</li>
 							<li class="list-group-item">umamaheshwari.cse@jecrc.ac.in</li>
-							<li class="list-group-item">Experience: 10 year</li>
-							<li class="list-group-item">Publication: 9</li>
+							<li class="list-group-item">Experience: 9 year</li>
+							<li class="list-group-item">Publication: 7</li>
 						</ul>
 					</div>
 				</div>
@@ -773,7 +773,7 @@
 							<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 							<li class="list-group-item"><strong>Research Area</strong>: Software Engineering</li>
-							<li class="list-group-item">gajendrakumar.cse@jecrc.ac.in</li>
+							<li class="list-group-item">gajendrasharma.cse@jecrc.ac.in</li>
 							<li class="list-group-item">Experience: 10 year</li>
 							<li class="list-group-item">Publication: 4</li>
 						</ul>
@@ -793,7 +793,7 @@
 							<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
 							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 							<li class="list-group-item"><strong>Research Area</strong>: Data Mining</li>
-							<li class="list-group-item">prahladkumar.cse@jecrc.ac.in</li>
+							<li class="list-group-item">prahladsharma.cse@jecrc.ac.in</li>
 							<li class="list-group-item">Experience: 8 year</li>
 							<li class="list-group-item">Publication: 7</li>
 						</ul>

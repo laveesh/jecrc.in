@@ -14,6 +14,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: Ph.D.(pur) M.Tech(Goldmedalist.), BE(Hons.)</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor and HOD</li>
+								<li class="list-group-item"><strong>Research Area</strong>: Mobile Adhoc Network Security</li>
 								
 								<li class="list-group-item">hod.it@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 9 year</li>
@@ -34,7 +35,8 @@
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech(Hons.), BE(Hons.)</li>
-								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor
+								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
+								<li class="list-group-item"><strong>Research Area</strong>: Image Processing, Database Application</li>
 								
 								<li class="list-group-item">naveenkedia.it@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 13 years</li>
@@ -83,6 +85,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech,  BE(Hons.)</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
+								<li class="list-group-item"><strong>Research Area</strong>: Cloud Computing</li>
 								
 								<li class="list-group-item">kusumyadav.it@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 8.5 years</li>
@@ -103,6 +106,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>:M.Tech, B.E</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
+								<li class="list-group-item"><strong>Research Area</strong>: Remote Health Monitoring</li>
 								
 								<li class="list-group-item">shikhashrivastava.it@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 8 years</li>
@@ -125,11 +129,12 @@
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech, BE</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: B.E. (Hons.), M.Tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
+								<li class="list-group-item"><strong>Research Area</strong>: Big Data Analytics and Machine Learning</li>
 								
 								<li class="list-group-item">vishalsagtani.it@jecrc.ac.in</li>
-								<li class="list-group-item">Experience: 8 Years</li>
+								<li class="list-group-item">Experience: 8.5 Years</li>
 								<li class="list-group-item">Publication: </li>
 							</ul>
 						</div>
@@ -169,6 +174,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: Ph.D.(pur) M.Tech B.Tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
+								<li class="list-group-item"><strong>Research Area</strong>: Software Engineering</li>
 								
 								<li class="list-group-item">preetisharma.cse@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 7 years</li>
@@ -189,6 +195,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech, B.Tech</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
+								<li class="list-group-item"><strong>Research Area</strong>: Cloud Computing, Data Mining</li>
 								
 								<li class="list-group-item">brijeshkumarsingh.it@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 5.5 years</li>
@@ -211,6 +218,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: MTech, BTech </li>
 								<li class="list-group-item"><strong>Designation</strong>: Associate Professor</li>
+								<li class="list-group-item"><strong>Research Area</strong>: Information Retrieval (IR)</li>
 								
 								<li class="list-group-item">shwetasaxena.it@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 4 years</li>
@@ -232,6 +240,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: M. tech, B. tech.</li>
 								<li class="list-group-item"><strong>Designation</strong>: Assistant professor</li>
+								<li class="list-group-item"><strong>Research Area</strong>: Image Processing and Big Data</li>
 								
 								<li class="list-group-item">deepikabansal.it@jecrc.ac.in</li>
 								<li class="list-group-item">Experience: 2.5 years</li>

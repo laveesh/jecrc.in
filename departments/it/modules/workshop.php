@@ -154,58 +154,6 @@
 		</div>
 	</section>
 	<section class="section">
-		<div class="sectionHeading">IT HACKATHON</div>
-		<div class="row">
-			<div class="col-md-3 col-sm-12">
-				<div id="events_carausel6" class="carousel slide" data-ride="carousel">
-					<ol class="carousel-indicators">
-						<li data-target="#events_carausel6" data-slide-to="0" class="active"></li>
-						<li data-target="#events_carausel6" data-slide-to="1"></li>
-						<li data-target="#events_carausel6" data-slide-to="2"></li>
-						<li data-target="#events_carausel6" data-slide-to="3"></li>
-					</ol>
-					<div class="carousel-inner">
-						<div class="carousel-item active">
-							<img class="d-block w-100" src="../departments/it/src/img/Events/HACKATHON1.jpg" alt="J-Techtrix">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/it/src/img/Events/HACKATHON2.jpg" alt="J-Techtrix">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/it/src/img/Events/HACKATHON3.jpg" alt="J-Techtrix">
-						</div>
-						<div class="carousel-item">
-							<img class="d-block w-100" src="../departments/it/src/img/Events/HACKATHON4.jpg" alt="J-Techtrix">
-						</div>
-					</div>
-					<a class="carousel-control-prev" href="#events_carausel6" role="button" data-slide="prev">
-						<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-						<span class="sr-only">Previous</span>
-					</a>
-					<a class="carousel-control-next" href="#events_carausel6" role="button" data-slide="next">
-						<span class="carousel-control-next-icon" aria-hidden="true"></span>
-						<span class="sr-only">Next</span>
-					</a>
-				</div>
-			</div>
-			<div class="col-md-9 col-sm-12 sectionContent px-4">
-				<p>Hacking is an unorthodox way to solve problems, however, it is most often perceived negatively in the public. A hackathon is an event that gathers programmers with different skill sets to “hack”, or work collaboratively, on a software project. <br>
-
-					IT Hackathon provides a platform for students to unleash their creativity and collaboration skills, two vital skills for future learning and career development, through coming up with ideas and building the product collaboratively. <br>
-
-					Programming is the new literacy. Every industry, from ﬁnance to transportation, requires people who know how to program. By equipping students with development skills, more opportunities will open up for them in the future. <br>
-
-					Developing culture encourages people to think out of the box. Students challenge themselves to create something new and to take ownership of what they create. These are important but often neglected experiences.
-				</p>
-				<ol class="sectionList">
-					<li><strong>Date of the event:</strong> 8 <sup>th</sup>April 2017</li>
-					<li><strong>Venue:</strong> C-Block</li>
-					<li><strong>Objectives:</strong>To introduce students to the project-based learning(beyond the syllabus)</li>
-				</ol>
-			</div>
-		</div>
-	</section>
-	<section class="section">
 		<div class="sectionHeading">SWACHTA PAKHWADA </div>
 		<div class="row">
 			<div class="col-md-12 col-sm-12 sectionContent px-4">
