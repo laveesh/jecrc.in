@@ -31,7 +31,7 @@
                   Faculty and Staff
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="">Faculty</a>
+                  <a class="dropdown-item" href="as.php?section=faculty">Faculty</a>
                   <a class="dropdown-item" href="">Technical Staff</a>
                 </div>
               </li>
