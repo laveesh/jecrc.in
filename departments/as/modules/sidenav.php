@@ -35,11 +35,7 @@
                   <a class="dropdown-item" href="">Technical Staff</a>
                 </div>
               </li>
-<<<<<<< HEAD
-              
-=======
 
->>>>>>> 679203773f51e7bc50bbf6c0bc7643922b40ab6f
             </ul>
           </div>
         </div>
