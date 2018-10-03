@@ -16,6 +16,8 @@
              A SARAS DAIRY PLANT Industrial Visit was conducted for 5th semester 
             </li>
             <li class="list-group-item">An Industrial visit to RVPNL  Jaipur was conducted for 7th semester</li>
+            <li class="list-group-item"> IETE Inauguration held on 20th Aug, 2018 at 11am.</li>
+
           
           </ul>
           </marquee>
