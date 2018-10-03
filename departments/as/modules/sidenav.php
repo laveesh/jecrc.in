@@ -19,39 +19,13 @@
               <li class="active"><a href="">Home<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  About
-                </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="">About</a>
-                  <a class="dropdown-item" href="">History</a>
-                  <a class="dropdown-item" href="">Vision and Mission</a>
-                  <a class="dropdown-item" href="">Programme Coordinator's Message</a>
-                  <a class="dropdown-item" href="">Contact Us</a>
-                </div>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   Academics
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="">Academics</a>
-                  <a class="dropdown-item" href="">Under Graduate Program</a>
-                  <a class="dropdown-item" href="">Programme Outcomes</a>
-                  <a class="dropdown-item" href="">Programme Educational Objectives</a>
-                  <a class="dropdown-item" href="">Programme Specific  Outcomes</a>
-                  <a class="dropdown-item" href="">Course Outcomes</a>
                   <a class="dropdown-item" href="as.php?section=co_po_mapping">CO and PO Mapping</a>
                 </div>
               </li>
-              <li class="nav-item dropdown">
-                <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  Research
-                </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="">Publication</a>
-                  <a class="dropdown-item" href="">Projects</a>
-                </div>
-              </li>
+              
               <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   Faculty and Staff
@@ -61,61 +35,7 @@
                   <a class="dropdown-item" href="">Technical Staff</a>
                 </div>
               </li>
-              <li class="nav-item dropdown">
-                <a href="cse.php?section=tech_events">
-                  Events
-                </a>
-              </li>
-              <li class="nav-item dropdown">
-                <a href="cse.php?section=events">
-                Awards & Achivements
-                </a>
-              </li>
-
-              <li class="nav-item dropdown">
-                <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  Infrastructure
-                </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="">Laboratory</a>
-                  <a class="dropdown-item" href="">Library</a>
-                </div>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  Alumni
-                </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="">Alumni Notes</a>
-                  <a class="dropdown-item" href="">Support</a>
-                </div>
-              </li>
-              <li class="nav-item">
-                <a href="">
-                Placements
-                </a>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  Clubs
-                </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  
-                </div>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  Feedback Forms
-                </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="">Industry Interaction</a>
-                  <a class="dropdown-item" href="">Visual Evaluation</a>
-                  <a class="dropdown-item" href="">Mission Evaluation</a>
-                  <a class="dropdown-item" href="">Program Exit Survey</a>
-                </div>
-              </li>
-                </ul>
-              </li>
+              
             </ul>
           </div>
         </div>
