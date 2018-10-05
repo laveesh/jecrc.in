@@ -24,6 +24,25 @@
 		</div>
 
 		<div class="col-lg-6 col-md-12 mt-4">
+				<div class="panel-body card">
+					<div class="card-header text-center"><h4>Dr. Anurakt Williomson</h4></div>
+					<div class="row">
+						<div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/ece/src/img/people/faculty/williomson.png"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						</div>
+						<div class="col-md-9 px-2">
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item"><strong>Educational Qualification</strong>: Ph.D</li>
+								<li class="list-group-item"><strong>Designation</strong>: Professor
+									<li class="list-group-item">ShrutiKalra.ece@jecrc.ac.in</li>
+									<li class="list-group-item">Experience (in years): 24 </li>
+								<li class="list-group-item"> Research Area: Optical Communication </li></ul>
+							</div>
+						</div>
+					</div>
+				</div>
+
+		<div class="col-lg-6 col-md-12 mt-4">
 			<div class="panel-body card">
 				<div class="card-header text-center"><h4>Dr.Sandeep Vyas</h4></div>
 				<div class="row">
@@ -33,7 +52,7 @@
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
 							<li class="list-group-item"><strong>Educational Qualification</strong>: Ph.D</li>
-							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
+							<li class="list-group-item"><strong>Designation</strong>: Associate Professor</li>
 
 							<li class="list-group-item">dr.sandeepvyas.ee@jecrc.ac.in</li>
 							<li class="list-group-item">Experience (in years): 16 </li>
@@ -866,26 +885,6 @@ Networks </li></ul>
 						</div>
 					</div>
 			</div>
-
-
-			<div class="col-lg-6 col-md-12 mt-4">
-				<div class="panel-body card">
-					<div class="card-header text-center"><h4>Dr. Anurakt Williomson</h4></div>
-					<div class="row">
-						<div class="col-md-3 pt-1 py-1" align="center">
-							<img src="../departments/ece/src/img/people/faculty/williomson.png"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
-						</div>
-						<div class="col-md-9 px-2">
-							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: Ph.D</li>
-								<li class="list-group-item"><strong>Designation</strong>: Associate Professor
-									<li class="list-group-item">ShrutiKalra.ece@jecrc.ac.in</li>
-									<li class="list-group-item">Experience (in years): 24 </li>
-								<li class="list-group-item"> Research Area: Optical Communication </li></ul>
-							</div>
-						</div>
-					</div>
-				</div>
 
 				<div class="col-lg-6 col-md-12 mt-4">
 					<div class="panel-body card">
