@@ -34,7 +34,7 @@
 							<ul class="list-group list-group-flush">
 								<li class="list-group-item"><strong>Educational Qualification</strong>: Ph.D</li>
 								<li class="list-group-item"><strong>Designation</strong>: Professor
-									<li class="list-group-item">ShrutiKalra.ece@jecrc.ac.in</li>
+									<li class="list-group-item">registrar@jecrc.ac.in</li>
 									<li class="list-group-item">Experience (in years): 24 </li>
 								<li class="list-group-item"> Research Area: Optical Communication </li></ul>
 							</div>
