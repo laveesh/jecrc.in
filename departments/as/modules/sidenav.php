@@ -25,25 +25,16 @@
                   <a class="dropdown-item" href="as.php?section=co_po_mapping">CO and PO Mapping</a>
                 </div>
               </li>
-              
+
               <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   Faculty and Staff
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="as.php?section=faculty">Faculty</a>
-                  <a class="dropdown-item" href="">Technical Staff</a>
+            
                 </div>
               </li>
-<<<<<<< HEAD
-<<<<<<< HEAD
-              
-=======
-
->>>>>>> 1f787ddd94ee2eaf394ea3bf5f510033b8be017b
-=======
-
->>>>>>> 2a2151255adfcba82df765fe624e79083c68c557
             </ul>
           </div>
         </div>
@@ -79,7 +70,7 @@
           <div class="carousel-item">
             <img  src="../departments/cse/src/img/Carousel/slider5.jpg" alt="Fifth slide">
           </div>
-          
+
         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
           <span class="carousel-control-prev-icon" aria-hidden="true"></span>
           <span class="sr-only">Previous</span>
