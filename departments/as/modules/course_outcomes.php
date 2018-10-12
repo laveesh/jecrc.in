@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <section class="section container">
 	<div class="sectionHeading">Course Outcome</div>
 	<table class="table table-bordered table-sm table-responsive">
@@ -727,3 +728,5 @@
 	</table>
 
 </section>
+=======
+>>>>>>> a81a815efe4dd429df523c0f2b0f90b012c617b4
