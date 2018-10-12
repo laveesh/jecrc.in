@@ -1,29 +1,12 @@
 <section id="labs" class="container card section">
-	<div class="sectionHeading">Various Laboratories</div>
+	<div class="sectionHeading">Chemistry Lab</div>
 	<div class="card-body sectionContent">
-<p>The department has been provided with following laboratories and workshops fully equipped
-with equipment and machinery as prescribed in the syllabus.</p>
-<ul style="list-style-type: none;" class="sectionList">
-<li>Electronic Devices Circuit Lab</li>
-<li>Electronics Circuit Lab</li>
-<li>Pulse Digital Circuits Lab</li>
-<li>Analog Communication Lab</li>
-<li>Linear IC Applications Lab</li>
-<li>Microprocessors Microcontrollers Lab</li>
-<li>Digital Communication Lab</li>
-<li>Micro Processors Lab</li>
-<li>ECAD Lab</li>
-<li>Digital Signal Processing Lab</li>
-<li>Microwave Optical Communications Lab</li>
-</ul>
+<p>Department of Chemistry has two well equipped , fully furnished labs. It is provide with all the instruments prescried by RTU as well as some of beyond curriculum instruments and experiments. </p>
 <div class="images"> 
 	<div class="row">
-	<div class="col-md-6 col-sm-12"><img class="img-thumbnail" src="../departments/ece/src/img/labs/cadLab1.JPG"></div>
- 	<div class="col-md-6 col-sm-12"><img class="img-thumbnail" src="../departments/ece/src/img/labs/cadLab2.JPG"></div>
+	<center><div class="col-md-6 col-sm-12"><img class="img-thumbnail" src="../departments/as/src/img/labs/labchem1.jpg"></div></center>
+ 	
  	</div>
- 	<div class="row">
-  	<div class="col-md-6 col-sm-12"><img class="img-thumbnail" src="../departments/ece/src/img/labs/de_lab.JPG"></div>
-   	<div class="col-md-6 col-sm-12"><img class="img-thumbnail" src="../departments/ece/src/img/labs/edc_lab.JPG"></div>
-   	</div>
+ 	
 </div>
 </section>

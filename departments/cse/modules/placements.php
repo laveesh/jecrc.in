@@ -1,5 +1,7 @@
 <section class="section container">
 	<div class="sectionHeading">Computer Science Placement</div>
+	<div class="sectionHeading">Placements 2015-19</div>
+	<img src="../departments/cse/src/img/placement/placement15-19.jpg" alt="" class="img-fluid img-thumbnail">
 	<div class="sectionHeading">Placements 2017-18</div>
 	<img src="../departments/cse/src/img/placement/placement17-18.jpg" alt="" class="img-fluid img-thumbnail">
 	<div class="sectionHeading">Placements 2016-17</div>
