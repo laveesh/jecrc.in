@@ -10,13 +10,12 @@
   <link rel="stylesheet" href="../src/css/style.css">
   <link rel="stylesheet" href="../departments/as/src/css/as.css">
   <link rel="icon" href="../src/img/favicon.png" type="image/x-icon"/>
-
-<link rel="stylesheet" href="../src/css/owl.carousel.min.css">
-<link rel="stylesheet" href="../src/css/owl.theme.default.min.css">
-<script src="../src/js/jquery.min.js"></script>
-    <script src="../src/js/popper.min.js"></script>
-    <script src="../src/js/bootstrap.min.js"></script>
-    <script src="../src/js/owl.carousel.min.js"></script></head>
+  <link rel="stylesheet" href="../src/css/owl.carousel.min.css">
+  <link rel="stylesheet" href="../src/css/owl.theme.default.min.css">
+  <script src="../src/js/jquery.min.js"></script>
+  <script src="../src/js/popper.min.js"></script>
+  <script src="../src/js/bootstrap.min.js"></script>
+  <script src="../src/js/owl.carousel.min.js"></script></head>
   <script src="../departments/as/src/js/as.js"></script>
 <body>
   <?php include '../modules/header.php'; ?>
@@ -24,7 +23,7 @@
   <?php include '../departments/as/modules/sidenav.php'; ?>
 
   <main id="as_root">
-    
+
   </main>
 
   <?php include '../modules/footer.php'; ?>
