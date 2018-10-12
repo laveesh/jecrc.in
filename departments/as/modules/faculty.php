@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <section class="section container">
 	<h1 class="sectionHeading">Department Faculty Members</h1>
 
@@ -1528,9 +1528,7 @@
 					</div>
 				</div>
 			</div>
-			
-	
+
+
 		</div>
 	</section>
-
->>>>>>> a81a815efe4dd429df523c0f2b0f90b012c617b4
