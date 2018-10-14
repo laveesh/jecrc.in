@@ -34,7 +34,6 @@
                 <a class="dropdown-item" href="admission.php?section=home">Admission</a>
                 <a class="dropdown-item" href="achivements.php?section=home">Achivements</a>
                 <a class="dropdown-item" href="activities.php?section=home">Activities</a>
-                <!-- <a class="dropdown-item" href="sdo.php?section=home">Student Development Cell</a> -->
                 <a class="dropdown-item" href="startup.php?section=home">Entrepreneurship Ecosystem</a>
               </div>
             </li>
