@@ -174,6 +174,11 @@
             <div class="sectionContent px-4">
               <marquee direction="up" behavior="scroll" height="500" scrollamount="6" id="marq">
               <ul class="sectionList list-group news">
+                <li class="list-group-item">International Girl Child Day Celebration by Team Suhasini on 11 October </li>
+                <li class="list-group-item">"Bal utsav" By Team Zarurat on 9 October </li>
+                <li class="list-group-item">Vande Mataram recital by 25000 at SMS Stadium enthrals Pink City</li>
+                <li class="list-group-item">149<sup>th</sup> Mahatma Gandhi Birthday Celebration Conducted on 2 October </li>
+                <li class="list-group-item">Tree Plantation Organised by Team Soch on 1 October </li>
                 <li class="list-group-item">JECRC WOMEN CONNECT CELL took a session on Development vs Crime Against Women Conducted on 18 September </li>
                 <li class="list-group-item">I.T. Hackathon 2.0 was conducted by I.T Department on 12 september</li>
                 <li class="list-group-item">Organised a Four-am of Institute of Electronics and Telecommunication Engineering on 31 August</li>
