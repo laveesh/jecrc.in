@@ -71,7 +71,7 @@
                   <!-- <a class="dropdown-item" href="as.php?section=library">Library</a> -->
                 </div>
               </li>
-              
+
                 </ul>
               </li>
             </ul>
@@ -88,7 +88,7 @@
     <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
-    
+
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active"><img src="../departments/as/src/img/Carousel/slider1.jpg" alt="Image 1"></div>
