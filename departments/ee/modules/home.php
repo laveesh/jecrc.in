@@ -7,6 +7,12 @@
                     <marquee behavior="scroll" scrolldelay=60 scrollamount=4 direction="up" height=100%>
           <ul class="list-group list-group-flush text-primary">
             <li class="list-group-item">
+              ELECTRICAL DEPARTMENT CELEBRATED 2nd ANNIVERSARY OF SURGICAL STRIKE on 29 Sept, 2018.
+            </li>
+            <li class="list-group-item">
+              Celebration of 150th Birth Anniversary of Mahatma Gandhi By Electrical Department.
+            </li>
+            <li class="list-group-item">
               When the pain of ordering medicines online was lowered by our students
             </li>
             <li class="list-group-item">

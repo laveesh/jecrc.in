@@ -52,11 +52,16 @@
                   <a class="dropdown-item" href="as.php?section=faculty">Faculty</a>
                 </div>
               </li>
-              <!-- <li class="nav-item dropdown">
+              <li class="nav-item dropdown">
                 <a href="as.php?section=tech_events">
                   Events
                 </a>
-              </li> -->
+              </li>
+              <li class="nav-item dropdown">
+                <a href="as.php?section=events">
+                  Awards and Achievements
+                </a>
+              </li>
               <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   Infrastructure
