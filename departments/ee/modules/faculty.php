@@ -330,7 +330,7 @@
 	
 	<div class="col-lg-6 col-md-12 mt-4">
 				<div class="panel-body card">
-					<div class="card-header text-center"><h4>Ms. Yuzusha Sharma</h4></div>
+					<div class="card-header text-center"><h4>Ms. Yazusha Sharma</h4></div>
 					<div class="row">
 						<div class="col-md-3 pt-1 py-1" align="center">
 							<img src="../departments/ee/src/img/people/faculty/yazusha.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
@@ -380,10 +380,59 @@
 				</div>
 	</div>
 
+	<div class="col-lg-6 col-md-12 mt-4">
+				<div class="panel-body card">
+					<div class="card-header text-center"><h4>Ms. NUPUR YADAV</h4></div>
+					<div class="row">
+						<!-- <div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/ee/src/img/people/faculty/neha.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						</div> -->
+						<div class="col-md-9 px-2">
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
+								
+								<li class="list-group-item">nupuryadav.ny@gmail.com</li>
+								<li class="list-group-item">Experience: NIL</li>
+								<li class="list-group-item">Publication: 2</li>
+								<li class="list-group-item">Research:</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+	</div>
+
 </div>
 
 
+<div class="row sectionContent">
+	
+	
 
+	
+	<div class="col-lg-6 col-md-12 mt-4">
+				<div class="panel-body card">
+					<div class="card-header text-center"><h4>Mr. MANISH YADAV</h4></div>
+					<div class="row">
+						<!-- <div class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/ee/src/img/people/faculty/neha.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						</div> -->
+						<div class="col-md-9 px-2">
+							<ul class="list-group list-group-flush">
+								<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
+								
+								<li class="list-group-item">manish16091984@gmail.com</li>
+								<li class="list-group-item">Experience: NIL</li>
+								<li class="list-group-item">Publication: 2</li>
+								<li class="list-group-item">Research:</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+	</div>
+
+</div>
 	
 
 </section>

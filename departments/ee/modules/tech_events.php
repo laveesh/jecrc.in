@@ -118,5 +118,21 @@
 				</div>
 			</div>
 		</section>
-		 	
+        <section class="section">
+			<div class="sectionHeading">ELECTRICAL DEPARTMENT CELEBRATED 2nd ANNIVERSARY OF SURGICAL STRIKE</div>
+			<div class="row">
+				<!-- <div class="col-md-3 col-sm-12">
+					<img class="d-block w-100" src="../departments/ee/src/img/Events/saras_dairy.jpg" alt="dairy visit">
+				</div> -->
+				<div class="col-md-9 col-sm-12 sectionContent px-4">
+					<p>On 29th of September 2018 department of electrical engineering JECRC Jaipur has celebrated 2nd Anniversary of SURGICAL STRIKE done by Indian Armed Forces in the Pakistan territory. The program started by our National Anthem followed by an enthusiastic speech of HOD of Electrical Engineering department Mr. Atul Kulshrestha. He enlightened the students about the contribution of our Indian Armed Forces “We sleep because they are awake, we live because they die.” A set of society, which breathe and bleed Nation, the army, is the only reason of our peace.<br>
+                    The program was ended by vote of thanks by  S.O.D.Electrical Mr.Vishal Sharma.
+                </p>
+						<ol>
+						<li><strong>Date of the event:</strong>Sept 29<sup>th</sup>2018</li>
+						<li><strong>Objectives:</strong>To introduce students to the project-based learning</li>
+						</ol>	
+				</div>
+			</div>
+		</section>		 	
 	</div>

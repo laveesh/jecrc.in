@@ -52,11 +52,16 @@
                   <a class="dropdown-item" href="as.php?section=faculty">Faculty</a>
                 </div>
               </li>
-              <!-- <li class="nav-item dropdown">
+              <li class="nav-item dropdown">
                 <a href="as.php?section=tech_events">
                   Events
                 </a>
-              </li> -->
+              </li>
+              <li class="nav-item dropdown">
+                <a href="as.php?section=events">
+                  Awards and Achievements
+                </a>
+              </li>
               <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   Infrastructure
@@ -66,7 +71,7 @@
                   <!-- <a class="dropdown-item" href="as.php?section=library">Library</a> -->
                 </div>
               </li>
-              
+
                 </ul>
               </li>
             </ul>
@@ -83,7 +88,7 @@
     <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
-    
+
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active"><img src="../departments/as/src/img/Carousel/slider1.jpg" alt="Image 1"></div>
