@@ -19,7 +19,7 @@
       <div class="section container card h-section">
         <div class="sectionContent card-body">
           <div class="owl-carousel owl-theme py-2 px-2">
-    <div class="item"><a href="../departments/as/src/pdf/asnews1.pdf" download><img src="../departments/as/src/img/news/asnews1.PNG" alt="" class="img-thumbnail"></a></div>
+    <div class="item"><a href="../departments/as/src/pdf/asnews1.pdf" download><img src="../departments/as/src/img/news/asnews1.png" alt="" class="img-thumbnail"></a></div>
    
     
 </div>
