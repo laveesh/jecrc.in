@@ -16,7 +16,7 @@
 
 							<li  class="list-group-item">barkhasrivastva.chem@jecrc.ac.in</li>
 							<li  class="list-group-item">Experience (in years): 11</li>
-							<li  class="list-group-item">Publication(s): 9</li>
+							<li  class="list-group-item">Publication(s): 4</li>
 						<li  class="list-group-item">Research Area:3-D Cycloaddition Reactions, Heterocycles:Sulfa Drugs</li></ul>
 					</div>
 				</div>
@@ -31,13 +31,13 @@
 					</div>
 					<div  class="col-md-9 px-2">
 						<ul  class="list-group list-group-flush">
-							<li  class="list-group-item"><strong>Educational Qualification</strong>:B.Sc, M.Sc, Ph.D</li>
+							<li  class="list-group-item"><strong>Educational Qualification</strong>:B.Sc, M.Sc</li>
 							<li  class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 							<li  class="list-group-item">rekhavijay.chem@jecrc.ac.in</li>
 							<li  class="list-group-item">Experience (in years): 5.10 </li>
-							<li  class="list-group-item">Publication(s): </li>
-						<li  class="list-group-item"> Research Area: </li></ul>
+							<li  class="list-group-item">Publication(s): NIL</li>
+						<li  class="list-group-item"> Research Area: NIL</li></ul>
 					</div>
 				</div>
 			</div>
@@ -97,7 +97,7 @@
 							<li  class="list-group-item">drpoonam.math@jecrc.ac.in</li>
 							<li  class="list-group-item">Experience (in years): 17 </li>
 							<li  class="list-group-item">Publication(s): 18</li>
-						<li  class="list-group-item"> Research Area: </li></ul>
+						<li  class="list-group-item"> Research Area:Fluid Dynamics </li></ul>
 					</div>
 				</div>
 			</div>
@@ -131,7 +131,7 @@
 					</div>
 					<div  class="col-md-9 px-2">
 						<ul  class="list-group list-group-flush">
-							<li  class="list-group-item"><strong>Educational Qualification</strong>:B.Sc., M.Sc.</li>
+							<li  class="list-group-item"><strong>Educational Qualification</strong>:B.Sc., M.Sc.,Ph.D</li>
 							<li  class="list-group-item"><strong>Designation</strong>: Assistant Professor
 								<li  class="list-group-item">pramilavijaywargiya.math@jecrc.ac.in</li>
 								<li  class="list-group-item">Experience (in years): 12 </li>
@@ -171,7 +171,7 @@
 						</div>
 						<div  class="col-md-9 px-2">
 							<ul  class="list-group list-group-flush">
-								<li  class="list-group-item"><strong>Educational Qualification</strong>: B.Sc, M.Sc</li>
+								<li  class="list-group-item"><strong>Educational Qualification</strong>: B.Sc, M.Sc, Ph.D</li>
 								<li  class="list-group-item"><strong>Designation</strong>: Associate Professor</li>
 
 								<li  class="list-group-item">ruchimathur.math@jecrc.ac.in</li>
@@ -197,7 +197,7 @@
 								<li  class="list-group-item">smitajain.maths@jecrc.ac.in</li>
 								<li  class="list-group-item">Experience (in years): 13 </li>
 								<li  class="list-group-item">Publication(s): 4</li>
-							<li  class="list-group-item"> Research Area: Electronics and Communication</li></ul>
+							<li  class="list-group-item"> Research Area: Data Analysis by Statistical Tools</li></ul>
 						</div>
 					</div>
 				</div>
@@ -304,6 +304,26 @@
 			</div>
 			<div  class="col-lg-6 col-md-12 mt-4">
 				<div  class="panel-body card">
+					<div  class="card-header text-center"><h4>Dr. R K Mangal</h4></div>
+					<div  class="row">
+						<div  class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/as/src/img/people/faculty/mangal.jpg" class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						</div>
+						<div  class="col-md-9 px-2">
+							<ul  class="list-group list-group-flush">
+								<li  class="list-group-item"><strong>Educational Qualification</strong>:B. Sc, M. Sc, M. Phil, Ph.D</li>
+								<li  class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
+
+								<li  class="list-group-item">hod.phy@jecrc.ac.in</li>
+								<li  class="list-group-item">Experience (in years): 16.3 </li>
+								<li  class="list-group-item">Publication(s): 3</li>
+							<li  class="list-group-item"> Research Area: : Semiconducting Thin films</li></ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div  class="col-lg-6 col-md-12 mt-4">
+				<div  class="panel-body card">
 					<div  class="card-header text-center"><h4>Dr. Sudhir K Dixit</h4></div>
 					<div  class="row">
 						<div  class="col-md-3 pt-1 py-1" align="center">
@@ -311,7 +331,7 @@
 						</div>
 						<div  class="col-md-9 px-2">
 							<ul  class="list-group list-group-flush">
-								<li  class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
+								<li  class="list-group-item"><strong>Educational Qualification</strong>: B.Sc , M.Sc, Ph.D</li>
 								<li  class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 								<li  class="list-group-item">skdixit.phy@jecrc.ac.in</li>
@@ -351,33 +371,13 @@
 						</div>
 						<div  class="col-md-9 px-2">
 							<ul  class="list-group list-group-flush">
-								<li  class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
+								<li  class="list-group-item"><strong>Educational Qualification</strong>: B.Sc,M.Sc, Ph.D</li>
 								<li  class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 
 								<li  class="list-group-item">dr.seemapandey@rediffmail.com</li>
 								<li  class="list-group-item">Experience (in years): 22 </li>
 								<li  class="list-group-item">Publication(s): 7</li>
 							<li  class="list-group-item"> Research Area:Solar Energy </li></ul>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div  class="col-lg-6 col-md-12 mt-4">
-				<div  class="panel-body card">
-					<div  class="card-header text-center"><h4>Dr. R K Mangal</h4></div>
-					<div  class="row">
-						<div  class="col-md-3 pt-1 py-1" align="center">
-							<img src="../departments/as/src/img/people/faculty/mangal.jpg" class="img-responsive rounded-circle faculty-img" alt="faculty-image">
-						</div>
-						<div  class="col-md-9 px-2">
-							<ul  class="list-group list-group-flush">
-								<li  class="list-group-item"><strong>Educational Qualification</strong>:B. Sc, M. Sc, M. Phil, Ph.D</li>
-								<li  class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-
-								<li  class="list-group-item">hod.phy@jecrc.ac.in</li>
-								<li  class="list-group-item">Experience (in years): 16.3 </li>
-								<li  class="list-group-item">Publication(s): 3</li>
-							<li  class="list-group-item"> Research Area: : Semiconducting Thin films</li></ul>
 						</div>
 					</div>
 				</div>
@@ -391,8 +391,8 @@
 						</div>
 						<div  class="col-md-9 px-2">
 							<ul  class="list-group list-group-flush">
-								<li  class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
-								<li  class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
+								<li  class="list-group-item"><strong>Educational Qualification</strong>: B.Sc, M.A, Ph.D</li>
+								<li  class="list-group-item"><strong>Designation</strong>: Assistant Professor(Head)</li>
 
 								<li  class="list-group-item">drmukulsharma.eh@jecrc.ac.in</li>
 								<li  class="list-group-item">Experience (in years): 11 </li>
@@ -431,7 +431,7 @@
 						</div>
 						<div  class="col-md-9 px-2">
 							<ul  class="list-group list-group-flush">
-								<li  class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
+								<li  class="list-group-item"><strong>Educational Qualification</strong>: B.A, M.A, Ph.D</li>
 								<li  class="list-group-item"><strong>Designation</strong>: Associate Professor</li>
 
 								<li  class="list-group-item">ritusoryan.eh@jecrc.ac.in</li>
@@ -451,7 +451,7 @@
 						</div>
 						<div  class="col-md-9 px-2">
 							<ul  class="list-group list-group-flush">
-								<li  class="list-group-item"><strong>Educational Qualification</strong>: M.Tech</li>
+								<li  class="list-group-item"><strong>Educational Qualification</strong>:  B.A, M.A, Ph.D</li>
 								<li  class="list-group-item"><strong>Designation</strong>: Associate Professor</li>
 
 								<li  class="list-group-item">dr.ruchidabarman.eh@jecrc.ac.in</li>
@@ -498,6 +498,26 @@
 								<li  class="list-group-item">Experience (in years): 5 </li>
 								<li  class="list-group-item">Publication(s): 2</li>
 							    <li  class="list-group-item"> Research Area:Nil </li></ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div  class="col-lg-6 col-md-12 mt-4">
+				<div  class="panel-body card">
+					<div  class="card-header text-center"><h4>Ms. Saguna Chaturvedi </h4></div>
+					<div  class="row">
+						<div  class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/as/src/img/people/faculty/saguna.jpg" class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						</div>
+						<div  class="col-md-9 px-2">
+							<ul  class="list-group list-group-flush">
+								<li  class="list-group-item"><strong>Educational Qualification</strong>: B.A., M.A., M. Phil</li>
+								<li  class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
+
+								<li  class="list-group-item"> sagunachaturvedi.mba@jecrc.ac.in</li>
+								<li  class="list-group-item">Experience (in years): 2 </li>
+								<li  class="list-group-item">Publication(s): NIL</li>
+							    <li  class="list-group-item"> Research Area: NIL </li></ul>
 						</div>
 					</div>
 				</div>
