@@ -6,6 +6,7 @@
         <div class="card-body">
                     <marquee behavior="scroll" scrolldelay=60 scrollamount=4 direction="up" height=100%>
           <ul class="list-group list-group-flush text-primary">
+            <li class="list-group-item">Mahatma Gandhi Birthday Celebration Conducted on 2 October At JECRC</li>
             <li class="list-group-item">Department of Mathematics organized an International conference on Mathematical Modeling & Computing on April, 6-7 2018 at JECRC.</li>
           </ul>
           </marquee>
