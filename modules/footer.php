@@ -18,8 +18,8 @@
         </div>
         <div class="col-md-4">
           <h4>Contact Us</h4>
-          <h5>895084748</h5>
-          <h5 class="support-color"> <a href="#">Support@jecrc.ac.in</a></h5>
+          <h5></h5>
+          <h5 class="support-color"> <a href="#">support@jecrc.ac.in</a></h5>
         </div>
       </div>
       <div class="footer-bottom">

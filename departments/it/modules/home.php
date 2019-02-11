@@ -6,6 +6,13 @@
         <div class="card-body">
           <marquee behavior="scroll" scrolldelay=60 scrollamount=6 direction="up" height=100% >
           <ul class="list-group list-group-flush text-primary">
+            <li class="list-group-item">Team "Krypton" from IT Department, Jecrc Foundation Won TEQIP-III RTU SKIT Hackathon 2019</li>
+            <li class="list-group-item">
+              IT Ideathon 2.0 was conducted by I.T Department on 15 December At JECRC Foundation
+            </li>
+            <li class="list-group-item">Workshop on "Project Based Learning" was conducted by I.T Department on 15 December At JECRC Foundation</li>
+            <li class="list-group-item">IT Ideathon 2.0 was conducted by I.T Department on 10 December At JECRC Foundation</li>
+            <li class="list-group-item">I.T. Hackathon 2.0 was conducted by I.T Department on 12 September</li>
             <li class="list-group-item">
               Induction program for 2017-2021 batch from 1<sup>st</sup> July to 15<sup>th</sup> July 2018
             </li>

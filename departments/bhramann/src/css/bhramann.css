@@ -1,0 +1,13 @@
+#submit_button {
+    padding: 2%;
+    margin: 2%;
+    color: white;
+    font-size: 2vmax;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 10px;
+    background-color: #3a3a7e;
+}
+
+.carbgcolor{
+	background-color: #052159;
+}

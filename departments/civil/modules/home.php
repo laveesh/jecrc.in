@@ -46,6 +46,8 @@
             <div class="col-md-4 py-2"><a href="../departments/civil/src/newsletters/constructo-1.pdf"><div class="btn btn-lg btn-primary" download>Constructo Vol-1</div><img src="../departments/civil/src/img/newsletter/p2.PNG" width="183" alt="img"></a></div>
             <div class="col-md-4 py-2"><a href="../departments/civil/src/newsletters/constructo-2.pdf"><div class="btn btn-lg btn-primary" download>Constructo Vol-2</div><img src="../departments/civil/src/img/newsletter/p1.PNG" width="183" alt="img"></a></div>
             <div class="col-md-4 py-2"><a href="../departments/civil/src/newsletters/constructo-3.pdf"><div class="btn btn-lg btn-primary" download>Constructo Vol-3</div><img src="../departments/civil/src/img/newsletter/p3.PNG" width="183" alt="img"></a></div>
+            <div class="col-md-4 py-2"><a href="../departments/civil/src/newsletters/constructo-4.pdf"><div class="btn btn-lg btn-primary" download>Constructo Vol-3</div><img src="../departments/civil/src/img/newsletter/p4.jpg" width="183" alt="img"></a></div>
+            <div class="col-md-4 py-2"><a href="../departments/civil/src/newsletters/constructo-5.pdf"><div class="btn btn-lg btn-primary" download>Constructo Vol-3</div><img src="../departments/civil/src/img/newsletter/p5.jpg" width="183" alt="img"></a></div>
           </div>
           <hr>
           <p class="py-2 px-3">
@@ -116,7 +118,7 @@
 
   <div class="sectionContent">
     <div class="sectionHeading">Toppers (Semester-wise)</div>
-    <div class="row offset-2">
+    <div class="row">
       <div class="col-md-2 text-center">
         <div class="card">
           <div class="card-header" style="font-size: 14px;">
@@ -130,19 +132,19 @@
           </div>
         </div>
       </div>
-      <!-- <div class="col-md-2 text-center">
+      <div class="col-md-2 text-center">
         <div class="card">
           <div class="card-header" style="font-size: 14px;">
-            Prateek
+              Rishabh Raj Ranawat
           </div>
           <div class="card-body">
-            Prateek
+            <img src="../departments/civil/src/img/semtoppers/rishabh.jpg">
           </div>
           <div class="card-footer">
-             (th Semester)
-          </div>
+              84.8% (4<sup>th</sup> Semester)
+            </div>
         </div>
-      </div> -->
+      </div>
       <div class="col-md-2 text-center">
         <div class="card">
           <div class="card-header" style="font-size: 14px;">

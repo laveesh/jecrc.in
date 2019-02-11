@@ -20,15 +20,8 @@
               <li class="active"><a href="admission.php?section=college_fee">College Fees Structure<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="active"><a href="admission.php?section=hostel_fee">Hostel Fees Structure<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="active"><a href="admission.php?section=seat">Seat Structure<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-               <li class="nav-item dropdown">
-                <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  Notice
-                </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a class="dropdown-item" href="admission.php?section=college_fees">College Fee</a>
-                  <a class="dropdown-item" href="admission.php?section=hostel_fees">Hostel Fee</a>
-                </div>
-              </li>
+              <li class="active"><a href="admission.php?section=fees">Fees Notice<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              <li class="active"><a href="admission.php?section=submit_fees">Submit Fees<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
             	</ul>
       				</li>
       			</ul>

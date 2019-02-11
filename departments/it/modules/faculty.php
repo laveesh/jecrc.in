@@ -5,15 +5,15 @@
 <div class="row sectionContent">
 	<div class="col-lg-6 col-md-12 mt-4">
 				<div class="panel-body card">
-					<div class="card-header text-center"><h4>Mr. Sunil Kumar Jangir</h4></div>
+					<div class="card-header text-center"><h4>Dr. Sunil Kumar Jangir</h4></div>
 					<div class="row">
 						<div class="col-md-3 pt-1 py-1" align="center">
 							<img src="../departments/it/src/img/people/faculty/HOD.JPG"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 						</div>
 						<div class="col-md-9 px-2">
 							<ul class="list-group list-group-flush">
-								<li class="list-group-item"><strong>Educational Qualification</strong>: Ph.D.(pur) M.Tech(Goldmedalist.), BE(Hons.)</li>
-								<li class="list-group-item"><strong>Designation</strong>: Assistant Professor and HOD</li>
+								<li class="list-group-item"><strong>Educational Qualification</strong>: Ph.D., M.Tech(Goldmedalist), BE(Hons.)</li>
+								<li class="list-group-item"><strong>Designation</strong>: Associate Professor and HOD</li>
 								<li class="list-group-item"><strong>Research Area</strong>: Mobile Adhoc Network Security</li>
 								
 								<li class="list-group-item">hod.it@jecrc.ac.in</li>
@@ -206,6 +206,46 @@
 				</div>
 	</div>
 	
+	<div class="col-lg-6 col-md-12 mt-4">
+			<div class="panel-body card">
+				<div class="card-header text-center"><h4>Ms. Priya Gupta </h4></div>
+				<div class="row">
+					<div class="col-md-3 pt-1 py-1" align="center">
+						<img src="../departments/cse/src/img/people/faculty/priyagupta.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+					</div>
+					<div class="col-md-9 px-2">
+						<ul class="list-group list-group-flush">
+							<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
+							<li class="list-group-item"><strong>Research Area</strong>: Image Processing						</li>
+							<li class="list-group-item">priyagupta.cse@jecrc.ac.in</li>
+							<li class="list-group-item">Experience: 3 year</li>
+							<li class="list-group-item">Publication: 2</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="col-lg-6 col-md-12 mt-4">
+			<div class="panel-body card">
+				<div class="card-header text-center"><h4>Mr. Arihant Kumar Jain</h4></div>
+				<div class="row">
+					<div class="col-md-3 pt-1 py-1" align="center">
+						<img src="../departments/cse/src/img/people/faculty/arihantjain.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+					</div>
+					<div class="col-md-9 px-2">
+						<ul class="list-group list-group-flush">
+							<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
+							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
+							<li class="list-group-item"><strong>Research Area</strong>: Image Processing					</li>
+							<li class="list-group-item">arihantjain.cse@jecrc.ac.in</li>
+							<li class="list-group-item">Experience: 7 year</li>
+							<li class="list-group-item">Publication: 7</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
 
 	<div class="col-lg-6 col-md-12 mt-4">
 				<div class="panel-body card">

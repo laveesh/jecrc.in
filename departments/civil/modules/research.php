@@ -3,8 +3,8 @@
 <section class="section container card">
   <div class="sectionHeading">Reasearch</div>
   <div class="sectionContent card-body px-4">
-<!-- lists of researches -->
-<strong>1. Major</strong>
+    <!-- lists of researches -->
+    <strong>1. Major</strong>
     <ol class="sectionList">
       <li class="py-2"> Earthquake Resistant Buildings.</li>
       <li class="py-2"> Assessment of optimum flyash and lime for weak subgrade in the design of flexible pavements.</li>
@@ -13,7 +13,7 @@
       <li class="py-2">Study of Shear Wall Frame Structure Subjected to Earthquake Loading in G+15 Building.</li>
     </ol>
   </div>
-<strong>2. Minor</strong>
-<strong>3. DST</strong>
+  <iframe src="https://docs.google.com/gview?url=https://jecrc.in/departments/civil/src/pdf/project.pdf&embedded=true" class="embed-doc" frameborder="0"></iframe>
+
 
 </section>

@@ -16,17 +16,26 @@
           <div class="container-fluid">
           <div class="collapse navbar-collapse" id="bs-sidebar-navbar-collapse-1">
             <ul class="nav navbar-nav flex-column">
+<<<<<<< HEAD
+              <li class="active"><a href="as.php?section=home">Home<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+=======
               <li class="active"><a href="">Home<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+>>>>>>> 9feea1fb83ba1fe580f813fac7deb082a44aa4ad
               <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   About
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+<<<<<<< HEAD
+                  <a class="dropdown-item" href="as.php?section=about">About</a>
+                  <a class="dropdown-item" href="as.php?section=contact">Contact Us</a>
+=======
                   <a class="dropdown-item" href="">About</a>
                   <a class="dropdown-item" href="">History</a>
                   <a class="dropdown-item" href="">Vision and Mission</a>
                   <a class="dropdown-item" href="">Programme Coordinator's Message</a>
                   <a class="dropdown-item" href="">Contact Us</a>
+>>>>>>> 9feea1fb83ba1fe580f813fac7deb082a44aa4ad
                 </div>
               </li>
               <li class="nav-item dropdown">
@@ -34,12 +43,16 @@
                   Academics
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+<<<<<<< HEAD
+                  <!-- <a class="dropdown-item" href="as.php?section=course_outcomes">Course Outcomes</a> -->
+=======
                   <a class="dropdown-item" href="">Academics</a>
                   <a class="dropdown-item" href="">Under Graduate Program</a>
                   <a class="dropdown-item" href="">Programme Outcomes</a>
                   <a class="dropdown-item" href="">Programme Educational Objectives</a>
                   <a class="dropdown-item" href="">Programme Specific  Outcomes</a>
                   <a class="dropdown-item" href="">Course Outcomes</a>
+>>>>>>> 9feea1fb83ba1fe580f813fac7deb082a44aa4ad
                   <a class="dropdown-item" href="as.php?section=co_po_mapping">CO and PO Mapping</a>
                 </div>
               </li>
@@ -48,8 +61,13 @@
                   Research
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+<<<<<<< HEAD
+                  <a class="dropdown-item" href="as.php?section=publication">Publication</a>
+                  <!-- <a class="dropdown-item" href="as.php?section=projects">Projects</a> -->
+=======
                   <a class="dropdown-item" href="">Publication</a>
                   <a class="dropdown-item" href="">Projects</a>
+>>>>>>> 9feea1fb83ba1fe580f813fac7deb082a44aa4ad
                 </div>
               </li>
               <li class="nav-item dropdown">
@@ -57,26 +75,48 @@
                   Faculty and Staff
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+<<<<<<< HEAD
+                  <a class="dropdown-item" href="as.php?section=faculty">Faculty</a>
+                </div>
+              </li>
+              <li class="nav-item dropdown">
+                <a href="as.php?section=tech_events">
+=======
                   <a class="dropdown-item" href="">Faculty</a>
                   <a class="dropdown-item" href="">Technical Staff</a>
                 </div>
               </li>
               <li class="nav-item dropdown">
                 <a href="cse.php?section=tech_events">
+>>>>>>> 9feea1fb83ba1fe580f813fac7deb082a44aa4ad
                   Events
                 </a>
               </li>
               <li class="nav-item dropdown">
+<<<<<<< HEAD
+                <a href="as.php?section=events">
+                  Awards and Achievements
+                </a>
+              </li>
+=======
                 <a href="cse.php?section=events">
                 Awards & Achivements
                 </a>
               </li>
 
+>>>>>>> 9feea1fb83ba1fe580f813fac7deb082a44aa4ad
               <li class="nav-item dropdown">
                 <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   Infrastructure
                 </a>
                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+<<<<<<< HEAD
+                  <a class="dropdown-item" href="as.php?section=labs">Laboratory</a>
+                  <!-- <a class="dropdown-item" href="as.php?section=library">Library</a> -->
+                </div>
+              </li>
+
+=======
                   <a class="dropdown-item" href="">Laboratory</a>
                   <a class="dropdown-item" href="">Library</a>
                 </div>
@@ -115,6 +155,7 @@
                   <a class="dropdown-item" href="">Program Exit Survey</a>
                 </div>
               </li>
+>>>>>>> 9feea1fb83ba1fe580f813fac7deb082a44aa4ad
                 </ul>
               </li>
             </ul>
@@ -125,6 +166,35 @@
     <!-- Image Carousel -->
     <div class="col-sm-10 imageCarousel">
       <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+<<<<<<< HEAD
+  <ol class="carousel-indicators">
+    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+    <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+
+  </ol>
+  <div class="carousel-inner">
+    <div class="carousel-item active"><img src="../departments/as/src/img/Carousel/slider1.jpg" alt="Image 1"></div>
+    <div class="carousel-item"><img src="../departments/as/src/img/Carousel/slider2.jpg" alt="Image 2"></div>
+    <div class="carousel-item"><img src="../departments/as/src/img/Carousel/slider3.jpg" alt="Image 3"></div>
+    <div class="carousel-item"><img src="../departments/as/src/img/Carousel/slider4.jpg" alt="Image 4"></div>
+    <div class="carousel-item"><img src="../departments/as/src/img/Carousel/slider5.jpg" alt="Image 6"></div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+    </div>
+  </div>
+</div>
+=======
         <ol class="carousel-indicators">
           <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
           <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -192,3 +262,4 @@ height2 = $('.main').height()
 });
 });
 </script>
+>>>>>>> 9feea1fb83ba1fe580f813fac7deb082a44aa4ad

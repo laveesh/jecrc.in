@@ -1,13 +1,26 @@
 <section class="section container">
-	<div class="sectionHeading">Our Industrial Liaisons</div>
-	<div class="sectionSubHeading">
-		Tata Consultancy Services
-	</div>
+	<div class="sectionHeading">Unique Initiatives</div>
 	<div class="sectionContent">
-		<p>JECRC stands accredited by Tata Consultancy Services for recruitment purposes. We are active members of AIP. We make sure that all our students are members of Campus commune and participate in all competitions and activities under it. Our students have participated in highest numbers among colleges across North India in all activities under campus commune such as Code Vita, Testimony, ENGinex, DISQ etc. Many students get selected through these competitions. Ten of our students have been selected for the DISQ Program of TCS. Many of our students have been selected for remote internships also and later to the company because of excellent performance during their remote internships.</p>
-	</div>
-	<div class="sectionSubHeading">Ericsson</div>
-	<div class="sectionContent">
-		<p>Ericsson conducts Telecom Essential Training for students under Career Connect program. Experts from telecom industry train 50 students in a batch every year in telecom domain. Students are trained bout mobile networking, present and future technologies in the field of telecom. The training also covers fundaments of internet through mobile. The real-life problems and solutions to the problems, shared by the industry experts add to skills and knowledge of students beyond the learning from books. After the training students have to appear for the test to get certified for the training. The training has helped students during the recruitment by the telecom companies. This resulted in recruitment of about 20 students from JECRC.</p>
+		<p>“OUTSET” Placement of Below Par Students : JECRC Management has taken a unique initiative of starting a vertical
+			exclusively for placement of students with less than 60% marks and many
+			backlogs. This group works for providing training, motivation ad opportunities to students who earlier could not
+			even dream of a Campus Placement.</p>
+		<p>Apart from the campus placements , college motivates / encourages students and provides help to excel in their
+			areas of interest to fulfil their dreams in following :</p>
+
+		<ul class="list-group">
+			<li class="list-group-item">Start-ups: College has Established an Entrepreneur Development cell and Incubation
+				centre to help students inclined to set up their own business.</li>
+			<li class="list-group-item">Government Jobs: College has created a site which helps students to prepare for most
+				sought after Government and PSU jobs.</li>
+			<li class="list-group-item">Higher Studies: Departments provide all necessary help to prepare for GATE examinations
+				and provides counseling for Higher Studies abroad.</li>
+			<li class="list-group-item">Placement through alumni : The college Alumni cell is in constant touch with our Alumni
+				well placed in their organizations and gets the aspiring students opportunities through referral.</li>
+			<li class="list-group-item">Competitions Based Hiring: Many reputed organizations have started hiring through
+				Competitions . We inform and encourage our students to take part in these competitions . TCS in particular hires
+				large numbers and hence we provide specific training to students for their competitions and a good number of
+				students are getting selected.</li>
+		</ul>
 	</div>
 </section>

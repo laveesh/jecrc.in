@@ -19,7 +19,9 @@
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                 <a class="dropdown-item" href="../pages/about.php?section=home">About JECRC</a>
+                <a class="dropdown-item" href="../pages/patron.php?section=home">Patron</a>
                 <a class="dropdown-item" href="../pages/administration.php?section=gov_bodies">Administration</a>
+                <a class="dropdown-item" href="../pages/faculty.php?section=home">Faculty</a>
                 <a class="dropdown-item" href="../pages/research.php?section=home">Research</a>
                 <a class="dropdown-item" href="../pages/library.php?section=home">Library</a>
                 <a class="dropdown-item" href="../pages/events.php?section=home">Events</a>
@@ -34,8 +36,10 @@
                 <a class="dropdown-item" href="admission.php?section=home">Admission</a>
                 <a class="dropdown-item" href="achivements.php?section=home">Achivements</a>
                 <a class="dropdown-item" href="activities.php?section=home">Activities</a>
-                <!-- <a class="dropdown-item" href="sdo.php?section=home">Student Development Cell</a> -->
                 <a class="dropdown-item" href="startup.php?section=home">Entrepreneurship Ecosystem</a>
+                <a class="dropdown-item" href="bhramann.php?section=home">Industrial Tour</a>
+                <a class="dropdown-item" href="../pages/admission.php?section=fees">Fees Notice</a>
+                <a class="dropdown-item" href="../pages/admission.php?section=submit_fees">Submit Fees</a>
               </div>
             </li>
             <li class="nav-item dropdown">
@@ -66,12 +70,15 @@
                 Downloads
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="../src/pdf/nirf.pdf" target="_blank">NIRF - 2019</a>
                 <a class="dropdown-item" href="../departments/about/src/pdf/jecrc-brochure.pdf" target="_blank">JECRC Brochure</a>
                 <a class="dropdown-item" href="../departments/cse/src/pdf/CSESCOOP.pdf" target="_blank">CSE Newsletter</a>
                 <a class="dropdown-item" href="../departments/me/src/newsletters/july_17.pdf" target="_blank">ME Newsletter</a>
                 <a class="dropdown-item" href="../departments/ece/src/newsletters/Ujjwalam%20Vol2%20Issue1.pdf" target="_blank">ECE Newsletter</a>
                 <a class="dropdown-item" href="../departments/it/src/newsletters/itjuly.pdf" target="_blank">IT Newsletter</a>
                 <a class="dropdown-item" href="../departments/civil/src/newsletters/constructo-3.pdf" target="_blank">CE Newsletter</a>
+                <a class="dropdown-item" href="form.php">Grievance Form</a>
+                <a class="dropdown-item" href="../src/pdf/grievance_proforma.pdf" target="_blank">Grievance Proforma</a>
                 <a class="dropdown-item" href="../src/pdf/ApplicationForm.pdf" target="_blank">Bonafide Form</a>
               </div>
             </li>
@@ -85,15 +92,13 @@
                 <a class="dropdown-item" href="../src/pdf/me_sar.pdf" target="_blank">Mechanical Engineering</a>
               </div>
             </li>
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                Contact Us
-              </a>
-              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <a class="dropdown-item" href="form.php">Grievance Form</a>
-                <a class="dropdown-item" href="contact.php">Contact</a>
-              </div>
-            </li>
+            <li class="nav-item active">
+            <a class="nav-link" href="recruitment.php">Career</a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="contact.php">Contact Us</a>
+          </li>
+            
           </ul>
         </div>
       </nav>

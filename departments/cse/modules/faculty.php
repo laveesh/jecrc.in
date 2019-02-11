@@ -1,5 +1,20 @@
 <section class="section container">
-	<h1 class="sectionHeading">Department faculty</h1>
+	<h1 class="sectionHeading">Department Faculty Members List</h1>
+
+	<div class="sectionlist">
+		<ul class="ml-5">
+			<li><a href="../departments/cse/src/pdf/faculty/faculty_list_2015-16.pdf" target="_blank">Faculty details for 2015-16</a></li>
+			<li><a href="../departments/cse/src/pdf/faculty/faculty_list_2015-16%28first%29.pdf" target="_blank">Faculty details for 2015-16 (First Year)</a></li>
+			<li><a href="../departments/cse/src/pdf/faculty/faculty_list_2016-17.pdf" target="_blank">Faculty details for 2016-17</a></li>
+			<li><a href="../departments/cse/src/pdf/faculty/faculty_list_2016-17%28first%29.pdf" target="_blank">Faculty details for 2016-17 (First Year)</a></li>
+			<li><a href="../departments/cse/src/pdf/faculty/faculty_list_2017-18.pdf" target="_blank">Faculty details for 2017-18</a></li>
+			<li><a href="../departments/cse/src/pdf/faculty/faculty_list_2017-18%28first%29.pdf" target="_blank">Faculty details for 2017-18 (First Year)</a></li>
+			<li><a href="../departments/cse/src/pdf/faculty/faculty_list_2018-19.pdf" target="_blank">Faculty details for 2018-19</a></li>
+			<li><a href="../departments/cse/src/pdf/faculty/faculty_list_2018-19%28first%29.pdf" target="_blank">Faculty details for 2018-19 (First Year)</a></li>
+			<li><a href="../departments/cse/src/pdf/faculty/faculty_list_adjunct_faculty.pdf" target="_blank">Faculty details for Adjunct Faculty</a></li>
+		</ul>
+	</div>
+	<h1 class="sectionHeading">Department Faculty Members</h1>
 	
 	<div class="row sectionContent">
 		<div class="col-lg-6 col-md-12 mt-4">
@@ -63,7 +78,26 @@
 				</div>
 			</div>
 		</div>
-		
+		<div  class="col-lg-6 col-md-12 mt-4">
+				<div  class="panel-body card">
+					<div  class="card-header text-center"><h4>Ms. Yogita Punjabi</h4></div>
+					<div  class="row">
+						<div  class="col-md-3 pt-1 py-1" align="center">
+							<img src="../departments/cse/src/img/people/faculty/yogita.jpg"  class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						</div>
+						<div  class="col-md-9 px-2">
+							<ul  class="list-group list-group-flush">
+								<li  class="list-group-item"><strong>Educational Qualification</strong>: B.Sc, M.Sc, MCA, M.Tech</li>
+								<li  class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
+								<li  class="list-group-item"><strong>Research Area:</strong>Image Processing</li>
+                                <li  class="list-group-item">yogitapunjabi.math@jecrc.ac.in</li>
+								<li  class="list-group-item">Experience (in years): 12 </li>
+								<li  class="list-group-item">Publication(s): 3</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
 		<div class="col-lg-6 col-md-12 mt-4">
 			<div class="panel-body card">
 				<div class="card-header text-center"><h4>Dr. Nilam Choudhary</h4></div>
@@ -230,26 +264,6 @@
 		
 		<div class="col-lg-6 col-md-12 mt-4">
 			<div class="panel-body card">
-				<div class="card-header text-center"><h4>Mr. Arihant Kumar Jain</h4></div>
-				<div class="row">
-					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/arihantjain.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
-					</div>
-					<div class="col-md-9 px-2">
-						<ul class="list-group list-group-flush">
-							<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
-							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-							<li class="list-group-item"><strong>Research Area</strong>: Image Processing					</li>
-							<li class="list-group-item">arihantjain.cse@jecrc.ac.in</li>
-							<li class="list-group-item">Experience: 7 year</li>
-							<li class="list-group-item">Publication: 7</li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="col-lg-6 col-md-12 mt-4">
-			<div class="panel-body card">
 				<div class="card-header text-center"><h4>Mr. Abhishek Dixit</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
@@ -370,28 +384,7 @@
 					</div>
 				</div>
 			</div>
-		</div>
-		<div class="col-lg-6 col-md-12 mt-4">
-			<div class="panel-body card">
-				<div class="card-header text-center"><h4>Ms. Priya Gupta </h4></div>
-				<div class="row">
-					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/cse/src/img/people/faculty/priyagupta.jpg"class="img-responsive rounded-circle faculty-img" alt="faculty-image">
-					</div>
-					<div class="col-md-9 px-2">
-						<ul class="list-group list-group-flush">
-							<li class="list-group-item"><strong>Educational Qualification</strong>: M.tech</li>
-							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
-							<li class="list-group-item"><strong>Research Area</strong>: Image Processing						</li>
-							<li class="list-group-item">priyagupta.cse@jecrc.ac.in</li>
-							<li class="list-group-item">Experience: 3 year</li>
-							<li class="list-group-item">Publication: 2</li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</div>
-		
+		</div>		
 		<div class="col-lg-6 col-md-12 mt-4">
 			<div class="panel-body card">
 				<div class="card-header text-center"><h4>Mr. Ankur Raj</h4></div>
@@ -483,12 +476,12 @@
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
-							<li class="list-group-item"><strong>Educational Qualification</strong>: M.S</li>
+							<li class="list-group-item"><strong>Educational Qualification</strong>: M.Tech.</li>
 							<li class="list-group-item"><strong>Designation</strong>: Assistant Professor</li>
 							<li class="list-group-item"><strong>Research Area</strong>: Data Mining 		</li>
 							<li class="list-group-item">anoopkumarmehta.cse@jecrc.ac.in</li>
 							<li class="list-group-item">Experience: 2 year</li>
-							<li class="list-group-item">Publication: 3</li>
+							<li class="list-group-item">Publication: 1</li>
 						</ul>
 					</div>
 				</div>

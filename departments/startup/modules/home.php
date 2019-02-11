@@ -16,7 +16,7 @@
 			</ul>
 		</p>
 		<p class="py-1">JECRC has served as an early informal nucleus for entrepreneurial activities and <b>incubated over 150+
-		socially relevant companies since 2004.</b> Notable examples include</p>
+		socially relevant companies since 2004.
 	</div>
 	<div class="text-center">
 		<div class="col-12 text-center my-3">

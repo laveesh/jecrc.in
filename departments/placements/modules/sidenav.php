@@ -17,25 +17,32 @@
       		<div class="collapse navbar-collapse" id="bs-sidebar-navbar-collapse-1">
       			<ul class="nav navbar-nav flex-column">
               <li class="active"><a href="placements.php?section=home">Home<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-              <li class="active"><a href="placements.php?section=visionmission">Vision and Mission<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-              <li class="active"><a href="placements.php?section=facilities">Center for Deep Learning<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-              <li class="active"><a href="placements.php?section=tie_ups">Industrial Liaisons<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-              <li class="active"><a href="placements.php?section=companies_list">Companies List<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-              <li class="nav-item dropdown">
-                <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <!-- <li class="active"><a href="placements.php?section=visionmission">Vision and Mission<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li> -->
+              
+              <li class="active"><a href="placements.php?section=tie_ups">Unique Initiatives<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              <li class="active"><a href="placements.php?section=companies_list">Our Recruiters<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              <li class="nav-item">
+                <a class="active" href="placements.php?section=pastyear">
                   Statistics
                 </a>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <!-- <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="placements.php?section=2018">2018</a>
                   <a class="dropdown-item" href="placements.php?section=2015_17">2015 - 2017</a>
                   <a class="dropdown-item" href="placements.php?section=2012_14">2012 - 2014</a>
                   <a class="dropdown-item" href="placements.php?section=2009_11">2009 - 2011</a>
                   <a class="dropdown-item" href="placements.php?section=2006_08">2006 - 2008</a>
-                </div>
+                </div> -->
               </li>
+<<<<<<< HEAD
+              <!-- <li class="active"><a href="placements.php?section=career_development">Career Development Center<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li> -->
+              <li class="active"><a href="placements.php?section=facilities">Training<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+            	<li class="active"><a href="placements.php?section=studentlist">List of Student Placed<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              </ul>
+=======
               <li class="active"><a href="placements.php?section=career_development">Career Development Center<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="active"><a href="placements.php?section=brochure">Brochure<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
             	</ul>
+>>>>>>> 9feea1fb83ba1fe580f813fac7deb082a44aa4ad
       				
       		</div>
       	</div>
@@ -55,28 +62,25 @@
         </ol>
         <div class="carousel-inner">
           <div class="carousel-item">
-            <img  src="../departments/placements/src/Carousel/e1.jpg" alt="Fifth slide">
+            <img  src="../departments/placements/src/Carousel/a1.jpg" alt="Fifth slide">
           </div>
           <div class="carousel-item">
-            <img  src="../departments/placements/src/Carousel/e2.jpg" alt="Fifth slide">
+            <img  src="../departments/placements/src/Carousel/a2.jpg" alt="Fifth slide">
           </div>
           <div class="carousel-item">
-            <img  src="../departments/placements/src/Carousel/e3.jpg" alt="Fifth slide">
+            <img  src="../departments/placements/src/Carousel/a3.jpg" alt="Fifth slide">
           </div>
           <div class="carousel-item active">
-            <img src="../departments/placements/src/Carousel/p1.jpg" alt="First slide">
+            <img src="../departments/placements/src/Carousel/a4.jpg" alt="First slide">
           </div>
           <div class="carousel-item">
-            <img src="../departments/placements/src/Carousel/p2.jpg" alt="Second slide">
+            <img src="../departments/placements/src/Carousel/a5.jpg" alt="Second slide">
           </div>
           <div class="carousel-item">
-            <img src="../departments/placements/src/Carousel/p3.jpg" alt="Third slide">
+            <img src="../departments/placements/src/Carousel/a6.jpg" alt="Third slide">
           </div>
-<!--           <div class="carousel-item">
-            <img  src="../departments/placements/src/img/Carousel/p2.jpg" alt="Fourth slide">
-          </div>
- -->          <div class="carousel-item">
-            <img  src="../departments/placements/src/Carousel/p4.jpg" alt="Fifth slide">
+          <div class="carousel-item">
+            <img  src="../departments/placements/src/Carousel/a7.jpg" alt="Fifth slide">
           </div>
         </div>
         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">

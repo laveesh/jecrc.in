@@ -96,6 +96,62 @@
                             </div>
                         </div>
                     </div>
+
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="card mx-5" >
+                            <div class="card-heading">
+                                <h3 class="card-header text-white">Arpit Jain</h3>
+                            </div>
+                            <div class="px-2 py-3">
+                                <img src="../src/img/team/arpit.jpg" alt="" class="rounded-circle">
+                            </div>
+                            <div class="social pt-3 justify-content-center">
+                                <ul class="social-group justify-content-center">
+                                    <li><a href="https://www.facebook.com/maiarpitjain94" target="_blank"><i class="fa fa-facebook-official mx-3"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/in/arpit-jain-87a1a1135/" target="_blank"><i class="fa fa-linkedin mx-3"></i></a></li>
+                                    <li><a href="https://twitter.com/arpit0151" target="_blank"><i class="fa fa-twitter mx-3"></i></a></li> 
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="card mx-5" >
+                            <div class="card-heading">
+                                <h3 class="card-header text-white">Nurul Hassan</h3>
+                            </div>
+                            <div class="px-2 py-3">
+                                <img src="../src/img/team/nurul.jpg" alt="" class="rounded-circle">
+                            </div>
+                            <div class="social pt-3 justify-content-center">
+                                <ul class="social-group justify-content-center">
+                                    <li><a href="https://www.facebook.com/nurulhassan2000" target="_blank"><i class="fa fa-facebook-official mx-3"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/in/nurulhassan/" target="_blank"><i class="fa fa-linkedin mx-3"></i></a></li>
+                                    <li><a href="https://www.github.com/nurulhassan" target="_blank"><i  class="fa fa-github mx-3"></i></a></li>
+                                     
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-xl-3 col-lg-4 col-md-6">
+                        <div class="card mx-5" >
+                            <div class="card-heading">
+                                <h3 class="card-header text-white">Prateek Joshi</h3>
+                            </div>
+                            <div class="px-2 py-3">
+                                <img src="../src/img/team/prateek.jpg" alt="" class="rounded-circle">
+                            </div>
+                            <div class="social pt-3 justify-content-center">
+                                <ul class="social-group justify-content-center">
+                                    <li><a href="https://www.facebook.com/pjprateekjoshi" target="_blank"><i class="fa fa-facebook-official mx-3"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/in/prateek-joshi-b44b3611a/" target="_blank"><i class="fa fa-linkedin mx-3"></i></a></li>
+                                    <li><a href="https://www.github.com/pjprateekjoshi" target="_blank"><i  class="fa fa-github mx-3"></i></a></li>
+                                     
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
                     <div class="col-md-3"></div>
                     <div class="col-md-3"></div>
                 </div>

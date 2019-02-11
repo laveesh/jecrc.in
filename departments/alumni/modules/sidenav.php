@@ -17,8 +17,8 @@
           <div class="collapse navbar-collapse" id="bs-sidebar-navbar-collapse-1">
             <ul class="nav navbar-nav flex-column">
               <li class="active"><a href="alumni.php?section=home">About<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-              <li class="active"><a href="alumni.php?section=visionmission">
-                Vision<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              <!-- <li class="active"><a href="alumni.php?section=visionmission">
+                Vision<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li> -->
                 <li class="nav-item dropdown">
                   <a class="dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">      Awards & Recognition
                   </a>
@@ -44,6 +44,8 @@
                   Contact<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>       
                 <li class="active"><a href="alumni.php?section=feedbackform">
                   Feedback Form<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>       
+                <li class="active"><a href="https://jecrcalumni.com/" target='_blank'>
+                  Alumni Portal<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>       
                 </ul>
                 </div>
               </div>

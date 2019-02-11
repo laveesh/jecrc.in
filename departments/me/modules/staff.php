@@ -12,7 +12,7 @@
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">
-							<li class="list-group-item"><strong>Educational Qualification</strong>: M.A.</li>
+							<li class="list-group-item"><strong>Educational Qualification</strong>: ITI and M.A.</li>
 							<li class="list-group-item"><strong>Designation</strong>: Sr. Lab Instructor</li>
 							<li class="list-group-item">hemant.me@jecrc.ac.in</li>
 							<li class="list-group-item">Experience: 10 year</li>
@@ -122,7 +122,7 @@
 				<div class="card-header text-center"><h4>Hanuman Prasad Saini</h4></div>
 				<div class="row">
 					<div class="col-md-3 pt-1 py-1" align="center">
-						<img src="../departments/me/src/img/people/staff/Haunuman.jpg"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
+						<img src="../departments/me/src/img/people/staff/haunuman.jpg"	class="img-responsive rounded-circle faculty-img" alt="faculty-image">
 					</div>
 					<div class="col-md-9 px-2">
 						<ul class="list-group list-group-flush">

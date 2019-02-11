@@ -1,4 +1,8 @@
 <section class="section container">
-	<div class="sectionHeading">Statistics 2018</div>
-	<img src="../departments/placements/src/img/stats/2018.jpg" alt="Stats 2018" class="stats-img">
+	<div class="sectionHeading">Statistics 2012-19</div>
+	<img src="../departments/placements/src/img/stats/previous.jpg" alt="Stats 2018" class="stats-img">
+</section>
+<section class="section container">
+	<div class="sectionHeading">Selection 2018-19</div>
+	<img src="../departments/placements/src/img/stats/selection.jpg" alt="Stats 2018" class="stats-img">
 </section>

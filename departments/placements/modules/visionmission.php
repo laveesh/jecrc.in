@@ -1,11 +1,15 @@
 <section class="section container card">
-	<div class="sectionHeading">Vision and Mission</div>
-	  <div class="sectionContent card-body">
-	  	<div class="sectionHeading">Vision</div>
-	  		<p>To provide best possible state of the art training to our students to make them ready for the best Companies in their domain.  To provide  100% placement to all students desiring to be placed in most reputed Organizations.</p>
-	  	<div class="sectionHeading">Mission</div>
-	  		<p>The Training and Placement Team of JECRC is dedicated towards achieving 100% placements and collaborating with best companies in different domain where our students wish to be placed. Throughout the year placement team contact reputed companies in all possible domains to develop non lasting relationship with them. Training and Placement Team also arrange to conduct extensive training in new technologies. Department also conduct various programs for all round development of students. 
-	  		</p>
-	   </div>
+  <div class="sectionHeading">Vision and Mission</div>
+  <div class="sectionContent card-body">
+    <h3 class="sectionSubHeading">Vision</h3>
+    <p>To become a renowned centre of outcome based learning, and work towards academic, professional, cultural and social enrichment of the lives of individuals and communities.
+    </p>
+    <h3 class="sectionSubHeading">Mission</h3>
+    <ol class="list-group list-group-flush sectionList">
+      <li class="list-group-item py-3">Focus on evaluation of learning outcomes and motivate students to inculcate research aptitude by project based learning.</li>
+      <li class="list-group-item py-3">Identify areas of focus and provide platform to gain knowledge and solutions based on informed perception of Indian, regional and global needs.</li>
+      <li class="list-group-item py-3">Offer opportunities for interaction between academia and industry.</li>
+      <li class="list-group-item py-3">Develop human potential to its fullest extent so that intellectually capable and imaginatively gifted leaders can emerge in a range of professions.</li>
+    </ol>
+  </div>
 </section>
-
