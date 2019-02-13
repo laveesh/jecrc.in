@@ -180,6 +180,8 @@
             <marquee direction="up" behavior="scroll" height="500" scrollamount="6" id="marq">
               <ul class="sectionList list-group news">
                 <li class="list-group-item">Team "Krypton" from IT Department, Jecrc Foundation Won TEQIP-III RTU SKIT Hackathon 2019</li>
+                <li class="list-group-item">Suhasini Celebrated National Girl Child Day on 23<sup>th</sup>& 24<sup>th</sup> January`19 at JECRC Foundation </li>
+                <li class="list-group-item">Seminar held on Cardiopulmonary Resuscitation at JECRC Foundation</li>
                 <li class="list-group-item">Workshop on "Project Based Learning" was conducted by I.T Department on 15 December At JECRC Foundation</li>
                 <li class="list-group-item">IT Ideathon 2.0 was conducted by I.T Department on 10 December At JECRC Foundation</li>
                 <li class="list-group-item">1578 Units Blood Donated at Blood Donation Camp 2018 Organised By Team Aashayein on 23 Oct `18 At JECRC Foundation and JECRC University.</li>
