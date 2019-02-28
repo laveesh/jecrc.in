@@ -39,3 +39,10 @@ box-shadow: 5px 5px 4px #333333;
 .jtech-img{
   width: 100%;
 }
+
+.jtech-register{
+  text-align: center;
+  font-size: 40px;
+  background-color: #057afb;
+  color: white;
+}
