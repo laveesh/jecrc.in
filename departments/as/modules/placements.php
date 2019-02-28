@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <section class="section container text-center">
 	<div class="sectionHeading"> Placements in Electronics And Communication Departments</div>
 	<div class="sectionHeading">Placements 2017-18</div>
@@ -8,14 +7,3 @@
 	<div class="sectionHeading">Placements 2015-16</div>
 	<img src="../departments/ece/src/img/placements/placement_2015-16.png" alt="" class="img-fluid img-thumbnail">
 </section>
-=======
-<section class="section container text-center">
-	<div class="sectionHeading"> Placements in Electronics And Communication Departments</div>
-	<div class="sectionHeading">Placements 2017-18</div>
-	<img src="../departments/ece/src/img/placements/placement_2017-18.png" alt="" class="img-fluid img-thumbnail">
-	<div class="sectionHeading">Placements 2016-17</div>
-	<img src="../departments/ece/src/img/placements/placement_2016-17l.png" alt="" class="img-fluid img-thumbnail">
-	<div class="sectionHeading">Placements 2015-16</div>
-	<img src="../departments/ece/src/img/placements/placement_2015-16.png" alt="" class="img-fluid img-thumbnail">
-</section>
->>>>>>> 9feea1fb83ba1fe580f813fac7deb082a44aa4ad

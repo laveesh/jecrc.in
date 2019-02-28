@@ -35,3 +35,7 @@ color: #ff0000;
 .foo:hover{
 box-shadow: 5px 5px 4px #333333;
 }
+
+.jtech-img{
+  width: 100%;
+}
