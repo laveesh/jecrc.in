@@ -22,8 +22,8 @@
 			with 10,000 students enrolled as on date in various courses
 			alongside engineering courses, the major chunk of the
 			admissions being routed through JEE examinations. The
-			engineering colleges are approved by the AICTE, New Delhi and
-			are affiliated to the Rajasthan Technical University, Kota. The final
+			engineering colleges are approved by the <a href="https://www.aicte-india.org/" target="_blank">AICTE</a>, New Delhi and
+			are affiliated to the <a href="http://www.rtu.ac.in/RTU/" target="_blank">Rajasthan Technical University</a>, Kota. The final
 			year batch size going to complete the graduation in session 2018-2019 is 2123
 			across all the courses.
 		</p>
@@ -34,7 +34,7 @@
 	<div class="sectionHeading">History</div>
 	<div class="sectionContent">
 		<p class="px-2 py-1">JECRC was established in 2000. The institution started with three branches namely, Computer Science Engineering, Electrical Engineering and Electronics and Communication Engineering, with 180 students. The very next year one more branch introduced Information and Technology. After the introduction of the new branch total intake is increases by 240 students. In 2003, with the addition of Mechanical Engineering intake increased by 60. In 2009, college came up one more branch, Civil Engineering. With this new advancement, the student’s sanctioned intake increased to 480. By 2013, second shift for Computer Science Engineering and Mechanical Engineering came into effect and at present the total sanctioned intake of 990 students in all.</p>
-        <p class="px-2 py-1"> The JECRC Foundation, is in its 18th year of existence, is amongst the most reputed educational groups in Higher and Technical Education in North India which has 2 large campuses with 10,000 students enrolled as on date in various courses along with engineering courses, the major chunk of the admissions being routed through JEE examinations. The JECRC Engineering College is approved by the AICTE, New Delhi and is affiliated to the Rajasthan Technical University, Kota. The total strength of the students in the session 2018-19 is 3998.
+        <p class="px-2 py-1"> The JECRC Foundation, is in its 18th year of existence, is amongst the most reputed educational groups in Higher and Technical Education in North India which has 2 large campuses with 10,000 students enrolled as on date in various courses along with engineering courses, the major chunk of the admissions being routed through JEE examinations. The JECRC Engineering College is approved by the <a href="https://www.aicte-india.org/" target="_blank">AICTE</a>, New Delhi and is affiliated to the <a href="http://www.rtu.ac.in/RTU/" target="_blank">Rajasthan Technical University</a>, Kota. The total strength of the students in the session 2018-19 is 3998.
 
 
         <ul >JECRC offers B. Tech programmes in the following disciplines:
