@@ -33,16 +33,10 @@
                   <a class="dropdown-item" href="placements.php?section=2006_08">2006 - 2008</a>
                 </div> -->
               </li>
-<<<<<<< HEAD
               <!-- <li class="active"><a href="placements.php?section=career_development">Career Development Center<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li> -->
               <li class="active"><a href="placements.php?section=facilities">Training<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
             	<li class="active"><a href="placements.php?section=studentlist">List of Student Placed<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               </ul>
-=======
-              <li class="active"><a href="placements.php?section=career_development">Career Development Center<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-              <li class="active"><a href="placements.php?section=brochure">Brochure<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
-            	</ul>
->>>>>>> 9feea1fb83ba1fe580f813fac7deb082a44aa4ad
       				
       		</div>
       	</div>

@@ -14,18 +14,15 @@
   <script src="../src/js/jquery.min.js"></script>
   <script src="../src/js/popper.min.js"></script>
   <script src="../src/js/bootstrap.min.js"></script>
+    <script src="../departments/recruitment/src/js/about.js"></script>
 </head>
 <body>
   <?php include '../modules/header.php'; ?>
-  <section class="section container">
-    <div class="sectionHeading">Advertisement for Recruitment</div>
+  <?php include '../departments/recruitment/modules/sidenav.php'; ?>
 
-
-    <iframe src="https://docs.google.com/gview?url=https://jecrc.in/src/pdf/advertisement.pdf&embedded=true" class="embed-doc" frameborder="0"></iframe>
-
-    <h4 class="text-center mt-3"><a href="../src/pdf/ApplicationFormat.pdf" target="_blank">Download Application format from here.</a></h4>
-
-  </section>
+  <main id="recruitment_root">
+    
+  </main>
   <?php include '../modules/footer.php'; ?>
 
 </body>

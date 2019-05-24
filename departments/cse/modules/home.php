@@ -30,7 +30,6 @@
       <div class="sectionHeading" >NEWSLETTERS AND MAGAZINES</div>
       <div class="section container card h-section">
         <div class="sectionContent card-body">
-<<<<<<< HEAD
             <div class="sectionContent card-body owl-carousel owl-theme owl-loaded owl-drag py-2 px-2">
               <div class="item"><a href="../departments/cse/src/pdf/csebytesoct18.pdf" download><img src="../departments/cse/src/img/newsletters/csebytesoct18.jpg" alt=E-Mechzine class="img-thumbnail"></a></div>
               <div class="item"><a href="../departments/cse/src/pdf/csebytessep18.pdf" download><img src="../departments/cse/src/img/newsletters/csebytessep18.jpg" alt=E-Mechzine class="img-thumbnail"></a></div>
@@ -39,18 +38,6 @@
               <div class="item"><a href="../departments/cse/src/pdf/csescoop2016.pdf" download><img src="../departments/cse/src/img/newsletters/csescoop2016.jpg" alt=E-Mechzine class="img-thumbnail"></a></div>
               <div class="item"><a href="../departments/cse/src/pdf/CSESCOOP.pdf" download><img src="../departments/cse/src/img/newsletters/csescoop.PNG" alt=E-Mechzine class="img-thumbnail"></a></div>
             </div>
-=======
-          <div class="owl-carousel owl-theme py-2 px-2">
-    <div class="item"><a href="../departments/cse/src/pdf/CSESCOOP.pdf" download><img src="../departments/cse/src/img/newsletters/csescoop.PNG" alt="" class="img-thumbnail"></a></div>
-   <!--  <div class="item"><img src="../departments/cse/src/img/newsletters/Vol-1issue1.jpg" alt="" class="img-thumbnail"></div>
-    <div class="item"><img src="../departments/cse/src/img/newsletters/Vol-1issue1.jpg" alt="" class="img-thumbnail"></div> -->
-    
-</div>
- <p class="px-2 pt-2">
-           
-
-          </p>
->>>>>>> 9feea1fb83ba1fe580f813fac7deb082a44aa4ad
         </div>
       </div>
     </div>
