@@ -33,11 +33,11 @@
         $temp = explode(".", $_FILES["notes"]["name"]);
         $newFilename = $last_id . '.' . end($temp);
 
-        $target_dir = "/home/laveesh/";
+        $target_dir = "../../uploads";
         $target_file = $target_dir . $newFilename;
 
         $notes_temp_image = $_FILES['notes']['tmp_name'];
-        if(move_uploaded_file($notes_temp_image,$newFilename)){
+        if(move_uploaded_file($notes_temp_image,$target_file)){
           $fileLink = "https://jecrc.in/uploads/".$newFilename;
         $updateFile = "UPDATE notes SET link = '{$fileLink}' WHERE id = '{$last_id}'";
 

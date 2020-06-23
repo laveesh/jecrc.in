@@ -43,11 +43,16 @@
       </table>
     </div>
 
+    <div class="container mt-5">
+    <?php
+      include "notes.php"
+    ?>
+  </div>
 
   </div>
-  <!-- /.content-wrapper -->
 
-
+  
+  
 
 </div>
 <!-- /#wrapper -->

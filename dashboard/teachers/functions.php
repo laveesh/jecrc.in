@@ -99,4 +99,54 @@ function getSubjectOptionsWithDptName(){
     }
 }
 
+function getNotesList($userId){
+    global $connection;
+    
+    $subjects = "SELECT n.id as nid, n.topic as topic, s.name as sname, d.name as dname, n.link as link from notes n";
+    $subjects .= " join sub_assigned sa on sa.id = n.sub_assign_id";
+    $subjects .= " join subject s on sa.sub_id = s.id";
+    $subjects .= " inner join department d on d.id = s.dpt_id ";
+    $subjects .= " where sa.user_id = \"{$userId}\"";
+
+    $result = mysqli_query($connection, $subjects);    
+
+    if (mysqli_num_rows($result) > 0) {
+        $i = 1;
+        while($row = mysqli_fetch_assoc($result)) {
+            if(isset($_GET['note'.$row['nid']])){
+                deleteNote($row['nid'], $row['link']);
+            }
+
+            echo "<tr> <th scope=\"row\">".$i."</th>";
+            echo "<td>".$row["topic"]."</td>";
+            echo "<td>".$row["sname"]."</td>";
+            echo "<td>".$row["dname"]."</td>";
+            echo "<td>".$row["link"]."</td>";
+            echo "<form action='' method='GET'>";
+            echo "<td><input type=\"submit\" value=\"Delete\" class=\"btn btn-dark\" name=\"note".$row["nid"]."\"/></td>";
+            echo "</from>";
+            echo "</tr>";
+            $i += 1;
+        }
+    } else {
+        echo "<tr> <td colspan=6 class='text-center' > No Notes uploaded.</td> </tr>";
+    }
+}
+
+function deleteNote($noteId, $link){
+    global $connection;
+
+    $deleteQuery = "DELETE from notes where id = '{$noteId}'";
+
+    $fileExtension = end(explode(".", $link));
+    $filePointer = "../../uploads" . $noteId . $fileExtension;
+    unlink($fileExtension);
+
+    $result = mysqli_query($connection, $deleteQuery);
+
+    confirm_query($result);
+
+    header("refresh:0");
+}
+
 ?>
