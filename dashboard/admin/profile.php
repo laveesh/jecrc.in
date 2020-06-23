@@ -37,8 +37,6 @@ if(isset($_POST['update_user'])){
 
 <div id="wrapper">
 
-<!-- Sidebar -->
-<?php include "includes/sidebar.php" ?>
 
 <div id="content-wrapper">
 

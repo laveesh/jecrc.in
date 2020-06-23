@@ -60,5 +60,28 @@ function checkIfUserIsLoggedInAndRedirect($redirectLocation=null){
     }
 }
 
+function getAssignedSubjects($userId){
+    global $connection;
+ 
+    $subjects = "SELECT s.name as sname, d.name as dname from sub_assigned sa";
+    $subjects .= " join subject s on sa.sub_id = s.id";
+    $subjects .= " inner join department d on d.id = s.dpt_id ";
+    $subjects .= " where sa.user_id = \"{$userId}\"";
+    $result = mysqli_query($connection, $subjects);    
+
+    if (mysqli_num_rows($result) > 0) {
+        $i = 1;
+        while($row = mysqli_fetch_assoc($result)) {
+            echo "<tr> <th scope=\"row\">".$i."</th>";
+            echo "<td>".$row["sname"]."</td>";
+            echo "<td>".$row["dname"]."</td>";
+            echo "</tr>";
+            $i += 1;
+        }
+    } else {
+        echo "<tr> <td colspan=3 class='text-center' > No subject assigned. Please Assign a subject to your self. </td> </tr>";
+    }
+}
+
 
 ?>

@@ -1,7 +1,4 @@
-<?php include "includes/header.php" ?>
 
-<!-- Navbar -->
-<?php include "includes/navigation.php" ?>
 
 <div id="wrapper">
 
@@ -11,7 +8,7 @@
     <!-- Page Content -->
 
 
-    <h2 class="text-center">Subjects list by this teacher</h2>
+    <h2 class="text-center">Subjects List</h2>
     <hr>
 
     <div class="container mt-5">
@@ -24,21 +21,7 @@
           </tr>
         </thead>
         <tbody>
-          <tr>
-            <th scope="row">1</th>
-            <td>Mark</td>
-            <td>@mdo</td>
-          </tr>
-          <tr>
-            <th scope="row">2</th>
-            <td>Jacob</td>
-            <td>@fat</td>
-          </tr>
-          <tr>
-            <th scope="row">3</th>
-            <td>Larry</td>
-            <td>@twitter</td>
-          </tr>
+          <?php getSubjectTable()?>
         </tbody>
       </table>
     </div>
@@ -51,5 +34,3 @@
 
 </div>
 <!-- /#wrapper -->
-
-<?php include "includes/footer.php" ?>

@@ -5,13 +5,14 @@
             
         if($_POST['password']==$_POST['confirmpassword']){
             $password = escape($_POST['password']);
+            $teacherUsername = escape($_SESSION['teacherUsername']);
 
-            if($stmt = mysqli_prepare($connection, "UPDATE users SET user_password='{$password}' WHERE username=?")){
-                mysqli_stmt_bind_param($stmt,"s",$_SESSION['username']);
+        if($stmt = mysqli_prepare($connection, "UPDATE users SET user_password='{$password}' WHERE username=?")){
+                mysqli_stmt_bind_param($stmt,"s",$_SESSION['teacherUsername']);
                 mysqli_stmt_execute($stmt);
 
                 if(mysqli_stmt_affected_rows($stmt) >= 1){
-                    redirect('../index.php');
+                    redirect('dashboard.php');
                 }
 
                 mysqli_stmt_close($stmt);
@@ -29,13 +30,10 @@
 
 <div id="wrapper">
 
-<!-- Sidebar -->
-<?php include "includes/sidebar.php" ?>
-
 <div id="content-wrapper">
     <div class="container-fluid">
         <!-- Page Content -->
-        <h2>Change Your Password</h2>
+        <h2>Change <?php echo $_SESSION['teacherUsername']; ?>'s Password</h2>
         <hr>
 
         <?php

@@ -62,6 +62,63 @@ function confirm_query($result){
 
 }
 
+function getTeachersTable(){
+    global $connection;
+
+    $teacher = "SELECT * from users where user_role = \"teacher\"";
+    $result = mysqli_query($connection, $teacher);
+
+    if (mysqli_num_rows($result) > 0) {
+        $i = 1;
+        while($row = mysqli_fetch_assoc($result)) {
+            if(isset($_GET['user'.$row['user_id']])){
+                deleteUser($row['user_id']);
+            }
+
+            if(isset($_GET['userpass'.$row['user_id']])){
+                $_SESSION['teacherUsername'] = $row["username"];
+                header("location: teacher-password.php");
+            }
+            echo "<tr> <th scope=\"row\">".$i."</th>";
+            echo "<td>".$row["user_name"]."</td>";
+            echo "<td>".$row["user_email"]."</td>";
+            echo "<form action='' method='GET'>";
+            echo "<td><input type=\"submit\" value=\"Change\" class=\"btn btn-dark\" name=\"userpass".$row["user_id"]."\"/></td>";
+            echo "<td><input type=\"submit\" value=\"Delete\" class=\"btn btn-dark\" name=\"user".$row["user_id"]."\"/></td>";
+            echo "</from>";
+            echo "</tr>";
+            $i += 1;
+        }
+    }
+}
+
+function deleteUser($userId){
+    global $connection;
+    $deleteQuery = "DELETE from users where user_id = '{$userId}'";
+    $result = mysqli_query($connection, $deleteQuery);
+
+    confirm_query($result);
+
+    header("refresh:0");
+}
+
+function getSubjectTable(){
+    global $connection;
+ 
+    $subjects = "SELECT s.name as sname, d.name as dname from subject s join department d on d.id = s.dpt_id ";
+    $result = mysqli_query($connection, $subjects);
+
+    if (mysqli_num_rows($result) > 0) {
+        $i = 1;
+        while($row = mysqli_fetch_assoc($result)) {
+            echo "<tr> <th scope=\"row\">".$i."</th>";
+            echo "<td>".$row["sname"]."</td>";
+            echo "<td>".$row["dname"]."</td>";
+            echo "</tr>";
+            $i += 1;
+        }
+    }
+}
 
 function insert_categories(){
     global $connection;
