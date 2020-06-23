@@ -16,12 +16,6 @@
 
     <?php
     if(isset($_POST['add_teacher'])){
-    //     $teacherImage = $_FILES['TeacherImage']['name'];
-    //    echo '$teacherImage', $teacherImage;
-    //     $teacher_temp_image = $_FILES['teacherImage']['tmp_name'];
-
-        // $location = "../upload_images/$teacherImage";
-        // move_uploaded_file($teacher_temp_image,$location);
 
         $username = escape($_POST['username']);
         $password = escape($_POST['password']);
