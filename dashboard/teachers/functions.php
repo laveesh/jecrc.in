@@ -60,20 +60,16 @@ function checkIfUserIsLoggedInAndRedirect($redirectLocation=null){
     }
 }
 
-function subAssQuery($userId){
+function getAssignedSubjects($userId){
+    global $connection;
+    
     $subjects = "SELECT sa.id as said, s.name as sname, d.name as dname from sub_assigned sa";
     $subjects .= " join subject s on sa.sub_id = s.id";
     $subjects .= " inner join department d on d.id = s.dpt_id ";
+    $subjects = subAssQuery( );
     $subjects .= " where sa.user_id = \"{$userId}\"";
-
-    return $subjects;
-}
-
-function getAssignedSubjects($userId){
-    global $connection;
- 
     
-    $result = mysqli_query($connection, subAssQuery($userId ));    
+    $result = mysqli_query($connection, $subjects);    
 
     if (mysqli_num_rows($result) > 0) {
         $i = 1;
@@ -90,10 +86,12 @@ function getAssignedSubjects($userId){
 }
 
 
-function getSubjectOptionsWithDptName($userId){
+function getSubjectOptionsWithDptName(){
     global $connection;
 
-    $result = mysqli_query($connection, subAssQuery($userId));
+    $subjectSql = "SELECT s.id as sid, s.name as sname, d.name as dname from subject s";
+    $subjectSql .= " join department d on s.dpt_id = d.id";
+    $result = mysqli_query($connection, $subjectSql);
     
     if (mysqli_num_rows($result) > 0) {
       while($row = mysqli_fetch_assoc($result)) {
