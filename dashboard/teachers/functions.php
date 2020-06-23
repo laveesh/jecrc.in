@@ -139,7 +139,7 @@ function deleteNote($noteId, $link){
     $deleteQuery = "DELETE from notes where id = '{$noteId}'";
 
     $fileExtension = end(explode(".", $link));
-    $filePointer = "../../uploads" . $noteId . $fileExtension;
+    $filePointer = "../../uploads/" . $noteId . $fileExtension;
     unlink($fileExtension);
 
     $result = mysqli_query($connection, $deleteQuery);

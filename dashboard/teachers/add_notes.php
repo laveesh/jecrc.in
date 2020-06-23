@@ -33,7 +33,7 @@
         $temp = explode(".", $_FILES["notes"]["name"]);
         $newFilename = $last_id . '.' . end($temp);
 
-        $target_dir = "../../uploads";
+        $target_dir = "../../uploads/";
         $target_file = $target_dir . $newFilename;
 
         $notes_temp_image = $_FILES['notes']['tmp_name'];
