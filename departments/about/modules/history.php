@@ -1,0 +1,6 @@
+<section class="section container">
+	<div class="sectionHeading">History</div>
+	<div class="sectionContent">
+		<p class="px-2 py-1">Our great institution was established in 2000, and at that time we had three branches mainly, Computer Science, Electrical and Electronics. At that time, we had a total of 180 students. The next year we had introduced a new branch, which was, Information technology and after the introduction of this new branch we had a total of 240 students. In 2003, we had introduced another branch, which was, Mechanical and we had an increase of total 60 students. By 2008, we had started taking some TFWS seats. A total of 42 students had enrolled for this and in 2009 we had introduced the Civil branch and with this the total number of students shot up to 480. In 2013, we had introduced another shift as the number of students had increased to 1050. We only have the second shift for Computer Science and Mechanical Engineering. At present we have a total of 990 students in all the branches.</p>
+	</div>
+</section>

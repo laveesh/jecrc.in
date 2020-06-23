@@ -1,0 +1,6 @@
+[02-Nov-2018 07:10:45 UTC] PHP Warning:  include(../departments/placements/modules/sidenav.php): failed to open stream: No such file or directory in /home/jecrc/public_html/pages/placements.php on line 24
+[02-Nov-2018 07:10:45 UTC] PHP Warning:  include(../departments/placements/modules/sidenav.php): failed to open stream: No such file or directory in /home/jecrc/public_html/pages/placements.php on line 24
+[02-Nov-2018 07:10:45 UTC] PHP Warning:  include(): Failed opening '../departments/placements/modules/sidenav.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/jecrc/public_html/pages/placements.php on line 24
+[24-Jan-2019 08:01:19 UTC] PHP Warning:  include(../departments/faculty/modules/sidenav.php): failed to open stream: No such file or directory in /home/jecrc/public_html/pages/faculty.php on line 25
+[24-Jan-2019 08:01:19 UTC] PHP Warning:  include(../departments/faculty/modules/sidenav.php): failed to open stream: No such file or directory in /home/jecrc/public_html/pages/faculty.php on line 25
+[24-Jan-2019 08:01:19 UTC] PHP Warning:  include(): Failed opening '../departments/faculty/modules/sidenav.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home/jecrc/public_html/pages/faculty.php on line 25
