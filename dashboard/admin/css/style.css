@@ -1,0 +1,21 @@
+
+/* css style */
+
+.add-btn{
+    position: absolute;
+    top: 8%;
+    right: 3%;
+    font-size: 18px;
+    border: 1px solid black;
+    padding: 0.5%;
+    background-color: #2A2B6A;
+    color: white;
+}
+
+.add-btn:hover{
+    background-color: rgb(3, 3, 3);
+}
+
+.add-btn a{
+    text-decoration:none;
+}
