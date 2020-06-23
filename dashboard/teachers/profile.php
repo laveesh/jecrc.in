@@ -6,8 +6,8 @@ if(isset($_SESSION['username'])){
     $select_user = mysqli_query($connection,$query);
     while($row = mysqli_fetch_assoc($select_user)){
         $username = $row['username'];
-        $user_email = $row['user_email'];
         $user_name = $row['user_name'];
+        $user_email = $row['user_email'];
     }
 
 }
@@ -49,7 +49,7 @@ if(isset($_POST['update_user'])){
 
     <div class="col-sm-5">
         <form action="" method="POST" enctype="multipart/form-data">
-            
+
             <div class="form-group">
                 <label for="user_name">Name</label>
                 <input type="text" value="<?php echo $user_name; ?>" class="form-control" name="user_name" >
