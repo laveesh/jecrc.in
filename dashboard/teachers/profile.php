@@ -16,7 +16,7 @@ if(isset($_SESSION['username'])){
 <?php
 if(isset($_POST['update_user'])){
     $user_email = escape($_POST['user_email']);
-    $user_name = escape($row['user_name']);
+    $user_name = escape($_POST['user_name']);
  
     $query = "UPDATE users SET user_email = '{$user_email}', user_name = '{$user_name}' WHERE username = ? ";
   
@@ -27,7 +27,7 @@ if(isset($_POST['update_user'])){
 
     confirm_query($stmt_update_user_query);
 
-    header("location:includes/logout.php");
+    header("location:dashboard.php");
 
 }
 ?>
@@ -36,9 +36,6 @@ if(isset($_POST['update_user'])){
 <?php include "includes/navigation.php" ?>
 
 <div id="wrapper">
-
-<!-- Sidebar -->
-<?php include "includes/sidebar.php" ?>
 
 <div id="content-wrapper">
 

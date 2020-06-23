@@ -38,15 +38,7 @@
             <select class="custom-select" name="subject">
             <option disabled>--choose One--</option>
             <?php
-              $subjectSql = "SELECT s.id as sid, s.name as sname, d.name as dname from subject s join department d on ";
-              $subjectSql .= "s.dpt_id = d.id";
-              $result = mysqli_query($connection, $subjectSql);
-              
-              if (mysqli_num_rows($result) > 0) {
-                while($row = mysqli_fetch_assoc($result)) {
-                  echo "<option value=\"" . $row["sid"]. "\">" . $row["sname"]. ", ". $row["dname"] . "</option>";
-                }
-              }
+              getSubjectOptionsWithDptName()
             ?>
             </select>
         </div>
