@@ -28,7 +28,7 @@
         $teacherName = escape($_POST['teacherName']);
         $teacherEmail = escape($_POST['teacherEmail']);
 
-        $query = "INSERT INTO users(username,name,user_password,user_role, user_email) ";
+        $query = "INSERT INTO users(username,user_name,user_password,user_role, user_email) ";
         $query .= "VALUES( '{$username}','{$teacherName}','{$password}','teacher','{$teacherEmail}' )";
 
         $stmt_add_teacher_query = mysqli_query($connection,$query);

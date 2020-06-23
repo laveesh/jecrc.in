@@ -13,11 +13,20 @@
     </div>
     <!-- /.container-fluid -->
 
-    <div class="text-center" style="font-size:30px;">
+    <div class="text-center row" style="font-size:30px;">
+    <div class="col-sm-6">
+        <a href="assign_subject.php">
+          <i class="fas fa-plus-circle"></i> Assign Subject
+        </a>
+    </div>
+
+    <div class="col-sm-6">
       <a href="add_notes.php">
         <i class="fas fa-plus-circle"></i> Add Notes
       </a>
     </div>
+    </div>
+
 
     <div class="container mt-5">
       <table class="table">
@@ -29,21 +38,7 @@
           </tr>
         </thead>
         <tbody>
-          <tr>
-            <th scope="row">1</th>
-            <td>Mark</td>
-            <td>@mdo</td>
-          </tr>
-          <tr>
-            <th scope="row">2</th>
-            <td>Jacob</td>
-            <td>@fat</td>
-          </tr>
-          <tr>
-            <th scope="row">3</th>
-            <td>Larry</td>
-            <td>@twitter</td>
-          </tr>
+          <?php getAssignedSubjects($_SESSION['user_id'])?>
         </tbody>
       </table>
     </div>
