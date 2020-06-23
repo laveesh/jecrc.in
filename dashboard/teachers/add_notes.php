@@ -67,7 +67,7 @@
             <select class="custom-select" name="subject" require>
             <option disabled>--choose One--</option>
             <?php
-              getSubjectOptionsWithDptName($_SESSION['user_id'])
+              getAssSubjectWithDptName($_SESSION['user_id'])
             ?>
             </select>
         </div>
