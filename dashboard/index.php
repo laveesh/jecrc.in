@@ -22,20 +22,24 @@ if(isset($_POST['login'])){
 	while($row = mysqli_fetch_assoc($login_user_query)){
 	    $db_user_id = $row['user_id'];
 	    $db_username = $row['username'];
+	    $db_user_name = $row['user_name'];
 	    $db_user_password = $row['user_password'];
 	    $db_user_email = $row['user_email'];
-	    $db_user_mobile = $row['user_mobile'];
 	    $db_user_role = $row['user_role'];
 	}
 
 	if($password == $db_user_password){
 	    $_SESSION['user_id'] = $db_user_id;
 	    $_SESSION['username'] = $db_username;
+	    $_SESSION['user_name'] = $db_user_name;
 	    $_SESSION['user_email'] = $db_user_email;
-	    $_SESSION['user_mobile'] = $db_user_mobile;
 	    $_SESSION['user_role'] = $db_user_role;
 
-	    header("location: admin/dashboard.php");
+		if($_SESSION['user_role'] == 'admin'){
+			header("location: admin/dashboard.php");
+		}else{
+			header("location: teachers/dashboard.php");
+		}
 	}
 	else{ 
 	    header("location: index.php");
