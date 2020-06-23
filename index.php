@@ -55,6 +55,7 @@
               <a class="dropdown-item" href="pages/activities.php?section=home">Activities</a>
               <!-- <a class="dropdown-item" href="pages/sdo.php?section=home">Student Development Cell</a> -->
               <a class="dropdown-item" href="pages/startup.php?section=home">Entrepreneurship Ecosystem</a>
+              <a class="dropdown-item" href="pages/subject-notes.php?section=as">Subject Notes</a>
               <a class="dropdown-item" href="pages/bhramann.php?section=home">Industrial Tour</a>
               <a class="dropdown-item" href="pages/admission.php?section=fees">Fees Notice</a>
               <a class="dropdown-item" href="pages/admission.php?section=submit_fees">Submit Fees</a>
