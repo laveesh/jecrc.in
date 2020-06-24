@@ -9,7 +9,7 @@ include 'function.php';
         <div class="card-body">
           <ul class="list-group list-group-flush text-primary">
             <?php
-            $departmentId = 1;
+            $departmentId = 3;
             getSubjectList($departmentId);
             ?>
           </ul>

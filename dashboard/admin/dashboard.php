@@ -34,6 +34,7 @@
           <tr>
             <th scope="col">#</th>
             <th scope="col">Teacher's Name</th>
+            <th scope="col">Username</th>
             <th scope="col">Email</th>
             <th scope="col">Change password</th>
             <th scope="col">Delete</th>

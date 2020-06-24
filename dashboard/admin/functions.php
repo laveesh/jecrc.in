@@ -81,6 +81,7 @@ function getTeachersTable(){
             }
             echo "<tr> <th scope=\"row\">".$i."</th>";
             echo "<td>".$row["user_name"]."</td>";
+            echo "<td>".$row["username"]."</td>";
             echo "<td>".$row["user_email"]."</td>";
             echo "<form action='' method='GET'>";
             echo "<td><input type=\"submit\" value=\"Change\" class=\"btn btn-dark\" name=\"userpass".$row["user_id"]."\"/></td>";
