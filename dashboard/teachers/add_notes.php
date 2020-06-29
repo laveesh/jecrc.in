@@ -77,7 +77,7 @@
         </div>
         <div class="form-group">
             <label for="notes">Notes</label>
-            <input type="file" accept="application/pdf" class="form-control-file" name="notes" required>
+            <input type="file" accept="application/pdf, .ppt, .pptx" class="form-control-file" name="notes" required>
         </div>
         <div class="form-group">
           <label for="description">Description</label>
