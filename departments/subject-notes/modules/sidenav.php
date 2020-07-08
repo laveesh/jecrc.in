@@ -16,7 +16,7 @@
         <div class="container-fluid">
           <div class="collapse navbar-collapse" id="bs-sidebar-navbar-collapse-1">
             <ul class="nav navbar-nav flex-column">
-              <li class="active"><a href="subject-notes.php?section=as">Applied Science<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
+              <li class="active"><a href="subject-notes.php?section=fy">First Year<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="active"><a href="subject-notes.php?section=cse">CSE<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="active"><a href="subject-notes.php?section=it">IT<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="active"><a href="subject-notes.php?section=me">ME<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
