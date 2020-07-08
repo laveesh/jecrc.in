@@ -16,6 +16,7 @@
         <div class="container-fluid">
           <div class="collapse navbar-collapse" id="bs-sidebar-navbar-collapse-1">
             <ul class="nav navbar-nav flex-column">
+              <li class="active"><a href="lab-videos.php?section=home">Home<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="active"><a href="lab-videos.php?section=fy">First Year<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="active"><a href="lab-videos.php?section=cse">CSE<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
               <li class="active"><a href="lab-videos.php?section=it">IT<span class="pull-right hidden-xs showopacity glyphicon glyphicon-home"></span></a></li>
@@ -35,26 +36,24 @@
   </div>
 </div>
 <script type="text/javascript">
-  function htmlbodyHeightUpdate(){
-    var height3 = $( window ).height()
-    var height1 = $('.nav').height()+50
+  function htmlbodyHeightUpdate() {
+    var height3 = $(window).height()
+    var height1 = $('.nav').height() + 50
     height2 = $('.main').height()
-    if(height2 > height3){
-      $('html').height(Math.max(height1,height3,height2)+10);
-      $('body').height(Math.max(height1,height3,height2)+10);
-    }
-    else
-    {
-      $('html').height(Math.max(height1,height3,height2));
-      $('body').height(Math.max(height1,height3,height2));
+    if (height2 > height3) {
+      $('html').height(Math.max(height1, height3, height2) + 10);
+      $('body').height(Math.max(height1, height3, height2) + 10);
+    } else {
+      $('html').height(Math.max(height1, height3, height2));
+      $('body').height(Math.max(height1, height3, height2));
     }
   }
-  $( document ).ready(function () {
+  $(document).ready(function() {
     htmlbodyHeightUpdate()
-    $( window ).resize(function() {
+    $(window).resize(function() {
       htmlbodyHeightUpdate()
     });
-    $( window ).scroll(function() {
+    $(window).scroll(function() {
       height2 = $('.main').height()
       htmlbodyHeightUpdate()
     });

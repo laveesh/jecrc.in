@@ -10,7 +10,7 @@ include 'function.php';
           <ul class="list-group list-group-flush text-primary">
             <?php
             $departmentId = 3;
-            getSubjectList($departmentId);
+            getLabList($departmentId);
             ?>
           </ul>
         </div>

@@ -18,7 +18,7 @@ function setVideos(labId) {
   $.ajax({
     type: 'POST',
     url: baseUrl + '/departments/lab-videos/modules/function.php',
-    data: { getNotes: true, subject: labId },
+    data: { getVideos: true, lab: labId },
     success: data => {
       document.getElementById('videos').innerHTML = data;
     }

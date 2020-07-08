@@ -123,6 +123,7 @@ blockquote:after {
 .notes-div {
   display: flex;
   justify-content: center;
+  height: 31vh;
 }
 
 .lab-videos {
