@@ -112,6 +112,9 @@
             </div>
           </li>
           <li class="nav-item active">
+            <a class="nav-link" href="pages/lab-videos.php?section=home">Lab Videos</a>
+          </li>
+          <li class="nav-item active">
             <a class="nav-link" href="pages/recruitment.php">Career</a>
           </li>
           <li class="nav-item active">
