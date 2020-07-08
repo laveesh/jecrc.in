@@ -101,11 +101,13 @@ function getAssSubjectWithDptName($userId){
 }
 
 
-function getSubjectOptionsWithDptName(){
+function getSubjectOptionsWithDptName($userId){
     global $connection;
 
     $subjectSql = "SELECT s.id as sid, s.name as sname, d.name as dname from subject s";
     $subjectSql .= " join department d on s.dpt_id = d.id";
+    $subjectSql .= " left join sub_assigned sa on sa.sub_id = s.id and sa.user_id = \"{$userId}\"";
+    $subjectSql .= " where sa.id is NULL";
     $result = mysqli_query($connection, $subjectSql);
     
     if (mysqli_num_rows($result) > 0) {

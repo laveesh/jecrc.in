@@ -106,19 +106,38 @@ function deleteUser($userId){
 function getSubjectTable(){
     global $connection;
  
-    $subjects = "SELECT s.name as sname, d.name as dname from subject s join department d on d.id = s.dpt_id ";
+    $subjects = "SELECT s.id as sid,s.name as sname, d.name as dname from subject s join department d on d.id = s.dpt_id ";
     $result = mysqli_query($connection, $subjects);
 
     if (mysqli_num_rows($result) > 0) {
         $i = 1;
         while($row = mysqli_fetch_assoc($result)) {
+            if(isset($_GET['subject'.$row['sid']])){
+                deleteSubject($row['sid']);
+            }
+
             echo "<tr> <th scope=\"row\">".$i."</th>";
             echo "<td>".$row["sname"]."</td>";
             echo "<td>".$row["dname"]."</td>";
+            echo "<form action='' method='GET'>";
+            echo "<td><input type=\"submit\" value=\"Delete\" class=\"btn btn-dark\" name=\"subject".$row["sid"]."\"/></td>";
+            echo "</from>";
             echo "</tr>";
             $i += 1;
         }
     }
+}
+
+function deleteSubject($sid){
+    global $connection;
+
+    $deleteQuery = "DELETE from sub_assigned where sub_id = '{$sid}';";
+    $deleteQuery .= "DELETE from subject where id = '{$sid}';";
+    $result = mysqli_multi_query($connection, $deleteQuery);
+
+    confirm_query($result);
+
+    header("refresh:0");
 }
 
 function insert_categories(){
@@ -306,5 +325,3 @@ function email_exists($email){
     }
 
 }
-
-?>

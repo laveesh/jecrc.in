@@ -7,26 +7,25 @@
 
   <div id="content-wrapper">
     <div class="container-fluid text-center">
-      <h1>Teachers Panel</h1>
+      <h1><?php echo ucfirst($_SESSION['user_role']) ?>'s Panel</h1>
       <hr>
       <h2>Welcome <?php echo strtoupper($_SESSION['user_name']); ?></h2>
     </div>
     <!-- /.container-fluid -->
 
     <div class="text-center row" style="font-size:30px;">
-    <div class="col-sm-6">
+      <div class="col-sm-6">
         <a href="assign_subject.php">
           <i class="fas fa-plus-circle"></i> Assign Subject
         </a>
-    </div>
+      </div>
 
-    <div class="col-sm-6">
-      <a href="add_notes.php">
-        <i class="fas fa-plus-circle"></i> Add Notes
-      </a>
+      <div class="col-sm-6">
+        <a href="add_notes.php">
+          <i class="fas fa-plus-circle"></i> Add Notes
+        </a>
+      </div>
     </div>
-    </div>
-
 
     <div class="container mt-5">
       <table class="table">
@@ -38,21 +37,18 @@
           </tr>
         </thead>
         <tbody>
-          <?php getAssignedSubjects($_SESSION['user_id'])?>
+          <?php getAssignedSubjects($_SESSION['user_id']) ?>
         </tbody>
       </table>
     </div>
 
     <div class="container mt-5">
-    <?php
+      <?php
       include "notes.php"
-    ?>
-  </div>
+      ?>
+    </div>
 
   </div>
-
-  
-  
 
 </div>
 <!-- /#wrapper -->

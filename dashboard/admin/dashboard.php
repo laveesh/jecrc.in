@@ -16,7 +16,7 @@
       <div class="row text-center" style="font-size:30px;">
         <div class="col-sm-6">
           <a href="add_teachers.php">
-            <i class="fas fa-plus-circle"></i> Add Techer
+            <i class="fas fa-plus-circle"></i> Add Teacher
           </a>
         </div>
 
