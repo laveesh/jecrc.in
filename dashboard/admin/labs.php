@@ -6,7 +6,7 @@
       <!-- Page Content -->
 
 
-      <h2 class="text-center">Notes list</h2>
+      <h2 class="text-center">Laboratories List</h2>
       <hr>
 
       <div class="container mt-5">
@@ -14,17 +14,13 @@
           <thead class="thead-dark">
             <tr>
               <th scope="col">#</th>
-              <th scope="col">Topic</th>
-              <th scope="col">Subject Name</th>
-              <th scope="col">Department Name</th>
-              <th scope="col">link</th>
+              <th scope="col">Lab Name</th>
+              <th scope="col">Department</th>
               <th scope="col">Delete</th>
             </tr>
           </thead>
           <tbody>
-            <?php
-            getNotesList($_SESSION['user_id']);
-            ?>
+            <?php getLabTable() ?>
           </tbody>
         </table>
       </div>

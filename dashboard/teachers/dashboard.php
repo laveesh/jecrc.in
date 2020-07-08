@@ -27,6 +27,22 @@
       </div>
     </div>
 
+    <?php if ($_SESSION['user_role'] == 'editor') { ?>
+      <div class="text-center row" style="font-size:30px;">
+        <div class="col-sm-6">
+          <a href="assign_lab.php">
+            <i class="fas fa-plus-circle"></i> Assign Laboratory
+          </a>
+        </div>
+
+        <div class="col-sm-6">
+          <a href="add_videos.php">
+            <i class="fas fa-plus-circle"></i> Add Videos
+          </a>
+        </div>
+      </div>
+    <?php } ?>
+
     <div class="container mt-5">
       <table class="table">
         <thead class="thead-dark">
@@ -42,11 +58,36 @@
       </table>
     </div>
 
+    <?php if ($_SESSION['user_role'] == 'editor') { ?>
+      <div class="container mt-5">
+        <table class="table">
+          <thead class="thead-dark">
+            <tr>
+              <th scope="col">#</th>
+              <th scope="col">Laboratory Name</th>
+              <th scope="col">Department</th>
+            </tr>
+          </thead>
+          <tbody>
+            <?php getAssignedLabs($_SESSION['user_id']) ?>
+          </tbody>
+        </table>
+      </div>
+    <?php } ?>
+
     <div class="container mt-5">
       <?php
       include "notes.php"
       ?>
     </div>
+
+    <?php if ($_SESSION['user_role'] == 'editor') { ?>
+      <div class="container mt-5">
+        <?php
+        include "videos.php"
+        ?>
+      </div>
+    <?php } ?>
 
   </div>
 

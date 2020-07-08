@@ -6,7 +6,7 @@
       <!-- Page Content -->
 
 
-      <h2 class="text-center">Notes list</h2>
+      <h2 class="text-center">Videos list</h2>
       <hr>
 
       <div class="container mt-5">
@@ -15,15 +15,15 @@
             <tr>
               <th scope="col">#</th>
               <th scope="col">Topic</th>
-              <th scope="col">Subject Name</th>
+              <th scope="col">Laboratory Name</th>
               <th scope="col">Department Name</th>
-              <th scope="col">link</th>
+              <th scope="col">Link</th>
               <th scope="col">Delete</th>
             </tr>
           </thead>
           <tbody>
             <?php
-            getNotesList($_SESSION['user_id']);
+            getVideosList($_SESSION['user_id']);
             ?>
           </tbody>
         </table>

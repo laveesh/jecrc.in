@@ -12,10 +12,10 @@
 
             <div class="text-center">
                 <div class="row">
-                    <div class="col-md-5 col-sm-12 lab-videos"> <iframe width="100%" height="100%" src="https://www.youtube.com/embed/URf_wRFZWvA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
-                    <div class="col-md-5 col-sm-12 lab-videos"> <iframe width="100%" height="100%" src="https://www.youtube.com/embed/URf_wRFZWvA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
-                    <div class="col-md-5 col-sm-12 lab-videos"> <iframe width="100%" height="100%" src="https://www.youtube.com/embed/URf_wRFZWvA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
-                    <div class="col-md-5 col-sm-12 lab-videos"> <iframe width="100%" height="100%" src="https://www.youtube.com/embed/URf_wRFZWvA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
+                    <div class="col-md-5 col-sm-12 lab-videos"> <iframe width="100%" height="100%" src="https://www.youtube.com/embed/URf_wRFZWvA" frameborder="0" allow="accelerometer; encrypted-media; gyroscope;" allowfullscreen></iframe> </div>
+                    <div class="col-md-5 col-sm-12 lab-videos"> <iframe width="100%" height="100%" src="https://www.youtube.com/embed/URf_wRFZWvA" frameborder="0" allow="accelerometer; encrypted-media; gyroscope;" allowfullscreen></iframe> </div>
+                    <div class="col-md-5 col-sm-12 lab-videos"> <iframe width="100%" height="100%" src="https://www.youtube.com/embed/URf_wRFZWvA" frameborder="0" allow="accelerometer; encrypted-media; gyroscope;" allowfullscreen></iframe> </div>
+                    <div class="col-md-5 col-sm-12 lab-videos"> <iframe width="100%" height="100%" src="https://www.youtube.com/embed/URf_wRFZWvA" frameborder="0" allow="accelerometer; encrypted-media; gyroscope;" allowfullscreen></iframe> </div>
                 </div>
             </div>
 

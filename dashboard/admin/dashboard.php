@@ -12,23 +12,29 @@
       <h2>Welcome <?php echo strtoupper($_SESSION['username']); ?></h2>
     </div>
     <!-- /.container-fluid -->
-    
-      <div class="row text-center" style="font-size:30px;">
-        <div class="col-sm-6">
-          <a href="add_teachers.php">
-            <i class="fas fa-plus-circle"></i> Add Teacher
-          </a>
-        </div>
 
-        <div class="col-sm-6">
-          <a href="add_subject.php">
-            <i class="fas fa-plus-circle"></i> Add Subject
-          </a>
-        </div>
+    <div class="row text-center" style="font-size:30px;">
+      <div class="col-sm-4">
+        <a href="add_teachers.php">
+          <i class="fas fa-plus-circle"></i> Add Teacher
+        </a>
       </div>
 
-      <div class="container mt-5">
-      
+      <div class="col-sm-4">
+        <a href="add_subject.php">
+          <i class="fas fa-plus-circle"></i> Add Subject
+        </a>
+      </div>
+
+      <div class="col-sm-4">
+        <a href="add_lab.php">
+          <i class="fas fa-plus-circle"></i> Add Laboratory
+        </a>
+      </div>
+    </div>
+
+    <div class="container mt-5">
+
       <table class="table">
         <thead class="thead-dark">
           <tr>
@@ -42,15 +48,39 @@
         </thead>
         <tbody>
           <?php
-            getTeachersTable();
+          getTeachersTable();
           ?>
         </tbody>
       </table>
-      </div>
+    </div>
 
-      <div class="container mt-5">
-        <?php include "subjects.php"?>
-      </div>
+    <div class="container mt-5">
+
+      <table class="table">
+        <thead class="thead-dark">
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">Editor's Name</th>
+            <th scope="col">Username</th>
+            <th scope="col">Email</th>
+            <th scope="col">Change password</th>
+          </tr>
+        </thead>
+        <tbody>
+          <?php
+          getEditorsTable();
+          ?>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="container mt-5">
+      <?php include "subjects.php" ?>
+    </div>
+
+    <div class="container mt-5">
+      <?php include "labs.php" ?>
+    </div>
 
 
 
