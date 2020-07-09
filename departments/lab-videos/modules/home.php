@@ -19,7 +19,7 @@
                 </div>
             </div>
 
-            <p class="text-center">For more videos please click on particular department</p>
+            <p class="text-center lab-note">For more videos please click on particular department</p>
         </ul>
     </div>
 </section>
