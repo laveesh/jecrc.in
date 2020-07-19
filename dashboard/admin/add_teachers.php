@@ -22,14 +22,24 @@
         $teacherName = escape($_POST['teacherName']);
         $teacherEmail = escape($_POST['teacherEmail']);
 
-        $query = "INSERT INTO users(username,user_name,user_password,user_role, user_email) ";
-        $query .= "VALUES( '{$username}','{$teacherName}','{$password}','teacher','{$teacherEmail}' )";
+        $checkUsernameQuery = "SELECT username from users where username='${username}'";
+        $stmt_check_query = mysqli_query($connection, $checkUsernameQuery);
+        confirm_query($stmt_check_query);
 
-        $stmt_add_teacher_query = mysqli_query($connection,$query);
 
-        confirm_query($stmt_add_teacher_query);
+        if(mysqli_num_rows($stmt_check_query) == 0 ){
 
-        header("location:dashboard.php");
+            $query = "INSERT INTO users(username,user_name,user_password,user_role, user_email) ";
+            $query .= "VALUES( '{$username}','{$teacherName}','{$password}','teacher','{$teacherEmail}' )";
+            
+            $stmt_add_teacher_query = mysqli_query($connection,$query);
+            
+            confirm_query($stmt_add_teacher_query);
+            
+            header("location:dashboard.php");
+        }else{
+            echo "<div class='error'>Username already exists.</div>";
+        }
 
     }
 

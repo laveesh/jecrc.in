@@ -85,15 +85,34 @@ function getAssignedSubjects($userId)
     if (mysqli_num_rows($result) > 0) {
         $i = 1;
         while ($row = mysqli_fetch_assoc($result)) {
+            if (isset($_GET['sa' . $row['said']])) {
+                deleteSubAssigned($row['said']);
+            }
+
             echo "<tr> <th scope=\"row\">" . $i . "</th>";
             echo "<td>" . $row["sname"] . "</td>";
             echo "<td>" . $row["dname"] . "</td>";
+            echo "<form action='' method='GET'>";
+            echo "<td><input type=\"submit\" value=\"Delete\" class=\"btn btn-dark\" name=\"sa" . $row["said"] . "\"/></td>";
+            echo "</from>";
             echo "</tr>";
             $i += 1;
         }
     } else {
         echo "<tr> <td colspan=3 class='text-center' > No subject assigned. Please Assign a subject to your self. </td> </tr>";
     }
+}
+
+function deleteSubAssigned($said){
+    global $connection;
+
+    $deleteQuery = "DELETE from sub_assigned where id = '{$said}'";
+
+    $result = mysqli_query($connection, $deleteQuery);
+
+    confirm_query($result);
+
+    header("refresh:0");
 }
 
 function getAssSubjectWithDptName($userId)
